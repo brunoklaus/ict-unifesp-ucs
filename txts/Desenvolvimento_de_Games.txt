@@ -1,0 +1,57 @@
+Nome do Componente Curricular: Desenvolvimento de Games
+Pré-requisitos: Algoritmos e Estrutura de Dados I
+Carga horária total: 72 h
+Carga Horária p/ prática: 36 h
+Carga Horária p/ teórica: 36 h
+Objetivos
+Geral:
+Fornecer aos alunos competências para a criação e desenvolvimento de jogos digitais.
+Específicos:
+Determinar e aprofundar os seguintes elementos dos jogos digitais: significado do jogo,
+aplicações, plataformas, modo de jogador, gêneros, mercado, criação (narrativa, personagens,
+mundo, jogabilidade).
+Desenvolver habilidades de programação e implementação de jogos eletrônicos.
+Ementa: Histórico dos jogos digitais, fontes de inspiração, narrativa, personagens, ambientação,
+elementos de projeto e etapas de desenvolvimento. Engines, jogabilidade, plataformas, gêneros,
+monetização. Física de movimentação e colisão, programação de jogos.
+Conteúdo Programático:
+1. Histórico dos games. Tabus e mitos quebrados. Evolução do estilo de jogo. Modalidades de
+Games - Plataforma, Modos de Jogo.
+2. Significado de jogo. Cultura, magia e mitologia.
+3. Personagens. Prototipagem de game rápido.
+4. Etapas do desenvolvimento de projeto de games. Documentação do jogo, licença, mercado,
+público alvo.
+5. Controles, câmera, progressão de dificuldade e diversão.
+6. Narrativa, mundo, cenário. Criação de cenário 2D - Tipos de objetos e movimentação simples.
+Gravidade e movimentos complexos de personagens.
+7. Mecânica. Movimentação de veículos. Tratamento de colisão. Movimentação, câmera. Criação
+de cenário 3D - Conflitos.
+Metodologia de Ensino Utilizada:
+Aulas teóricas para exposição e discussão de projetos e ideias. Aulas práticas para instrução e
+aplicação de conceitos de desenvolvimento.
+Recursos Instrucionais Necessários:
+Laboratório de computação equipado com o sistema operacional Linux e internet. Projetor de
+slides.
+Sala de aula com quadro-branco. Ambiente de apoio pedagógico Moodle.
+Critérios de Avaliação:
+Atividades com e sem consulta e produção de jogos eletrônicos.
+Bibliografia
+Básica:
+1. NOVAK, Jeannie. Desenvolvimento de games. São Paulo: Cengage Learning, 2010.
+2. ROGERS, Scott. Level UP: um guia para o desing de grandes jogos. São Paulo: Blucher, 2012.
+3. HUIZINGA, Juan. Homo Ludens. São Paulo: Perspectiva, 2005.
+
+Complementar:
+1. SCHUYTEMA, Paul. Design de Games: uma abordagem prática. São Paulo:
+
+Cengage Learning, 2008.
+2. SEGANFREDO, Carmen e FRANCHINI A.S. As melhores histórias da mitologia nórdica. Porto Alegre:
+Artes e Ofícios, 2006.
+
+3. SHELDON, Lee. Desenvolvimento de personagens e de narrativas para games. São
+Paulo: Cengage Learning, 2017.
+4. ARRUDA, Eucídio Pimenta. Fundamentos para o desenvolvimento de jogos
+digitais. Porto Alegre: Bookman, 2014.
+5. Gregory, Jason. Game engine architecture. AK Peters/CRC Press, 2014.
+
+

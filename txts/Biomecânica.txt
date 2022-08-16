@@ -1,0 +1,88 @@
+Nome do Componente Curricular: Biomecânica
+Pré-requisitos: Sistemas Mecânicos
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Estudar e associar conceitos fundamentais de mecânica ao comportamento de sistemas
+biomédicos.
+Específicos:
+Conhecer conceitos de matemática, física e mecânica para análise e desenvolvimento
+de ferramentas voltadas à soluções de problemas de natureza biomecânica.
+Ementa:
+Introdução à Biomecânica (Revisão de Vetores). Fundamentos de Biomecânica –
+Conceito, Análise e Aplicação de Força, Momento e Deslocamento (cinética e
+cinemática). Comportamento e Propriedades Mecânicas de tecidos e sistemas
+biológicos. Análise, e redução de sistemas biológicos à elementos mecânicos.
+Conteúdo Programático:
+•
+Introdução à Biomecânica (Revisão de Vetores):
+•
+Conceito, histórico, importância, aplicações.
+•
+Revisão de Vetores (Revisão de escalar, vetor, bases, notações por vetor
+unitário e coluna, operações com vetores, produto escalar, produto vetorial)
+•
+Fundamentos de Biomecânica – Conceito, Análise e Aplicação de Força,
+Momento e deslocamento.
+•
+Conceituação, representações, análise e aplicações de Força e Momento,
+e relação com deslocamento.
+•
+Comportamento e Propriedades Mecânicas de tecidos e sistemas
+biológicos.
+•
+Conceito, cálculo e análise de Pressão, Tensão, Torção, Elasticidade e
+relação com deformação.
+•
+Análise, e redução de sistemas biológicos à elementos mecânicos.
+•
+Biomecânica do sistema circulatório
+•
+Biomecânica do sistema respiratório
+•
+Biomecânica articular e musculo esquelético visando desenvolvimento
+de próteses.
+Metodologia de Ensino Utilizada:
+Aulas expositivas, implementação computacional e seminários.
+Recursos Instrucionais Necessários:
+Lousa e projetor, computadores, MatLab.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos discentes. O sistema adotado deve contemplar o processo de ensino e
+
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do discente ao longo do semestre. A promoção do discente na unidade
+curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+HALL, S.J. Basic biomechanics. 5.ed. New York: McGraw-Hill, 2006.
+2.
+ETHIER, R.; Simmons, C.A. Introductory Biomechanics: From Cells to
+Organisms. Cambridge University Press, 2007.
+3.
+OOMENS, C.; Brekelmans, M; Baaijens, F. Biomechanics: Concepts and
+Computation. Cambridge University Press, 2009.
+Complementar:
+1.
+YAMAGUCHI, G.T. Dynamic modeling of musculoskeletal motion: a
+vectorized approach for biomedical analysis in three dimensions. New York:
+Springer, 2001.
+2.
+JAY D. H.; Sherry D. An Introduction to Biomechanics: Solids and Fluids,
+Analysis and Design. Editora: Springer. 2004.
+3.
+DONALD L.B.; Dwight T. D.; Keaveny T.M. Orthopaedics Biomechanics.
+Editora: Prentice Hall. 2006.
+4.
+NIGG, B.M.; Herzog, W. (eds.). Biomechanics of the musculo-skeletal
+system. 3rd ed. Chichester, West Sussex: John Wiley & Sons, 2009.
+5.
+NORDIN, M. Frankel; V.H. Basic Biomechanics of the Musculoskeletal
+System . Lippincott Willians & Wilkins, a Wolters Kluwer, 2012
+
+

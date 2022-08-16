@@ -1,0 +1,113 @@
+Nome do Componente Curricular: LAB de Sistemas Computacionais: Comunicação
+Digital
+Período: 9° semestre
+Pré-requisitos: Redes de Computadores; Laboratório de Sistemas Computacionais:
+Sistemas Operacionais
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+
+Carga Horária Teórica: 36h
+
+Objetivos
+Gerais:
+Esta unidade curricular faz parte das unidades curriculares integradas definidas no
+Projeto Pedagógico do Curso, as quais são utilizadas para que o aluno possa, de fato,
+desenvolver um sistema computacional completo durante o seu processo de
+aprendizagem, envolvendo a integração entre hardware e software. O sistema
+completo compreende o desenvolvimento da arquitetura do processador, a definição
+de uma linguagem de programação, o projeto de um compilador, a definição de um
+sistema operacional e um processo de comunicação em rede entre dois ou mais
+sistemas. Dentro deste contexto, ao término desta unidade curricular, o aluno deverá
+ser capaz de compreender as etapas de desenvolvimento de um sistema de
+comunicação.
+Específicos:
+Desenvolver nos alunos competências aos conceitos básicos em telecomunicações
+permitindo uma interpretação crítica nos principais sistemas de comunicações
+utilizados atualmente; introdução aos sistemas de comunicações; sinal analógico e
+digital, interface da informação analógica e digital através dos conversores analógico
+para digital e digital para analógico, modulação digital; multiplexação em sistemas
+digitais; e sistemas de comunicação sem fio.
+Ementa:
+Introdução aos sistemas de comunicações, conversores analógico para digital e digital
+para analógico, código de linha, modulação digital e sistemas de comunicação sem fio
+(Infravermelho, Bluetooth e Wifi). Projeto e desenvolvimento de dispositivos
+relacionados à comunicação sem fio para um sistema digital em lógica programável
+composto por processador, memória e interface de comunicação.
+Conteúdo Programático:
+
+•
+
+Introdução aos sistemas de comunicações
+o As ondas de Rádio
+o Sistema básico de comunicações
+o Unidade de medida e análise de sinais em telecomunicações
+
+•
+
+Conversor Analógico para Digital e Digital para Analógico
+
+•
+
+Código de Linha
+o NRZ/RZ/Manchester/CMI/AMI
+
+•
+
+Multiplexação
+o Multiplexação por divisão de Frequência – FDM
+o Multiplexação por divisão de Tempo - TDM
+
+•
+
+Modulação Digital
+o Técnicas de comunicação Digital
+o Modulação Digital – ASK/PSK/FSK/QAM//QPSK/OFDM
+
+•
+
+Comunicação sem fio
+o Infravermelho
+o Bluetooth
+o Wifi (RFID, NFC)
+
+Metodologia de Ensino Utilizada:
+Esta unidade curricular será baseada em aulas expositivas teóricas e aulas práticas de
+laboratório com o desenvolvimento de projetos. Os projetos serão realizados tanto em
+sala de aula/laboratório como extraclasse e deverão ser desenvolvidos utilizando
+computadores e ferramentas específicas que permitam o projeto de um sistema de
+comunicação.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, projetor multimídia e laboratório de práticas.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos discentes. O sistema adotado irá contemplar o processo de ensino e
+
+aprendizagem estabelecido no Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Lathi, B. P.; Ding, Z.; Sistemas de Comunicações Analógicos e Digitais
+Modernos, 4ª Edição; Editora: LTC; 2012.
+2. Haykin, S.; Moher, M.; Sistemas de comunicações, 5ª Edição; Editora: Artmed;
+2010.
+3. Young, P. H. Técnicas de Comunicação Eletrônica. Pearson / Prentice Hall
+(Grupo Pearson), 5.ed. 2006. 704 p. ISBN-10: 8576050498.
+Complementar:
+1. Medeiros, J. C. O.; Princípios de telecomunicações Teoria e Prática, 2ª Edição;
+Editora: Érica, 2007.
+2. Neto, V. S.; Telecomunicações sistemas de modulação uma visão sistêmica, 3ª
+Edição; Editora: Érica/ Saraiva; 2014.
+3. Haykin, S. S.; Moher, M.; Introduction to Analog and Digital Communication, 2ª
+Edição; Editora: John Wiley, 2007.
+4. Proakis, J. G.; Salehi, M.; Communication Systems Engineering, 2ª Edição;
+Editora: Prentice Hall, 2002.
+5. Kurose, J. F.; Ross, K. W. Redes de computadores e a internet: uma abordagem
+top-down. 5.ed. São Paulo: Addison-Wesley, 2010. 614 p. ISBN
+9788588639973.
+6. Tocci, R. J.; Widmer, N. S.; Moss, G. L. Sistemas Digitais: Princípios e
+Aplicações.. Editora Prentice-Hall. ISBN: 9788576050957, 2007.
+
+

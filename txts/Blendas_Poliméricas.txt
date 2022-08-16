@@ -1,0 +1,72 @@
+Nome do componente curricular: Blendas Poliméricas
+Período: 9o semestre
+Pré-requisitos: Materiais Poliméricos
+Carga horária total: 72 hs
+Carga horária p/ prática: 0 hs
+
+Carga horária p/ teoria: 72 hs
+
+Objetivos gerais: Apresentar ao aluno os mecanismos de mistura entre polímeros,
+aplicações e vantagens do uso de blendas poliméricas.
+Objetivos específicos: Proporcionar ao aluno conhecimento dos mecanismos de
+mistura entre polímeros e/ou copolímeros, suas características, comportamentos e
+propriedades, bem como vantagens e desvantagens desses sistemas, além de um
+panorama geral das aplicações das blendas poliméricas.
+Ementa: Conceitos fundamentais de blendas poliméricas. Termodinâmica de soluções
+polímero-polímero. Miscibilidade e compatibilidade de blendas poliméricas. Métodos
+de obtenção de blendas poliméricas. Métodos de caracterização de blendas
+poliméricas. Principais blendas poliméricas e suas aplicações.
+Conteúdo programático:
+1.Conceitos fundamentais de blendas poliméricas:
+1.1. Definição de blendas poliméricas;
+1.2. Estudo mercadológico de blendas poliméricas;
+2. Termodinâmica de soluções polímero-polímero:
+2.1. Energia livre de mistura;
+2.2. Diagrama de fases para misturas;
+3. Microrreologia de blendas poliméricas:
+4. Miscibilidade e compatibilidade de blendas poliméricas
+4.1. Conceitos fundamentais e definições;
+5. Métodos de obtenção de blendas poliméricas:
+5.1. Solução;
+
+5.2. Reticulados poliméricos interpenetrantes;
+5.3. Mistura mecânica no estado fundido;
+6. Métodos de caracterização de blendas poliméricas:
+6.1. DSC e Difração de Raios-X;
+6.2. Morfologia de fases;
+7. Principais blendas poliméricas e aplicações.
+
+Metodologia de ensino utilizada: Aulas expositivas e atividades não presenciais na
+sala de aula tais como relatórios e listas de exercícios.
+Recursos instrucionais necessários: Multimídia, lousa e moodle.
+Critérios de avaliação: O sistema de avaliação será definido pelo docente responsável
+pela UC no início das atividades letivas e divulgado aos alunos. O sistema adotado
+deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre.
+Para isto, as avaliações deverão ser ponderadas de maneira crescente ou, ainda,
+propiciar alternativas de recuperação, como provas substitutivas e/ou aplicação de
+trabalhos adicionais. A promoção do aluno na UC
+
+obedecerá aos critérios
+
+estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no projeto
+pedagógico do curso.
+Bibliografia básica:
+1. Kier, F. Advances in Polymer Blends and Alloys Technology. V. 2. Editora CRC
+Press, 2012.
+2. Martuscelli, E. Polymer Blends. Edição 1, Editora: Springer Verlag NY. 2011.
+3. Canevarolo Jr., S. V. Ciência dos Polímeros. Artliber, 3ª Edição, 2013.
+4.
+5.
+Bibliografia complementar:
+
+1. Hope, P. S.; Folkes, M. J. Polymer Blends and Alloys. Editora: Srpinger Verlag
+NY, 1 ed., 2012.
+2. Paul, D. R. Polymer Blends: 1. Academic Press, 2012.
+3. Paul, D. R. Polymer Blends: 2. Academic Press, 2012.
+4. Shonaike, G. O.; Simon, G. P. Polymer blends and alloys. Editora, Marcel
+Dekker, 1999.
+5. Manson, J. A., Sperling L.H. Polymer Blends and Composites. Springer Verlag
+NY, 2013
+
+

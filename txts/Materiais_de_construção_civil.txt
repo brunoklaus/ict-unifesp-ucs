@@ -1,0 +1,82 @@
+Nome do Componente Curricular: Materiais de Construção Civil
+Pré-requisitos: Materiais Cerâmicos
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Fornecer aos estudantes de engenharia de materiais conhecimentos sobre as relações
+entre estrutura, propriedade, aplicação e desempenho dos materiais convencionais e
+não-convencionais utilizados na construção civil.
+Específicos:
+Preparar o futuro engenheiro para o desenvolvimento, especificação, aplicação e
+avaliação de desempenho dos materiais utilizados nos sistemas construtivos,
+habilitando-o a identificar as práticas sustentáveis e as principais patologias da
+construção relacionadas a especificação, aplicação e manutenção inadequadas dos
+produtos.
+Ementa:
+Normas para materiais da construção civil. Sustentabilidade na construção civil.
+Materiais empregados na construção civil: rochas, solos, agregados, materiais
+cerâmicos, aglomerantes minerais, materiais compósitos de aglomerantes minerais,
+metais, madeiras, polímeros e compósitos de matriz polimérica. Patologias e defeitos
+dos materiais de construção. Descarte e reutilização de materiais de construção.
+Conteúdo Programático:
+1. Normalização na construção civil;
+2. Rochas, solos e agregados;
+3. Materiais Cerâmicos: blocos, telhas, revestimentos, sanitários;
+4. Aglomerantes minerais: cal e gesso, cimento Portland com adições minerais,
+cimentos especiais;
+5. Materiais compósitos de aglomerantes minerais: solo-cimento, solo-cal,
+concreto de cimento Portland, produtos de cimento Portland, produtos de
+fibrocimento, argamassas;
+6. Metais: produtos metálicos não-estruturais, aços para concreto, produtos
+metálicos estruturais;
+7. Madeiras com fins estruturais e de acabemento;
+8. Materiais Poliméricos e compósitos poliméricos: materiais betuminosos,
+sistemas de impermeabilização e isolamento térmico, concreto asfálticos, tintas e
+vernizes;
+9. Patologias comumente relacionadas aos materiais na construção civil;
+10. Materiais não convencionais e sustentabilidade na construção civil;
+1. 11. Materiais de construção no futuro.
+Metodologia de Ensino Utilizada:
+Aulas expositivas, pesquisa bibliográfica, estudo dirigido, discussões de aplicações,
+estudos de casos, atividades em grupo
+
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas e divulgado aos alunos. O sistema adotado deve
+contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre.
+Para isto, as avaliações deverão ser ponderadas de maneira crescente ou, ainda,
+propiciar alternativas de recuperação, como provas substitutivas ou aplicação de
+trabalhos adicionais. A promoção do aluno na unidade curricular obedecerá aos
+critérios estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no Projeto
+Pedagógico do Curso.
+Bibliografia
+Básica:
+1. BAUER, L. A. Falcão (Coord.). Materiais de construção v1. 5.ed. rev. Rio de
+Janeiro: LTC, 2008. 471 p. ISBN 978-8521612490.
+2. BAUER, L. A. Falcão (Coord.). Materiais de construção v2. 5.ed. Rio de Janeiro:
+LTC, 2008. 960 p. ISBN 978-8521610038.
+3. Neville,A.M.; Brooks, J.J. Tecnologia do Concreto. Ed. BOOKMAN. 2ª Ed. 2013.
+ISBN: 978-8582600719.
+Complementar:
+1. Desafio da Sustentabilidade na Construção Civil - Volume 5. Série
+Sustentabilidade. Editora: Edgard Blucher, 1 ed., 2011. ISBN: 978-8521206101.
+2. Ashby, Michael F.; Jones, David R.H.. Engenharia de materiais: uma introdução
+a propriedades, aplicações e projeto. [Enginnering materials 2nd ed].
+Tradução: Arlete Simille Marques, Consultoria e revisão técnica: Tomaz Toshimi
+Ishikawa. Rio de Janeiro: Elsevier, 2007. 1. 371 p. ISBN 978-85-352-2362-0.
+3. CARTER C.B.; NORTON, M.G. Ceramic Materials - Science and Engineering, Springer.
+2007. ISBN: 978-0387462707.
+4.
+
+ASHBY, Michael F; JONES, David R.h. Engineering materials 1: an introduction to
+properties, applications and design. 3 ed. [s.l.]: [s.n.], 2005. 424 p. ISBN 978-0-75066380-9.
+
+5. ASHBY, Michael F. Engineering materials 2: an introduction to microstructures,
+processing and design. 3 ed. [s.l.]: [s.n.], 2006. 451 p ISBN 978-0-7506-6381-6.
+
+

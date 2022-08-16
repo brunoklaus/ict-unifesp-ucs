@@ -1,0 +1,74 @@
+Nome do Componente Curricular: Circuitos Elétricos II
+Período: 5o semestre
+Pré-requisitos: Circuitos Elétricos I; Fenômenos Eletromagnéticos
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Fornecer aos discentes uma visão prática e abrangente sobre a análise de circuitos
+elétricos no domínio do tempo e da frequência.
+Específicos:
+A disciplina Circuitos II dá sequencia as técnicas de análise de circuitos abordadas na
+disciplina Circuitos I. Explora a aplicação e análise de amplificadores operacionais,
+circuitos no domínio da frequência e semicondutores.
+Ementa:
+Amplificadores operacionais (ganho, diferença, derivativo e integrador), transformada
+de Laplace aplicada a circuitos, análise de circuitos com indutores e capacitores,
+resposta natural/degrau de circuitos RC, RL, RLC, chaveamentos, filtros passivos e
+ativos, análise em frequência e introdução a diodos semicondutores e transistores de
+junção bipolares.
+Conteúdo Programático:
+ Revisão do conteúdo programático de Circuitos I
+ Amplificadores operacionais
+o Configuração comparador (malha aberta)
+o Configurações com realimentação na entrada inversora (amplificador
+inversor, amplificador não inversor, comparador da diferença e
+variações)
+o Configuração com realimentação positiva (Schmitt trigger)
+o Configuração de integradores e diferenciais
+ Transformada de Laplace
+ Análise de circuitos no domínio da frequência
+ Indutância Mútua
+ Chaveamento de circuitos RC, RL
+ Função transferência
+ Análise de polos e zeros
+ Filtros ativos e passivos
+ Análise de reposta em frequência
+ Introdução a diodos semicondutores
+ Introdução a transistores bipolares
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades extraclasse em forma de lista de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, projetor multimídia. Acesso ao MOODLE.
+
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos discentes. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do discente ao longo do semestre. A promoção do discente na unidade
+curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. NILSSON, James W.; RIEDEL, Susan A.; MARQUES, Arlete Simille;
+ARAÚJO, Antônio Emílio Angueth de; LOPES, Ivan José da Silva. Circuitos
+elétricos. 8 ed. São Paulo: Pearson Prentice Hall, 2009. 574 p. ISBN 978-857605-159-6.
+2. JOHNSON, David E; HILBURN, John L; JOHNSON, Johnny R. Fundamentos
+de análise de circuitos elétricos. Rio de Janeiro: LTC Editora, 2012. 539 p.
+ISBN 978-85-216-1238-4.
+3. ORSINI, L.q; CONSONNI, Denise. Curso de circuitos elétricos. 2.ed. São
+Paulo: Blucher, 2002. 286 p. ISBN 978-85-212-0308-7.
+Complementar:
+1. Charles Alexander, Matthew N. O. Sadiku; Fundamentos de Circuitos Elétricos,
+5ª Edição; Editora: McGraw Hill, 2013.
+2. Boylestad, RobertL.; Dispositivos Eletrônicos e Teoria de Circuitos 11ª Edição;
+Editora: Pearson, 2013.
+3. William H Hayt Junior; Analise de circuitos em engenharia, 7ª Edição; Editora:
+McGraw Hill, 2008.
+4. ABDO, Romeu; BATES, David J; MALVINO, Albert. Eletrônica. 7.ed. São
+Paulo: McGraw-Hill, 2007. 672 p. ISBN 978-85-7726-022-5.
+5. Malley, J. O; Análise de circuitos, 2ª Edição; Editora: Pearson Education; 1994.
+
+

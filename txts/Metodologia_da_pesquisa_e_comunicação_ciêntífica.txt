@@ -1,0 +1,67 @@
+Nome do Componente Curricular: Metodologia da Pesquisa e Comunicação Científica
+Pré-requisitos: Não há
+Carga Horária Total: 36h
+Carga Horária Prática: 8h
+Carga Horária Teórica: 28h
+Objetivos
+Gerais:
+Apresentar aos alunos as etapas envolvidas na pesquisa científica e na elaboração de um trabalho
+científico. Mostrar a importância da comunicação científica e as normas relacionadas à sua
+elaboração.
+Específicos:
+O aluno será capaz de:
+- Entender o que é uma pesquisa científica e qual o papel do pesquisador no desenvolvimento
+científico e tecnológico do país
+- Pesquisar Artigos, Normas e Patentes em bases de dados
+- Identificar as etapas envolvidas no desenvolvimento de um trabalho científico e aplicá-las em seu dia
+a dia.
+Ementa:
+Introdução. Bases de Dados e Pesquisa Bibliográfica. Estrutura de Trabalhos Científicos. Uniformização
+redacional. Normas ABNT e ISO. Elaboração de apresentações de trabalhos científicos. Apresentação
+de trabalhos.
+Conteúdo Programático:
+A – Introdução
+B – Bases de Dados e Pesquisa Bibliográfica
+1- Bases de Dados: Portal Capes, ScienceDirect, Scopus, Web of Science
+2 – Pesquisa de Artigos
+3 – Pesquisa de Normas
+4 – Pesquisa de Patentes
+C – Etapas de Pesquisa
+1 – Revisão da Literatura: leitura e fichamento
+2 – Problema e hipótese de pesquisa
+3 – Desenvolvimento: coleta de dados
+4 – Interpretação de resultados
+D – Estrutura de Relatórios Científicos e Trabalhos de Conclusão de Curso
+1 – Introdução, Desenvolvimento e Conclusões
+2 – Padronização redacional: abreviaturas, símbolos, tabelas, figuras, gráficos, citações
+3 – Normas ABNT e ISO
+E – Apresentação de Resultados Científicos
+Metodologia de Ensino Utilizada:
+Aulas expositivas, demonstração de aplicações, exercícios aplicados e apresentação de trabalhos de
+alunos.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia. Algumas aulas poderão ser
+ministradas no laboratório de computação.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Sampieri R. H. Metodologia De Pesquisa, 5° Ed, McGraw Hill - Artmed, 2006.
+2. Fachin O. Fundamentos de metodologia, 5° Ed, Saraiva, 2006.
+3. Tomasi C., Medeiros J. B. Comunicação Científica, Atlas, 2008.
+Complementar:
+1. Wazlawick R .S. Metodologia da Pesquisa para a Ciência da Computação, Elsevier, 2009.
+2. Severino A. J. Metodologia do Trabalho Científico, Cortez Editora, 1992.
+3. Dos Santos V., Candeloro R. J. Trabalhos Acadêmicos Uma Orientação para a Pesquisa e
+Normas Técnicas, AGE Editora, 2006.
+4. Matallo E., de Pádua M. Metodologia da Pesquisa Abordagem Teórico-Prática, 13ºEd., Papirus,
+2004.
+5. Rea L. M., Parker R. A. Metodologia de Pesquisa: do planejamento à Execução, Pioneira, 1997.
+
+

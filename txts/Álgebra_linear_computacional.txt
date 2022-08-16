@@ -1,0 +1,74 @@
+Nome do Componente Curricular: Álgebra Linear Computacional
+Período: 5o semestre
+Pré-requisitos: Cálculo Numérico
+Carga Horária Total: 72h
+Carga Horária Prática: 22h
+Carga Horária Teórica: 50h
+Objetivos
+Gerais:
+Ao final do curso os alunos serão capazes de analisar problemas matemáticos
+envolvendo análise matricial, e resolvê-los numericamente com o auxílio de
+computadores.
+Específicos:
+Ao final da unidade curricular o aluno deverá estar familiarizado com as técnicas
+computacionais de Álgebra Linear, através do estudo de métodos numéricos. O aluno
+terá estudado teoricamente e computacionalmente os métodos numéricos.
+Ementa:
+Análise matricial. Fatorações de matrizes. Problemas de quadrados mínimos. Métodos
+iterativos para sistemas lineares. Métodos numéricos para Autovalores e Autovetores.
+Conteúdo Programático:
+ Análise matricial: normas de vetor e matriz, ortogonalidade, matrizes definidas
+positivas.
+ Matrizes com estruturas de banda e de blocos.
+ Fatorações de matrizes: LU, Cholesky, QR (Givens e Householder), SVD.
+ Problemas de quadrados mínimos. Noções de condicionamento e estabilidade.
+ Métodos iterativos para sistemas lineares: Jacobi, Gauss-Seidel, SOR(ω), SSOR.
+Introdução aos Métodos dos Gradientes Conjugados e de Krylov.
+ Pré-condicionamento de matrizes. Fatoração incompleta.
+ Métodos iterativos para autovalores e autovetores: Decomposição de Schur,
+Teoremas de Gerschgorin e Bauer-Fike, Método das potências, Quociente de Rayleigh,
+Algoritmos LR e QR.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios. Aulas de laboratório.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Laboratório de informática. Acesso ao
+MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+BURDEN, R. L.; FAIRES, J. D. Análise numérica. 8ª ed. São Paulo: Cengage
+Learning, 2008
+2.
+GOLUB, G. H.; VAN LOAN, C. F. Matrix computations. 3ª ed. Londres: The Johns
+Hopkins University Press, 1996.
+3.
+TREFETHEN, L. N.; BAU, D. Numerical linear algebra. 1ª ed. Philadelphia: SIAM,
+1997.
+Complementar:
+1.
+ALLAIRE, G.; KABER, S. M. Numerical linear algebra. New York: Springer, 2008.
+2.
+PRESS, W.; FLANNERY, B.P.; TEUKOLSKY, S.A., VETTERLING, W.T. Numerical
+recipes: the art of scientific computing. 3ª ed. New York: Cambridge University Press,
+2007.
+3.
+QUARTERONI, A.; SACCO, R.; SALERI, F. Numerical mathematics. 2ª ed. New
+York: Springer, 2007.
+4.
+STEWART, G. W. Matrix algorithms: basic decompositions. V. 1. SIAM, 1998.
+5.
+STEWART, G. W. Matrix algorithms: eigensystems. V. 2. SIAM, 1998.
+6.
+WATKINS, D. S. Fundamentals of matrix computations. 3ª ed. New Jersey:
+Wiley, 2010.
+
+

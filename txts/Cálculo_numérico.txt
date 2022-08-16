@@ -1,0 +1,57 @@
+Nome do Componente Curricular: Cálculo Numérico
+Pré-requisitos: Cálculo em Uma Variável; Geometria Analítica
+Carga Horária Total: 72h
+Carga Horária Prática: 14h
+Carga Horária Teórica: 58h
+Objetivos
+Gerais:
+Familiarizar o aluno com as técnicas computacionais da Álgebra Linear e do Cálculo através do estudo
+de métodos numéricos.
+Específicos:
+Ao final da unidade curricular o aluno deverá ser capaz de analisar problemas matemáticos e resolvêlos numericamente com o auxílio de computadores.
+Ementa:
+Erros. Zeros de funções reais. Resolução de sistemas lineares e não lineares. Interpolação. Ajuste de
+curvas. Integração numérica. Solução numérica de equações diferenciais ordinárias.
+Conteúdo Programático:
+• Erros: introdução, representação de números, erros absolutos e relativos. Erros de
+truncamento e arredondamento, análise de erros nas operações aritméticas.
+• Zeros de funções reais: método da bisseção, método de Newton, método da secante.
+• Sistemas de equações não lineares: método de Newton.
+• Resolução de sistemas lineares – métodos diretos: método de eliminação de Gauss, fatoração
+LU. Cholesky. Métodos iterativos: Gauss-Jacobi e Gauss-Seidel.
+• Interpolação: forma de Lagrange, forma de Newton, Splines.
+• Ajuste de curvas pelo método dos mínimos quadrados.
+• Integração numérica: regra dos trapézios, regras de Simpson, quadratura gaussiana.
+• Solução numérica de equações diferenciais ordinárias: métodos de passo simples, métodos de
+passo múltiplo, método de previsão-correção.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios. Aulas de laboratório.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Laboratório de informática. Acesso ao MOODLE como
+ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. BURDEN, R. L.; FAIRES, J. D. Análise numérica. 8ª ed. São Paulo: Cengage Learning, 2008.
+2. FRANCO, N. B. Cálculo numérico. São Paulo: Pearson, 2006.
+3. RUGGIERO, M. A. G.; LOPES, V. L. R. Cálculo numérico – aspectos teóricos e computacionais. 2ª
+ed. São Paulo: Pearson, 2008.
+Complementar:
+1. ARENALES, S.; DAREZZO, A. Cálculo numérico: aprendizagem com apoio de software. São
+Paulo: Thomson, 2008.
+2. CHAPRA, S. C.; CANALE, R. P. Métodos numéricos para engenharia. 5ª ed. São Paulo: McGraw-
+
+Hill, 2008.
+3. CUNHA, M. C. C. Métodos numéricos. 2ª ed. Campinas: Editora UNICAMP, 2000.
+4. PRESS, W.; FLANNERY, B. P.; TEUKOLSKY, S. A.; VETTERLING, W. T. Numerical recipies: the art of
+scientific computing. 3ª ed. New York: Cambridge University Press, 2007.
+5. QUARTERONI, A.; SACCO, R.; SALERI, F. Numerical mathematics. 2ª ed. New York: Springer,
+2007.
+
+

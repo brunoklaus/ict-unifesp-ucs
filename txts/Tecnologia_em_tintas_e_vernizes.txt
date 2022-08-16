@@ -1,0 +1,119 @@
+Nome do Componente Curricular: Tecnologia em Tintas e Vernizes
+Período: 7º semestre
+Pré-requisitos: Materiais Poliméricos
+Carga Horária Total: 72h
+Carga Horária Prática: 12h
+Carga Horária Teórica: 60h
+Objetivos
+Gerais:
+Apresentar aos alunos os conceitos fundamentais sobre a tecnologia de tintas e
+vernizes, tais como: definições e classificação, processos de fabricação, formulações,
+propriedades físico-químicas, propriedades reológicas, novas tecnologias, normas
+existentes no setor e as principais áreas de aplicação.
+Específicos:
+O aluno será capaz de:
+Compreender os conceitos e os fundamentos teóricos, produtivos e comerciais
+relacionados a tecnologia de tintas e vernizes, conhecer os diferentes tipos de tintas,
+vernizes e as principais normas de qualidade vigentes para o setor, conhecer os
+diferentes processos de fabricação de tintas e vernizes, conhecer os principais
+métodos de caracterização das tintas e vernizes e entender a influência e os principais
+tipos de substratos na escolha correta da tinta e do verniz.
+Ementa:
+Introdução, conceitos básicos sobre tintas e vernizes, componentes utilizados na
+fabricaçãos das tintas e vernizes, os principais polímeros utilizados na fabricação das
+tintas, principais pigmentos e cargas, classificação dos diferentes tipos de tintas,
+vernizes, fundos, primers, normas de qualidade vigentes para o setor, mercado
+brasileiro de tintas e vernizes, os principais produtores, processos de produção:
+composição, moagem, homogeneização, completagem, filtração, envase e
+estabilidade. Teorias de adesão, coesão, tensão superficial, mecanismos envolvidos,
+métodos de caracterização e aplicação, propriedades físico-químicas, reológicas,
+técnicas de aplicação e preparação dos substratos, degradação e envelhecimento das
+tintas e vernizes.
+Conteúdo Programático:
+A - Introdução
+1. História
+2. Mercado de tintas e vernizes
+3. Tintas imobiliárias, tintas de impressão, tintas automotivas, outras
+3. Principais aplicações
+4. Principais fabricantes e tecnologias
+B – CONCEITOS BÁSICOS SOBRE TINTAS E VERNIZES
+1. Composição básica das tintas e vernizes
+2. Matérias primas básicas (pigmentos e polímeros)
+3. Conceitos sobre PVC e CPVC
+
+4. Teorias de adesão, coesão e tensão superficial
+C – ADITIVOS E MODIFICADORES DE REOLOGIA
+1. Plastificantes, coalescentes e solventes
+2. Dispersantes e umectantes
+3. Anti-espumante e anti-oxidantes
+4. Secates e nivelantes
+5. Espessantes e classificação reológica das tintas
+D – CLASSIFICAÇÃO DAS TINTAS E VERNIZES
+1. Tinta Econômica, Standard, Premium
+2. Restência à abrasão e rendimento/cobertura
+3. Tinta base solvente, água, pó
+E - PROCESSOS DE PRODUÇÃO
+1. Moagem, dispesão e completagem
+2. Moinho de bolas, homogenizadores
+3. Ajustes de viscosidade, cor e estabilidade
+4. Equipamentos self color
+4. Demanda de espessante
+5. Filtração e envase
+F - CARACTERIZAÇÃO FÍSICO-QUÍMICA E APLICAÇÕES
+1. Viscosidade e pH
+2. Resistência à abrasão
+3. Cobertura e rendimento
+4. Cromatografia e densidade
+5. Análises térmicas
+6. Temperatura mínima de formação de filme
+7. Estabilidade e degradação acelerada
+8. Microscopia eletrônica de varredura do filme
+9. Colorimetria
+G - PRINCIPAIS TIPOS DE SUBSTRATOS E PREPARAÇÃO
+1. Alvenaria
+2. Madeiras
+3. Metais
+4. Papel e papelão
+5. Plásticos
+6. Tecidos
+H - TÉCNICAS DE APLICAÇÃO E DEFEITOS
+1. Pincel, rolo, pistola
+2. Deposição eletrostática
+3. Transferência e calandras
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações, mercado de
+
+tintas e vernizes, questões relacionadas a sustentabilidade e a qualidade das tintas e
+vernizes. Resolução de problemas reais em sala de aula e no laboratório,
+desenvolvimento de trabalhos e projetos em grupos e seminários com profissionais
+convidados do setor de tintas e vernizes.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador, projetor multimídia e laboratório para
+preparação e caracterização.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+1. FAZENDA, J.M.R. Tintas-Ciência e Tecnologia, Editora Blucher, 4ªed. 2009.
+2. FAZENDA, J.M.R. Tintas Imobiliárias de Qualidade, Associação Brasileira dos
+Fabricantes de Tintas, 2010.
+3. NOGUEIRA, J. L. Noções Básicas de Tintas e Vernizes, Ed. Autor, 2008.
+Complementar:
+1. KOLESKE, J. V. Paint and Coating Testing Manual, 15a ed. Americam Society for
+Testing and Materials, 1995.
+2. URBAN, D., TAKAMURA, K. Polymer Dispersions and Their Industrial
+Applications, Wiley-VCH Verlag GmbH & Co. 2002.
+3. PERRY's chemical engineers handbook. Editor in Chief Don W. Green; Late
+Editor Robert H. Perry New York: McGraw-Hill, 2008.
+4. TALBERT, R. Paint Technology Handbook, CRC Press, 2008.
+5. WARSON, H., FINCH, C.A. Applications of synthetic resin latices. vol. 2, John
+Wiley & Sons, 2001.
+
+

@@ -1,0 +1,77 @@
+Nome do Componente Curricular: Processamento de Materiais Cerâmicos
+Pré-requisitos: Materiais Cerâmicos
+Carga Horária Total: 72h
+Carga Horária Prática: 16h
+Carga Horária Teórica: 56h
+Objetivos
+Gerais:
+A disciplina tem como objetivo apresentar aos alunos os principais processos industriais utilizados na
+fabricação de produtos cerâmicos e suas aplicações.
+Específicos:
+O aluno será capaz de:
+Entender as etapas envolvidas no processamento cerâmico.
+Escolher o processamento mais adequado para cada tipo de produto cerâmico.
+Ementa:
+Introdução ao Processamento Cerâmico. Síntese e processamento de Pós Cerâmicos. Caracterização
+de partículas. Aditivos de Processamento. Processos de Conformação (prensagem, extrusão, colagem
+de barbotina, outras técnicas). Secagem. Sinterização. Acabamentos. Práticas.
+Conteúdo Programático:
+A - Introdução ao Processamento Cerâmico
+B - Processamento de Pós Cerâmicos
+1. Obtenção de pós por meio de métodos mecânicos e químicos (mecanosíntese, reação no estado
+sólido, sol-gel)
+C - Caracterização de Partículas
+1. Caracterização física e química de partículas (tipos e formas de partículas, tamanho e distribuição
+de tamanho de partícula, área superficial, porosidade)
+D - Mistura e Empacotamento de Partículas
+E - Aditivos de Processamento
+1. Solventes, dispersantes, ligantes, plastificantes e outros aditivos
+F. Reologia de Suspensões Cerâmicas
+G – Beneficiamento
+1. Cominuição e processos de pré-consolidação (atomização, granulação)
+H - Processos de Conformação
+1. Conformação de pós (prensagem uniaxial, prensagem isostática e prensagem a quente)
+2. Conformação plástica (torneamento, extrusão, moldagem por injeção)
+3. Conformação líquida (colagem e gelcasting)
+4. Processamento de cerâmicas porosas (réplica, agente de sacrifício, gelcasting, emulsão, entre
+outros)
+5. Prototipagem rápida
+I- Secagem
+J. Sinterização
+1. Sinterização no estado sólido e sinterização com fase líquida
+2. Parâmetros de sinterização
+K. Acabamentos
+L. Aulas Práticas
+1. Preparação de corpos de prova cerâmicos por diferentes métodos de conformação.
+2. Caracterização de corpos de prova cerâmicos
+
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações. Resolução de lista de
+exercícios. Aulas práticas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Reed, J. S. Principles of Ceramics Processing. 2nd ed.New York: John Wiley & Sons, 1995.
+2. Richerson, D. W. Modern Ceramic Engineering: Properties, Processing, and Use in Design. 3rd
+ed. New York: Boca Raton: CRC Press, 2006.
+3. Norton, M. G.; Carter, C. B. Ceramic Materials: Science and Engineering. Editora Springer.
+2007.
+Complementar:
+1. Dinger, D.R. Characterization techniques for ceramics. Dinger Ceramic. Consulting Services,
+2005, ISBN: 0-9715696-5.
+2. Kingery, W.D. et al. Introduction to ceramics. New York: John Wiley & Sons, 1976.
+3. Rahaman, M.N. Ceramic Processing. Boca Raton: CRC Press, 2007.
+4. Boch, P.; Nièpce, J. C. Ceramic materials: processes, properties and applications, 1ª Edição,
+Editora Wiley-ISTE, 2007.
+5. Callister, W.D. Fundamentos da Ciência e Engenharia de Materiais. Uma abordagem Integrada,
+2°ed., LTC, 2005.
+
+

@@ -1,0 +1,72 @@
+Nome do Componente Curricular: Processamento de Termoplásticos
+Pré-requisitos: Materiais Poliméricos
+Carga Horária Total: 72h
+Carga Horária Prática: 16h
+Carga Horária Teórica: 56h
+Objetivos
+Gerais:
+Ministrar uma visão geral sobre as principais técnicas de transformação de materiais incluindo
+aspectos teóricos e práticos.
+Específicos:
+Proporcionar ao aluno conhecimento dos principais processos de transformação de materiais de
+forma que possa ser analisado o que ocorre com estes materiais durante e após o processamento
+correlacionando as variáveis de processamento com o produto final (materiais empregados,
+produção, custo e desempenho).
+Ementa:
+Introdução. Moldagem por extrusão. Moldagem por injeção. Moldagem por sopro.
+Conteúdo Programático:
+1. Introdução;
+2.Reologia aplicada ao processamento de Polímeros
+3. Moldagem por compressão, calandragem e transferência
+4. Moldagem por extrusão:
+4.1. Princípios gerais e componentes;
+4.2. Tipos de roscas e auxiliadores de mistura;
+4.3. Extrusora de rosca dupla;
+4.4.Coextrusão;
+4.5. Moldagem tubular de filmes soprados.
+5. Rotomoldagem.
+6. Moldagem por Injeção:
+6.1.Princípios gerais e componentes;
+6.2.Características do processo de injeção;
+6.3. Moldes: principais componentes;
+6.4. Efeito de alguns parâmetros nas propriedades do moldado.
+6.5. Defeitos de injeção
+7.Moldagem por sopro:
+7.1. Moldagem por sopro via extrusão;
+7.2. Moldagem por sopro via injeção.
+8. Conceitos sobre formulação de plásticos para aprimorara processabilidade e/ou durabilidade em
+serviço;
+8.1 Principais aditivos utilizados em processamento de termoplásticos
+8.2. Termoplásticos reforçados carregados;
+8.3. Plásticos tenacificados com elastômeros;
+Aulas Práticas: demonstrativas em equipamentos de processamento.
+Metodologia de Ensino Utilizada:
+Aulas expositivas, aulas práticas e atividades não presenciais na sala de aula tais como relatórios e
+listas de exercícios.
+
+Recursos Instrucionais Necessários:
+Técnicos para auxiliar nas aulas práticas,monitor e tutor, multimídia, lousa, moodle, material de
+consumo e equipamentos para as aulas práticas.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. CANEVAROLO Jr., Sebastião V. Ciência dos polímeros. 2 ed. São Paulo: Artliber, 2002.
+2. CALLISTER JR., William D. Ciência e engenharia de materiais: uma introdução. 7.ed., 2008.
+3. BILLMEYER, Fred W. Textbook of polymer science. 3th. New York: Wiley Interscience, 1984.
+Complementar:
+1. Bretas, R.E.S.; D´Avila, M.A. Reologia dos polímeros fundidos. Editora da UFSCar, 2000.
+2. Manrich, S. Processamento de termoplásticos: rosca única, extrusão e matrizes, injeção e
+moldes, Artliber, 2005.
+3. Michaeli, Walter et al. Tecnologia dos plásticos. [Technologie der kunststoffe]. Tradução: Eng.
+Christian Dihlmann. São Paulo: Blucher, 1995.
+4. CALLISTER JR., William D; RETHWISCH, David G. Fundamentals of materials science and
+engineering: an integrated approach. 3 ed., 2008.
+5. AKCELRUD, Leni. Fundamentos da ciência dos polímeros. Barueri: Manole, 2007.
+
+

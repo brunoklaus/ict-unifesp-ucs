@@ -1,0 +1,53 @@
+Nome do Componente Curricular: Biologia Molecular do Gene
+Pré-requisitos: Fundamentos da Biologia Moderna
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introdução à Genética Clássica e Molecular.
+Específicos:
+Introdução às bases da genética e dos principais processos celulares.
+Ementa:
+Introdução à Genética Clássica e Molecular. Estrutura e Compactação do DNA. Genomas. Replicação.
+Transcrição. Tradução. Regulação da Expressão Gênica. Tecnologia do DNA Recombinante. Epigenética
+e RNAi.
+Conteúdo Programático:
+• Genética Clássica
+• Genética Molecular.
+• DNA.
+• Genomas.
+• Replicação.
+• Transcrição.
+• Tradução.
+• Regulação.
+• DNA Recombinante.
+• Epigenética
+• RNA de interferência.
+Metodologia de Ensino Utilizada:
+Aulas expositivas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Alberts, A.; Bray, D., Johnson, A, Lewis, J., Raff, M., Roberts, K & Walter, P. Fundamentos da
+Biologia Celular. Editora Artmed 1999.
+2. Lodish, H. e cols. Biologia Celular e Molecular. 5a ed., Ed. Artmed 2005.
+3. Cooper. A Célula – Uma Abordagem Molecular. 3a ed. Ed. Artmed 2007.
+Complementar:
+1. ALBERTS, Bruce et al. Biologia molecular da célula. 5.ed. Artmed 2010.
+2. WATSON, James D; BERRY, Andrew; MALFERRARI, Carlos Afonso. DNA: o segredo da vida. São
+
+Paulo: Companhia das Letras, 2005.
+3. WALTER, Peter et al. Molecular biology of the cell. 5 ed. 2010.
+4. KARP, Gerald. Cell and molecular biology: concepts and experiments. 5 ed. 2008.
+5. Schrödinger, Erwin; Assis, Jesus P. (Trad.); Assis, Vera Y. K. P. (Trad.). O que é vida? UNESP, 1977.
+
+

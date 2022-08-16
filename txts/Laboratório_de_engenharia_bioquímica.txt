@@ -1,0 +1,56 @@
+Nome do Componente Curricular: Laboratório de Engenharia Bioquímica
+Pré-requisitos: Engenharia Bioquímica I
+Carga Horária Total: 36h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Permitir ao aluno integrar os conceitos apresentados na microbiologia aplicada, bioquímica do
+metabolismo e nas várias disciplinas de engenharia bioquímica, mediante experimentos realizados em
+escala de bancada, em frascos e biorreator.
+Específicos:
+Através das práticas laboratoriais, apresentar ao aluno as técnicas laboratoriais empregadas na
+pesquisa, no desenvolvimento e na otimização de bioprocessos de interesse industrial.
+Ementa: A disciplina pretende consolidar importantes conceitos teóricos aprendidos em disciplinas de
+engenharia bioquímica, microbiologia e bioquímica, mediante uma série de experimentos realizados
+em escala de bancada (frascos e biorreator). Esses conceitos são essenciais no desenvolvimento e na
+otimização de bioprocessos de interesse industrial. Os experimentos concentram-se nas operações
+unitárias da fase de síntese do produto (upstream), i.e., cinéticas enzimática e microbiana, modo de
+operação e caracterização de biorreatores, bem como naquelas operações características da etapa de
+separação e purificação de bioprodutos (downstream).
+Conteúdo Programático:
+1. Cinética enzimática; 2. Cinética microbiana em frascos; 3. Análise de dados; esterilização de
+equipamentos; 4. Biorreatores; 5. Transferência de oxigênio; 6.Tempo de mistura; 7. Monitoramento e
+controle de bioprocesso; 8. Separação de bioproduto; 9. Purificação de bioproduto
+Metodologia de Ensino Utilizada:
+Planejamento e realização de experimentos laboratoriais. Relatórios de ensaios.
+Recursos Instrucionais Necessários:
+Laboratório com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. PELCZAR M.; CHAN E.C.S.; KRIEG N.R. Microbiologia, 2a ed., vol.1, Makron Books, São Paulo,
+1997.
+2. PESSOA A; KILIKIAN B. Purificação de processos biotecnológicos. Manole, 2005, 444p.
+3. SHULER M.L.; KARGI F. Bioprocess engineering: basic concepts. BioprocessEngineering: Basic
+Concepts, 2ndEdition, Prentice Hall,2001, 576p.
+Complementar:
+4. SCHMIDEL W.; LIMA U.A.; AQUARONE E.; BORZANI W. Biotecnologia industrial. vol 2:
+Engenharia Bioquímica, Edgard Blucher, 2000.
+5. Blanch HW; Clark DS. Biochemical engineering. Boca Raton: CRC/Taylor & Francis, 1997. 702 p.
+
+ISBN 9780824700997
+6. Nielsen J, Villadsen J, Lidén, G. Bioreaction Engineering Principles. Springer 2011 (3a Ed). 591p.
+ISBN 978-1441996879.
+7. RATLEDGE C.; KRISTIANSEN B. Basic Biotechnology. Cambridge University Press; 3rd edition,
+2006
+8. Fonseca MM; Teixeira JA. Reatores biológicos: fundamentos e aplicações. Lisboa: Lidel Edições
+Técnicas, 2007, 483p. (Colecão Biotec) ISBN 9727573665
+
+

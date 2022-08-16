@@ -1,0 +1,71 @@
+Nome do Componente Curricular: Seminários Interdisciplinares
+Pré-requisitos: Não há
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+O objetivo principal dessa unidade curricular é permitir que os alunos entrem em contato com o
+estado-da-arte na área da engenharia, computação e outras áreas de conhecimento, além de
+possibilitar uma aproximação mais efetiva do corpo docente do ICT e de outros institutos com os
+alunos, bem como do ambiente acadêmico com o mercado de trabalho.
+Específicos:
+ Auxiliar os alunos na escolha de unidades curriculares de livre escolha que poderão ser
+utilizadas para compor o currículo acadêmico do aluno;
+ Possibilitar o contato com inovações científicas e tecnológicas decorrentes de pesquisas
+recentes na área de computação;
+ Apresentar projetos e trabalhos interdisciplinares que envolvam a área de computação;
+ Permitir que os alunos tenham uma visão prática do mercado, onde profissionais do mercado
+de trabalho possam compartilhar seus conhecimentos e experiências.
+Ementa:
+Apresentação de seminários relacionados ao estado-da-arte na área de computação e engenharia
+incluindo prevenção e combate a incêndio e desastres. Palestras com enfoques interdisciplinares em
+áreas de conhecimento envolvendo as ciências exatas, biológicas, humana. Apresentação de
+seminários que permitam uma visão prática integrando a vida acadêmica do aluno e o mercado de
+trabalho.
+Conteúdo Programático:
+O conteúdo programático deve variar de acordo com os seminários que serão oferecidos no semestre.
+Alguns tópicos que podem ser trabalhados nesses seminários são:
+ Empreendedorismo;
+ Propriedade Intelectual;
+ Computação em Nuvem;
+ Bioinformática;
+ Tecnologia e Sustentabilidade;
+ Tecnologia Social;
+ Consciência Coletiva;
+ Computação Quântica;
+ Computação Bioinspirada;
+ Nanotecnologia;
+ Redes de sensores;
+ História e Futuro da Computação;
+ Direitos Humanos;
+ Legislação Social e Crimes no Mundo Virtual;
+ Responsabilidades Éticas e Profissionais;
+ Computação Ubíqua;
+ Computação baseada em DNA;
+
+ Segurança e Computação Móvel;
+ Sistemas Médicos baseados em Computação;
+ Prevenção e Combate a Incêndio e Desastres.
+Metodologia de Ensino Utilizada:
+Esta unidade curricular será baseada em seminários realizados pelo corpo docente do ICT, de outros
+institutos e por profissionais do mercado de trabalho, podendo ocorrer debates e dinâmicas de grupo.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e computador.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia:
+A bibliografia é variável: cada palestrante deverá indicar algumas referências bibliográficas, como
+artigos, sites da internet e livros relacionados ao assunto abordado na palestra para que o aluno possa
+se aprofundar caso houver interesse. Além disso, no final de cada palestra, é de extrema importância
+que o palestrante ou o docente responsável por essa unidade curricular indique unidades curriculares
+de livre escolha que possam ser cursadas na UNIFESP ou em outras instituições de ensino para que o
+aluno possa dar continuidade aos seus estudos, direcionando o seu currículo para as áreas de maior
+interesse.
+
+

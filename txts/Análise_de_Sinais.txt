@@ -1,0 +1,73 @@
+Nome do Componente Curricular: Análise de Sinais
+Período: 5 º semestre
+Pré-requisitos: Séries e Equações Diferenciais Ordinárias
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Conhecer as técnicas de processamento e de análise de sinais, que são fundamentais
+para uma variedade de aplicações em engenharia.
+Específicos:
+O aluno deverá conhecer as bases matemáticas da análise de sinais no tempo-discreto e
+ser capaz de avaliar sistemas LIT de tempo discreto tanto no domínio do tempo quanto
+no domínio da frequência.
+Ementa:
+Sinais de Tempo Discreto. Sistemas Lineares Invariantes no Tempo. Soma de
+convolução. Equações de Diferenças. Análise no Domínio da Frequência:
+Transformada de Fourier de Tempo Discreto e Transformada Z. Teorema de
+Amostragem e Aliasing.
+Conteúdo Programático:
+• Introdução a Sinais; Sinais de Tempo Discreto: sinais exponenciais complexos,
+sinais periódicos, sinais impulso e sinal degrau;
+• Sistemas Lineares Invariantes no Tempo; Soma de Convolução e resposta ao
+impulso.
+• Transformada Z e as autofunções de sistemas LIT de tempo Discreto;
+• Sistemas LIT agindo sobre sinais periódicos: séries de Fourier para sinais de
+tempo discreto;
+• Sistemas LIT no domínio da frequência: Transformada de Fourier de tempo
+discreto;
+• Análise de Magnitude e Fase de Sinais de Tempo Discreto; Diagramas de Bode.
+• Equações de Diferenças e análise de sistemas LIT no domínio da frequência;
+Introdução ao projeto de Filtros Digitais (FIR e IIR);
+• O Teorema da Amostragem e Aliasing.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+
+Recursos Instrucionais Necessários:
+Lousa e projetor.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica
+1. Oppenheim, A., Wilsky, A., Sinais e Sistemas, Pearson, 2ª edição, 2010.
+2. Lyons, R.G. Understanding Digital Signal Processing, Prentice Hall, 2a. edição,
+2004.
+3. Oppenheim, A.V.; Schafer, R.W. Discrete-Time Signal Processing, Prentice
+Hall, Englewood Cliffs, NJ, 3a. Edição, 2010.
+Complementar:
+1.
+2.
+3.
+4.
+
+5.
+
+Stearns, S. D.; Hush, D. R. Digital signal processing with examples in
+MATLAB. 2nd. CRC Press, 2011. .
+S. K. Mitra. Digital Signal Processing: A Computer-Based Approach. McGrawHill, 1998.
+Diniz, P.S.R. Adaptive filtering: algorithms and practical implementation,
+Kluwer Academic Publishers, 3a. Edição, 2008.
+VAN DRONGELEN, W. Signal Processing for Neuroscientists: An
+Introduction to the Analysis of Physiological Signals. Amsterdam: Elsevier
+Science, 2006.
+Ingle, V. K.; Proakis, J. G. Digital Signal Processing using MATLAB, Cengage
+Learning, 3a Ed., 2011.
+
+

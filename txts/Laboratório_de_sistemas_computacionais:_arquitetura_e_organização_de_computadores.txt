@@ -1,0 +1,79 @@
+Nome do Componente Curricular: Laboratório de Sistemas Computacionais: Arquitetura e
+Organização de Computadores
+Pré-requisitos: Arquitetura e Organização de Computadores; Laboratório de Sistemas
+Computacionais: Circuitos Digitais
+Carga Horária Total: 72h
+Carga Horária Prática: 58h
+Carga Horária Teórica: 14h
+Objetivos
+Gerais:
+Esta unidade curricular faz parte das unidades curriculares integradas definidas no Projeto Pedagógico
+do Curso, as quais são utilizadas para que o aluno possa, de fato, desenvolver um sistema
+computacional completo durante o seu processo de aprendizagem, envolvendo a integração entre
+hardware e software. O sistema completo compreende o desenvolvimento da arquitetura do
+processador, a definição de uma linguagem de programação, o projeto de um compilador, a definição
+de um sistema operacional e um processo de comunicação em rede entre dois ou mais sistemas.
+Dentro deste contexto, ao término desta unidade curricular, o aluno deverá ter implementado um
+sistema digital composto por processador, memória e interfaces de comunicação.
+Específicos:
+ Descrever a arquitetura de um processador utilizando uma ferramenta de descrição de
+hardware;
+ Utilizar lógica programável para implementar um processador;
+ Realizar simulações e testes para verificar a funcionalidade do sistema projetado;
+ Desenvolver em lógica programável um sistema de memória;
+ Desenvolver em lógica programável um sistema de comunicação;
+ Elaborar apresentações orais e redação de textos.
+Ementa:
+Projeto e implementação de um sistema digital em lógica programável composto por processador,
+memória e interface de comunicação. Simulações e Testes em relação ao sistema desenvolvido.
+Conteúdo Programático:
+Definição de uma arquitetura para o processador a ser implementado; Projeto do processador
+utilizando uma ferramenta de síntese de sistemas digitais; Realização de simulações para verificar a
+funcionalidade do circuito projetado; Implementação em lógica programável do processador
+desenvolvido; Realização de testes e comparação das funcionalidades do circuito implementado com
+os resultados obtidos na simulação; Projeto e implementação de um sistema de memória para atuar
+em conjunto com o processador desenvolvido; Projeto e implementação do sistema de comunicação
+entre o processador, a memória e o ambiente externo.
+Metodologia de Ensino Utilizada:
+Esta unidade curricular será baseada em projetos e implementações de sistemas digitais e em aulas
+expositivas. As aulas expositivas serão realizadas com o auxílio de quadro branco e de projetor
+multimídia. Os projetos serão realizados tanto em sala de aula como extra-classe e deverão ser
+desenvolvidos utilizando uma plataforma de trabalho específica que permita o desenvolvimento de
+projetos digitais, a realização de simulações para verificar a funcionalidade dos circuitos projetados e
+a síntese em hardware. Kits FPGAs serão utilizados para a implementação física dos sistemas
+projetados. Além do desenvolvimento do sistema digital proposto, deve-se realizar o treinamento do
+aluno no que se refere à apresentação oral de ideias e a redação de textos técnicos e científicos de
+forma clara, concisa e objetiva.
+
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia, computadores com software de especificação e síntese de
+circuitos digitais e Kits FPGAs.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Organização e Projeto de Computadores: A Interface Hardware/Software. David A. Patterson e
+John L. Hennessy. Editora Campus. ISBN: 8535215212, 2005.
+2. Logic and Computer Design Fundamentals. M. Morris Mano e Charles L. Kime. Editora Prentice
+Hall. ISBN: 013198926X, 2007.
+3. Digital Design with RTL Design, Verilog and VHDL. Frank Vahid. Editora Wiley. ISBN:
+0470531088, 2010.
+Complementar:
+1. Como Fazer Apresentações em Eventos Acadêmicos e Empresariais – Linguagem Verbal,
+Comunicação Corporal e Recursos Audivisuais. Maria Helena da Nobrega. Editora Atlas. ISBN:
+8522456380, 2010.
+2. Metodologia de Pesquisa para Ciência da Computação. Raul Sidnei Wazlawick. ISBN:
+9788535235227, 2009.
+3. Advanced Digital Design with the Verilog HDL. Michael D. Ciletti. Editora Prentice Hall. ISBN:
+0136019285, 2010.
+4. Projetos de Circuitos Digitais com FPGA. César da Costa. Editora Érica. ISBN: 9788536502397,
+2009.
+5. Sistemas Digitais: Princípios e Aplicações. Ronald J. Tocci, Neal S. Widmer e Gregory L. Moss.
+Editora Prentice-Hall. ISBN: 9788576050957, 2007.
+
+

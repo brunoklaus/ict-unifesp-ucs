@@ -1,0 +1,97 @@
+Nome do Componente Curricular: Tópicos em Ressonância Magnética Nuclear
+Pré-requisitos: Fenômenos Eletromagnéticos
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Propiciar amplo conhecimento sobre os conceitos físicos e a instrumentação em
+equipamentos de Ressonância Magnética Nuclear (RMN) para aplicações em imagens,
+espectroscopia e técnicas de relaxometria.
+Específicos:
+Fornecer ao aluno conhecimento amplo sobre os conceitos físicos de RMN, incluindo
+sequências de pulso, formação de imagens e obtenção de técnicas uni e
+bidimensionais.
+Fornecer ao aluno o conceito básico de um equipamento de RMN, incluindo o
+espectrômetro, o magneto e as sondas utilizadas para as medidas.
+Propiciar ao aluno uma visão geral sobre uma gama de aplicações de RMN nas mais
+diversas áreas de conhecimento (biológicas e materiais).
+Desenvolver a capacidade do aluno em relacionar os conceitos de RMN em suas áreas
+de trabalho.
+Ementa:
+Introdução à Ressonância Magnética Nuclear; O equipamento de RMN; Sequências de
+pulso; Formação de imagens; Instrumentação em RMN; Técnicas espectroscópicas de
+RMN; Relaxometria; Técnicas avançadas de imagens em RMN.
+Conteúdo Programático:
+1.
+Introdução à teoria de RMN: propriedades dos núcleos atômicos,
+magnetização, excitação da magnetização por radiofrequência (RF), FID,
+mecanismos de relaxação, equações de Bloch, ecos de spin.
+2.
+Equipamento de RMN: Magneto, espectrômetro, sondas e bobinas de
+gradientes;
+3.
+Sequências de pulso: Spin Eco e Gradiente Eco;
+4.
+Formação de imagens: princípio de formação de imagem, resolução e
+contraste - efeito de T1, T2 e DP;
+5.
+Técnicas avançadas de imagens “in vivo” por RM: Relaxometria;
+Perfusão; Difusão; BOLD; Transferência de magnetização; Angiografia.
+6.
+Instrumentação em RMN: sondas, linha de transmissão e filtros;
+7.
+Técnicas de espectroscopia em RMN – interações nucleares, RMN
+multidimensional, ciclagem de fase;
+8.
+Técnicas uni e bidimensionais, medidas de distribuição de tempos de
+relaxação e difusão;
+9.
+Aplicações em materiais e biologia – estudo de dinâmica molecular em
+sólidos, determinação de estruturas moleculares, materiais porosos, polímeros
+sólidos.
+
+Metodologia de Ensino Utilizada:
+Aulas expositivas e seminários.
+Recursos Instrucionais Necessários:
+Lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas e divulgado aos alunos. O sistema adotado deve
+contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre.
+Para isto, as avaliações deverão ser ponderadas de maneira crescente ou, ainda,
+propiciar alternativas de recuperação, como provas substitutivas ou aplicação de
+trabalhos adicionais. A promoção do aluno na unidade curricular obedecerá aos
+critérios estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no Projeto
+Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+WEBB, S. (Ed.). The physics of medical imaging. Bristol: Institute of Physics,
+2003.
+2.
+HAACKE, E.M. Magnetic resonance imaging: physical principles and sequence
+design. New York, Wiley.
+3.
+HOBBIE, R.K. Intermediate Physics for Medicine and Biology, AIP Press, New
+York, 1997.
+Complementar:
+1.
+TOFTS, P. Quantitative MRI of the brain: measuring changes caused by disease.
+Chichester, John Wiley & Sons Ltd, 2003.
+2.
+DUER, M. J. Solid State NMR Spectroscopy – Principles and applications,
+Blackwell Science, 2002.
+3.
+SPRAWLS, JR. P., Physical Principles of Medical Imaging. Second edition.
+Medical Physics Publishing Company, ed. Aspen Publishers, 1995.
+4.
+BUSHONG, S.C. Magnetic resonance imaging : physical and biological
+principles. St Louis, CV. Mosby, 1989.
+5.
+BUSHBERG, J. T.; SEIBERT, J. A.; LEIDHOLFT JUNIOR, E. M.; BOONE, J. M. The
+essential physics of medical imaging. 2. ed. Philadelphia, PA: Lippincott Willians &
+Wilkins, 2002.
+
+

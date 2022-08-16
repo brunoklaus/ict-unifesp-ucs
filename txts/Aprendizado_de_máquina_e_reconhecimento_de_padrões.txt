@@ -1,0 +1,62 @@
+Nome do Componente Curricular: Aprendizado de Máquina e Reconhecimento de Padrões
+Pré-requisitos: Probabilidade e Estatística; Lógica de Programação
+Carga Horária Total: 72h
+Carga Horária Prática: 24h
+Carga Horária Teórica: 48h
+Objetivos
+Gerais:
+Apresentar aos alunos técnicas de aprendizado de máquinas e reconhecimento de padrões, seguindo
+uma abordagem probabilística.
+Específicos:
+Ao final do curso, os alunos devem ser capazes de entender e aplicar os principais modelos de
+aprendizado de máquinas e reconhecimento de padrões em aplicações práticas, assim como realizar
+implementações mais simples.
+Ementa:
+Introdução ao Reconhecimento de Padrões, Distribuições de Probabilidade, Modelos Lineares para
+Regressão, Modelos Lineares para Classificação, Máquinas de Sparse Kernel, Modelos Gráficos,
+Inferência Aproximada, Variáveis Latentes Contínuos, Dados Sequenciais.
+Conteúdo Programático:
+Introdução a Aprendizado de Máquinas e Reconhecimento de Padrões, Teoria de probabilidade, Teoria
+da decisão. Distribuições de Probabilidade, Variáveis binárias e multinomiais, Distribuições
+Gaussianas, Família das distribuições exponenciais. Modelos Lineares para Regressão, Modelos
+lineares de funções básicas, Regressão Bayesiano linear. Modelos Lineares para Classificação, Funções
+discriminantes, Modelos generativos probabilísticos, Modelos discriminativos probabilísticos.
+Máquinas de Sparse Kernel, Support Vector Machines (SVM), Relevance Vector Machines (RVM).
+Modelos Gráficos, Redes Bayesianas, Markov Random Fields (MRF), Inferência em modelos gráficos.
+Inferência Aproximada, Métodos Monte Carlo, Métodos Variacionais. Variáveis Latentes Contínuos,
+Análise dos componentes principais (PCA), PCA probabilísticos. Modelos de Dados Sequenciais.
+Metodologia de Ensino Utilizada:
+Para que os objetivos dessa disciplina possam ser atendidos e, consequentemente contribua com os
+objetivos do curso, as seguintes estratégias de ensino-aprendizagem serão utilizadas: Aulas expositivas
+com a utilização de quadro branco e projetor multimídia, procurando explicar a fundamentação
+teórica do assunto; Aula prática em laboratório aplicando os conteúdos trabalhados e aprendendo
+novos conteúdos; Prática de exercícios aplicando os conteúdos trabalhados. Desenvolvimento de
+pesquisas extraclasse sobre os assuntos abordados em aula..
+Recursos Instrucionais Necessários:
+Quadro branco, Projetor multimídia, Laboratório de computação com ferramenta Weka instalada.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Faceli, K.; Lorena, A.C.; Gama, J.; Carvalho, A.C.P.L.F. Inteligência Artificial: uma abordagem de
+aprendizado de máquina. LTC, 2011.
+
+2. Alpaydin, E. Introduction to Machine Learning. MIT Press, 2009, 2nd edition.
+3. Bishop, C. M. Pattern Recognition and Machine Learning. Springer, 2006.
+Complementar:
+1. Duda, R.; Hart, P. E., Stork, D. Pattern Classification. 2nd edition, Wiley-Interscience, 2000.
+2. Hastie, T.; Tibshirani, R.; Friedman, J. The Elements of Statistical Learning (Data Mining,
+Inference and Prediction), 2n edition, Springer, 2009.
+3. Marsland, S. Machine Learning: An Algorithmic Perspective, Chapman and Hall/CRC, 2009.
+4. Tam, P.; Steinbach, M.; Kumar, V. Introduction to Data Mining. Addison-Wesley Pub Co, 2005.
+5. Witten, I. H.; Frank, E.; Hall, M. A. Data Mining: practical machine learning tools and
+techniques, 3rd edition, Morgan Kaufmann, 2011.
+6. Mitchell, T.M. Machine learning. New York: McGraw-Hill, 1997.
+7. Abu-Mostafa, Y.; Magdon-Ismail, M., Lin, H. T. Learning From Data, AMLBook, 2012.
+
+

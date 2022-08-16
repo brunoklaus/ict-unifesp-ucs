@@ -1,0 +1,75 @@
+Nome do Componente Curricular: Tecnologia e Meio Ambiente
+Pré-requisitos: Não há
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Introduzir ao aluno conceitos básicos sobre o impacto da ocupação humana, da necessidade
+crescente de energia e do desenvolvimento de novas tecnologias no meio ambiente. Conscientizar o
+aluno sobre o seu papel como cidadão, na mudança de hábitos e exigência de políticas públicas que
+preservem o meio ambiente, e sobre seu papel como profissional, na busca de tecnologias que visem
+um desenvolvimento sustentável e solucionem problemas ambientais já existentes.
+Específicos:
+ Avaliar o impacto das ações humanas no meio ambiente;
+ Refletir e se posicionar criticamente sobre problemas ambientais;
+ Conhecer os principais problemas ambientais e fontes poluidoras;
+ Entender a relação entre energia e meio ambiente;
+ Relacionar o desenvolvimento de novas tecnologias e o seu impacto no meio ambiente, bem
+como a sua necessidade na preservação ambiental;
+ Entender os princípios do desenvolvimento sustentável.
+Ementa:
+Panorama atual do efeito da ocupação humana no meio ambiente. Noções básicas sobre principais
+fontes de poluição no ar, água e solo. Sustentabilidade. Ações e desenvolvimento de tecnologia
+visando a preservação do meio ambiente. Prevenção e combate a incêndio e desastres.
+Conteúdo Programático:
+ Impacto da Ação Humana no Meio Ambiente
+o Crescimento populacional
+o Urbanização
+o Estilo de vida e consumo
+o Geração de energia
+ Poluição Ambiental
+o Esgotamento e contaminação de solo
+o Mudanças climáticas e qualidade do ar
+o Contaminação e desperdício de água
+o Resíduos sólidos
+ Sustentabilidade
+o Mudanças no estilo de vida e consumo
+o Educação ambiental
+o O Protocolo de Montreal
+o O Protocolo de Kyoto
+ Ações e Avanços Tecnológicos na Preservação do Meio Ambiente
+o Fontes de energia renovável
+o Gerenciamento e redução de resíduos sólidos
+o Reciclagem
+o Tratamento de água
+
+ Prevenção e combate a incêndio e desastres.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos; discussão de aplicações e estudo de casos.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico,
+com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do aluno na
+unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Tyler Miller Jr. G., Ciência Ambiental, editora Cengage Learning, 11ª ed., 2007.
+2. ASHBY M.F., Materials and the environment, editora Butterworth-Heinemann, 1ª ed., 2009.
+3. PACHECO E.B.A.V.; MANO E.B.; BONELLI C., Meio Ambiente, Poluição e Reciclagem, editora
+Edgard Blucher, 2ª ed., 2010.
+Complementar:
+1. Baird C. and Cann M., Environmental Chemistry; editora W H Freeman, 4ª ed., 2009.
+2. BRAGA B., HESPANHOL I., CONEJO J.G.L., BARROS M.T.L., VERAS Jr. M.S., PORTO M.F.A., NUCCI
+N.L.R., JULIANO N.M.A., EIGER S., Introdução à Engenharia Ambiental, Editora ArtLiber, 2ª ed.,
+2005.
+3. ZANIN M., MANCINI S., Resíduos Plásticos e Reciclagem, editora EDUFSCar, 2004.
+4. PIVA A. M., WIEBECK. H., Reciclagem do Plástico: Como fazer da Reciclagem um Negócio
+Lucratico, Editora ArtLiber, 1ª ed., 2004.
+5. Gonçales, C. W. P. O Desafio Ambiental. Rio de Janeiro: Record, 2004.
+
+

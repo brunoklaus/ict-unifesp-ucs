@@ -1,0 +1,98 @@
+Nome do Componente Curricular: Circuitos Elétricos I
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Desenvolver nos alunos competências referentes à interpretação crítica de circuitos elétricos e ao uso
+adequado das ferramentas de análise.
+Específicos:
+Elementos de circuitos; circuitos resistivos; técnicas de análise de circuitos CC/CA, introdução à resposta
+natural e a degrau de capacitores e indutores;
+Ementa:
+Apresentação dos elementos de circuitos, métodos de equivalência, técnicas de análise, análise fasorial,
+conceitos de impedância, indutância e capacitância.
+Conteúdo Programático:
+·
+Elementos de circuitos
+·
+Fontes independentes e dependentes
+·
+Interconexões de fontes
+·
+Leis de Kirchhoff
+·
+Análise de circuitos resistivos
+o
+Associação de resistores, série, paralelo, triângulo-estrela.
+o
+Divisores de tensão e corrente
+o
+Ponte de Wheatstone
+o
+Amperímetros e voltímetros analógicos
+o
+Método das tensões de nó
+o
+Método das correntes de malha
+o
+Transformações de fontes
+o
+Equivalente de Thévenin e Norton
+o
+Superposição
+·
+Análise de regime permanente senoidal
+o
+Fonte senoidal
+o
+Impedância, capacitância e indutância.
+o
+Fasores, diagrama de Fasorial
+o
+Leis de Kirchhoff no domínio da frequência
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades extraclasse em forma de lista de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico,
+com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do aluno na unidade
+curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no
+Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+
+Nilson, J. W.; Riedel, S. A; Circuitos elétricos, 8ª Edição; Editora: Pearson; 2008.
+
+2.
+Charles Alexander, Matthew N. O. Sadiku; Fundamentos de Circuitos Elétricos, 5ª Edição;
+Editora: McGraw Hill, 2013.
+3.
+Boylestad, Robert L.; Introdução à Análise de Circuitos, 10ª Edição; Editora: Prentice
+Hall/2004.
+Complementar:
+1.
+William H Hayt Junior; Analise de circuitos em engenharia, 7ª Edição; Editora: McGraw Hill,
+2008.
+2.
+Orsini, L. Q ; Curso de Circuitos Elétricos – Volume 1; 1ª Edição; Editora: ECEEL; 2004.
+3.
+Orsini, L. Q ; Curso de Circuitos Elétricos – Volume 2; 1ª Edição; Editora: ECEEL; 2004.
+4.
+Malley, J. O; Análise de circuitos, 2ª Edição; Editora: Pearson Education; 1994.
+5.
+Johnson, D. E., John L. Hilburn, J. L.; Johnny, J. R.; Fundamentos de Análise de
+Circuitos
+elétricos, 4ª Edição; Editora: LTC, 2000.
+6.
+Gussow, M.; Eletricidade Básica, 2ª Edição; Editora: Bookman; 2008.
+7.
+Burian Jr, Y., Lyra, A. C.; Circuitos Elétricos; Editora: Pearson Prentice Hall, 2006.
+
+

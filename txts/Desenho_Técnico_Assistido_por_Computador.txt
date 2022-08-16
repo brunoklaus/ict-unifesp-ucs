@@ -1,0 +1,113 @@
+Nome do Componente Curricular: Desenho Técnico Assistido por Computador
+Pré-requisitos: Desenho Técnico Básico
+Carga Horária Total: 36h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Proporcionar ao discente fundamentos de desenho (2D e 3D) assistido por
+computador utilizando o software comercial CAD.
+Específicos:
+•
+Familiarizar o discente com o ambiente gráfico CAD;
+•
+Compreender as funcionalidades da barra de status e painéis;
+•
+Manipulação de layers e cotas;
+•
+Construção 3D de objetos sólidos, de superfície e malhas;
+•
+Técnicas de montagem 3D; e
+•
+Apresentação de projetos.
+Ementa:
+Elementos básicos de desenho 2D, regras de construção, desenhos paramétricos,
+layout de cortes e apresentação, elementos básicos de desenho 3d, sólidos,
+superfícies, malhas, rederização, construção multiarquivos.
+Conteúdo Programático:
+•
+Sistema de coordenadas absolutas e relativas;
+•
+Elementos de desenho 2D (line, polyline, circle, arc, hatch...);
+•
+Elementos de posicionamento e edição (move, rotate, trim, fillet, scale,
+stretch, arrays...);
+•
+Textos, legendas, detalhamentos, tabelas;
+•
+Manipulação de layers (layers propreties manager);
+•
+Desenhos paramétricos (coincident, colinear concentric, tangent, regras
+de linearidades...);
+•
+Ferramentas de cotas (Dimension, Aligned, Angular, Radius, jogged,
+configurações do Dimension Style Manager );
+•
+Configurações de Layout de apresentação (Page Setup, configuração da
+página de impressão, legendas...);
+•
+Elementos básicos de modelagem 3D (Box, extrude, revolve loft,
+sweep...);
+•
+Elementos de superfícies e malhas 3D (Network, planar surface, surface
+blend, surface offset, mesh box, mesh sphere...);
+•
+Edição de elementos 3D (Interseções, slice, Thicken, extrude faces,
+tapper faces, shell, smooth objects...) ;
+•
+Configurações e métodos de renderização de elementos 3D
+(configuração de iluminação, materiais, posicionamento, qualidade da
+
+imagem...);
+•
+Construção de desenhos complexos multiarquivos (assembly);
+•
+Cortes e projeções 3D; e
+•
+Apresentação profissional de projetos.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades extraclasse em forma de lista de exercícios e projetos.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, projetor multimídia e software CAD. Acesso ao MOODLE.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+ROQUEMAR BALDAM, LOURENÇO COSTA; AutoCAD 2013 - Utilizando
+Totalmente, Editora Érica, 2012
+2.
+CLAUDIA CAMPOS LIMA; Estudo Dirigido de AutoCAD 2014; Editora Érica, 2013
+3.
+MAURO MACHADO DE OLIVEIRA; AutoCAD 2013 - Guia prático 2D, 3D e
+perspectiva, Editora: Komedi, 2013.
+Complementar:
+1.
+ADRIANO DE OLIVEIRA, AutoCAD 2013 3D Avançado: Modelagem e Render
+com Mental Ray, Editora Érica, 2013
+2.
+BUGAY, L. E. Autocad 2008 - Da Modelagem à Renderização em 3d. Guia de
+Referência. Editora: Visual Books, 2007.
+3.
+HETEM, Jr. A. Computação Gráfica; Editora: LTC; 2006.
+4.
+WAGNER, ALMIR. Curso de Autocad 2d. São Paulo: Tecknoware Editora, 2003.
+5.
+MARCUS VINICIUS R. VENDITTI; Desenho Técnico Sem Prancheta Com Autocad
+2010 Editora: Visual Books; 2010
+6.
+Conteúdo
+disponibilizado
+por
+Autodesk.
+Disponível
+em:
+www.autodesk.com.br/
+
+

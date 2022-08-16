@@ -1,0 +1,64 @@
+Nome do Componente Curricular: Qualidade
+Pré-requisitos: Probabilidade e Estatística
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Apresentar ao alunos os conceitos e ferramentas da gestão da qualidade por meio de estudos de
+caso.
+Específicos:
+O aluno será capaz de:
+- Entender e analisar o histórico e a evolução da Qualidade como Ciência
+- Analisar criticamente estudos de casos de empresas e indústrias.
+Ementa:
+Histórico e evolução da Qualidade. A qualidade como ciência. Os gurus da qualdiade. Controle da
+qualitdade. Garantia da qualidade. Gestão da qualidade. Gestão total da qualidade. Normas e
+regulamentação. TPM. Lean manufacturing. Seis Sigma. Ferramentas da qualidade. Estudos de caso.
+Conteúdo Programático:
+1 – Histórico e evolução da Qualidade: O nascimento da qualidade nas indústrias
+2 – A qualidade como vantagem competitiva
+3 – Shewhart e o inicio da Qualidade como ciência
+4 – Os Gurus da Qualidade
+5 – Controle da Qualidade
+6 – Garantia da Qualidade
+7 - Gestão da Qualidade
+8 - Gestão Total da Qualidade
+9 – Métodos modernos de gestão e melhoria
+9.1 – Normas
+9.2 – Regulamentação
+9.3 – Total Productive Maintenance
+9.4 – Lean Manufacturing
+9.5 – Seis Sigma
+10 – Aplicação de Ferramentas para melhoria da qualidade
+11 – Graficos e ferramentas avançadas
+12 - Qualidade aplicada nas empresas: Seminários e Palestras de Convidados.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações. Resolução de lista de
+exercícios (em sala de aula e no laboratório de computação) e seminários de profissionais convidados.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Juran J., Godfrey, A. B., Juran's Quality Handbook, McGraw-Hill Professional.
+2. L. C. R. Carpinetti, Gestão da Qualidade: Conceitos e Técnicas, Ed. Atlas, 1ed, 2010.
+3. Paladini E. P., Pacheco E. Gestão da Qualidade - Teoria e Prática, 3ª Ed., Atlas 2012.
+Complementar:
+1. Benício Barros Neto, Ieda Spacino Scarminio, Roy Edward Bruns, Como Fazer Experimentos,
+Bookman.
+2. Montgomery, D. C.; Introdução ao Controle Estatístico da Qualidade, 4ed.; LTC; 2009.
+3. Moore, R.; Selecting the Right Manufacturing Improvement Tools, Butterworth Heinemann,
+2006.
+4. Paladini, E. P.; Gestão Estratégica da Qualidade - Princípios, Métodos e Processos, 2ed., Atlas,
+2009.
+5. Ballestero-Alvares M. E. Gestão de Qualidade, Produção e Operações, 2ª Ed., Atlas, 2012.
+
+

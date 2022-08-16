@@ -1,0 +1,68 @@
+Nome do Componente Curricular: Programação Orientada a Objetos
+Pré-requisitos: Algoritmos e Estruturas de Dados I
+Carga horária total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Geral:
+O objetivo dessa disciplina é apresentar os fundamentos que norteiam a Programação Orientada a
+Objetos, utilizando a linguagem Java. Ao final do curso, os alunos deverão ser capazes de desenvolver
+programas orientados a objetos, utilizando ambientes e ferramentas de desenvolvimento baseados
+em software livre.
+Específicos:
+Capacitar o aluno para o desenvolvimento de software orientado a objetos, utilizando uma linguagem
+de programação com grande aceitação no meio comercial e acadêmico; Propiciar ao aluno uma
+adaptação (transição) entre a programação estruturada e a programação orientada a objetos; Projetar,
+implementar, testar e depurar programas orientados a objetos; Apresentar uma visão geral dos
+recursos avançados da linguagem.
+Ementa:
+Introdução à Programação Orientada a Objetos; Introdução ao Diagrama de Classes da UML; Classes e
+Métodos; Encapsulamento e Sobrecarga; Sobreposição de Métodos; Construtores e Destrutores;
+Herança; Polimorfismo e Ligação Dinâmica; Introdução a uma linguagem Orientada a Objetos.
+Serialização de Objetos. Programação com threads. Tratamento de exceções. Introdução a padrões de
+projetos.
+Conteúdo Programático:
+Introdução à programação orientada a objetos. Classes, Métodos e Atributos. Visibilidade de atributos
+e métodos. Construtores e sobrecarga. Atributos e métodos estáticos. Estruturas de controle e
+decisão. Reutilização de classes (Herança). Classes abstratas e interfaces. Pacotes de classes. Arrays e
+Matrizes. Classes de manipulação de strings. Coleções de objetos. Serialização de objetos. Criação e
+manipulação de threads. Controle e tratamento de exceções. Padrões de projeto: conceito e visão
+geral.
+Metodologia de Ensino Utilizada:
+O curso será baseado em aulas expositivas com auxílio do quadro e projetor multimídia. A
+participação dos alunos em sala de aula será estimulada através de perguntas e sessões de exercícios.
+Para fixação dos tópicos estudados, os alunos receberão, ao longo do curso, listas de exercícios para
+entrega em sala de aula. Por fim, destacam-se as aulas práticas nos laboratórios de informática para
+fixação dos conteúdos através de do uso de ambientes de desenvolvimento de software.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Horstmann, Cay S; Cornell, Gary. Core Java 2: volume 1 - fundamentos. 7.ed. São Paulo:
+Pearson, 2005. 568 p. ISBN 978-85-7608-062-6.
+2. SANTOS, Rafael. Introdução à programação orientada a objetos usando Java. Rio de Janeiro:
+Campus, 2003. 319 p. ISBN 978-85-352-1206-8.
+
+3. Deitel, P.J et al. Java: como programar. 6.ed. São Paulo: Pearson, 2005. 1110 p. ISBN 979-857605-019-2.
+Complementar:
+1. Booch, Grady; Rumbaugh, James; Jacobson, Ivar. UML: guia do usuário. 2 ed. Rio de Janeiro:
+Elsevier, 2005. 474 p. ISBN 978-85-352-1784-1.
+2. ZIVIANI, Nivio; BOTELHO, Fabiano C. Projeto de algoritmos: com implementações em JAVA e C+
++. São Paulo: Thomson, 2007. 621 p. ISBN 978-85-221-0525-0.
+3. Daconta, Michael C. Java for C/C++ programmers. Toronto (CAN): John &Wiley Sons, 1996. 443
+p. ISBN 978-0-471-15324-5. [1]
+4. Cornell, Gary; Hortsmann, Cay S. Core Java 2: Volume 1 - Fundamentals. Upper Saddle River
+(EUA): Prentice Hall, 2001. 806 p. ISBN 978-0-13-089468-7. [2]
+5. Arnold, Ken; Holmes, David; Gosling, James. A linguagem de programação Java. 4 ed. Porto
+Alegre: Bookman, 2007. 799 p. ISBN 978-85-600-3164-1. [8]
+6. GAMMA, Erich et al. Padrões de projeto: soluções reutilizáveis de software orientado a
+objetos. Porto Alegre: Bookman, 2007. 364 p. ISBN 978-85-7307-610-3.
+
+

@@ -1,0 +1,72 @@
+Nome do Componente Curricular: Métodos Matemáticos para a Engenharia
+Pré-requisitos: Séries e equações diferenciais ordinárias; Cálculo em Várias Variáveis
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Aprofundar o ferramental matemático que está na base de diversos processos
+utilizados em diferentes áreas da Engenharia
+Específicos:
+O aluno será apresentado a conceito e técnicas associadas a transformadas integrais,
+expansões em séries e análise funcional em um contexto aplicado a problemas de
+Engenharia. Ao final da unidade curricular o aluno deverá ter dominado o emprego
+básico de tais técnicas, adquirindo melhor fundamentação para atuar na solução de
+problemas avançados em áreas como Sinais, Sistemas e Controle Dinâmico.
+Ementa:
+Números Complexos. Introdução à Análise Funcional e ao Espaço de Hilbert. Séries de
+Fourier. Transformada de Laplace e Transformada de Fourier. Funções de variável
+complexa. Funções analíticas. Cálculo de resíduos.
+Conteúdo Programático:
+ Números complexos: definição, representação cartesiana, representação polar,
+álgebra complexa, fórmula de Euler.
+ Introdução à análise funcional. Espaços funcionais. Noções básicas do Espaço de
+Hilbert. Autofunções, produto interno e ortogonalidade. Análise espectral no espaço
+de Hilbert; Série de Fourier.
+ Transformadas integrais. Transformada de Fourier. Transformada de Laplace.
+Teorema da convolução. Aplicações a problemas em engenharia e física.
+ Funções de variáveis complexas. Funções analíticas. Integral de contorno. Expansão
+em série de Laurent. Cálculo de Resíduos. Aplicações a problemas em engenharia e
+física.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta
+EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+ARFKEN, G. B.; WEBER, H. J.; MARQUES, S. S.; Física matemática: métodos
+matemáticos para engenharia e física. Rio de Janeiro: Elsevier, 2007.
+2.
+ZILL, D.; Matemática Avançada para a Engenharia. 1ª ed. Porto Alegre:
+Bookman, 2011.
+3.
+OLIVEIRA, E.; TYGEL, M. Métodos Matemáticos para a Engenharia. 2ª ed. Rio
+de Janeiro: SBM-IMPA, 2010.
+Complementar:
+1.
+KAMMLER, D. W. First Course in Fourier Analysis. Cambridge: Cambridge
+University Press, 2007.
+2.
+FOLLAND, G. B. Fourier Analysis and its Applications. 2ª ed. São Paulo: EDUSP,
+2007.
+3.
+OLIVEIRA, E. C.; RODRIGUES Jr, W. A. Funções analíticas com aplicações. 1ª ed.
+São Paulo: Livraria da Física, 2006.
+4.
+BROWN, J. W.; CHURCHILL, R. V. Complex variables and applications. 1ª ed.
+Boston: McGraw-Hill, 2009.
+5.
+OLIVEIRA, C. R. de. Introdução à análise funcional. Rio de Janeiro: IMPA, 2010.
+
+

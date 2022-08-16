@@ -1,0 +1,61 @@
+Nome do Componente Curricular: Fisiopatologia Cardiorrespiratória
+Pré-requisitos: Fisiologia Humana I
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Fornecer conhecimento acerca da fisiopatologia das principais afecções cardíacas,
+vasculares e pulmonares, bem como das relações funcionais existentes entre os
+sistemas cardiovascular e respiratório na saúde e na doença..
+Específicos:
+Proporcionar conhecimento acerca da fisiopatologia e terapêutica das principais
+afecções pulmonares e cardiovasculares.
+Ementa:
+Este curso visa proporcionar conhecimento sobre a fisiopatologia e terapêutica das
+principais afecções pulmonares e cardiovasculares como: Hipertensão arterial;
+Miocardiopatias; Infarto agudo do miocárdio; Valvopatias; Arritmias; Insuficiência
+cardíaca; Edema; Choque; Doença Pulmonar Obstrutiva Crônica; Síndrome do
+Desconforto Respiratório Agudo (SDRA); Asma.
+Conteúdo Programático:
+Revisão dos conceitos de Anatomia e Fisiologia Humana, reforçando aspectos
+integrativos entre os sistemas cardiovascular e respiratório; Hipertensão arterial
+essencial e secundária; Miocardiopatias: dilatada, hipertrofia e restritiva; Infarto
+agudo do miocárdio: dislipidemia, síndrome metabólica e processo aterosclerótico;
+Valvopatias; Arritmias; Insuficiência cardíaca; Efeitos fisiopatológicos do edema;
+Choque hipovolêmico, cardiotônico e séptico; Doença Pulmonar Obstrutiva Crônica
+(DPOC); Síndrome do Desconforto Respiratório Agudo (SDRA); Asma eosinofílica;
+Asma neutrofílica.
+Metodologia de Ensino Utilizada:
+Aulas expositivas, apresentação de seminários e estudos de casos.
+Recursos Instrucionais Necessários:
+Lousa e Projetor
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+
+Bibliografia
+Básica:
+1. Zipes DP, Libby P, Bonow RO, Braunwald E. BRAUNWALD – Tratado de Doenças
+Cardiovasculares. 8. ed. São Paulo: Elsevier, 2009.
+2. Serrano Jr CV, Timerman A, Stefanini E. Tratado de Cardiologia Socesp. 2. ed.
+São Paulo: Manole, 2010.
+3. Brandão AA, Nobre F, Amodeo C. Hipertensão. 2. ed. São Paulo: Elsevier, 2012.
+4. Ward, Jeremy P. T. - Ward, Jane - Leach, Richard M. .Fisiologia Básica do
+Sistema Respiratório. 3ª.ed, 2012 - Ed. Manole.
+Complementar:
+1. Kusumoto FM. Fisiopatologia Cardiovascular. São Paulo: Atheneu., 2008.
+2. Black H, Elliott W. Hypertension: A companion to Braunwald´s heart disease. 2.
+ed. São Paulo: Elsevier, 2012.
+3. Massoud Mahmoudi. Alergia e Asma - Diagnóstico e Tratamento. 1a ed., 2009 Ed. Revinter.
+4. John B. West. Fisiopatologia Pulmonar: Princípios Básicos. 7a ed., 2010 - Ed.
+Artmed
+5. A. Burke Cunha. Fundamentos em Pneumonia. 3ª.ed., 2011 - Ed. Artmed.
+
+

@@ -1,0 +1,66 @@
+Nome do Componente Curricular: Introdução à Geometria Diferencial
+Período: 8º semestre
+Pré-requisitos: Cálculo em Várias Variáveis
+Carga Horária Total: 72 h
+Carga Horária Prática: 0 h
+Carga Horária Teórica: 72 h
+Objetivos
+Gerais:
+Estudo de curvas e superfícies em R3.
+Específicos:
+Ao final da unidade curricular o aluno deverá estar apto a parametrizar curvas por
+comprimento de arco, calcular curvatura e torção. O aluno também deverá estar
+familiarizado com o conceito de superfície regular, suas propriedades e os principais
+resultados.
+Ementa:
+Curvas. Superfícies. Aplicação normal de Gauss. Isometrias. Geodésicas.
+Conteúdo Programático:
+1. Curvas parametrizadas, curvas regulares, parametrização por comprimento de arco.
+Teoria local de curvas, triedro de Frenet, curvatura, torção.
+Superfícies regulares, plano tangente, formas fundamentais, orientação.
+Aplicação normal de Gauss.
+Curvaturas média e gaussiana.
+Isometrias, teorema egregium de Gauss.
+Derivada covariante, transporte paralelo, geodésicas, teorema de Gauss-Bonnet
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+1.
+ARAÚJO, P. V. Geometria diferencial. 2ª ed. Rio de Janeiro: SBM-IMPA, 2008.
+2.
+CARMO, M. P. Geometria Diferencial de Curvas e Superfícies, 6ª ed. Rio de
+Janeiro: SBM-IMPA, 2014.
+3.
+TENENBLAT, K. Introdução à geometria diferencial. 2ª ed. São Paulo: Edgard
+Blücher, 2008.
+
+Complementar:
+1.
+BURNS, K.; GIDEA, M. Differential geometry and topology: with a view to
+dynamical systems. USA: Chapman & Hall, 2005.
+2.
+GRAY, A.; ABBENA, E.; SALAMON, S. Modern differential geometry of curves
+and surfaces with mathematica. 2a. ed. Boca Raton: Chapman & Hall, 2006.
+3.
+KUHNEL, W. Elementary differential geometry: curves, surfaces, manifolds.
+2a. ed. California: American Mathematical Society, 2005.
+4.
+O’NEILL, B. Elementary differential geometry. San Diego: Academic Press,
+2006.
+5.
+TOPONOGOV, V. R. Differential geometry of curves and surfaces: a concise
+guide. Boston: Birkhauser, 2006.
+
+

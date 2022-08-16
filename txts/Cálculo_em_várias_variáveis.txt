@@ -1,0 +1,55 @@
+Nome do Componente Curricular: Cálculo em Várias Variáveis
+Pré-requisitos: Cálculo em Uma Variável; Geometria Analítica
+Carga Horária Total: 72h
+Carga Horária Prática: 10h
+Carga Horária Teórica: 62h
+Objetivos
+Gerais:
+Propiciar ao aluno novas ferramentas relacionadas ao Cálculo, tornando-o apto a enfrentar vários e
+novos problemas em geometria e ciências naturais.
+Específicos:
+Desenvolver vários conceitos e suas propriedades de forma a possibilitar ao aluno resolver problemas
+relacionados às funções de varias variáveis. O aluno deverá desenvolver habilidades para resolver
+problemas de geometria e ciências, usando integrais duplas, integrais triplas, e campos vetoriais.
+Ementa:
+Cálculo para funções de várias variáveis: limite, continuidade, derivação, integração e campos
+vetoriais.
+Conteúdo Programático:
+• Funções de várias variáveis (FVV). Revisão de curvas e superfícies - equações paramétricas e
+coordenadas polares. Limites de FVV. Continuidade de FVV. Derivadas parciais.
+Diferenciabilidade e diferencial total. Regra da cadeia. Derivadas parciais de ordem superior.
+Condições suficientes para diferenciabilidade.
+• Derivadas direcionais. Gradientes. Aplicações: planos tangentes e normais a superfícies.
+Extremos de FVV. Funções implícitas e derivação. Multiplicadores de Lagrange.
+• Integração múltipla: integral dupla. Cálculo de integrais duplas. Integral dupla em coordenadas
+polares. Área de superfícies. Integração tripla. Integração tripla em coordenadas cilíndricas e
+esféricas. Mudança de variáveis em integrais múltiplas.
+• Campos vetoriais. Integrais de linha. Teorema de Green. Integrais de superfícies. Teorema de
+Gauss. Teorema de Stokes.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios. Listas de exercícios extraclasse.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Laboratório de informática. Acesso ao MOODLE como
+ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. GUIDORIZZI, H. L. Um curso de cálculo. v. 2. 5ª Ed. Rio De Janeiro: LTC, 2007.
+2. 2. GUIDORIZZI, H. L. Um curso de cálculo. v. 3. 5ª Ed. Rio De Janeiro: LTC, 2007.
+3. 3. STEWART, J. Cálculo. v.2. 6ª ed. São Paulo: Cengage Learning, 2009.
+Complementar:
+1. BOULOS, P.; ABUD, Z. I. Cálculo diferencial e integral. v.2. São Paulo: Pearson, 2006.
+2. 2. FLEMMING, D. M.; Gonçalves, M. B. Cálculo B: funções de várias variáveis, integrais
+múltiplas, integrais curvilíneas e de superfície. 2ª ed. São Paulo: Pearson, 2007.
+
+3. 3. LEITHOLD, L. O cálculo com geometria analítica. v. 2. 3ª ed. São Paulo: Harbra, 1990.
+4. 4. SIMMONS, G. F. Cálculo com geometria analítica. v. 2. 1ª ed. São Paulo: Pearson, 2008.
+5. 5. THOMAS, G. B. Cálculo. v. 2. 12ª ed. São Paulo: Pearson, 2013.
+
+

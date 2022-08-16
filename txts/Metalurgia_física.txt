@@ -1,0 +1,125 @@
+Nome do Componente Curricular: Metalurgia Física
+Pré-requisitos: Ciência e Tecnologia dos Materiais
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+
+Carga Horária Teórica: 72h
+
+Objetivos
+Gerais:
+Apresentar e explicar os princípios básicos da Metalurgia Física que determinam as
+propriedades e comportamento de metais e ligas metálicas.
+Específicos:
+Capacitar o estudante a entender aspectos metalúrgicos fundamentais como a estrutura de
+metais e ligas e seus defeitos, e os processos de transformação de fases. Correlacionar os
+aspectos estruturais com as propriedades físicas e mecânicas e compreender os mecanismos
+de endurecimento em metais e ligas.
+Ementa:
+Estrutura de Metais. Discordâncias e Fenômenos de escorregamento. Contornos de grãos.
+Defeitos Pontuais. Recozimento. Fases e Diagramas de Equilíbrio. Transformações de Fases.
+Endurecimento por Precipitação. Transformação Martensítica e Maclagem.
+
+Conteúdo Programático:
+1. Estrutura de Metais
+1.1. Revisão de Estrutura atômica e ligações químicas;
+1.2. Estrutura cristalina de metais;
+1.3. Direções e planos cristalográficos; Índices de Miller;
+1.4. Projeção estereográfica
+
+2. Discordâncias e Fenômenos de escorregamento
+2.1. Discordâncias: definição e conceitos básicos (revisão)
+2.2. Nucleação de discordâncias
+2.3. Vetor de Burgers e notação vetorial
+2.4. Dissociação de discordâncias e falha e empilhamento
+2.5. Discordâncias em estruturas CFC
+2.6. Sistemas de deslizamento
+2.7. Endurecimento por trabalho a frio (Mecanismo de endurecimento)
+
+3. Dicordâncias e contornos de grãos
+3.1. Contornos de baixo ângulo
+3.2. Energia e tensão superficial de contornos de grãos
+3.3. Efeito dos contornos de grãos nas propriedades mecânicas: Relação Hall-Petch
+(Mecanismo de endurecimento)
+
+4. Defeitos pontuais
+4.1. Vacâncias
+4.2. Soluções sólidas;
+4.3. Endurecimento por solução sólida, mecanismos (Mecanismo de endurecimento)
+4.4. Interação entre átomos de soluto e discordâncias;
+4.5. Envelhecimento por deformação.
+
+5. Recozimento
+5.1. Energia de deformação;
+5.2. Recuperação estática e dinâmica;
+5.3. Recristalização: efeito do tempo, temperatura e deformação; formação de núcleos;
+5.4. Crescimento de grão: força motriz, modelos; efeito de átomos de soluto e precipitados.
+
+6. Fases e Diagramas de Equilíbrio
+6.1. Definições básicas;
+6.2. Termodinâmica de soluções;
+6.3. Número de fases em um sistema de ligas;
+6.4. Regra das fases;
+6.5. Determinação de diagramas de fases;
+6.6. Sistemas isomorfos;
+6.7. Sistemas eutéticos;
+6.8. Transformação peritética;
+6.9. Transformação monotética;
+
+7. Transformações de fases
+7.1. Tipo das transformações de fases;
+7.2. Teoria e cinética de nucleação homogênea e heterogênea;
+7.3. Cinética de crescimento: crescimento controlado por difusão; crescimento controlado por
+interface;
+7.4. Transformações isotérmicas, diagramas TTT.
+7.5. Transformações no resfriamento contínuo.
+
+8. Endurecimento por precipitação
+8.1. Curva solvus e tratamento térmico de solubilização;
+8.2. Envelhecimento;
+8.3. Nucleação de precipitados: termodinâmica e cinética;
+8.4. Mecanismos de endurecimento por precipitação;
+8.5. Sistemas de ligas endurecidas por precipitação.
+
+9. Transformação martensítica e Maclagem
+9.1. Deformação por maclagem
+9.2. Nucleação e contornos de maclas
+9.3. Efeito da presença de maclas
+9.4. Martensita e distorção de Bain;
+9.5. Caracteristícas da transformação martensítica;
+9.6. Mecanismos de formação da martensita;
+
+9.7. Martensítica termoelástica; martesita induzida por tensão
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e exemplos de aplicações. Resolução de listas de
+exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia..
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o processo de
+ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. Para isto, as avaliações deverão ser ponderadas de
+maneira crescente ou, ainda, propiciar alternativas de recuperação, como provas substitutivas
+e/ou aplicação de trabalhos adicionais. A promoção do aluno na UC obedecerá aos critérios
+estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do
+curso.
+Bibliografia
+Básica:
+1. Abbaschian, R.; Abbaschian, L.; Reed-Hill, R.E. Principles of Physical Metalurgy, CLEngineering; 4 edition, 2010.
+2. Porter, D.A.; Easterling K.E.; Sherif M. Phase Transformations in Metals and Alloys,
+CRC Press; 3 edition, 2009.
+3. Smallman, R.E.; Ngan, A.H.W. Physical Metallurgy and Advanced Materials,
+Butterworth-Heinemann; 7 edition, 2007.
+Complementar:
+1. Callister, W.D. Ciência e Engenharia de Materiais: Uma Introdução. 7ª ed. Rio de
+Janeiro:LTC – Livros Técnicos e Científicos Editora S.A., 2008.
+2. Rios, P. R.; Padilha, A. F. Transformações de Fases. Artiber, 2007.
+3. Brandt, D.A.; Waner, J. C. Metallurgy Fundamentals: ferrous and nonferrous. 5ª ed.,
+2009.
+4. Chiaverini, V. Tratamento Térmico das Ligas Metálicas, ABM, 2008.
+5. Taylor, J. L. Dicionário Metalúrgico: inglês-português / português-inglês. 2ª ed. ABM,
+2010.
+6. Dieter, G.E. Metalurgia Mecânica, Ed. Guanabara Dois, 1988.
+
+

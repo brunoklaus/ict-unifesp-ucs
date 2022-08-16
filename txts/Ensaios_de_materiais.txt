@@ -1,0 +1,102 @@
+Nome do Componente Curricular: Ensaios de Materiais
+Pré-requisitos: Ciência e Tecnologia dos Materiais
+Carga Horária Total: 72h
+Carga Horária Prática: 20h
+Carga Horária Teórica: 52h
+Objetivos
+Gerais:
+Compreensão da importância dos ensaios de materiais utilizados em engenharia para o projeto e
+fabricação de estruturas e dispositivos, e a necessidade de padronização dos ensaios. Princípios
+básicos, procedimentos e aplicações dos ensaios de materiais mais usados na engenharia.
+Determinação das propriedades de materiais obtidas pelos ensaios.
+Específicos:
+Identificar os tipos de ensaios para a caracterização das diversas propriedades dos materiais de
+engenharia. Identificar as fontes de padronização para a especificação e execução de ensaios.
+Conhecer os principais ensaios mecânicos dos materiais e suas aplicações e interpretações. Conhecer
+os principais ensaios não destrutivos e seus princípios e aplicações.
+Ementa:
+Tipos de ensaios e normalização. Ensaio de tração. Ensaio de compressão. Ensaios de flexão e
+dobramento. Ensaio de torção. Ensaio de dureza. Ensaios de impacto. Ensaio de fadiga e propagação
+de trincas por fadiga. Ensaio de tenacidade à fratura. Ensaio de fluência. Ensaios não destrutivos.
+Conteúdo Programático:
+1- Tipos de ensaios e normalização:
+1.1- Considerações gerais e tipos de ensaios,
+1.2- Normalização de ensaios e normas técnicas,
+1.3- Sistemas de unidades,
+1.4- A importância da estatística.
+2- Ensaio de tração:
+2.1- Curva tensão-deformação,
+2.2- Diagrama tensão verdadeira-deformação verdadeira,
+2.3- Ensaios de tração em cerâmicas e polímeros.
+3- Ensaio de compressão:
+3.1- Aspectos gerais,
+3.2- Ensaios de compressão em metais, cerâmicas e polímeros,
+3.3- Ensaio de compressão diametral.
+4- Ensaios de flexão e dobramento:
+4.1- Aspectos gerais,
+4.2- Métodos engastado, três e quatro pontos,
+4.3- Ensaio de dobramento em metais,
+4.4- Ensaios de flexão em cerâmicas e polímeros.
+5- Ensaio de torção:
+5.1- Aspectos gerais,
+5.2- A curva tensão-deformação em cisalhamento.
+6- Ensaio de dureza:
+6.1- Aspectos gerais,
+6.2- Medida de dureza Brinnel, Vickers e Rockwell,
+6.3- Ensaios de Microdureza e Nano-identação,
+
+6.4- Dureza Shore, IRHD, Barcol e Webster
+7- Ensaios de impacto:
+7.1- Aspectos gerais,
+7.2- Temperatura de transição dútil-frágil,
+7.3- Ensaio Charpy,
+7.4- Ensaio Izod.
+8- Ensaio de fadiga:
+8.1- Aspectos gerais,
+8.2- Curvas sxN, εxN e diagramas de Goodman,
+8.3- Análise estatística dos resultados,
+8.4 - Curva dadNxdeltaK.
+9- Ensaio de tenacidade à fratura:
+9.1- Aspectos gerais,
+9.2- Tipos de ensaios,
+9.3- A curva R.
+10- Ensaio de fluência:
+10.1- Aspectos gerais,
+10.2- Curvas de fluência,
+10.3- Análise dos resultados.
+11- Ensaios não destrutivos:
+11.1- Aspectos gerais,
+11.2- Métodos de radiação,
+12.3- Métodos de ultrasom,
+11.4- Métodos magnéticos de de correntes parasitas,
+11.5- Método por líquidos penetrantes.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e exemplos de aplicações. Resolução de lista de
+exercícios. Práticas de laboratório.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia. Laboratório de Ensaios Mecânicos.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Souza, S. A. Ensaios Mecânicos de Materiais Metálicos: fundamentos teóricos e práticos. 5
+edição (1982). Editora Edgard Blucher.
+2. Garcia, A.; Spim, J. A.; Dos Santos C. A. Ensaios dos Materiais (2000). Editora LTC.
+3. Dowling, N. E. Mechanical behavior of materials: engineering methods for deformation,
+fracture, and fatigue. 3 edição (2007). Editora Pearson.
+Complementar:
+
+1. Green, D. J. An Introduction to Mechanical Properties of Ceramics (1998). Editora Cambridge
+University Press.
+2. Canevarolo Jr., S. Técnicas de caracterização de polímeros (2003). Editora Artliber.
+3. Mano, E. B. Polímeros como materiais de engenharia (1991). Editora Edgard Blücher Ltda.
+4. Dieter, G. Metalurgia Mecânica. 2 edição (1981). Editora Guanabara Dois.
+5. Callister Jr., W. D. Ciência e engenharia de materiais: uma introdução. 7 edição (2008). Editora
+LTC.
+
+

@@ -1,0 +1,40 @@
+Nome do Componente Curricular: Tópicos em Matemática Computacional I
+Pré-requisitos: Não há
+Carga horária total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+O objetivo principal desta unidade curricular é desenvolver no aluno um conjunto de competências,
+habilidades e atitudes importantes no perfil do Egresso em Matemática Computacional.
+Específicos:
+ Permitir ao aluno a identificação, formulação e resolução de problemas relacionados a
+Matemática Computacional ou com suas aplicações;
+ Possibilitar o contato com inovações científicas e tecnológicas decorrentes de pesquisas
+recentes na área de Matemática Computacional ou de suas aplicações;
+ Desenvolver uma postura de permanente busca na atualização profissional do aluno.
+Ementa: Seminários, resolução de problemas ou desenvolvimento de projetos envolvendo a
+Matemática Computacional ou suas aplicações.
+Conteúdo Programático:
+O conteúdo programático deve variar de acordo com as necessidades definidas para o o semestre.
+Metodologia de Ensino Utilizada:
+Esta unidade curricular poderá ser baseada em aulas expositivas e práticas, podendo ocorrer
+seminários, debates e dinâmicas de grupo. Metodologias ativas poderão ser adotadas, como por
+exemplo, a aprendizagem baseada em problemas ou projetos (PBL - Problem Based Learning).
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia, computador e acesso ao Moodle como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+As referências bibliográficas serão disponibilizadas para a realização dessa unidade curricular,
+devendo compreender os recursos de aprendizagem que o aluno utilizará no processo de
+fundamentação e levantamento bibliográfico. A bibliografia poderá ser composta por livros, artigos
+técnicos e científicos, manuais e tutoriais, além de outros recursos bibliográficos, a depender dos
+tópicos estudado na Unidade Curricular.
+
+

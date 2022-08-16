@@ -1,0 +1,54 @@
+Nome do Componente Curricular: Bioquímica I
+Pré-requisitos: Fundamentos de Biologia Moderna
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introdução à bioquímica.
+Específicos:
+Introdução aos conceitos fundamentais da bioquímica; à estrutura e função das principais moléculas
+biológicas e às principais vias do metabolismo energético.
+Ementa:
+Estrutura e Função de Proteínas, Glicídios, Ácidos Nucleicos e Lipídeos. Métodos Bioquímicos. Enzimas
+e enzimologia. Glicólise. Ciclo de Krebs. Fosforilação Oxidativa. Metabolismo do Glicogênio.
+Fotossíntese e Ciclo de Calvin.
+Conteúdo Programático:
+1. Proteínas.
+2. Glicídios.
+3. Ácidos Nucleicos.
+4. Lipídeos.
+5. Métodos Bioquímicos.
+6. Enzimas e enzimologia.
+7. Glicólise.
+8. Ciclo de Krebs.
+9. Fosforilação Oxidativa.
+10. Metabolismo do Glicogênio.
+11. Fotossíntese e Ciclo de Calvin.
+Metodologia de Ensino Utilizada:
+Aulas teóricas.
+Recursos Instrucionais Necessários:
+Sala de aula; data-show.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. STRYER, L.; TYMOCZKO, J.L.; BERG, J.M. Bioquímica. 5a ed., Ed. Guanabara-Koogan, 2004.
+2. ALBERTS, B. et al. Fundamentos da biologia celular. 2a ed. Porto Alegre: ARTMED, 2006.
+3. NELSON, D.L.; COX, M.M. LEHNINGER princípios de bioquímica. 5a ed. Porto Alegre: Artmed,
+2011.
+Complementar:
+1. DONALD VOET & JUDITH G. VOET. Bioquímica Ed. Artmed, 2007.
+
+2. HARVEY LODISH ET AL. Biologia Celular e Molecular. Ed. Artmed, 2007.
+3. MARZZOCO, Anita; TORRES, Bayardo Baptista. Bioquímica básica. 3 ed. Rio de Janeiro:
+Guanabara Koogan, 2007.
+4. CAMPBELL, M. K. Bioquímica, 3ª edição, Artmed, 2000.
+5. BRUCE ALBERTS et al. Biologia Molecular da célula. 4ª Edição, Artmed, 2004.
+
+

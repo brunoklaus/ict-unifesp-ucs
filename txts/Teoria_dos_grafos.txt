@@ -1,0 +1,56 @@
+Nome do Componente Curricular: Teoria dos Grafos
+Pré-requisitos: Projeto e Análise de Algoritmos
+Carga horária total: 72h
+Carga Horária Prática: 10h
+Carga Horária Teórica: 62h
+Objetivos
+Geral:
+Introdução à teoria dos grafos. Prova a teoremas clássicos. Modelagem de problemas reais usando
+grafos.
+Específicos:
+Ao final do curso o aluno deve estar familiarizado com a notação e os conceitos básicos em grafos.
+Deve estar apto a reconhecer e realizar demonstrações matemáticas de algoritmos como menor
+caminho, fluxo máximo, planaridade. Ao final, espera-se uma maturidade na utilização de formalismo
+matemático e a capacidade de modelar problemas reais em grafos.
+Ementa: Definições e conceitos básicos. Isomorfismo. Árvores. Conexidade. Problema do caminho
+mínimo. Trilhas eulerianas e ciclos hamiltonianos. Emparelhamentos. Problema do fluxo máximo.
+Planaridade. Coloração. Tópicos selecionados.
+Conteúdo Programático:
+Conceitos básicos: grafos, subgrafos, grafos orientados; Conexidade: grafos conexos, corte de arestas,
+corte de vértices e ciclos; Árvores: definições básicas, árvores geradoras; Algoritmos de busca: busca
+em largura, busca em profundidade e ordenação topológica; Árvores geradoras mínimas: algoritmos
+de Kruskal e Prim; Algoritmos para caminhos mínimos: Dijkstra, Bellman-Ford, caminhos mínimos em
+DAGs, Multiplicação de matrizes, Floyd-Warshall; Fluxos em redes: definições básicas, algoritmo FordFulkerson, emparelhamento máximo em grafos bipartidos, método preflow-push..
+Metodologia de Ensino Utilizada:
+Aulas expositivas; Atividades monitoradas em grupos de trabalho; Laboratório de programação;
+Atividades complementares a distância; Listas de exercícios.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Bondy, J.A.; Murty, U.S.R.. Graph theory. New York: Springer, 2008. 657 p. (Graduate texts in
+mathematics). ISBN 978-1-84628-969-9;
+2. Diestel, Reinhard. Graph theory. 3 ed. New York: Springer, c2006. 410 p. ISBN 978-3-54026183-4;
+3. SEDGEWICK, Robert. Algorithms in C: part 5 - graph algorithms. New Jersey: Addison-Wesley,
+2007. 482 p. ISBN 978-0-201-31663-6;
+4. P. O. Boaventura Netto. Teoria e Modelo de Grafos. Edgard Blucher, SP, 1996.
+Complementar:
+1. ABREU, N. M. M. ; DEL-VECCHIO, R. ; VINAGRE, C. ; STEVANOVI , D. . Introdução à Teoria
+Espectral de Grafos com Aplicações. Rio de Janeiro: SBMAC, 2007. v. 1. 105p;
+2. ROSEN, Kenneth H; YELLEN, Jay; GROSS, Jonathan L. Graph Theory and its applications. 2.ed.
+Nova York: Chapman & Hall/CRC, c2006. 779 p. ISBN 978-1-584-88505-4.;[2];
+3. BOLLOBÁS, Béla. Modern graph theory. New York: Springer, c1998. 394 p. ISBN 978-0-387-
+
+98488-9.;[1];
+4. BOLLOBAS, Bela. Extremal graph theory. Mineola: Dover Publications, c1978. 488 p. ISBN 9780-486-43596-1.;[1];
+5. Marco Cesar Goldbarg, Elizabeth Goldbarg. Grafos: Conceitos, Algoritmos e Aplicações.
+Campus, 2012;
+
+

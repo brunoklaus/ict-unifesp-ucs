@@ -1,0 +1,95 @@
+Nome do Componente Curricular: Sistemas Embarcados
+Pré-requisitos: Não há.
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Ao término desta unidade curricular, o aluno deverá ter assimilado conhecimentos básicos sobre a
+área de sistemas embarcados, e ser capaz de projetar e implementar sistemas embarcados utilizando
+plataformas e bibliotecas de desenvolvimento.
+Específicos:
+ Conhecer os principais componentes da arquitetura de microcontroladores;
+ Familiarizar-se com linguagens e bibliotecas de ambientes de desenvolvimento de sistemas
+embarcados;
+ Controlar sensores, atuadores e dispositivos de E/S a partir de microcontroladores;
+ Projetar e programar sistemas embarcados baseados em microcontroladores.
+Ementa:
+Introdução e histórico. Aplicações de sistemas embarcados. Microcontroladores. Sistemas de
+memória. Interfaces de comunicação. Sensores e atuadores. Dispositivos de entrada e saída. Coprojeto de hardware/software. Programação de microcontroladores.
+Conteúdo Programático:
+ Histórico e evolução dos sistemas embarcados
+ Microcontroladores
+o Arquitetura de microcontroladores
+o Portas de E/S
+o Periféricos
+ Interfaces de comunicação
+o UART
+o SPI
+o I2C
+ Sensores
+o Analógicos
+o Digitais
+ Atuadores
+o Servomotor
+o Motor de passos
+o Motor de corrente contínua
+ Dispositivos de entrada e saída
+o LEDs e botões
+o Display de 7 segmentos
+o Display LCD
+o Teclado
+ Programação de microcontroladores
+o Firmware
+o Ambientes de desenvolvimento
+
+o Controle de periféricos
+o Controle de dispositivos de E/S
+o Interação com sensores e atuadores
+o Modulação da largura de pulso (PWM)
+ Simulação de sistemas embarcados
+o Projeto do hardware
+o Integração hardware/software
+ Co-projeto de hardware/software
+o Especificação
+o Particionamento
+o Síntese
+o Análise
+o Prototipação
+o Abordagens de co-projeto
+Metodologia de Ensino Utilizada:
+Esta unidade curricular será baseada em aulas expositivas com auxílio de quadro branco e projetor
+multimídia. As aplicações de sistemas embarcados serão desenvolvidas tanto em sala de aula como
+extra-classe, e deverão ser realizadas utilizando uma plataforma de trabalho específica que permita o
+desenvolvimento de projetos bem como a realização de simulações para verificar a funcionalidade dos
+sistemas projetados. Kits de desenvolvimento de sistemas embarcados serão utilizados para a
+implementação física dos sistemas projetados.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia, computadores com softwares instalados e kits de desenvolvimento de sistemas embarcados.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Peckol, James K. Embedded Systems: a contemporary design tool. Hoboken, N.J.: John Willey &
+Sons, 2008. 810 p. ISBN 978-0-471-72180-2.
+2. Wilmshurst, T. Designing embedded systems with PIC microcontrollers: principles and
+applications. 2.ed. Inglaterra: newnes, 2010. 661 p. ISBN 978-1-85617-750-4.
+3. Ganssle, Jack. The art of designing embedded systems. Burlington, MA: Elsevier, 2008. 298 p.
+ISBN 978-0-7506-8644-0.
+Complementar:
+1. De Oliveira, A. S.; de Andrade, F. S. Sistemas Embarcados: Hardware e Firmware na prática.
+Editora Érica, 2006.
+2. Lee, Edward Ashford; Seshia, Sanjit Arunkumar. Introduction to embedded systems: a cyberphysical systems approach. [s.l.]: LeeSeshia.org, 2011. 480 p. ISBN 978-0-557-70857-4.
+
+3. De Souza, D. R.; de Souza, D. J. Desbravando o PIC24. Editora Érica. 2008.
+4. LEE, Insup; LEUNG, Joseph Y-T; SON, Sang H. Handbook of real-time and embedded systems.
+[s.l.]: [s.n.], 2007. [p. irr.]. ISBN 978-1-584-88678-5.
+5. Yaghmour, K.; Masters, J.; Ben-Yossef, G.; Gerum, P. Construindo Sistemas Linux Embarcados.
+Editora Alta Books, 2009. ISBN: 9788576083436.
+
+

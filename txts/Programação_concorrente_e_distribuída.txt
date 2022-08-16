@@ -1,0 +1,73 @@
+Nome do Componente Curricular: Programação Concorrente e Distribuída
+Pré-requisitos: Sistemas Operacionais
+Carga Horária Total: 72h
+Carga Horária Prática: 30h
+Carga Horária Teórica: 42h
+Objetivos
+Geral:
+Apresentar aos alunos os fundamentos programação concorrente para arquiteturas paralelas e/ou
+distribuídas.
+Específicos:
+Ao final do curso os alunos deverão ser capazes de compreender os princípios da programação
+concorrente para arquiteturas paralelas e distribuídas, bem como projetar algoritmos segundo estes
+princípios.
+Ementa: Introdução a programação concorrente; Arquitetura de máquinas paralelas e distribuídas;
+Análise de dependências; Técnicas e algoritmos clássicos em programação concorrente e distribuída
+(seções críticas, exclusão mútua, semáforos, monitores, sincronização de relógios, etc); Expressando
+concorrência em sistemas de memória compartilhada e distribuída; Medidas de desempenho de
+aplicações paralelas; Exploração de paralelismo; solução de problemas com concorrência; Introdução
+a programação para arquiteturas Multicore/Manycores e GPGPU. Técnica de Map-Reduce.;
+Conteúdo Programático:
+Introdução a programação concorrente: motivação e representação de concorrência, concorrência e
+paralelismo. Arquitetura de máquinas paralelas e distribuídas (introdução): Sistemas multitarefas,
+taxonomia de Flynn, Multiprocessadores (SMP – Symetric Multi Processor), multicores/manycores,
+Sistemas distribuídos (clusters e grades computacionais), paralelismo de múltiplos níveis. Expressando
+concorrência em sistemas de memória compartilhada (introdução): processos Jork-Join e Threads
+(Posix-Threads e Java-Threads), OpenMP. Medidas de desempenho de aplicações paralelas: Speedup,
+Eficiência, Escalabilidade e Lei de Amdahl. Técnicas e algoritmos clássicos em programação
+concorrente e distribuída: Seções críticas; Exclusão mútua (MuteX); Atomicidade; Barreiras; Semáforos
+(algoritmos: dining philosophers, leitores/escritores, produtor/consumidor); Monitores; Justiça
+(evitando starvation); Condições de corrida; Deadlocks; Consenso (Generais Bizantinos); Eleição;
+Tokens; Sincronização de Relógios e relógios lógicos de Lamport. Expressando concorrência em
+sistemas de memória distribuída (introdução): Modelo de Troca de Mensagens (MPI - Message
+Passing Interface). Análise de dependências. Exploração de paralelismo: Paralelismo de dados
+(decomposição de domínio) e paralelismo de fluxo (decomposição funcional). Solução de problemas
+com concorrência utilizando algoritmos paralelos (Ordenação; Multiplicação de Matrizes; Solução de
+Sistemas Lineares de equações, etc). Introdução a programação para arquiteturas
+Multicore/Manycores e GP-GPU (General Pourpouse Graphics Processing Unit). Introdução a Técnica
+de Map-Reduce.
+Metodologia de Ensino Utilizada:
+O curso será baseado em aulas expositivas com auxílio do quadro e projetor multimídia. A
+participação dos alunos em sala de aula será estimulada através de perguntas e sessões de exercícios.
+Para fixação dos tópicos estudados, os alunos receberão, ao longo do curso, listas de exercícios para
+entrega em sala de aula. Por fim, destacam-se as aulas práticas nos laboratórios de informática para
+fixação dos conteúdos através de do uso de ambientes de desenvolvimento de software.
+Recursos Instrucionais Necessários:
+Data-show e computador para suporte visual das aulas expositivas em sala. Laboratório de computadores conectados em rede (para experimentação prática de programas para sistemas de memória distribuída) para aulas práticas com assentos e equipamentos suficientes. Ambiente “Moodle” para
+apoio à atividades complementares a distância. Acervo bibliográfico para consulta.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Ben-Ari, M. Principles of Concurrent and Distributed Programming, 2a edição, Addison-Wesley,
+2006.
+2. Herlihy, M., Shavit, N. The Art of Multiprocessor Programming, Elsevier, 2008
+3. Andrews, G.R. Foundations of Multithreaded, Parallel, and Distributed Programming, AddisonWesley, 1999;
+Complementar:
+1. De Rose, C.A.F., Navaux, P.O.A. Arquiteturas Paralelas, Bookman, 2008.
+2. Hughes, C., Hughes, T. Professional Multicore Programming – Design and Implementation for
+C++ Developers, Wrox, 2008.
+3. Dowd, K. High Performance Computing, O'Reilly, 1993.
+4. Lea, D. Concurrent Programming in JavaTM: Design Principles and Patterns, 2a edição,
+Addison-Wesley, 1999.
+5. Tanenbaum, A.S., Steen, M., Sistemas Distribuídos: princípios e operações, 2a edição, Pearson,
+2008.
+6. Ghosh, S., Distributed Systems: An Algorithmic Approach, CRC Press, 2006.
+
+

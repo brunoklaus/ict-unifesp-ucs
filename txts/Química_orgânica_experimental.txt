@@ -1,0 +1,60 @@
+Nome do Componente Curricular: Química Orgânica Experimental
+Pré-requisitos: Química Geral; Química Geral Experimental
+Carga Horária Total: 72h
+Carga Horária Prática: 72h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Capacitar o aluno para desenvolver e planejar experiências envolvendo reações orgânicas.
+Específicos:
+Ao final da disciplina o aluno deverá ser capaz de aplicar as principais técnicas analíticas de separação
+e purificação de compostos orgânicos; sintetizar compostos orgânicos; determinar as principais
+propriedades físico-químicas de um composto orgânico, além de se capaz de caracterizar o materiais
+sintetizados utilizando técnicas espectroscópicas e analíticas.
+Ementa:
+Normas de segurança básica no laboratório de química orgânica; Métodos básicos de determinação
+das propriedades físico-químicos de compostos orgânicos; Métodos básicos de separação e
+purificação de compostos orgânicos; Preparação de compostos orgânicos típicos.
+Conteúdo Programático:
+1. Segurança em laboratórios de química orgânica;
+2. Determinação de ponto de ebulição e ponto de fusão de compostos orgânicos.
+3. Destilação Simples e fracionada; Destilação à pressão reduzida e por arraste de vapor;
+4. Solubilidade, recristalização e sublimação de sólidos orgânicos;
+5. Extração de líquidos e sólidos através de solventes orgânicos;
+6. Determinação do índice de refração e rotação específica de compostos orgânicos;
+7. Purificação e preparação de reagentes e solventes;
+8. Síntese de compostos orgânicos e caracterização;
+9. Experimentos livres propostos pelos alunos.
+Metodologia de Ensino Utilizada:
+Serão ministradas aulas expositivas. Também se buscara fazer com que os e alunos participem da
+aula, que eles desenvolvam os conceitos das tecnicas experimentais paraque sejam aplicadas no
+decorrer dos exerimentos.
+Recursos Instrucionais Necessários:
+Laboratório de química, Reagentes para a execução dos experimentos; Equipamentos para
+caracterização e identificação de substâncias. Vidrarias e pequenos equipamentos comuns no
+laboratório de Química Orgânica.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Pavia, D.L. Química Orgânica Experimental. Bookman, 2ed, 2010.
+2. Mano, E. B.; Dias, M. L.; Oliveira, C. M. F. Química Experimental de Polímeros, Ed. Edgard
+
+Blucher, 2004.
+3. Mayo, D.W.; Pike, M. R.; Trumper, P.K. - Microscale Techniques for the Organic Laboratory, 2a
+ed, Wiley, 2002.
+Complementar:
+1. Mano, E. B. E.; Seabra, A. P., Práticas de Química Orgânica. 3a ed., Ed. E. Blücher, 1987.
+2. Vogel, A. I. Volgel`S. Textbook of Practical Organic Chemistry, 5a Ed., New York, Longman
+Scientific & Technical e John Wiley & Sonsm, 1989.
+3. Roberts, R. M., Gilbert J. C., Martin S. F. Experimental Organic Chemistry – A miniscale
+approach, Saunders College Publishing, 1994.
+4. Bruice, P. Y. Química Orgânica, v. 1, 4ª ed., Prentice Hall do Brasil, 2006.
+5. Bruice, P. Y. Química Orgânica, v. 2. 4ª ed., Prentice Hall do Brasil, 2009.
+
+

@@ -1,0 +1,77 @@
+Nome do Componente Curricular: Introdução à Análise de Falhas em Metais
+Período: 9º semestre
+Pré-requisitos: Metalurgia Mecânica
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Apresentar ao aluno conceitos relativos sobre os fundamentos da análise de falhas
+como resistência dos materiais à fratura, mecânica de fratura e tipologias de falhas,
+com análise de casos reais, por meio de metodologia de análise.
+Específicos:
+Conscientizar o aluno a respeito de seu papel como futuro engenheiro no estudo de
+análise de falhas e apresentar conceitos e técnicas relacionados à análise de falhas e a
+engenharia de materiais.
+Ementa:
+Conceitos básicos de falhas; fratura; análise fractográfica de falha; fratura dúctil;
+fratura frágil; fratura por fadiga; ferramentas complementares para análise de falhas
+e estudo de casos referentes à aplicações em análise de falhas.
+Conteúdo Programático:
+1- Conceitos básicos: Possíveis causas das falhas de estruturas e componentes
+metálicos; Ferramentas de análises de falhas; Técnicas aplicadas à análise de
+falhas; Tipos de falhas: fratura, corrosão e outros.
+2- Fratura: Definição e tipos de defeitos de fabricação que favorecem a
+ocorrência de fratura; Tipos de Fratura: Dúctil; Frágil Transgranular/Clivagem;
+Frágil Intergranular/Fragilização pelo Hidrogênio/Corrosão sob Tensão e por
+outros agentes externos/ambientais; Fadiga.
+3- Análise Fractográfica de Falha: Discussão sobre aspectos de superfície de
+fraturas, correlacionando mecanismo de causa-efeito.
+4- Fratura Dúctil: Aspectos Macroscópicos e Microscópicos; Mecanismo de
+Fratura Dúctil; Influência das Principais Variáveis na Fratura Dúctil.
+5- Fratura Frágil: Fratura Frágil por Clivagem - Transgranular; Fratura Frágil
+Intergranular; Agentes fragilizantes internos e externos.
+6- Fratura por Fadiga: Aspectos macroscópicos e microscópicos: Efeito do tipo de
+carregamento no aspecto da superfície de fratura por fadiga; Tipos específicos
+de fadiga; Mecanismos.
+7- Ferramentas complementares para análise de falhas: FMEA; FTA; Heiser e
+Colangelo; Diagrama Ishikawa.
+8- Estudo de casos referentes à aplicações em Análise de Falhas.
+
+Metodologia de Ensino Utilizada:
+Aulas expositivas, atividades de pesquisa, estudo de casos e seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. Ele será composto por apresentação de
+seminários, elaboração de textos e discussão em sala. O sistema adotado deve
+contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre.
+Alternativas de recuperação, como aplicação de trabalhos adicionais, serão oferecidas
+quando necessário. A promoção do aluno na UC obedecerá aos critérios estabelecidos
+pela Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+1. ASM Metals Handbook: Failure Analysis and Prevention - Volume 11 - ASM
+Handbook, 2002.
+2. Metalografia e análise de falhas: casos selecionados (1933-2003). Editores
+Cesar R. F. Azevedo e Tibério Cescon. São Paulo: Instituto de Pesquisas
+Tecnológicas (IPT), 2004.
+3. Análise de Falhas Em Equipamentos de Processo - Mecanismos de Danos e
+Casos Práticos - 2ª ed. André da Silva Pelliccione e Milton Franco Moraes,
+Interciência, 2014.
+Complementar:
+1.
+DIETER, G.E. Mechanical Metallurgy, McGraw-Hill,1 edition, 1988.
+2.
+Dowling, N.E. Mechanical Behavior of Materials. Person Prentice Hall, 3rd
+edition, 2007.
+3.
+Meyers, M.A.; Chawla, K.K. Mechanical behavior of materials, Cambridge
+University Press, 2nd edition, 2009.
+4.
+TAYLOR, James L. Dicionário metalúrgico: inglês-português/portuguêsinglês. 2ed. São Paulo: Associação Brasileira de Metalurgia, Materiais e
+Mineração, 2010.
+
+

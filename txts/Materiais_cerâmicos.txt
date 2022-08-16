@@ -1,0 +1,71 @@
+Nome do Componente Curricular: Materiais Cerâmicos
+Pré-requisitos: Ciência e Tecnologia dos Materiais
+Carga Horária Total: 72h
+Carga Horária Prática: 12h
+Carga Horária Teórica: 60h
+Objetivos
+Gerais:
+A disciplina tem como objetivo apresentar aos alunos os conceitos fundamentais sobre os materiais
+cerâmicos.
+Específicos:
+O aluno será capaz de:
+• Conhecer a estrutura de diferentes materiais cerâmicos cristalinos (óxidos, nitretos e carbetos
+com importantes aplicações tecnológicas) e a estrutura dos silicatos usados no fabricação de
+cerâmicas tradicionais.
+• Conhecer a estrutura dos vidros e os princípios para a sua formação e, as composições típicas
+dos principais tipos de vidros comerciais.
+• Compreender os diferentes diagramas de equilíbrio de fases dos materiais cerâmicos.
+• Compreender a microestrutura dos materiais cerâmicos.
+Ementa:
+Introdução aos materiais cerâmicos. Materiais cerâmicos cristalinos e não cristalinos. Diagramas de
+equilíbrio de fases. Microestrutura. Práticas.
+Conteúdo Programático:
+A – Introdução aos Materiais Cerâmicos
+1. História e evolução dos materiais cerâmicos
+2. Definição e classificação dos materiais cerâmicos
+3. A Cerâmica no Brasil e no mundo
+B - Materiais Cerâmicos Cristalinos e Não Cristalinos
+1. Estruturas cristalinas
+2. Imperfeições nas cerâmicas
+3. Vidros
+C - Diagrama de Equilíbrio de Fases
+1. Regra de fases de Gibbs
+2. Sistemas binários
+3. Sistemas ternários
+D. Microestrutura dos Materiais Cerâmicos
+1. Sinterização
+2. Crescimento de grão
+E. Aulas Práticas
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações. Resolução de lista de
+exercícios e aulas práticas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia. Laboratório de Materiais Cerâmicos.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Kingery, W. D.; Bowen, H.K.; Uhlmann, D.R. Introduction to Ceramics, 2nd ed. Jonh Wiley &
+Sons, 1976.
+2. Chiang, Y. M.; Birnie, D. P.; Kingery, W. D. Physical Ceramics: Principles for Ceramic Science and
+Engineering. Jonh Wiley & Sons, 1997.
+3. Norton, M. G.; Carter, C. B. Ceramic Materials: Science and Engineering. Editora Springer. 2007.
+Complementar:
+1. Callister Jr., W. D. Ciência e Engenharia de Materiais: Uma Introdução, 7a. Edição. Editora LTC,
+2008.
+2. Boch, P.; Nièpce, J. C. Ceramic materials: processes, properties and applications, 1ª Edição,
+Editora Wiley-ISTE, 2007.
+3. Barsoum, M. W. Fundamentals of Ceramics. 1st Edition, Editora Taylor & Francis, 2002.
+4. Richerson, D. W. Modern Ceramic Engineering: Properties, Processing, and Use in Design. 3rd
+ed. New York: Boca Raton: CRC Press, 2006.
+5. Dinger, D. R. Characterization techniques for ceramics. Dinger Ceramic. Consulting Services,
+2005, ISBN: 0-9715696-5.
+6. Rahaman, M. N. Ceramic Processing and sintering. 2nd Edition, Boca Raton: CRC Press, 2003.
+
+

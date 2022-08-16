@@ -1,0 +1,98 @@
+Nome do Componente Curricular: Metalurgia Extrativa
+Pré-requisitos: Materiais Metálicos, Termodinâmica dos Sólidos
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Esta disciplina tem por objetivos apresentar a Metalurgia Extrativa mostrando seus fundamentos e
+aplicações.
+Específicos:
+- Descrever os processos e reações envolvidas na extração de metais..
+- Apresentar os diversos processos de extração de forma aplicada para os metais mais utilizados.
+Ementa:
+Tratamento de Minérios. Fundamentos de termodinâmica metalúrgica. Matérias primas.
+Condicionamento químico e físico de minérios e concentrados. Combustíveis da metalurgia.
+Apresentação de processos pirometalúrgicos, hidrometalúrgicos e eletrometalúrgicos. Metalurgia do
+aço. Metalurgia do alumínio, cobre, magnésio, zinco e titânio.
+Conteúdo Programático:
+A - Tratamento de Minérios
+1. Conceituação básica;
+2. Quantificação de operações;
+3. Separação por tamanho;
+4. Liberação;
+5. Fragmentação;
+6. Concentração;
+7. Separação sólido líquido;
+8. Impacto ambiental.
+B - Fundamentos de termodinâmica metalúrgica
+2. Equilíbrio químico;
+3. Diagramas de Ellingham;
+4. Atividade química e Relações atividade-composição;
+5. Reações em fase gasosa e envolvendo sólido e gás;
+6. Potencial químico e equilíbrio.
+C - Matérias primas
+1. Minérios e minerais;
+2. Redutores;
+3. Fluxantes;
+4. Ferro-ligas e Sucatas;
+5. Refratários.
+D - Condicionamento químico e físico de minérios e concentrados
+1. Secagem;
+2. Calcinação;
+3. Ustulação;
+4. Sinterização e pelotização.
+E - Combustíveis da metalurgia
+
+1. Óleos combustíveis;
+2. Carvão mineral, coqueificação;
+3. Reforma do gás natural.
+F - Processos Pirometalúrgicos
+1. Processos de ustulação e processo de calcinação;
+2. Redução de óxidos ferrosos e não ferrosos; redução de sulfetos;
+3. Processos de cloração;
+Operações de refino.
+G - Processos hidrometalúrgicos
+1. Preparação de minérios;
+2. Lixiviação: reagentes e métodos;
+3. Recuperação de metais de lixívias: eletrólise, cementação e redução por hidrogênio.
+H - Processos Eletrometalúrgicos
+1. Princípios de eletrólise;
+2. Eletrólise de sais fundidos;
+3. Refino eletrolítico;
+I - Metalurgia do aço
+1. Alto-forno, produção de gusa;
+2. Fabricação de aço em conversor a oxigênio, refino a vácuo;
+3. Forno Elétrico, Forno Panela;
+4. Lingotamento do aço: estrutura dos lingotes de aços acalmados e efervescentes;
+5. Processos de lingotamento em lingoteira e lingotamento contínuo.
+J - Metalurgia do alumínio, cobre, magnésio, zinco e titânio
+1. Aplicação dos principais processos de redução e refino.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico,
+com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do aluno na
+unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Mourão, M.B. Introdução à Siderurgia, ABM, 2007.
+2. Rosenqvist, T. Principles of Extractive Metallurgy. Tapir Academic Press; 2 edition, 2004.
+3. Araujo, L.A. Manual de Siderurgia, V.1 - Produção, Arte & Ciência, 2ª ed., 2009.
+Complementar:
+1. Rizzo, E.M.S. Introdução aos Processos Siderúrgicos, ABM.
+2. Fuerstenau, M.C.; Han K.N. Principles of Mineral Processing, Society for Mining Metallurgy &
+Exploration, 2003.
+
+3. Vignes, A. Extractive Metallurgy 1: Basic Thermodynamics and Kinetics, Wiley-ISTE; 1 edition,
+2010.
+4. Vignes, A. Extractive Metallurgy 2: Metallurgical Reaction Processes, Wiley-ISTE; 1 edition, 2011.
+5. Vignes, A. Extractive Metallurgy 3: Processing Operations and Routes, Wiley-ISTE; 1 edition,
+2011.
+
+

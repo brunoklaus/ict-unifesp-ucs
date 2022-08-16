@@ -1,0 +1,62 @@
+Nome do Componente Curricular: Projetos em Engenharia de Computação
+Pré-requisitos: Não há
+Carga Horária Total: 36h
+Carga Horária Prática: 28h
+Carga Horária Teórica: 08h
+Objetivos
+Gerais:
+O objetivo principal desta unidade curricular, como descrito no Projeto Pedagógico do Curso, é
+desenvolver no aluno um conjunto de competências, habilidades e atitudes através da solução de
+problemas relacionados à engenharia de computação, utilizando tanto aprendizagem autônoma
+(individual) quanto colaborativa (equipe). Nesta unidade curricular o problema comanda o processo
+de aprendizagem e, por isso, deve preceder o conhecimento do aluno.
+Específicos:
+ Permitir ao aluno a identificação, formulação e resolução de problemas relacionados à
+Engenharia de Computação;
+ Desenvolver competências, habilidades e atitudes relacionadas à comunicação eficiente nas
+formas escrita e oral;
+ Permitir ao aluno que atue de maneira colaborativa em equipes;
+ Desenvolver uma postura de permanente busca na atualização profissional do aluno.
+Ementa:
+Resolução de problemas ou desenvolvimento de projetos relacionados à Engenharia de Computação
+por meio da metodologia PBL (Problem-Based Learning).
+Conteúdo Programático:
+Definição do problema/projeto que deverá ser disponibilizado aos alunos no início do semestre;
+Realização de várias mesas redondas entre os grupos de alunos para que seja realizado o ciclo de
+aprendizagem denominado situação-fundamentação-realização; Apresentação dos resultados
+obtidos, dos produtos gerados e dos textos técnicos e científicos confeccionados; Entrevista com os
+alunos para identificar os conhecimentos adquiridos ao longo da resolução do problema.
+Metodologia de Ensino Utilizada:
+A dinâmica desta unidade curricular está baseada na metodologia PBL, a qual deve-se fundamentar
+no ciclo de aprendizagem denominado situação-fundamentação-realização. Na fase situação,
+apresenta-se ao aluno um problema, normalmente do mundo real, procurando mantê-lo em contato
+com fenômenos e objetos que o motivem a adquirir novos conhecimentos técnicos para a resolução
+do problema proposto. Na segunda fase ocorre a fundamentação, onde ao contrário do ciclo
+tradicional de ensino em que conceitos teóricos são estudados antes da apresentação de qualquer
+problema, o aluno de PBL deve realizar todo o levantamento bibliográfico necessário à resolução do
+problema, iniciando uma reflexão crítica que o leve a essa resolução. O problema deve ser capaz de
+despertar no aluno a motivação, para que este tenha interesse suficiente na aquisição da base teórica
+que lhe falta, na compreensão e na solução do contexto colocado. Por fim, na fase de realização, o
+aluno deve utilizar os conceitos teóricos estudados para solucionar o problema, aproximando a teoria
+aprendida com a prática, permitindo-lhe, assim, a compreensão da realidade apresentada.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia, computadores, componentes eletrônicos, softwares específicos,
+Kits de desenvolvimento, maquetes e outros equipamentos dependendo dos problemas a serem
+abordados.
+
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia:
+A bibliografia desta unidade curricular pode ser disponibilizada junto com o problema/projeto
+definido no início do semestre e deve compreender os recursos de aprendizagem que o aluno poderá
+utilizar no processo de fundamentação e levantamento bibliográfico do problema apresentado.
+Portanto, a bibliografia é variável, podendo ser composta por artigos técnicos e científicos, manuais e
+tutoriais, livros e sites da internet. No entanto, vale a pena ressaltar que o aluno deve ter total
+liberdade na busca de referências bibliográficas para a resolução do problema apresentado.
+
+

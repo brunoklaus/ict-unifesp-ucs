@@ -1,0 +1,82 @@
+Nome do Componente Curricular: Transdução de Grandezas Biomédicas
+Pré-requisitos: Circuitos Elétricos II
+Carga Horária Total: 72h
+Carga Horária Prática: 20h
+Carga Horária Teórica: 52h
+Objetivos
+Gerais:
+- Desenvolver a capacidade e habilidade dos alunos em análise de projetos de eletrônica de
+instrumentação e transdução de grandezas biomédicas;
+- Propiciar o conhecimento sobre sensores e transdutores biomédicos nas diferentes aplicações no
+contexto da engenharia biomédica.
+Específicos:
+- Fornecer ao aluno conhecimentos teóricos e práticos de sensores e eletrodos para medição de
+biopotenciais e sinais biológicos.
+- Entender o princípio de funcionamento de transdutores e dos circuitos amplificadores para
+medições de temperatura, deslocamento, velocidade, aceleração, força, pressão e fluxo, no contexto
+da aplicação biomédica.
+- Desenvolver a capacidade de relacionar os circuitos e dispositivos estudados com disciplinas
+correlatas e o uso na engenharia biomédica.
+Ementa:
+Sistema de medida e definição de sensores e transdutores biomédicos. Condicionamento de sinais
+biomédicos e análise de ruídos. Arquitetura dos sistemas de medida. Tipos de sensores biomédicos.
+Métodos de medidas CC e AC. Sistema de amplificação de biopotencial. Métodos de amplificação de
+sensores e transdutores no contexto biomédico. Projetos de circuitos para amplificação de sinais
+elétricos gerados por biopotencial e sensores/transdutores biomédicos. Sensores biomédicos e
+aplicações clínicas.
+Conteúdo Programático:
+ Sistema de medida: definição de sensores biomédicos – conceitos básicos e classificação
+(físico, químico e biológico) –.
+ Sinais biomédicos e ruídos: bioelétrico, biomagnético e detecção de parâmetros fisiológico e
+bioquímico.
+ Arquitetura dos sistema de medida: dinâmica entrada/saída do sensor, sistema amortecido,
+sub-amortecido e criticamente amortecido.
+ Tipos de sensores: resistivo, capacitivo, indutivo, geradores de tensão – termopares,
+fotovoltaicos, piezoelétricos e piroelétricos –.
+ Métodos de medidas em corrente alternada e contínua.
+ Sistema de amplificação de biopotencial: amplificadores de instrumentação, amplificadores
+isoladores e proteção elétrica para paciente/equipamento, sistema de redução de ruído e
+filtros.
+ Método de amplificação de sensores e transdutores biomédicos, tais como, pressão,
+temperatura e luminosidade.
+ Projeto, desenvolvimento e construção de eletrocardiógrafo: amplificadores, shield driver,
+filtro passivo, amplificador isolador, filtros ativos, acoplamento AC, conversor ADC e
+visualização de sinais.
+ Projeto e construção de circuito de amplificação de sensores e trandutores, tais como,
+piezoelétrico, fotoresistivos e termoresisitivos.
+
+ Sensores biomédicos: pressão, fluxo, respiratório, movimento e força, temperatura e químico.
+Metodologia de Ensino Utilizada:
+Aulas expositivas, demonstração (prática realizada pelo professor) e laboratório (atividades práticas
+no desenvolvimento de circuitos para a transdução de grandezas biomédicas).
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, projetor multimídia e laboratório de eletrônica.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Dally, J.W.; Riley, W.F.; McConnell, K.G. "Instrumentation for Engineering Measurements", 2nd
+ed., John Wiley & Sons, 1993.
+2. NORTHROP, R.B. Introduction to Instrumentation and Measurments. 2ed., Taylor & Francis,
+p.743, 2005.
+3. HERMAN, I.P. Physics of the human body. Springer, New York, p.857, 2007.
+4. HARSÁNYI, G. Sensor in Biomedical Apllications: Fundamentals, Technology and Applications.
+CRC Press, p.349, 2000.
+Complementar:
+1. Webster, J.G. "Medical Instrumentation: Application and Design", 4th ed., John Wiley & Sons,
+2009.
+2. Cobbold, R.S.C. "Transducers for Biomedical Measurements: Principles and Applications", John
+Wiley & Sons, 1974.
+3. Neuman, M.R.; Fleming, D.G.; Cheung, P.W.; Ko, W.H. "Physical Sensors for Biomedical
+Applications", CRC Press, 1980.
+4. Doebelin, E.O. "System Modeling and Response", John Wiley & Sons, 1980. Enderle, J.;
+Blanchard, S.M.; Bronzino, J. "Introduction to Biomedical Engineering", Academic Press, 1999.
+5. Geddes, L.A.; Baker, L.E. "Principles of Applied Biomedical Instrumentation" John Wiley &
+Sons, 1968.
+
+

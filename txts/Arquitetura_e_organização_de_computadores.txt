@@ -1,0 +1,123 @@
+Nome do Componente Curricular: Arquitetura e Organização de Computadores
+Pré-requisitos: Circuitos Digitais
+Carga Horária Total: 72h
+Carga Horária Prática: 20h
+Carga Horária Teórica: 52h
+Objetivos
+Gerais:
+Ao término desta unidade curricular, o aluno deverá ser capaz de descrever e analisar
+os elementos constituintes de um sistema computacional (processadores, memórias e
+dispositivos de entrada/saída), identificando a relação entre um determinado
+hardware e a linguagem de máquina (software) correspondente. Sendo, os objetivos
+gerais são:
+•
+
+Descrever o funcionamento de um sistema computacional através dos
+fundamentos da lógica digital;
+
+•
+
+Descrever técnicas e arquiteturas computacionais empregadas na atualidade;
+
+•
+
+Analisar e comparar o impacto de diferentes arquiteturas no desempenho de
+um sistema computacional.
+
+Específicos:
+• Definir e detalhar uma unidade central de processamento;
+•
+
+Apresentar os conceitos de linguagem de máquina, as formas de
+endereçamento e o conjunto de instruções;
+
+•
+
+Enfatizar o conceito de hierarquia de memória com suas diferentes funções e
+medidas de desempenho;
+
+•
+
+Apresentar os principais mecanismos para a realização de operações de
+entrada e saída;
+
+•
+
+Apresentar técnicas e arquiteturas que podem ser utilizadas para melhorar o
+desempenho de um sistema computacional, abordando assuntos relacionados
+à pipeline, previsão de desvio, arquiteturas superescalares e
+multiprocessamento.
+
+Ementa:
+Organização de computadores: processador, memória, entrada/saída. Sistema de
+memória. Componentes da Unidade Central de Processamento (UCP): a unidade
+lógica e aritmética (ULA) e a unidade de controle. Conjunto de Instruções. Modos de
+Endereçamento. Arquitetura RISC e CISC. Noções de Linguagem de Máquina. Memória
+Cache. Pipeline. Arquiteturas Superescalares. Sistema Multiprocessado. Memória
+Virtual. Mecanismos de Entrada/Saída.
+Conteúdo Programático:
+Classificação de Computadores: máquinas SISD, SIMD, MISD e MIMD. Visão geral de
+Arquitetura e Organização de Computadores: CPU, MMU, FPU, cache interna, cache
+externa, DRAM, barramento de dados/controle, controlador de disco, HD, monitor,
+teclado. Sistema de Memória: classificação de memórias e implementação de células
+de memória SRAM e DRAM. Dispositivos Lógicos Programáveis: ROM, PLA, PAL, FPGA
+
+e CPLD. Unidade de Controle Hardwired/Microprogramada: monociclo, multiciclo,
+seqüenciador, microinstruções e implementação de controle hardwired e
+microprogramado. Conjunto de Instruções e Linguagem de Máquina: endereçamento
+de operandos, instruções de transferência de dados, instruções de manipulação de
+dados, instruções de controle de programa, interrupção de programa, conversão de
+linguagem de alto nível para linguagem de máquina e para binário. Modos de
+Endereçamento e codificação de instruções. Memória Cache: princípio da localidade,
+hierarquia de memória, função de mapeamento, memória CAM e políticas de escrita.
+Pipeline: conceitos fundamentais, conflitos estruturais, dependências de dados e de
+controle. Arquitetura Superescalar: conceitos fundamentais, algoritmo de Scoreboard,
+algoritmo de Tomasulo e previsão de desvio. Sistema de Interconexão: redes estáticas,
+redes dinâmicas, roteamento de mensagens, redes-em-chip. Sistema
+Multiprocessado: conceitos fundamentais, coerência de cache, protocolos snoopy e
+baseados em diretórios. Memória Virtual: objetivo/motivação, endereços
+físicos/virtuais, segmentação/paginação, tabelas de páginas, TLB (translation
+lookaside buffer) e MMU (memory management unit). Mecanismos de Entrada/Saída:
+tipos de periféricos, interface de E/S, E/S programada, E/S por interrupção, DMA
+(acesso direto à memória) e processadores de E/S.
+Metodologia de Ensino Utilizada:
+Esta unidade curricular será baseada em aulas expositivas com o auxílio de quadro
+branco e de projetor multimídia. A participação dos alunos em sala de aula será
+estimulada por meio da realização de projetos de alguns sistemas digitais. Esses
+projetos serão realizados tanto em sala de aula como extra-classe e deverão ser
+desenvolvidos utilizando uma plataforma de trabalho específica que permita o
+desenvolvimento de projetos digitais bem como a realização de simulações para
+verificar a funcionalidade dos circuitos projetados.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e computadores com o software Quartus II instalado.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Organização e Projeto de Computadores: A Interface Hardware/Software.
+David A. Patterson e John L. Hennessy. Editora Campus. ISBN: 8535215212,
+2005.
+
+2. Fundamentos de Arquitetura de Computadores. Raul Fernando Weber. Série
+Livros Didáticos – 08. Editora Bookman. ISBN: 9788577803101, 2008.
+3. Organização Estruturada de Computadores. Andrew S. Tanenbaum. Editora
+Prentice-Hall. ISBN: 8576050676, 2006.
+Complementar:
+1. Arquitetura de Computadores: Uma abordagem Quantitativa. John L. Hennessy
+e David A. Patterson. Editora: Campus. ISBN: 8535211101, 2003.
+2. Arquiteturas Paralelas. César A. F. de Rose, Philippe O. A. Navaux. Série Livros
+Didáticos – 15. Editora Bookman. ISBN: 9788577803095, 2008.
+3. Logic and Computer Design Fundamentals. M. Morris Mano e Charles L. Kime.
+Editora Prentice-Hall. ISBN: 013198926X, 2007.
+4. Digital Design and Computer Architecture. David M. Harris e Sarah L. Harris.
+Editora Elsevier. ISBN: 9780123704979, 2007.
+5. VHDL: Descrição e Síntese de Circuitos Digitais. Roberto D’Amore. Editora LTC.
+ISBN: 8521614527, 2005.
+
+

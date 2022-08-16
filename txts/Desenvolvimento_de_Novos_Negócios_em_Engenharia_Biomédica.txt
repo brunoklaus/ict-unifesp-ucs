@@ -1,0 +1,89 @@
+Nome do Componente Curricular: Desenvolvimento de Novos Negócios em Engenharia
+Biomédica
+Pré-requisitos: Microeconomia
+Carga Horária Total: 36h
+Carga Horária Prática: 18h
+
+Carga Horária Teórica: 18h
+
+Objetivos
+Gerais:
+- Desenvolver a capacidade e habilidade dos alunos sobre os aspectos relacionados ao
+desenvolvimento de empresas com bases tecnológicas denominadas “Startup”;
+- Propiciar o conhecimento sobre “Startup” nos diferentes campos e contextos da Engenharia
+Biomédica.
+Específicos:
+- Fornecer aos alunos conhecimentos teóricos e visão prática sobre o modelo de negócio;
+- Entender e inter-relacionar as áreas de patente, plano de negócio, investidores, parque
+tecnológico, políticas públicas nacionais e processo de desenvolvimento;
+- Desenvolver a capacidade dos alunos em estruturar um modelo de negócio para uma “Startup”.
+Ementa:
+Visão geral do modelo de negócio de “Startup”; Propriedade Industrial; Plano de Negócio;
+Investidores; Parque Tecnológico e Incubadoras; Políticas Públicas Nacionais; e Processo de
+Desenvolvimento.
+ Conteúdo Programático:
+1- Introdução:
+⁃
+1.1- Modelo de Negócio de uma “Startup”
+1.2- A decisão de Empreender
+1.3- Avaliação de Oportunidades
+1.4- Desenvolvimento de Estratégia
+2- Propriedade Industrial:
+2.1- Tipos de Patentes
+2.2- Bancos de Patentes
+2.3- Custos de Patentes
+2.4- Avaliando sua ideia: potencial de venda versus proteção industrial
+3- Plano de Negócio
+3.1- Modelo de Negócio
+3.2- Estudo de Mercado: concorrência e influências
+3.3- Estratégicas e Projeções
+3.4- Operações e Organização
+3.5- Plano Financeiro
+4- Investidores
+4.1- Tipos de investidores
+4.2- Investidores Nacionais e Americanos
+5- Espaços e Políticas Nacionais
+5.1- Incubadoras
+5.2- Parque Tecnológico
+
+5.3- Políticas Públicas para Inovação
+6- Processo de Desenvolvimento
+6.1- Processo para desenvolvimento de produto
+6.2- Importância do design
+6.3- Construindo protótipo
+6.4- Marketing
+6.5- Estudo de Casos
+Metodologia de Ensino Utilizada:
+Aulas expositivas: apresentação de conceitos e discussões de aplicações. Desenvolvimento de
+trabalhos práticos e dinâmica em grupos empregando o modelo interativo de experimentação do
+Design Thinking e orientação direta de docente em sala de aula.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das atividades
+letivas e divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o progresso
+do aluno ao longo do semestre. Para isto, as avaliações deverão ser ponderadas de maneira
+crescente ou, ainda, propiciar alternativas de recuperação, como provas substitutivas e/ou
+aplicação de trabalhos adicionais. A promoção do aluno na UC obedecerá aos critérios
+estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do
+curso.
+Bibliografia
+Básica:
+1. DORNELAS, José C. A. Empreendedorismo: transformando idéias em negócios. Rio de
+Janeiro: Elsevier, 2008. 232 p.
+2. SABBAG, Paulo Yazigi. Gerenciamento de projetos e empreendedorismo. [s.l.]: [s.n.],
+2009. 210 p.
+3. Prahalad, C.K.; Krishnan, M.S.. A nova era da inovação. [The new age of innovation].
+Tradução Afonso da Cunha Serra. Rio de Janeiro: Elsevier, 2008. 242 p.
+Complementar:
+1. Hisrich, Robert D; Peters, Michael P; Shepherd, Dean A. Empreendedorismo. [Entrepeneurship]. Tradução Teresa Cristina Felix de Sousa, Consultoria, supervisão e revisão
+técnica Liliane de Oliveira Guimarães. 7. ed. Porto Alegre: Bookman, 2009. 662 p.
+2. BIAGIO, Luiz Arnaldo; BATOCCHIO, Antonio. Plano de negócios: estratégias para micro e pequenas empresas. [s.l.]: [s.n.], 2005. 365 p.
+3. Longenecker, Justin Gooderl et al. Administração de pequenas empresas. [Small business
+management: an entrepeneurial emphasis]. Tradução: Oxbridge Centro de Idiomas, Revisão técnica: Alvaro Mello, Carlos Tasso Eira de Aquino e Raul Ribas. São Paulo: Thomson Learning, 2007. 498 p.
+4. Landes, David S.; Mokyr, Joel; Baumol, William J.. A origem das corporações. [The invention of interprise]. Tradução: Donaldson Garschagon. Rio de Janeiro: Elsevier, 2010.
+634 p.
+5. CHIAVENATO, Idalberto. Gestão de pessoas. Rio de Janeiro: Elsevier, 2010. 579 p.
+
+

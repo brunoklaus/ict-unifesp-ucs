@@ -1,0 +1,51 @@
+Cálculo em Uma Variável
+Química Geral
+Lógica de Programação
+Fundamentos de Biologia Moderna
+Ciência, Tecnologia e Sociedade
+Fenômenos Mecânicos
+Ciência, Tecnologia, Sociedade e Ambiente
+Geometria Analítica
+Séries e Equações Diferenciais Ordinárias
+Química Geral Experimental
+Anatomia
+Metodologia da Pesquisa e Comunicação Científica
+Cálculo em Várias Variáveis
+Álgebra Linear
+Fenômenos do Contínuo 
+Fenômenos Mecânicos Experimental 
+Fisiologia Humana I
+Algoritmos em Bioinformática
+Desenho Técnico Básico
+Mecânica Geral 
+Fenômenos Eletromagnéticos
+Fenômenos do Contínuo Experimental
+Circuitos Elétricos I 
+Cálculo Numérico
+Fisiologia Humana II
+Circuitos Digitais 
+Análise de Sinais 
+Laboratório de Circuitos Elétricos
+Fenômenos Eletromagnéticos Experimental
+Circuitos Elétricos II
+Probabilidade e Estatística
+Controle de Sistemas Dinâmicos 
+Sistemas Mecânicos 
+Introdução à Eletrotécnica
+Laboratório de Eletrônica Digital
+Eletrônica avançada
+Processamento de Sinais
+Imagens Biomédicas
+Transdução de Grandezas Biomédicas
+Biomecânica
+Biomateriais
+Microeconomia
+Instrumentos Eletromédicos
+Engenharia Clínica Hospitalar
+Instrumentos Biomédicos
+Biossensores
+Teorias Administrativas
+Sistemas Embarcados
+Bioengenharia
+Avanços em Engenharia Biomédica
+Engenharia Médica Aplicada

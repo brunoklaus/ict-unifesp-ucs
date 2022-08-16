@@ -1,0 +1,63 @@
+Nome do Componente Curricular: Laboratório de Eletrônica Digital
+Pré-requisitos: Circuitos Digitais
+Carga Horária Total: 36h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Fornecer aos alunos uma visão prática e abrangente sobre a eletrônica aplicada em
+circuitos digitais.
+Específicos:
+Desenvolver com os alunos:
+ Os conceitos práticos dos componentes semicondutores e suas aplicações
+típicas;
+ Aplicações da eletrônica em dispositivos digitais.
+Ementa:
+Portas lógicas e elementos básicos de eletrônica. Circuitos lógicos combinacionais,
+biestáveis, sequenciais e contadores. Multiplexadores e demultiplexadores. Circuitos
+digitais com microcontroladores. Projetos e implementação de sistemas digitais.
+Conteúdo Programático:
+1. Projeto e implementação de circuitos lógicos em protoboard.
+2. Estudo das principais portas lógicas envolvendo análise de manuais e saídas a
+partir de osciloscópio e associação a LEDS para teste.
+3. Montagem de sistemas eletrônicos utilizando circuitos lógicos combinacionais,
+biestáveis, sequenciais e contadores (FlipFlops).
+4. Estudo e montagem de circuito decodificador, display e clock.
+5. Aplicação de multiplexador e demultiplexador para controle de display.
+6. Projeto e implementação de conversor A/D.
+7. Projeto e implementação de módulo multicanal utilizando multiplexador.
+8. Projeto utilizando microcontroladores.
+Metodologia de Ensino Utilizada:
+Aulas expositivas (lousa e projeção) e práticas de laboratório.
+Recursos Instrucionais Necessários:
+Giz, lousa, apagador, projetor multimídia e Laboratório de Eletrônica.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas e divulgado aos alunos. O sistema adotado deve
+contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre.
+Para isto, as avaliações deverão ser ponderadas de maneira crescente ou, ainda,
+propiciar alternativas de recuperação, como provas substitutivas ou aplicação de
+trabalhos adicionais. A promoção do aluno na unidade curricular obedecerá aos
+critérios estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no Projeto
+Pedagógico do Curso.
+
+Bibliografia
+Básica:
+1. Tocci, R., Sistemas Digitais, Ed. Pearson, 11a. Ed., Dispositivos Eletrônicos e
+Teoria de Circuitos, Editora Prentice-Hall do Brasil, 8a Edição, 2003.
+2. Idoeta, Ivan Valeije; Capuano, Francisco Gabriel. Elementos de eletrônica
+digital. 40.ed. São Paulo: Érica, 2007.
+3. Sedra, A. S., Microeletrônica, Editora, Editora Makron Books, 5a. Edição, 2007.
+Complementar:
+1. Boylestad, R. L., Nashelsky, L., Dispositivos Eletrônicos, Editora Pearson
+Education, 8a. Edição, 2003.
+2. FLOYD, Thomas L. Sistemas digitais: fundamentos e aplicações. 9 ed. Porto
+Alegre, RS: Bookman, c2007.
+3. Capuano, F. G., Idoeta, I. V. - Elementos de Eletrônica Digital, Editora Érica, 36a
+Edição, 2005.
+4. Hetem Jr., A., Eletrônica Básica para a Computação, Editora LTC, 1ª. Edição,
+2009.
+5. Cruz, E. C. A., Choueri Jr., S., Eletrônica Aplicada, Editora Érica, 1ª. Edição, 2007.
+
+

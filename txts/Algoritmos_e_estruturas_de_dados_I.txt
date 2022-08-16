@@ -1,0 +1,72 @@
+Nome do Componente Curricular: Algoritmos e Estruturas de Dados I
+Pré-requisitos: Lógica de Programação
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Introduzir e aplicar os conceitos de abstração de dados, as estruturas de dados clássicas.
+Específicos:
+Abordar as características funcionais, formas de representação e operações referentes à abstração e
+estrutura de dados.
+Ementa:
+Alocação dinâmica e ponteiros; Arquivos; Introdução à notação assintótica; Tipos abstratos de dados:
+conceitos, operações, representações, manipulação, listas, pilhas e filas. Estruturas de representação
+de grafos (matriz de adjacência e de incidência). Estruturas para representação de árvores. Árvores
+binárias e suas aplicações.
+Conteúdo Programático: Ponteiros; Alocação dinâmica de memória (vetores e matrizes); Criação e
+manipulação de arquivos de texto e binários. Conceitos básicos: notação assintótica, tipos abstratos de
+dados. Representação e manipulação de estruturas de dados: listas estáticas e dinâmicas. listas
+sequenciais; listas encadeadas e duplamente encadeadas. listas circulares, pilhas, filas, aplicações de
+filas e pilhas, Representação de árvores: árvores binárias (de busca). Representação de grafos:
+matrizes de adjacência, incidência e listas de adjacência.
+Metodologia de Ensino Utilizada:
+O curso será baseado em aulas expositivas com auxílio do quadro e projetor multimídia. A
+participação dos alunos em sala de aula será estimulada através de perguntas e sessões de exercícios.
+Para fixação dos tópicos estudados, os alunos receberão, ao longo do curso, listas de exercícios para
+entrega em sala de aula. Por fim, destacamos as aulas práticas nos laboratórios de informática para
+implementação de protótipos.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. TENENBAUM, Aaron M et al. Estruturas de dados usando C. São Paulo: Pearson, 2008. 884 p.
+ISBN 978-85-346-0348-5.
+2. CORMEN, Thomas H et al. Algoritmos: teoria e prática. Rio de Janeiro: Campus, 2002. 916 p.
+ISBN 978-85-352-0926-6. tradução de ""Introduction to algorithms"" 2.ed.
+3. CELES FILHO, Waldemar; CERQUEIRA, Renato Fontoura de Gusmão; RANGEL NETO, José Lucas
+Mourão. Introdução a estruturas de dados: com técnicas de programação em C. [s.l.]: [s.n.],
+2004. 294 p p. ISBN 978-85-352-1228-0.
+Complementar:
+1. ZIVIANI, N. Projeto de algoritmos: com implementações em PASCAL e C. 2 ed. rev. e ampl. São
+
+2.
+3.
+4.
+5.
+6.
+7.
+
+Paulo: Thomson, 2004. 552 p. ISBN 978-85-221-0390-4.
+ZIVIANI, Nivio; BOTELHO, Fabiano C. Projeto de algoritmos: com implementações em JAVA e C+
++. São Paulo: Thomson, 2007. 621 p. ISBN 978-85-221-0525-0.
+SZWARCFITER, Jayme Luiz; MARKENZON, Lilian. Estruturas de dados e seus algoritmos. 2.ed.
+Rio de Janeiro: LTC, 2009. 320 p. ISBN 978-85-216-1014-4.
+SKIENA, Steven S. The algorithm design manual. 2.ed. New York: Springer, c2008. 730 p. ISBN
+978-1-84800-069-8.
+GOODRICH, Michael T et al. Estruturas de dados e algoritmos em Java. Porto Alegre, RS:
+Bookman, 2007. 600 p. ISBN 978-85-600-3150-4. atualizado para java 5 0.
+DROZDEK, Adam. Estrutura de dados e algoritmos em C++. Säo Paulo: Cengage Learning,
+c2002. 579 p p. ISBN 978-85-221-0295-2. Título original:Data structures and algorithms C++.;
+Shen, Alexander. Algorithms and programming: problems and solutions. 2. ed. New York, NY:
+Springer, 2010. 272 p. (Springer Undergraduate Texts in Mathematics and Technology). ISBN
+978-1-4419-1747-8.
+
+

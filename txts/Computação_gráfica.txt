@@ -1,0 +1,61 @@
+Nome do Componente Curricular: Computação Gráfica
+Pré-requisitos: Algoritmos e Estruturas de Dados I
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Apresentar os principais componentes de hardware dos sistemas gráficos.
+Estudar os principais conceitos, métodos e técnicas da área de computação gráfica, incluindo
+representação e visualização bi e tridimensionais, e técnicas de interação, animação e síntese de
+imagens.
+Específicos:
+Ao final do curso o aluno deve ser capazes de reconhecer o processo de visualização de imagens
+bidimensionais, assim como sua criação e animação, , estar familiarizado com o processo de
+modelagem geométrica, reconhecer o processo de visualização de imagens tridimensionais, assim
+como sua criação e animação tridimensional, incluindo iluminação e textura.
+Ementa:
+Transformações geométricas bi e tridimensionais; Primitivas gráficas de saída; Visualização
+tridimensional; Representação de Objetos Tridimensionais; Modelos de iluminação; Animação.
+Conteúdo Programático:
+Pacotes Gráficos. Armazenamento de Objetos Gráficos, Dispositivos de Entrada e Saída.
+Transformações Geométricas Bi e Tridimensionais. Visualização Tridimensional. Representação
+Tridimensional. Iluminação. Textura. Animação.
+Metodologia de Ensino Utilizada:
+Aulas teóricas: apresentarão diversos conceitos relacionados à computação gráfica e métodos para
+geração e manipulação de imagens. Aulas práticas: tem como finalidade a fixação destes conceitos e
+métodos através do uso de um pacote gráfico (OpenGL). Tanto nas aulas teóricas quanto práticas
+ocorrerão a prática de exercícios para fixação do conteúdo das aulas, além dos exercícios extraclasses que serão exigido.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia, laboratório de computação com CodeBlocks ou EasyEclipse instalados e biblioteca OpenGL.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Hearn, Donald; Baker, M. Pauline. Computer graphics with OpenGL. 3.ed. Upper Saddle River,
+NJ: Person Prentice-Hall, 2004. 857 p. ISBN 0-13-015390-7.
+2. Foley, James D et al. Computer graphics: principles and practice. 2.ed. Boston: AddisonWesley, 1996. 1175 p. ISBN 978-0-201-84840-3.
+3. AZEVEDO, Eduardo; CONCI, Aura. Computação gráfica vol.1: geração de imagens. Rio de
+Janeiro: Campus, 2003. 353 p. ISBN 978-85-352-1252-5.
+Complementar:
+1. HAEMEL, Nicholas; LIPCHAK, Benjamin; WRIGHT Jr., Richard S. OpenGL superbible:
+comprehensive tutorial and reference. 4.ed. Upper Saddle River: Addison-Wesley, 2007. 1205
+p. ISBN 978-0-321-49882-3.
+
+2. Watt, Alan. 3D computer graphics. 3.ed. United States of America: Pearson, c2000. 570 p.
+ISBN 978-0-201-39855-7. Livro acompanha CD.
+3. Hill, F.S; Kelley, Stephen M. Computer graphics using openGL. 3 ed. Upper Saddle River, NJ:
+Pearson Prentice Hall, 2006. 778 p. ISBN 978-0-13-149670-5.
+4. LENGYEL, Eric. Mathematics for 3D game programming and computer graphics. 2.ed. Estados
+Unidos: Charles River Media, c2004. 551 p. ISBN 978-1-584-50277-7.
+5. Ammeraal, Leen; Zhang, Kang. Computer graphics for Java programmers. 2.ed. Chichester
+(GBR): John Wiley & Sons, c2007. 384 p. ISBN 9780470031605.
+6. Shreiner, Dave. OpenGL programming guide: the oficial guide to learning openGL, versions
+3.0 and 3.1. 7 ed. Boston, MA: Addison-Wesley, 2009. 885 p. ISBN 978-0-321-55262-4.
+
+

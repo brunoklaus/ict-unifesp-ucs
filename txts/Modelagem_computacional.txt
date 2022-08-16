@@ -1,0 +1,68 @@
+Nome do Componente Curricular: Modelagem Computacional
+Pré-requisitos: Lógica de Programação; Cálculo em Uma Variável
+Carga horária total: 36h
+Carga Horária Prática: 18h
+Carga Horária Teórica: 18h
+Objetivos
+Geral:
+Este curso tem como objetivo principal aprimorar as habilidades de programação dos alunos a partir
+da simulação de diversos sistemas complexos, como por exemplo: simulação de neurônios,
+propagação de doenças, sistemas ecológicos, economia, termodinâmica, evolução, fluxo de
+informação em redes, problemas de otimização, dentre outros.
+Específicos:
+Aprimorar as habilidades de programação em linguagem de alto nível; Conhecer algumas técnicas
+para simulação de sistemas complexos.
+Ementa: Introdução aos sistemas complexos; aplicação de modelos discretos e contínuos, modelos
+determinísticos e estocásticos para simulação de problemas diversos; aplicação de dinâmica espaçotemporal e caos;
+Conteúdo Programático:
+1) Introdução aos sistemas complexos;
+2) Simulação de problemas discretos;
+3) Simulação de problemas utilizando modelos baseados em equações diferenciais;
+4) Dinâmica espaço-temporal e caos;
+5) Simulação de problemas em sistemas estocásticos
+6) Método de Monte Carlo;
+7) Estudos de casos.
+Metodologia de Ensino Utilizada:
+Aulas expositivas cobrindo o conteúdo introdutório, estudo de casos e desenvolvimento de projetos
+individuais e/ou em grupo.
+Recursos Instrucionais Necessários:
+Sala de aula com projetor e laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Y. Bar-Yam (2003). Dynamics of Complex Systems, Westview Press (disponível on-line);
+2. CHRISTIAN, Wolfgang; TOBOCHNIK, Jan; GOULD, Harvey. An introduction to computer
+simulation methods:applications to physical systems. 3.ed. São Francisco: Pearson, c2007. 796
+p. ISBN 978-0-8053-7758-3
+3. SEVERANCE, Frank L. System modeling and simulation: an introduction. Chichester: John Wiley
+& Sons, c2001. 506 p. ISBN 978-0-471-49694-6.
+4. KERNIGHAN, Brian W; VIEIRA, Daniel; RITCHIE, Dennis M. C: a c1">linguagem de programação
+padrão ANSI. Rio de Janeiro: Campus, 1989. ISBN 978-85-7001-586-0.
+5. Deitel, Paul; Deitel, Harvey. C: como programar. [C: how to program]. Tradução: Daniel Vieira. 6
+ed. São Paulo: Pearson Prentice Hall, 2011. 818 p. ISBN 978-85-7605-934-.
+Complementar:
+1. Zeigler, Bernard P.; Praehofer, Herbert; Kim, Tag Gon. Theory of modeling and simulation:
+
+2.
+3.
+4.
+5.
+
+integrating discrete event and continuous complex dynamic systems. 2 ed. San Diego, CA:
+Academic Press, 2010. 510 p. ISBN 978-0-12-778455-7.
+PIDD, Michael. Computer simulation in management science. 5.ed. Canadá: Wiley, c2004. 311
+p. ISBN 978-0-470-09230-9.
+HARMAN, Thomas L; DABNEY, James; RICHERT, Norman. Advanced engineering mathematics
+with Matlab. 2.ed. Pacific Grove: Brooks, c2000. 750 p. ISBN 978-0-534-37164-7.
+MATLAB for neuroscientists: an indroduction to scientific computing in MATLAB. [s.l.]: [s.n.],
+2009. 384 p p. ISBN 978-0-12-374551-4.
+CAMPBELL, Stephen L; CHANCELIER, Jean-Philippe; NIKOUKHAH, Ramine. Modeling and
+simulation in Scilab/Scicos. New York: Springer, c2006. 313 p. ISBN 978-0-387-27802-5.
+
+

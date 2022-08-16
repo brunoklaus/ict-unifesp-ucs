@@ -1,0 +1,66 @@
+Nome do Componente Curricular: Química Medicinal II
+Pré-requisitos: Química Medicinal I
+Carga Horária Total: 72h
+Carga Horária Prática: 0 h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Curso avançado de química medicinal.
+Específicos:
+Introdução às principais classes de fármacos e seus alvos moleculares.
+Ementa:
+Neurotransmissores e seus receptores. Hormônios e seus receptores.
+Imunomoduladores e seus receptores. Alvos membranares. Alvos citoplasmáticos.
+Organismos patogênicos como alvos.
+Conteúdo Programático:
+
+Tipos de fármacos
+
+Neurofarmacologia.
+
+Sistema endócrino.
+
+Imunomoduladores.
+
+Alvos moleculares.
+
+Antibióticos.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades práticas.
+Recursos Instrucionais Necessários:
+Laboratório com lousa e projetor multimídia. Acesso ao MOODLE.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+
+BARREIRO, E.J.; FRAGA, C.A.M. Química medicinal: as bases moleculares da
+ação dos fármacos. 2. ed. Porto Alegre: Artmed, 2008.
+
+THOMAS, G. Química medicinal: uma introdução. Rio de Janeiro: Guanabara
+Koogan, 2003.
+
+WERMUTH, C.G. The practice of medicinal chemistry. 3rd. ed. Amsterdam:
+Elsevier, 2008.
+
+Complementar:
+
+Nogrady T, Weaver D. Medicinal Chemistry. 2nd ed. Oxford 2005.
+
+Patrick, G.L. An Introduction to Medicinal Chemistry. 5a Ed. Oxford 2013.
+
+DONALD VOET & JUDITH G. VOET. Bioquímica Ed. Artmed, 2007.
+
+STRYER, L.; TYMOCZKO, J.L.; BERG, J.M. Bioquímica. 5a ed., Ed. GuanabaraKoogan, 2004.
+
+NELSON, D.L.; COX, M.M. LEHNINGER princípios de bioquímica. 5a ed. Porto
+Alegre: Artmed, 2011.
+
+

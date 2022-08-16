@@ -1,0 +1,64 @@
+Nome do Componente Curricular: Introdução à Engenharia Financeira
+Pré-requisitos: Cálculo em várias variáveis; Probabilidade e Estatística
+Carga Horária Total: 72 h
+Carga Horária Prática: 36 h
+Carga Horária Teórica: 36 h
+Objetivos
+Gerais:
+Apresentar as principais ideias e técnicas da engenharia financeira do ponto de vista teórico e da
+aplicação. Familiarizar o aluno com conceitos relacionados a análise quantitativa de investimentos e
+gestão do risco de investimentos financeiros.
+Específicos:
+1.Aprofundar o entendimento da teoria financeira.
+2.Oferecer um caminho de pesquisa e aplicação dos conceitos teóricos matemáticos e computacionais
+para lidar com os problemas do mercado financeiro.
+3. Proporcionar ao aluno o desenvolvimento computacional de análise de investimentos.
+Ementa:
+Mercados Financeiros; Eficiência do Mercado; Bem Estar Social nos Mercados Lives; Análise Financeira
+do Valor; Custo do Capital; Modelos de Financiamentos; Análise de Carteira de Investimentos; Valor
+em Risco; Precificação de Opções.
+Conteúdo Programático:
+ Mercados Financeiros: Utilidades, Dotações e Equilíbrio
+ Eficiência do Mercados, Ativos Financeiros e o Fator do tempo.
+ Bem Estar Social e os Mercados Livres, Equilíbrio entre Consumo e Dotações, Antecipação dos
+Preços.
+ Análise Financeira do Valor: Valor Presente Líquido, Taxa Interna de Retorno, Descontos
+ Custo do Capital: Custo Médio Ponderado do Capital,
+ Modelos de Financiamentos: Fluxo de Caixa e Financiamentos, Política de Dividendos.
+ Análise de Carteira de Investimentos: CAPM
+ Valor em Risco: Matriz de Variância e Co-Variância.
+ Precificação de Opções.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Hull, John C. Options, Futures, and Other Derivatives and Derivatives. Prentice Hall; 8 edition
+2011.
+2. Ruppert, D. Statistics and Data Analysis for Financial Engineering, Springer; 2011.
+3. Stefanica, D. A Primer For The Mathematics Of Financial Engineering, FE Press, LLC, 2011
+Complementar:
+1. Marek Capinski, Tomasz Zastawniak, Mathematics for Finance: An Introduction to Financial
+
+2.
+3.
+4.
+5.
+
+Engineering, Springer, 2010.
+Cocharane, J. Asset Pricing, Princeton University Press, 2005.
+LeRoy,S. Jan Werner, Stephen A. Ross, Principles of Financial Economics, Cambridge University
+Press, 2010.
+John Y. Campbell , Andrew W. Lo , A. Craig MacKinlay, Andrew Y. Lo, The Econometrics of
+Financial Markets, Princeton University Press, 1996.
+Simon Benninga, Financial Modeling, MIT Press, 2008.
+
+

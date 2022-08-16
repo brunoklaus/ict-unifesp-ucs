@@ -1,0 +1,61 @@
+Nome do Componente Curricular: Cálculo em Uma Variável
+Pré-requisitos: Não há
+Carga Horária Total: 108h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Apresentar aos alunos as origens históricas e os fundamentos do Cálculo. Mostrar aos a utilidade do
+cálculo infinitesimal e suas diversas aplicações nos campos científicos e tecnológicos. Desenvolver
+competência técnica para resolução de problemas práticos em ciência e tecnologia. A ênfase desse
+curso é a compreensão de conceitos.
+Específicos:
+Ao final da unidade curricular o aluno deverá estar apto a analisar e resolver problemas que envolvam
+limites, derivação e integração. Devem conseguir entender um problema de cálculo geométrica e
+algebricamente. Os alunos devem ser capazes de discutir problemas científicos em termos de
+conceitos abstratos inerentes as técnicas de derivação e integração.
+Ementa:
+Funções reais de uma variável. Limite e continuidade. Derivação. Integração. Aplicações.
+Conteúdo Programático:
+• Funções de uma variável: revisão. Modelos matemáticos.
+• Limites: limite de uma função. Cálculos usando limite. Definição precisa de limite.
+Continuidade. Limites no infinito: assíntotas. Propriedades. Exemplos. Aplicações.
+• Derivação: motivação geométrica (o problema das tangentes). Taxa de variação. Definição.
+Regras de derivação. Derivadas de funções polinomiais e exponenciais. Regra do produto e do
+quociente. Derivadas de funções trigonométricas. Regra da cadeia. Derivação implícita.
+Derivadas de funções logarítmicas.
+• Aplicações da derivação: Valores máximos e mínimos. Teorema do valor médio. Taxas de
+variação nas ciências naturais e sociais. Esboços de gráficos.
+• Integração: Áreas e distâncias. Integral definida. Integral indefinida. Teorema fundamental do
+Calculo. Técnicas de integração: Integração por partes, integrais trigonométricas, substituição
+trigonométrica, Integração por funções parciais.
+• Aplicações da integração: Áreas entre curvas, volumes. Trabalho. Valor médio de uma função.
+Comprimento de arco. Área da superfície de revolução. Aplicações à física, engenharia,
+economia e biologia.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios. Discussões e abordagem a problemas de maneira coletiva, feitas em
+grupos.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta de EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. GUIDORIZZI, H. L. Um curso de cálculo. v. 1. 5ª Ed. Rio De Janeiro: LTC, 2007.
+
+2. LEITHOLD, L. O cálculo com geometria analítica. v. 1. 3ª ed. São Paulo: Harbra, 1990.
+3. STEWART, J. Cálculo. v.1. 6ª ed. São Paulo: Cengage Learning, 2009.
+Complementar:
+1. FLEMMING, D. M.; Gonçalves, M. B. Cálculo A: funções, limite, derivação e integração. 6ª ed.
+São Paulo: Pearson, 2006.
+2. GUIDORIZZI, H. L. Um curso de cálculo. v. 2. 5ª Ed. Rio De Janeiro: LTC, 2007.
+3. LARSON, R.; EDWARDS, B.; HOSTETLER, R. P. Cálculo. v. 1. 8ª ed. São Paulo: Mc Graw-Hill, 2006.
+4. SIMMONS, G. F. Cálculo com geometria analítica. v. 1. 1ª ed. São Paulo: Pearson, 2008.
+5. THOMAS, G. B. Cálculo. v. 1. 12ª ed. São Paulo: Pearson, 2013.
+
+

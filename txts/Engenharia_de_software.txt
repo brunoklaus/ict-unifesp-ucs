@@ -1,0 +1,72 @@
+Nome do Componente Curricular: Engenharia de Software
+Pré-requisitos: Programação Orientada a Objetos
+Carga horária total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Geral:
+O objetivo desta disciplina é apresentar aos alunos uma visão geral sobre a Engenharia de Software,
+bem como capacitá-los na escolha ou definição de processos de software para o planejamento,
+condução e gerenciamento de projetos de software.
+Específicos:
+Apresentar aos alunos os principais conceitos que embasam a Engenharia de Software; Apresentar
+aos alunos as principais fases e atividades do processo de desenvolvimento de software; Introduzir
+os alunos ao uso das boas práticas de desenvolvimento de software; Capacitar os alunos a pensar no
+processo de desenvolvimento de software como um processo de engenharia. Capacitar os alunos na
+escolha de modelos de processos de software; Instrumentalizar os alunos para o uso das técnicas e
+métodos consolidados de planejamento, análise, projeto, implementação, testes e evolução de
+software.
+Ementa:
+Visão geral sobre a Engenharia de Software; Processos de desenvolvimento de software; Práticas de
+desenvolvimento de software; Modelos de processo; Engenharia de requisitos; Planejamento e
+gerenciamento de projetos; Especificação de software; Projeto de software; Metodologias de
+desenvolvimento de software; Verificação, Validação e Teste de Software; Evolução de software;
+Gerenciamento de configuração de software; Ferramentas CASE.
+Conteúdo Programático:
+Histórico e evolução da Engenharia de Software. Conceitos e premissas da Engenharia de Software.
+Processos de software: conceitos, artefatos, atividades, fases e etapas. Modelos de processos:
+clássico, baseado em prototipação, baseado em verificações (Modelo em V), iterativo e incremental,
+espiral (framework de processos). Métodos ágeis: Programação Extrema e SCRUM. Engenharia de
+Requisitos: elicitação, análise, especificação e modelagem, validação e gerenciamento.
+Planejamento: definição de cronograma e estimativas de prazos e custos. Projeto de software:
+arquitetural, de dados, procedural e interface com o usuário. Projeto de software de tempo-real.
+Implementação: padronização de código, boas práticas de codificação. Testes: estruturais e
+funcionais. Evolução: manutenção de software corretiva, adaptativa e evolutiva. Modelos de
+maturidade e capacidade de software.
+Metodologia de Ensino Utilizada:
+O curso será baseado em aulas expositivas com auxílio do quadro e projetor multimídia. A
+participação dos alunos em sala de aula será estimulada através de perguntas e sessões de
+exercícios. Para fixação dos tópicos estudados, os alunos receberão, ao longo do curso, listas de
+exercícios para entrega em sala de aula. Por fim, destacam-se as aulas práticas nos laboratórios de
+informática para fixação dos conteúdos através de do uso de ambientes de desenvolvimento de
+software. Análise de estudos de caso e desenvolvimento prático de projetos de software.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+
+Bibliografia
+Básica:
+1. Sommerville, I. Software Engineering. Addison-Wesley, 9th edition, 2011. ISBN-13: 9780137035151.
+2. Pressman, R. Software Engineering: A Practitioner's Approach. McGraw Hill, 7th edition,
+2009. ISBN-13: 978-0073375977.
+3. Beck, Kent. Programação extrema (XP) explicada: acolha as mudanças. Porto Alegre:
+Bookman, 2004. 182 p. ISBN 978-85-363-0387-1.
+Complementar:
+1. PFLEEGER, S. L. Engenharia de Software: Teoria e Prática. Prentice Hall Brasil, 2a edição, 2004.
+ISBN-13: 9788587918314.
+2. Jacobson, Ivar; Raumbaugh, James; Booch, Grady. UML: the unified software development
+process. Indianápolis: Addison-Wesley, 1998. 463 p. ISBN 978-0-201-57169-1.
+3. Bass, Len; Clements, Paul; Kazman, Rick. Software architecture in practice. 2nd. ed. Boston:
+Addison-Wesley, 2003. 528 p. (SEI series in software engineering). ISBN 978-0-321-15495-8.
+4. FOWLER, Martin. Refactoring. Massachsetts: Addison-Wesley, 1999. 431 p p. ISBN 978-0-20148567-7.
+5. Schäuffele, Jörg; Zurawka, Thomas. Automotive software engineering: principles, processes,
+methods, and tools. traduzido por Roger Carey. Warrendale (USA): SAE International, c2005.
+385 p. ISBN 9780768014905.
+
+

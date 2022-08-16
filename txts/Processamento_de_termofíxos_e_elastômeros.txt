@@ -1,0 +1,72 @@
+Nome do Componente Curricular: Processamento de Termofixos e Elastômeros
+Pré-requisitos: Materiais Poliméricos
+Carga Horária Total: 36h
+Carga Horária Prática: 8h
+Carga Horária Teórica: 28h
+Objetivos
+Gerais:
+Ministrar uma visão geral sobre as principais técnicas de transformação de materiais incluindo
+aspectos teóricos e práticos.
+Específicos:
+Proporcionar ao aluno conhecimento dos principais processos de transformação de materiais de
+forma que possa ser analisado o que ocorre com estes materiais durante e após o processamento
+correlacionando as variáveis de processamento com o produto final (materiais empregados, produção,
+custo e desempenho).
+Ementa:
+Introdução e definições básicas; Termofixos;Histórico; Processo de cura;
+Tipos de resinas termofixas; Processamento de termofixos; Elastômeros:Histórico; Processo de cura;
+Tipos de elastômeros; Composição de um elastômero; Testes de cura e vulcanização Processamento
+de termofixo. Elastômeros: Histórico; Processo de cura;Tipos de elastômeros; Composição de um
+elastômero; Testes de cura e vulcanização;Processamento de elastômero.
+Conteúdo Programático:
+1. Introdução definições básicas;
+2. Termofixos:
+2.1. Histórico;
+2.2.Processo de cura;
+2.3.Tipos de resinas termofixas;
+2.4.Processamento de termofixos:
+2.4.1. Moldagem por compressão;
+2.4.2. Moldagem por transferência.
+3.Elastômeros:
+3.1.Histórico;
+3.2. Vulcanização;
+3.3. Tipos de elastômeros;
+3.4. Composição de um elastômero;
+3.5. Testes de cura e vulcanização;
+3.6. Processamento de elastômero:
+3.6.1. Formulação;
+3.6.2. Mistura;
+3.6.3. Vulcanização estática e vulcanização dinâmica.
+Aulas Práticas: demonstrativas em equipamentos de processamento.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades não presenciais na sala de aula tais como relatórios e listas de
+exercícios.
+Recursos Instrucionais Necessários:
+Multimídia, moodle, material de consumo e equipamentos para as aulas práticas.
+
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Sperling, L.H. Introduction to physical polymer science. 4.ed. Hoboken (USA): John Wiley &
+Sons, 2006.
+2. FRIED, Joel R. Polymer science and techology. 2 ed. , 2009
+3. MANO, Eloisa Biasotto; MENDES, Luis Cláudio. Introdução a polímeros. 2.ed. rev. e ampl. São
+Paulo: Blucher, 1999.
+Complementar:
+1. PAINTER, Paul C; COLEMAN, Michael M. Fundamentals of polymer science: an introductory
+text. 2 ed., c1997.
+2. Callister, W. D. Jr. Ciência e Engenharia de Materiais - Uma Introdução, 7a ed., São Paulo: LTC,
+2008.
+3. Baird, Donald G.; Collias, Dimitris I.. Polymer processing: principles and design. Hoboken (USA):
+John Wiley & Sons, c1998.
+4. MANO, Eloisa Biasotto; MENDES, Luis Cláudio. Identificação de plásticos, borrachas e fibras.
+São Paulo: Blucher, 2000.
+5. Treloar, L.R.G.. The physics of rubber elasticity. New York, USA: Oxford University Press, 2009.
+
+

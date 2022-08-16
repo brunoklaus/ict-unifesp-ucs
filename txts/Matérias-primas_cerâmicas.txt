@@ -1,0 +1,74 @@
+Nome do Componente Curricular: Matérias-primas Cerâmicas
+Pré-requisitos: Materiais Cerâmicas
+Carga Horária Total: 72h
+Carga Horária Prática: 16h
+Carga Horária Teórica: 56h
+Objetivos
+Gerais:
+A disciplina tem como objetivo apresentar aos alunos as principais matérias-primas utilizadas na
+formulação de cerâmicas tradicionais.
+Específicos:
+O aluno será capaz de:
+Selecionar as matérias-primas adequadas para a fabricação e um determinado produto cerâmico.
+Entender os métodos de caracterização das matérias-primas.
+Ementa:
+Matérias-primas. Tecnologia de Argilas. Formulação de produtos cerâmicos. Diagramas de equilíbrio
+de fases. Práticas.
+Conteúdo Programático:
+A - Matérias-Primas
+1. Origens geológicas
+2. Estrutura de silicatos e óxidos
+3. Fontes naturais e industriais
+4. Identificação de matérias-primas
+5. Ensaios físicos, químicos e térmicos.
+B - Tecnologia de Argilas
+1. Tipos de argilas
+2. Constituição das argilas
+3. Propriedades coloidais do sistema argila-água
+4. Identificação mineralógica de argilas
+5. Transformações térmicas de argilas
+Argilas para a indústria cerâmica
+C- Matérias-primas não plásticas (feldspatos e feldspatóides, sílicas, carbonatos, talcos)
+D - Formulação de Produtos Cerâmicos
+1. Triaxial Cerâmico
+2. Transformações térmicas de matérias-primas
+2. Formulação de produtos cerâmicos
+3. Reformulação de massas cerâmicas
+4. Diagramas de equilíbrio de fases
+5. Microestrutura
+E - Práticas
+1. Caracterização física, química e térmica de matérias-primas.
+2. Desenvolvimento de produtos com microestrutura especificada.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações. Resolução de lista de
+exercícios. Aulas práticas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. SINTON, C.W. Raw materials for glass and ceramics: sources, processes and quality control. 1
+ed. 368p. Ed Wiley, 2006. ISBN: 978-0471479420.
+2. REED, J. S. Principles of Ceramics Processing. 2nd ed. New York: John Wiley & Sons, 1995. ISBN
+978-0-471-59721-6.
+3. KINGERY, W.D. et al. Introduction to ceramics. New York: John Wiley & Sons, 1976. ISBN 978-0471-47860-7.
+Complementar:
+1. HUMMEL, Floyd A. Introduction to phase equilibria in ceramics systems. [s.l.]: [s.n.], 1984. 388
+p. ISBN 978-0-8247-7152-2.
+2. BARRY-CARTER C. Ceramic Materials, Science and Engineering. Springer, 2007. ISBN: 9780387462707.
+3. CALLISTER, William D. Ciência e engenharia de materiais: uma introdução. [Materials science
+and engineering: an introduction]. Tradução de: Sérgio Murilo Stamile Soares. 7.ed. Rio de
+Janeiro: Livros Técnicos e Científicos, 2008. 705 p. ISBN 9788521615958.
+4. SHACKELFORD, J.F. Ceramic and Glass Materials: Structure, Properties and Processing. 1a ed.,
+Springer, 2010. ISBN: 978-1441944603.
+5. Koller, A. (Editor). Structure and properties of ceramics. Amsterdam: Elsevier, 1994. 587 p.
+(Materials Science Monographs, 80). ISBN 0-444-98719-3.
+
+

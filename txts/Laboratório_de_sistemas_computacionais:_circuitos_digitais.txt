@@ -1,0 +1,76 @@
+Nome do Componente Curricular: Laboratório de Sistemas Computacionais: Circuitos Digitais
+Pré-requisitos: Circuitos Digitais
+Carga Horária Total: 36h
+Carga Horária Prática: 28h
+Carga Horária Teórica: 08h
+Objetivos
+Gerais:
+Ao término desta unidade curricular, o aluno deverá ser capaz de implementar sistemas digitais
+utilizando ferramentas de especificação de hardware. Sendo assim, os objetivos gerais são:
+ Familiarizar-se com alguma linguagem de descrição de hardware;
+ Utilizar ferramentas de síntese de sistemas digitais;
+ Desenvolver circuitos combinacionais em hardware;
+ Desenvolver circuitos sequenciais em hardware.
+Específicos:
+ Descrever sistemas digitais utilizando níveis de abstração diferentes (porta lógica, RTL,
+comportamental);
+ Implementar circuitos digitais combinacionais utilizando uma linguagem de descrição de
+hardware;
+ Implementar circuitos digitais sequenciais utilizando uma linguagem de descrição de
+hardware;
+ Realizar simulações e verificar a funcionalidade do sistema projetado;
+ Realizar testes e comparar as funcionalidades do circuito implementado com os resultados
+obtidos na simulação.
+Ementa:
+Metodologia de projeto de sistemas digitais. Técnicas de projeto utilizando ferramentas de síntese de
+sistemas digitais. Estudo de linguagem de descrição de hardware. Projeto e implementação de
+circuitos combinacionais. Projeto e implementação de circuitos sequenciais. Projeto e implementação
+de circuitos aritméticos e de máquinas de estados finitos.
+Conteúdo Programático:
+Implementação de circuitos combinacionais em lógica programável utilizando esquemáticos;
+Implementação de circuitos sequenciais em lógica programável utilizando esquemáticos; Introdução à
+linguagem de descrição de hardware Verilog; Níveis de modelagem: Modelagem no nível de portas
+lógicas; Modelagem no nível de transferência entre registradores (RTL) e Modelagem no nível
+comportamental; Implementação de circuitos combinacionais em lógica programável utilizando
+Verilog; Implementação de circuitos sequenciais em lógica programável utilizando Verilog; Projeto e
+implementação de alguns exemplos práticos utilizando circuitos aritméticos e máquinas de estados
+finitos.
+Metodologia de Ensino Utilizada:
+Esta unidade curricular será baseada em projetos e implementações de alguns sistemas digitais e em
+aulas expositivas. As aulas expositivas serão realizadas com o auxílio de quadro branco e de projetor
+multimídia. Os projetos serão realizados tanto em sala de aula como extra-classe e deverão ser
+desenvolvidos utilizando uma plataforma de trabalho específica que permita o desenvolvimento de
+projetos digitais, a realização de simulações para verificar a funcionalidade dos circuitos projetados e
+a síntese em hardware. Kits FPGAs serão utilizados para a implementação física dos sistemas
+projetados.
+Recursos Instrucionais Necessários:
+
+Quadro branco, projetor multimídia, computadores com software de especificação e síntese de circuitos digitais e Kits FPGAs.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Projetos de Circuitos Digitais com FPGA. César da Costa. Editora Érica. ISBN: 9788536502397,
+2009.
+2. Logic and Computer Design Fundamentals. M. Morris Mano e Charles L. Kime. Editora Prentice
+Hall. ISBN: 013198926X, 2007.
+3. Digital Design with RTL Design, Verilog and VHDL. Frank Vahid. Editora Wiley. ISBN:
+0470531088, 2010.
+Complementar:
+1. VHDL: Descrição e Síntese de Circuitos Digitais. Robert D'Amore. Editora LTC. ISBN:
+8521614527, 2005.
+2. Digital Design and Verilog HDL Fundamentals. Joseph Cavanagh. Editora CRC Press. ISBN:
+1420074156, 2008.
+3. Sistemas Digitais: Princípios e Aplicações. Ronald J. Tocci, Neal S. Widmer e Gregory L. Moss.
+Editora Prentice-Hall. ISBN: 9788576050957, 2007.
+4. Fundamentals of Digital Logic with Verilog Design. Stephen Brown e Zvonko Vranesic. Editora
+MCGRAW-HILL. ISBN: 0070667241, 2007.
+5. Sistemas Digitais – Fundamentos e Aplicações. Thomas L. Floyd. Editora Bookman. ISBN:
+8560031936, 2007.
+
+

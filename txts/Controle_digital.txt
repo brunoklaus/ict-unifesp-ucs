@@ -1,0 +1,63 @@
+Nome do Componente Curricular: Controle Digital
+Pré-requisitos: Controle de Sistemas Dinâmicos.
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+
+Carga Horária Teórica: 36h
+
+Objetivos
+Gerais:
+Desenvolver a capacidade dos alunos de caracterizar e modelar sistemas no domínio discreto,
+projetar controladores digitais diretamente no domínio-z.
+Específicos:
+O aluno deverá ser capaz de entender, aplicar técnicas de controle de forma a projetar
+controladores para sistemas discretos, incluindo o uso de ferramentas computacionais como o
+MATLAB® e Simulink®.
+Ementas:
+Introdução a sistemas com controles digitais; Relacção tempo continuo e tempo discreto com a
+amostragem e reconstrução de sinais; Transformada-z; Conversão de controladores contínuos
+em discreto; Identificação de sistemas em tempo discreto; Projeto de controladores pelo método
+do lugar das raízes, resposta em frequência e através de representação por espaço de estados.
+Conteúdo Programático:
+1) Introdução;
+2) Amostragem e reconstrução de sinais;
+3) Transformada z
+4) Discretização de controladores contínuos;
+5) Identificação de sistemas em tempo discreto;
+6) Projeto de controladores digitais pelo método do lugar das raízes e pelo método da resposta
+em frequência;
+7) Projeto de controladores digitais através da representação por espaço de estados;
+8) Aspectos de implementação em hardwares digitais (kits de desenvolvimentos).
+Metodologia de Ensino Utilizada:
+Aulas expositivas, práticas de laboratório e projetos.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Recursos computacionais softwares de
+processamento e kits de desenvolvimento.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das atividades
+letivas e divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o progresso
+do aluno ao longo do semestre. Para isto, as avaliações deverão ser ponderadas de maneira
+crescente ou, ainda, propiciar alternativas de recuperação, como provas substitutivas e/ou
+aplicação de trabalhos adicionais. A promoção do aluno na UC obedecerá aos critérios
+estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do
+curso.
+Bibliografia
+
+Básica:
+1. OGATA, Katsuhiko. Discrete-time control systems. 2nd. ed. Prentice-Hall, c1995. 745
+p.
+2. N. S. Nise, “Engenharia de Sistemas de Controle”, 6a Ed., LTC, 2012.
+3. P. L. Castrucci, A. Bittar, R. M. Sales, "Controle Automático", LTC, 2011.
+Complementar:
+1. B. C. Kuo, F. Golnaraghi, "Automatic Control Systems", John Wiley & Sons, 2003.
+2. R. C. Dorf, R. H. Bishop, "Modern control systems", Prentice Hall, 11a. Ed., 2003.
+3. CARVALHO, J.L.Martins de. Sistema de controle automático. Rio de Janeiro: LTC,
+c2000.
+4.
+5.
+
+FRANKLIN, Gene F. Digital control of dynamic systems. 3rd ed. Ellis-Kagle, 1997.
+OPPENHEIM, Alan V.; SCHAFER, Ronald W. Discrete-time signal processing. 3rd ed. PrenticeHall, 2010.
+
+

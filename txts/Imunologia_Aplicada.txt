@@ -1,0 +1,71 @@
+Nome do Componente Curricular: Imunologia Aplicada
+Pré-requisitos: Imunologia Geral
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Apresentar aos alunos as bases experimentais da imunologia.
+Específicos:
+Criar capacidade crítica nos alunos para a avaliação de dados experimentais.
+Ementa:
+Resposta Imunológica contra patógenos. Imunoprofilaxia. Imunidade e tumores.
+Imunidade e transplantes. Doenças autoimunes. Soros, vacinas profiláticas e
+terapêuticas. Anticorpos como ferramentas biotecnológicas. Imunoterapias.
+Imunodiagnóstico: desenvolvimento e validação.
+Conteúdo Programático:
+•
+Linfocinas e citocinas – usos como ferramentas terapêuticas
+•
+Sinalização celular – conhecer para interferir
+•
+Imunoprofilaxia – vacinas.
+•
+Tumores, transplantes – controle da resposta imune
+•
+Doenças auto-imunes e alergias – controle da resposta imune
+Anticorpos como ferramentas biotecnológicas – etapas de produção..
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades práticas. Atividades extraclasse semanais em forma de
+lista de exercícios e seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+
+Bibliografia
+Básica:
+
+CALICH, V.L.G.; VAZ, C.A.C. Imunologia. Rio de Janeiro: Revinter, 2001.
+
+ABBAS, A.K.; LICHTMAN, A.H. Imunologia básica: funções e distúrbios do
+sistema imunológico. Patricia Dias Fernandes (Trad.). 3ª ed. Rio de Janeiro: Elsevier,
+2009.
+
+ABBAS, A.K.; LICHTMAN, A.H.; PILLAI, S. Imunologia celular e molecular. Claudia
+Reali (Trad.), et al. 6ª ed. Rio de Janeiro: Elsevier, 2008.
+Complementar:
+
+BENJAMINI, E.; COICO, R.; SUNSHINE, G. Imunologia. Rafael Silva Duarte
+(Trad.). 4 ed. Rio de Janeiro: Guanabara Koogan, c2002.
+
+GODING, JAMES W. Monoclonal antibodies: principles and practice. 3 ed.
+London: Academic Press, 1993. 492 p.
+
+ZHIQIANG AN. Therapeutic Monoclonal Antibodies: From Bench to Clinic. 1 ed.
+Wiley& Sons, 2009.
+
+ROITT, I.M.; BROSTOFF, J.; MALE, D. Imunologia. Ida Cristina Gubert (Trad.). 6ª
+ed. Barueri - SP: Manole, 2003.
+
+JANEWAY JR, C.A. et al. Imunobiologia: o sistema imune na saúde e na doença.
+Cristina Bonorino (Trad.). 5 ed. Porto Alegre: Artmed, 2002.
+
+

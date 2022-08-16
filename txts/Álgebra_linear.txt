@@ -1,0 +1,64 @@
+Nome do Componente Curricular: Álgebra Linear
+Período: 3o semestre
+Pré-requisitos: Geometria Analítica
+Carga Horária Total: 72h
+Carga Horária Prática: 10h
+Carga Horária Teórica: 62h
+Objetivos
+Gerais:
+Familiarizar os alunos com os conceitos pertinentes a espaços vetoriais e
+transformações lineares.
+Específicos:
+Ao final da unidade curricular o aluno deverá ter condições de inferir resultados em
+estruturas e modelos que sejam conhecidamente espaços vetoriais; saber usar os
+conceitos de geradores, bases, dimensão, coordenadas, transformações lineares e
+resultados acerca de sistemas lineares.
+Ementa:
+Espaços vetoriais. Transformações lineares. Operadores lineares. Funcionais lineares.
+Autovalores e Autovetores. Diagonalização. Produto interno.
+Conteúdo Programático:
+ Espaços vetoriais: subespaços, subespaços gerados, geradores. Dependência linear.
+Bases. Teoremas da invariância e do complemento de bases. Dimensão e coordenadas.
+ Transformações lineares. Núcleo. Imagem. Teorema do núcleo e da imagem. Matriz
+de transformação linear. Mudança de base. Operadores lineares. Funcionais lineares.
+ Autovalores e autovetores. Diagonalização.
+ Produtos internos. Ortogonalidade. Complemento ortogonal. Processo de
+ortogonalização de Gramm-Schmidt.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta
+EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+
+Básica:
+1.
+BOLDRINI, J. L.; COSTA, S. I. R.; FIGUEIREDO, V. L.; WETZLER, H. G. Álgebra linear.
+3ª ed. São Paulo: Harbra, 1986.
+2.
+CALLIOLI, C.; DOMINGUES, H. H.; COSTA, R. C. F. Álgebra linear e aplicações. 6ª
+ed. São Paulo: Atual, 1990.
+3.
+LIMA, E. L. Álgebra linear. 8ª ed. Rio de Janeiro: SBM-IMPA, 2011.
+Complementar:
+1.
+BUENO, H. P. Álgebra linear: um segundo curso. 1ª ed. Rio de Janeiro: SBMIMPA, 2006.
+2.
+COELHO, F. U.; LOURENÇO, M. L. Um curso de álgebra linear. 2ª ed. São Paulo:
+EDUSP, 2007.
+3.
+HOFFMAN, K.; KUNZE, R. Linear algebra. 2ª ed. Prentice Hall, 1971.
+4.
+NICHOLSON, K. Álgebra linear. 2ª ed. São Paulo: McGraw Hill Brasil, 2006.
+5.
+POOLE, D. Álgebra linear. 1ª ed. São Paulo: Cengage Learning, 2003.
+
+

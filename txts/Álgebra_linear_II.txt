@@ -1,0 +1,53 @@
+Nome do Componente Curricular: Álgebra Linear II
+Pré-requisitos: Álgebra Linear
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Desenvolver a teoria de representação dos operadores lineares e apresentar uma abordagem mais
+geral da Álgebra Linear em um corpo arbitrário.
+Específicos:
+Em um primeiro instante, deve-se redefinir espaço vetorial sobre um corpo e continuar redefinindo os
+conceitos advindos dessa nova abordagem. Introduzir o aluno ao polinômio mininal de um operador
+linear, ao teorema de Cayley-Hamilton e aos subespaços invariantes. Uma vez que pode-se estudar
+espaços vetoriais sobre os complexos, redefine-se produto interno e apresentam-se os operadores
+adjuntos. Inicia-se o estudo das funções multilineares e dos tensores.
+Ementa:
+Espaços vetoriais sobre um corpo. Transformações e funcionais lineares. Espaço dual e operadores
+adjuntos. Funções multilineares.
+Conteúdo Programático:
+ Espaços vetoriais sobre um corpo. Revisão de transformações lineares.
+ Triangularização e diagonalização de transformações lineares. Polinômio característico,
+minimal e teorema de Cayley-Hamilton. Formas racionais e de Jordan. Subespaços invariantes
+por um operador linear.
+ Produtos internos e funcionais lineares. Espaço dual. Adjunta de uma transformação linear.
+Operadores auto-adjuntos, normais e unitários. Teorema espectral.
+ Funções multilineares. Formas alternadas. Determinantes.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. BUENO, H. P. Álgebra linear: um segundo curso. 1ª ed. Rio de Janeiro: SBM-IMPA, 2006.
+2. COELHO, F. U.; LOURENÇO, M. L. Um curso de álgebra linear. 2ª ed. São Paulo: EDUSP, 2007.
+3. HOFFMAN, K.; KUNZE, R. Linear algebra. 2ª ed. São Paulo: Prentice Hall, 1971.
+Complementar:
+1. AXLER, S. J. Linear algebra done right. 2ª ed. New York: John Wiley & Sons, 1976.
+2. HALMOS, P. R. Finite-dimensional vector spaces. 2ª ed. New York: Springer, 1987.
+3. LANG, S. Álgebra Linear. 1ª ed. Rio de Janeiro: Ciência Moderna, 2003.
+4. LIMA, E. L. Álgebra linear. 8ª ed. Rio de Janeiro: SBM-IMPA, 2011.
+5. SCHNEIDER, H.; BARKER, G. P. Matrices and linear algebra. 2ª ed. New York: Dover
+Publications, 1989.
+
+6. NERING, E. D. Linear algebra and matrix theory. 2ª ed. New York: John Wiley & Sons, 1963.
+
+

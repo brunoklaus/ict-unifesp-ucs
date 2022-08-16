@@ -1,0 +1,71 @@
+Nome do Componente Curricular: Introdução à Biologia de Sistemas
+Pré-requisitos: Biologia molecular da célula
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Reconhecer a importância do estudo de sistemas biológicos como sistemas, bem como do estudo
+integrado das partes que os compõem e aplicar os conhecimentos adquiridos para o entendimento de
+sistemas complexos, tais como vias metabólicas, redes de regulação gênica e de interação proteínaproteína.
+Específicos:
+Fornecer subsídios para o entendimento da diversidade e complexidade de fenômenos em bioquímica
+e biologia molecular a partir da análise de dados de sistemas-modelo em biologia.
+Ementa:
+A biologia sistêmica compreende o estudo interdisciplinar de sistemas biológicos, sobretudo com
+auxílio de modelos matemáticos e/ou computacionais. De forma mais específica, em biologia
+sistêmica busca-se entender as propriedades que emergem da interação entre as partes, em
+detrimento ao entendimento (exclusivamente) do funcionamento destas de forma isolada. Ao longo
+deste curso introdutório serão apresentados temas-chave em biologia sistêmica, bem como artigos
+científicos que ilustram as propriedades de sistemas biológicos, tais como (a) modularidade, (b)
+robustez e (c) utilização recorrente de elementos de circuito (network motifs). Uma introdução à
+modelagem matemática de redes biológicas e identificação de padrões de interação será também
+apresentada. Tentativamente, os alunos serão familiarizados com o programa Cytoscape, para análise
+e integração de dados oriundos de redes de interação biológica
+Conteúdo Programático:
+1.
+Introdução ao estudo de sistemas biológicos;
+2.
+Variáveis em biologia;
+3.
+Redes de interação biológica (redes de regulação gênica e metabólicas);
+4.
+Estimativa de parâmetros, características e princípios operacionais de sistemas biológicos
+(design and operating principles) motivos de rede (network motifs);
+5.
+Dinâmica e propriedade de redes;
+6.
+Redes do tipo ‘mundo pequeno’;
+7.
+Introdução à modelagem matemática de redes biológicas;
+8.
+Tópicos emergentes em biologia sistêmica (genômica/transcriptômica/proteômica e
+metabolômica).
+Metodologia de Ensino Utilizada:
+Aula expositiva e prática.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Voit, E.O. A first course in systems biology. Garland Science, 2013.
+2. Alon, U. An Introduction to Systems Biology: Design Principles of Biological Circuits (Chapman
+and Hall/CRC Press), 2006.
+3. Klip, E., Liebermeister, W.,Wierling, C., Kowald, A., Lehrach, H., Herwig, R. Systems biology - A
+textbook. Wiley-VCH, 2009.
+Complementar:
+1. Watts, D.J. Six degrees: the science of a connected age. W.W. Norton & Company, 2004.
+2. Milo, R., Shen-Orr, S., Itzkovitz, S., Kashtan, N., Chklovskii,D., Alon, U. Network motifs: simple
+building blocks of complex networks. Science, 298:824-827, 2002.
+3. Alon, U. Biological networks:The tinkerer as an engineer.Science 301:1866-67, 2003.
+4. Kitano, H. Biological robusteness. Nat.Gen.5: 826-837, 2004.
+5. Bray, D. Molecular networks:the top-down view. Science 301, 1864-65, 2003.
+
+

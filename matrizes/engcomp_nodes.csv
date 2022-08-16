@@ -1,0 +1,50 @@
+"ucname_file","error_flag","nome","Pré-Requisitos","Carga Horária Total","Carga Horária Prática","Carga Horária Teórica","Carga Horária Extensão","id","group","topgen","size"
+"algoritmos e estruturas de dados i",False,"algoritmos e estruturas de dados i","lógica de programação",72.0,36.0,36.0,0.0,0,"006","1",4.0
+"algoritmos e estruturas de dados ii",False,"algoritmos e estruturas de dados ii","algoritmos e estruturas de dados i",72.0,26.0,46.0,0.0,1,"005","2",2.0
+"análise de sinais",False,"análise de sinais","séries e equações diferenciais ordinárias",72.0,0.0,72.0,0.0,2,"005","2",2.0
+"arquitetura e organização de computadores",False,"arquitetura e organização de computadores","circuitos digitais",72.0,20.0,52.0,0.0,3,"006","1",6.0
+"banco de dados",False,"banco de dados","algoritmos e estruturas de dados i",72.0,36.0,36.0,0.0,4,"005","2",1.0
+"circuitos digitais",False,"circuitos digitais","não há",72.0,20.0,52.0,0.0,5,"007","0",7.0
+"circuitos elétricos i",False,"circuitos elétricos i","não há",72.0,0.0,72.0,0.0,6,"007","0",3.0
+"circuitos elétricos ii",False,"circuitos elétricos ii","circuitos elétricos i; fenômenos eletromagnéticos",72.0,0.0,72.0,0.0,7,"006","1",2.0
+"ciência, tecnologia e sociedade",False,"ciência, tecnologia e sociedade","não há",36.0,0.0,36.0,0.0,8,"000","",""
+"ciência, tecnologia, sociedade e ambiente",False,"ciência, tecnologia, sociedade e ambiente","não há",36.0,0.0,36.0,0.0,9,"000","",""
+"compiladores",False,"compiladores","linguagens formais e autômatos",72.0,36.0,36.0,0.0,10,"005","2",4.0
+"controle de sistemas dinâmicos",False,"controle de sistemas dinâmicos","análise de sinais; circuitos elétricos ii",72.0,36.0,36.0,0.0,11,"004","3",1.0
+"cálculo em uma variável",False,"cálculo em uma variável","não há",108.0,36.0,72.0,0.0,12,"007","0",4.0
+"cálculo em várias variáveis",False,"cálculo em várias variáveis","cálculo em uma variável; geometria analítica",72.0,10.0,62.0,0.0,13,"006","1",1.0
+"cálculo numérico",False,"cálculo numérico","cálculo em uma variável; geometria analítica",72.0,14.0,58.0,0.0,14,"006","1",1.0
+"desenho técnico básico",False,"desenho técnico básico","não há",36.0,18.0,18.0,0.0,15,"000","",""
+"engenharia de software",False,"engenharia de software","programação orientada a objetos",72.0,36.0,36.0,0.0,16,"004","3",1.0
+"fenômenos do contínuo",False,"fenômenos do contínuo","não há",72.0,0.0,72.0,0.0,17,"000","",""
+"fenômenos eletromagnéticos",False,"fenômenos eletromagnéticos","não há",72.0,0.0,72.0,0.0,18,"007","0",3.0
+"fenômenos eletromagnéticos experimental",False,"fenômenos eletromagnéticos experimental","não há",36.0,36.0,0.0,0.0,19,"000","",""
+"fenômenos mecânicos",False,"fenômenos mecânicos","não há",72.0,0.0,72.0,0.0,20,"007","0",2.0
+"fundamentos de biologia moderna",False,"fundamentos da biologia moderna","não há",72.0,0.0,72.0,0.0,21,"000","",""
+"geometria analítica",False,"geometria analítica","não há",72.0,8.0,64.0,0.0,22,"007","0",2.0
+"laboratório de circuitos elétricos",False,"laboratório de circuitos elétricos","fenômenos eletromagnéticos; circuitos elétricos i",36.0,36.0,0.0,0.0,23,"006","1",1.0
+"laboratório de sistemas computacionais: arquitetura e organização de computadores",False,"laboratório de sistemas computacionais: arquitetura e","arquitetura e organização de computadores; laboratório de sistemas computacionais: circuitos digitais",72.0,58.0,14.0,0.0,24,"005","2",5.0
+"laboratório de sistemas computacionais: circuitos digitais",False,"laboratório de sistemas computacionais: circuitos digitais","circuitos digitais",36.0,28.0,8.0,0.0,25,"006","1",6.0
+"laboratório de sistemas computacionais: compiladores",False,"laboratório de sistemas computacionais: compiladores","compiladores; laboratório de sistemas computacionais: engenharia de sistemas",72.0,58.0,14.0,0.0,26,"003","4",3.0
+"laboratório de sistemas computacionais: comunicação digital",False,"lab de sistemas computacionais: comunicação","redes de computadores; laboratório de sistemas computacionais: sistemas operacionais",72.0,36.0,36.0,0.0,27,"001","6",1.0
+"laboratório de sistemas computacionais: engenharia de sistemas",False,"laboratório de sistemas computacionais: engenharia de sistemas","laboratório de sistemas computacionais: arquitetura e organização de computadores",36.0,28.0,8.0,0.0,28,"004","3",4.0
+"laboratório de sistemas computacionais: sistemas operacionais",False,"laboratório de sistemas computacionais: sistemas operacionais","sistemas operacionais; laboratório de sistemas computacionais: compiladores",72.0,58.0,14.0,0.0,29,"002","5",2.0
+"linguagens formais e autômatos",False,"linguagens formais e autômatos","matemática discreta; lógica de programação",72.0,0.0,72.0,0.0,30,"006","1",5.0
+"lógica de programação",False,"lógica de programação","não há",72.0,30.0,42.0,0.0,31,"007","0",6.0
+"matemática discreta",False,"matemática discreta","não há",72.0,36.0,36.0,0.0,32,"007","0",6.0
+"materiais elétricos",False,"materiais elétricos","fenômenos eletromagnéticos",72.0,0.0,72.0,0.0,33,"006","1",1.0
+"mecânica geral",False,"mecânica geral","geometria analítica; fenômenos mecânicos",72.0,0.0,72.0,0.0,34,"006","1",1.0
+"microeconomia",False,"microeconomia","não há",36.0,0.0,36.0,0.0,35,"000","",""
+"probabilidade e estatística",False,"probabilidade e estatística","cálculo em uma variável",72.0,16.0,56.0,0.0,36,"006","1",1.0
+"programação concorrente e distribuída",False,"programação concorrente e distribuída","sistemas operacionais",72.0,30.0,42.0,0.0,37,"004","3",1.0
+"programação orientada a objetos",False,"programação orientada a objetos","algoritmos e estruturas de dados i",72.0,36.0,36.0,0.0,38,"005","2",3.0
+"projeto e análise de algoritmos",False,"projeto e análise de algoritmos","matemática discreta; algoritmos e estruturas de dados ii",72.0,20.0,52.0,0.0,39,"004","3",1.0
+"química geral",False,"química geral","não há",72.0,0.0,72.0,0.0,40,"000","",""
+"redes de computadores",False,"redes de computadores","programação orientada a objetos",72.0,20.0,52.0,0.0,41,"004","3",2.0
+"segurança computacional",False,"segurança computacional","sistemas operacionais",72.0,36.0,36.0,0.0,42,"004","3",1.0
+"seminários interdisciplinares",False,"seminários interdisciplinares","não há",36.0,0.0,36.0,0.0,43,"000","",""
+"sistemas embarcados",False,"sistemas embarcados","não há",72.0,36.0,36.0,0.0,44,"000","",""
+"sistemas operacionais",False,"sistemas operacionais","algoritmos e estruturas de dados i",72.0,18.0,54.0,0.0,45,"005","2",3.0
+"séries e equações diferenciais ordinárias",False,"séries e equações diferenciais ordinárias","cálculo em uma variável",72.0,10.0,62.0,0.0,46,"006","1",3.0
+"teorias administrativas",False,"teorias administrativas","não há",36.0,0.0,36.0,0.0,47,"000","",""
+"álgebra linear",False,"álgebra linear","geometria analítica",72.0,10.0,62.0,0.0,48,"006","1",1.0

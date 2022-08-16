@@ -1,0 +1,70 @@
+Nome do Componente Curricular: Validação e Verificação de Software
+Pré-requisitos: Engenharia de Software
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Geral:
+Numa primeira etapa, discutir aspectos teóricos e limitações que permeiam a atividade de teste e
+validação de software. Serão discutidas as principais técnicas, estratégias de derivação de sequencias,
+métodos e critérios de teste e validação de software.
+Específicos:
+Em uma segunda etapa, o teste e validação de Sistemas Orientados a Objetos, Orientados a Aspectos,
+e Embarcados e de Tempo Real, em nível de implementação e, principalmente, em nível de
+especificação, serão discutidos. Considerações sobre implementação de ferramentas de suporte ao
+teste serão também abordados.
+Ementa: Qualidade de Software (VVT). Programas de Qualidade e Métricas. Normas de Qualidade.
+Teste de Software: Objetivos, Conceitos, Terminologia e Limitações. Fases, Técnicas (Funcional,
+Estrutural, Baseada em Defeitos e em Máquinas de Estados Finitos), Métodos e Critérios de Teste.
+Comparação de Critérios de Teste: custo e eficácia; Depuração, manutenção e teste de regressão.
+Automatização da Atividade de Teste; Teste de Sistemas Orientado a Objetos, Orientados a Aspectos,
+e Embarcados e de Tempo Real.
+Conteúdo Programático:
+Introdução ao Teste de Software. Definição, Objetivos, Terminologia, Contexto de Inserção, Critérios
+de teste. Fases de Teste. Técnica Funcional. Critérios de Análise do Valor Limite e Particionamento por
+Classes de Equivalência. Técnica Estrutural. Critérios Baseados em Fluxo de Controle e em Fluxo de
+Dados. Técnica Baseada em Defeitos. Critério de Análise de Mutantes. Testes de Integração. Principais
+Abordagens. Teste de Software Orientado a Objetos. Teste de Software Orientado a Aspectos. Teste de
+Software Embarcado e de Tempo Real. Testes de Especificação. Técnica Baseada em Máquinas de
+Estados Finitos. Derivação de Sequências de Teste. Automatização da Atividade de Teste. Ferramentas
+Open Source/Freeware e Comerciais.
+Metodologia de Ensino Utilizada:
+A disciplina será intercalada por aulas teóricas e aulas práticas em laboratório. Nas aulas teóricas
+serão apresentados os principais conceitos e seus relacionamentos. Já nas aulas de laboratório, os
+conceitos serão implementados em linguagem C e Java, utilizando-se ferramentas de codificação e
+testes baseados em software livre. Ademais, desenvolver-se-á atividades à distância, com o apoio da
+ferramenta Moodle.
+A metodologia de ensino baseada na resolução de problemas (Problem Based Learning) será
+amplamente utilizada. O professor, após apresentar a teoria necessária, irá propor problemas e atuará
+apenas como facilitador junto aos alunos na resolução do problema..
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. BINDER, R. V. Testing object-oriented systems: models, patterns, and tools. Boston: Addison-
+
+Wesley, 2001. ISBN 0-201-80938-9.
+2. MCGREGOR, J. D.; SYKES, D. A. A practical guide to testing object-oriented software.Boston:
+Addison-Wesley Longman, 2001. ISBN 0-201-32564-0.
+3. DELAMARO,M. E.; MALDONADO, J. C.; JINO, M. Introdução ao Teste de Software. Ed. Campus,
+2007.
+Complementar:
+1. PRESSMAN, R. S. Engenharia de software. 5. ed. Rio de Janeiro: McGraw-Hill, 2002. 843 p. ISBN
+85-86804-25-8.
+2. SOMMERVILLE, I. Software engineering. 6. ed. Boston: Addison-Wesley Longman, 2001. 693 p.
+ISBN 0-201-39815-X.
+3. Mathur, Aditya P.. Foundations of software testing: fundamental algorithms and techniques.
+New Delhi, India: Pearson, 2008. 689 p. ISBN 978-81-317-1660-1
+4. Beck, Kent. Test-driven development by example. Boston (USA): Addison-Wesley, 2003. 220 p.
+ISBN 978-0-321-14653-3.
+5. LAST, Mark; KANDEL, Abraham; BUNKE, Horst. Artificial intelligence methods in software
+testing. New York: World Scientific, c2004. 208 p. ISBN 978-981-238-854-4.
+
+

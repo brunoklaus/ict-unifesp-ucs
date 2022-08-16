@@ -1,0 +1,64 @@
+Nome do Componente Curricular: Linguagens Formais e Autômatos
+Pré-requisitos: Matemática Discreta; Lógica de Programação
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Esta matéria está relacionada à área de Teoria da Computação. Nela o aluno verá linguagens formais e
+autômatos. Aprenderá modelos abstratos de computador, máquina de turing, computabilidade,
+análise sintática etc. Esta unidade curricular prepara o aluno para a unidade curricular de
+compiladores.
+Específicos:
+Ao final desta unidade curricular é esperado dos alunos um entendimento sobre linguagens formais e
+autômatos e suas diversas propriedades e aplicações.
+Ementa:
+Linguagens Regulares: Autômatos finitos determinísticos e não-determinísticos. Expressões regulares.
+Linguagens Livres de Contexto: Gramáticas Livres de Contexto. Autômatos de pilha. Linguagens
+Sensíveis ao Contexto e Linguagens Recursivamente Enumeráveis: Máquinas de Turing. Tese de
+Church-Turing. Indecibilidade: Máquinas de Turing Universais.
+Conteúdo Programático:
+Revisão de conjuntos e funções. Introdução a Autômatos. Autômatos Finitos. Expressões Regulares e
+Linguagens. Propriedade das Linguagens Regulares. Gramáticas e Linguagens Livre de Contexto.
+Autômatos de Pilha. Máquina de Turing. Indecibilidade. Problemas Intratáveis. Outras Classes de
+Problemas (P, NP, NP-Completo etc.).
+Metodologia de Ensino Utilizada:
+Aulas expositivas, laboratórios, listas, pequenos projetos e seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, projetor, laboratório com computadores.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. HOPCROFT, John E; MOTWANI, Rajeev; ULLMAN, Jeffrey D. Introdução à teoria de autômatos,
+linguagens e computação. [Introduction to automata theory, languages, and computation.].
+Rio de Janeiro: Campus, 2002. 560 p. ISBN 978-85-352-1072-9.
+2. ROSA, J. L. G. Linguagens Formais e Autômatos. 1. ed. Rio de Janeiro: LTC, 2010.
+3. MENEZES, Paulo Blauth. Linguagens formais e autômatos. 5.ed. Porto Alegre: Bookman, 2008.
+215 p. ISBN 978-85-7780-266-1.
+Complementar:
+1. ULLMAN, Jeffrey D; MOTWANI, Rajeev; HOPCROFT, John E. Introduction to automata theory,
+languages, and computation. 3.ed. Boston (USA): Pearson, 2006. 535 p. ISBN 978-0-321-
+
+2.
+3.
+4.
+5.
+
+45536-9.
+AHO, Alfred V et al. Compilers: principles, techniques, & tools. 2.ed. Boston: Person Addison
+Wesley, 2007. 1009 p. ISBN 0-321-48681-1.
+Lewis, Harry R; Papadimitriou, Christos H. Elementos de teoria da computação. 2 ed. Porto
+Alegre: Bookman, 2004. 344 p. ISBN 978-85-7307-534-2.
+LOUDEN, Kenneth C; SILVA, Flávio S. C. Compiladores: princípios e práticas. São Paulo:
+Thomson, 2004. 569 p. ISBN 978-85-221-0422-2.
+Aho, Alfred V et al. Compiladores: princípios, técnicas e ferramentas. 2 ed. São Paulo: Person
+Addison Wesley, 2007. 634 p. ISBN 978-85-88639-24-9. Tradução de "Compilers: principles,
+techniques, and tools”.
+
+

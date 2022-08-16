@@ -1,0 +1,79 @@
+Nome do Componente Curricular: Algoritmos em Bioinformática
+Período: 3 º semestre
+Pré-requisitos: Lógica de Programação
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Apresentar técnicas
+bioinformática.
+
+computacionais
+
+envolvidas
+
+em
+
+diversas
+
+aplicações
+
+de
+
+Específicos:
+Apresentar o aluno ao ambiente de programação matricial e preparar o aluno para a
+solução de problemas em bioinformática com implementação e aplicação de alguns dos
+principais algoritmos utilizados na área.
+Ementa:
+Introdução à bioinformática e genômica; Introdução ao ambiente de Programação
+Matricial. Exemplos de algoritmos com aplicação em bioinformática. Uso de banco de
+dados em bioinformática.
+Conteúdo Programático:
+1) Introdução à bioinformática e ao uso de algoritmos na resolução de problemas
+em bioinformática;
+2) Introdução ao ambiente de Programação Matricial (Matlab/Octave); Variáveis e
+constantes; Operadores relacionais e lógicos; Expressões aritméticas e lógicas;
+Vetores e Matrizes; Estruturas condicionais (if, switch); Estruturas de repetição
+(for, while); Operações matriciais e programação vetorizada. Uso de funções e
+rotinas.
+3) Exemplos de algoritmos com aplicação em bioinformática: algoritmos de
+alinhamento de sequências; algoritmos gulosos; algoritmos de programação
+dinâmica; algoritmos de divisão-e-conquista; algoritmos baseados em grafos.
+4) Uso de bancos de dados em Bioinformática
+5) Tópicos avançados em Bioinformática.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades práticas no laboratório de informática.
+Recursos Instrucionais Necessários:
+Lousa, projetor, acesso ao laboratório de informática, acesso ao Matlab.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica
+1. GILAT, Amos. MATLAB: an introduction with applications. 3 ed. New York:
+John Wiley & Sons, c2008.
+2. N. C. Jones and P. A. Pevzner. An Introduction to Bioinformatics Algorithms,
+The MIT Press; 1 edition, 2004.
+3. A. Lesk. Introdução à Bioinformática, Edição 2, Artmed, 2008.
+Complementar:
+1. EWENS, Warren; GRANT, Gregory. Statistical methods in bioinformatics: an
+introduction. 2 ed. New York: Springer, c2005. 597
+2. R. Durbin, S. R. Eddy, A. Krogh, G. Mitchison: Biological Sequence Analysis:
+Probabilistic Models of Proteins and Nucleic Acids, Cambridge University
+Press, 1998.
+3. P. A. Pevzner. Computational Molecular Biology: An Algorithmic Approach,
+MIT Press, 2000.
+4. D. Gusfield. Algorithms on Strings, Trees and Sequences: Computer Science
+and Computational Biology. Cambridge, UK: Cambridge University Press,
+1997.
+5. D.W. Mount. Bioinformatics: Sequence and Genome Analysis (2nd edition),
+Cold Spring Harbor Laboratory Press, Cold Spring Harbor, New York, 2004.
+
+

@@ -1,0 +1,67 @@
+Nome do Componente Curricular: Projeto Orientado a Objetos
+Pré-requisitos: Programação Orientada a Objetos
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Geral:
+O objetivo desta disciplina é capacitar os alunos a conceber e especificar projetos de software,
+fazendo uso de técnicas e métodos avançados da tecnologia orientada a objetos.
+Específicos:
+Embasar os alunos com os principais conceitos sobre projeto de software;
+Capacitar os alunos no uso de técnicas de modelagem de software orientada a objetos; Apresentar
+aos alunos os principais modelos arquiteturais que embasam o projeto de software; Capacitar os
+alunos no desenvolvimento de software baseado em componentes; Capacitar os alunos para o uso
+dos principais padrões de projeto de software orientado a objetos; Despertar no aluno a motivação
+para o desenvolvimento de software baseado em reuso.
+Ementa: Fundamentos de Projeto de Software; Modelagem Orientada a Objetos Utilizando UML e
+SysML; Modelos Arquiteturais; Componentes de Software; Reuso de Software; Padrões de Projeto.
+Conteúdo Programático:
+Histórico das técnicas e métodos de projeto de software. Conceitos sobre projeto de software:
+modularização, abstração e refinamento, coesão e acoplamento, arquitetura de software. Importância
+da modelagem de software. Histórico da UML. Conceitos e descrição da UML. Diagramas da UML:
+casos de uso, classes, atividades, sequência, estados, componentes e implantação. Diagramas da
+SysML. Modelos arquiteturais: arquitetura de três camadas, arquitetura cliente-servidor, modelo topdown (modelo chamada-retorno), arquitetura orientada a eventos, arquitetura de fluxo de dados,
+arquitetura baseada em interrupções, modelo de controle centralizado. Frameworks, componentes e
+COTS. Padrões de projeto: padrões de criação, padrões estruturais e padrões comportamentais.
+Conceitos de reuso de software. Reuso de software em nível de métodos, classes e componentes.
+Reuso em linhas de produto.
+Metodologia de Ensino Utilizada:
+O curso será baseado em aulas expositivas com auxílio do quadro e projetor multimídia. A
+participação dos alunos em sala de aula será estimulada através de perguntas e sessões de exercícios.
+Para fixação dos tópicos estudados, os alunos receberão, ao longo do curso, listas de exercícios para
+entrega em sala de aula. Por fim, destacam-se as aulas práticas nos laboratórios de informática para
+fixação dos conteúdos através de do uso de ambientes de desenvolvimento de software.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. GOMAA, H. Software Modeling and Design: UML, Use Cases, Patterns, and Software
+Architectures. Cambridge University Press, 2011. ISBN-13: 978-0521764148.
+2. VLISSIDES, J., Helm, H., GAMMA, E, JOHNSON, R., Padrões de Projeto, Editora Bookman, 2005.
+3. GRADY BOOCH; JAMES RUMBAUGH; IVAR JACOBSON. UML: Guia do Usuario. 2ª ed. Rio de
+Janeiro: Elsevier, 2005.
+
+Complementar:
+1. BEZERRA, E. Princípios de Análise e Projeto de Sistemas com UML. 2ª ed.Rio de Janeiro:
+Elsevier, 2007.
+2. Sommerville, I. Software Engineering. Addison-Wesley, 9th edition, 2011. ISBN-13: 9780137035151.
+3. BUSHMANN, F., STAL, M., Meunier, R., SOMMERLAD, P., Pattern-Oriented Software
+Arquitecture: a System of Patterns. Editora Wiley, 1996.
+4. LARMAN, C.; Salvador, L.M.A, Utilizando UML e Padrões: Uma Introdução à Análise e ao
+Projeto Orientado a Objetos. Porto Alegre: Bookman, 2000.
+5. LADDAD, R. AspectJ in action: practical aspect-oriented programming. Greenwich: Manning
+Publications Co., 2003. ISBN 1930110936.
+6. GAMMA, E.; HELM, R. Design Patterns: Elements Of Reusable Object-Oriented Software.
+Boston: Addison-Wesley, 2002
+7. WAZLAWICK, R. S. Análise e Projeto de Sistemas de Informação Orientados a Objetos,Editora
+Campus, 2004.
+
+

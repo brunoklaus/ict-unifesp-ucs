@@ -1,0 +1,107 @@
+Nome do Componente Curricular: Instrumentos Biomédicos II
+Pré-requisitos: Circuitos Elétricos II
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+· Fornecer ao aluno o contexto de aplicabilidade de instrumentos biomédicos que
+visam monitorar funções fisiológicas e auxiliar no diagnóstico e tratamento de
+pacientes.
+· Fornecer ao aluno conhecimento sobre a arquitetura dos equipamentos e suas
+particularidades no contexto da engenharia biomédica.
+Específicos:
+· Introduzir ao aluno uma visão ampla sobre a aplicabilidade dos principais
+instrumentos biomédicos de monitoramento e intervenção, abordando aspectos
+históricos, importância clínica e conceitos fisiológicos envolvidos.
+· Projetar com os alunos cada instrumento estudado, construindo o diagrama de
+blocos a partir da problemática clínica envolvida, grandezas medidas, sistemas
+elétricos, mecânicos, eletrônicos e digitais necessários para sua implementação.
+· Fornecer ao aluno o conhecimento das normas e características técnicas mais
+importantes de cada equipamento na validação e na utilização clínica.
+o Propor aos alunos a implementação de módulos de alguns instrumentos em
+ambiente virtual ou em laboratório, dentro das condições disponíveis.
+Ementa:
+Abordar a importância clínica, arquitetura e características técnicas dos seguintes
+instrumentos biomédicos de monitoramento e intervenção: monitor de pressão
+sanguínea e débito cardíaco, marca-passo, desfibrilador externo e implantável, válvulas
+cardíacas, cateteres e stents, monitor de respiração e ventilador mecânico, monitor de
+glicose e insulina (pâncreas artificial), sistema de hemodiálise, monitoramento ótico
+não invasivo, sistema de infusão, neuroestimuladores, implante coclear, estimulador
+elétrico funcional, instrumentos eletro-cirúrgicos, sistemas de monitoramento durante
+anestesia e em Unidades de Tratamento Intensivo (UTI), instrumentos biomédicos para
+medidas laboratoriais. Trabalho prático envolvendo implementação de um instrumento
+ou parte dele.
+Conteúdo Programático:
+·
+·
+·
+·
+·
+·
+·
+·
+
+Instrumentos Monitoramento e intervenção em Cardiologia:
+Monitor de pressão sanguínea e débito cardíaco.
+Marca-passo.
+Desfibrilador externo
+Desfibrilador implantável
+Válvulas cardíacas.
+Cateteres e Stents.
+Instrumentos monitoramento e intervenção em Pneumologia:
+
+·
+
+Monitor de respiração e ventilador mecânico.
+· Instrumentos monitoramento e intervenção em Endocrinologia:
+· Monitor de glicose e insulina (pâncreas artificial).
+· Instrumentos monitoramento e intervenção em Nefrologia:
+· Sistema de hemodiálise.
+· Instrumentos de monitoramento durante anestesia
+· Instrumentos de monitoramento em Unidade de Tratamento Intensivo (UTI)
+· Sistemas de infusão
+· Dispositivos de monitoramento ótico não invasivo
+· Instrumentos de estimulação
+· Neuroestimuladores
+· Implante coclear
+· Estimulador elétrico funcional
+· Instrumentos eletro-cirúrgicos
+· Instrumentos biomédicos para medidas laboratoriais.
+· Trabalho prático envolvendo implementação de um instrumento ou parte dele.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos discentes. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do discente ao longo do semestre. A promoção do discente na unidade
+curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. BRONZINO, Joseph D. (Ed.). Medical devices and systems. 3.ed. Boca Raton
+(USA): CRC Press, 2006.
+2. Webster, John G (Ed.). Medical instrumentation: application and design. 4th ed.
+Hoboken, NJ: John Wiley & Sons, 2009.
+3. Fries, Richard C.. Reliable design of medical devices. 3rd. Boca Raton, Flórida:
+CRC Press, c2013.
+Complementar:
+1. PEREZ, R. Design of Medical Electronic Devices. New York: Academic Press,
+2002.
+2. BAURA, G. Medical Device Technologies. Oxford: Academic Press of
+Elsevier, 2012.
+3. KUTZ, M. Standard Handbook of Biomedical Engineering & Design. New
+York: Mc Graw-Hill, 2003.
+4. GORE, M.G. Spectrophotometry and Spectrofluorimetry: A Practical
+Approach. Oxford University Press, p.368, 2000.
+5. ENDERLE, J.D.; BLANCHARD, S.M.; BRONZINO, J.D. Introduction to
+Biomedical Engineering. 2.ed. San Diego: Elsevier Academic Press. 2005.
+
+6. TOGAWA, T.; TAMURA, T. Biomedical Transducers and Instruments. New
+York: CRC Press, 1997.
+
+

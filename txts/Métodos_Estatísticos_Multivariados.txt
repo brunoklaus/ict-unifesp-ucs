@@ -1,0 +1,56 @@
+Nome do componente curricular: Métodos Estatísticos Multivariados
+Pré-requisitos: Probabilidade e Estatística
+Carga horária total: 72 h
+Carga horária prática: 36 h
+
+Carga horária teórica: 36 h
+
+Objetivos gerais:
+Avaliar situações onde não seja possível descrever adequadamente o objeto de estudo com apenas uma variável.
+Objetivos específicos:
+Ao final da unidade curricular o aluno deve ter condições de resumir, representar e interpretar dados amostrados
+a partir de populações em que, para cada unidade experimental, avaliam-se diversas variáveis.
+Ementa:
+Introdução à estatística multivariada. Vetores aleatórios. Estimação de parâmetros em distribuições amostrais
+multivariadas. Análise de componentes principais. Análise fatorial. Análise de correlações canônicas. Análise de
+agrupamentos. Análise discriminante.
+Conteúdo programático:
+ Exemplos de dados multivariados. Construção de índices. Classificação e discriminação. Associação entre
+variáveis categóricas.
+ Inferência estatística. Álgebra matricial. Distribuições de probabilidade multivariadas. Estimação de
+parâmetros. Testes de hipóteses com dados multivariados.
+ Análise de componentes principais. Estimação das componentes principais. Exemplos de aplicação. Análise via
+matriz de correlação. Critérios para determinação do número de componentes. Inferência estatística.
+ Análise de fatores. Estimação do número de fatores e dos escores. Rotação ortogonal. Rotação não ortogonal.
+Ajuste do modelo.
+ Análise de correlação canônica. Modelo teórico. Inferência estatística.
+ Análise de agrupamentos. Medidas de similaridade e dissimilaridade. Técnicas de agrupamento hierárquicas e
+não hierárquicas.
+ Análise discriminante. Classificação em duplas populações. Qualidade do ajuste. Métodos de identificação das
+variáveis mais importantes.
+ Exemplos.
+Metodologia de ensino utilizada:
+Aulas expositivas, listas de exercícios, aulas em laboratórios de informática e estudos de casos.
+Recursos instrucionais necessários:
+Sala de aula com lousa e projetor multimídia. Laboratório de Informática. Pacote “R”.
+Acesso ao MOODLE como ferramenta EAD.
+Critérios de avaliação:
+O sistema de avaliação será definido pelo docente responsável pela Unidade Curricular (UC) e divulgados aos
+alunos no início do período letivo. O sistema adotado deve contemplar o processo de ensino e aprendizagem
+estabelecido nesse Projeto Pedagógico. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-reitoria de Graduação, tal como discutido no Projeto Pedagógico do Curso.
+Bibliografia básica:
+1. CORRAR, L. J.; PAULO, E.; DIAS FILHO, J. M. Análise multivariada. São Paulo: Atlas, 2007.
+2. MANLY, B. J. F. Métodos estatísticos multivariados: uma introdução. Porto Alegre: Bookman, 2008.
+3. MINGOTI, S. A. Análise de dados através de métodos de estatística multivariada. 1ª ed. Belo Horizonte: Editora
+UFMG, 2007.
+Bibliografia complementar:
+
+1. HAIR, J. F.; BLACK, W. C.; BABIN, B. J.; ANDERSON, R. E.; TATHAM, R. L.; Análise multivariada de dados. 6ª ed.
+São Paulo: Bookman, 2009.
+2. JOHNSON, R. A.; WICHERN, D. W. Applied multivariate statistical analysis. 6ª ed. New York: Pearson, 2007.
+3. KRZANOWSKI, W. J. Principles of multivariate analysis: a user´s perspective. Oxford: Clarendon Press, 1988.
+4. MANLY, B. F. Multivariate statistical methods: a primer. 3ª ed. London: Chapman & Hall, 2004.
+5. MORRISON, D. F. Multivariate statistical methods. 4ª ed. Duxbury Press, 2004.
+
+

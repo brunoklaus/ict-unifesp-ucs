@@ -1,0 +1,65 @@
+Cálculo em Uma Variável
+Química Geral
+Lógica de Programação
+Fundamentos de Biologia Moderna
+Ciência, Tecnologia e Sociedade
+
+Fenômenos Mecânicos
+Ciência, Tecnologia, Sociedade e Ambiente
+Geometria Analítica
+Séries e Equações Diferenciais Ordinárias
+Algoritmos e Estruturas de Dados I
+Matemática Discreta
+Desenho Técnico Básico
+	
+Fenômenos do Contínuo
+Algoritmos e Estruturas de Dados II
+Cálculo em Várias Variáveis
+Álgebra Linear
+Probabilidade e Estatística
+
+
+Projeto e Análise de Algoritmos
+Programação Orientada a Objetos
+Circuitos Elétricos I
+Fenômenos Eletromagnéticos
+
+laboratório de circuitos elétricos
+Fenômenos Eletromagnéticos Experimental
+Análise de Sinais
+Circuitos Elétricos II
+
+Engenharia de Software
+Mecânica Geral
+Controle de Sistemas Dinâmicos
+Banco de Dados
+
+Microeconomia
+Sistemas Embarcados
+Materiais Elétricos
+Seminários Interdisciplinares
+Projetos em Engenharia de Computação
+
+Cálculo Numérico
+Teorias Administrativas
+Programação Concorrente e Distribuída
+Segurança Computacional
+
+Circuitos Digitais
+Arquitetura e Organização de Computadores
+Linguagens Formais e Autômatos
+Compiladores
+Sistemas Operacionais
+Redes de Computadores
+laboratório de sistemas computacionais: arquitetura e organização de computadores
+laboratório de sistemas computacionais: circuitos digitais
+laboratório de sistemas computacionais: compiladores
+laboratório de sistemas computacionais: comunicação digital
+laboratório de sistemas computacionais: engenharia de sistemas
+laboratório de sistemas computacionais: sistemas operacionais
+
+
+
+
+
+

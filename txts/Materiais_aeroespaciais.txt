@@ -1,0 +1,115 @@
+Nome do Componente Curricular: Materiais Aeroespaciais
+Pré-requisitos: Materiais Metálicos, Materiais Cerâmicos e Materiais Poliméricos
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+
+Carga Horária Teórica: 72h
+
+Objetivos
+Gerais:
+Apresentação dos aspectos fundamentais dos materiais para aplicações aeroespaciais: o
+contexto histórico, estrutura, propriedades e aplicações gerais e características.
+Específicos:
+Consolidar os conceitos ligados à estrutura dos materiais para aplicação aeroespacial.
+Identificar os principais materiais aeroespaciais, suas características e aplicações.
+Ementa:
+Introdução aos materiais aeroespaciais; Materiais e necessidades do material para estruturas
+aeroespaciais e motores; Aumento de resistência de ligas metálicas; Testes mecânicos e
+durabilidade de materiais aeroespaciais; Produção e fundição de metais aeroespaciais;
+Processamento e usinagem de metais aeroespaciais; As principais ligas para aplicações
+aeroespaciais; Polímeros para estruturas aeroespaciais; Materiais compósitos para estruturas
+aeroespaciais e motores; Processos de fratura de materiais aeroespaciais; Fadiga, corrosão e
+fluência de materiais aeroespaciais; Inspeção não-destrutiva e integridade estrutural de
+materiais aeroespaciais; Descarte e reciclagem; Seleção de materiais para a indústria
+aeroespacial.
+
+Conteúdo Programático:
+1.
+
+Introdução aos materiais aeroespaciais;
+
+1.1 Materiais aeroespaciais: Passado, presente e futuro;
+1.2 Materiais e necessidades de material para estruturas aeroespaciais e motores.
+2.
+
+Aumento de resistência de ligas metálicas;
+
+2.1 Teste mecânico e durabilidade de materiais aeroespaciais;
+2.2 Produção e fundição de metais aeroespaciais;
+2.3 Processamento e usinagem de metais aeroespaciais;
+3
+
+As principais ligas aeroespaciais;
+
+3.1 Ligas de alumínio para estruturas de aeronaves;
+3.2 As ligas de titânio para estruturas aeroespaciais e motores;
+3.3 As ligas de magnésio para estruturas aeroespaciais;
+3.4 Aços para estruturas de aeronaves;
+3.5 Superligas para motores de turbinas a gás.
+
+4
+
+Polímeros para estruturas aeroespaciais;
+
+4.1 Fabricação de materiais compósitos de fibra polimérica;
+4.2 Compósitos de fibra polimérica para estruturas aeroespaciais e motores;
+4.3 Matriz de metal, fibra de metal e compósitos de matriz cerâmica para
+aplicações aeroespaciais;
+5
+
+Processos de fratura de materiais aeroespaciais;
+
+5.1 Propriedades de fratura e tenacidade de materiais aeroespaciais;
+5.2 A fadiga de materiais aeroespaciais;
+5.3 Corrosão de metais aeroespaciais;
+5.4 Fluência de materiais aeroespaciais;
+6 Inspeção por ensaios não-destrutivos e monitoramento de integridade
+estrutural de materiais aeroespaciais;
+7
+
+Descarte e reciclagem de materiais aeroespaciais;
+8
+
+Seleção de materiais para a indústria aeroespacial.
+
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e exemplos de aplicações. Resolução de lista de
+exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o processo de
+ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. Para isto, as avaliações deverão ser ponderadas de
+maneira crescente ou, ainda, propiciar alternativas de recuperação, como provas substitutivas
+e/ou aplicação de trabalhos adicionais. A promoção do aluno na UC obedecerá aos critérios
+estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do
+curso.
+Bibliografia
+Básica:
+1.
+
+Mouritz A. Introduction to Aerospace Materials. Elsevier, 2012, 640p.
+2. Zhang S., ZhaoD. Aerospace Materiais Handbook. CRC Press, 2012, 781p.
+3. Cantor B., Assender H., Grant P. Aerospace Materials. CRC Press, 2001, 312p.
+Complementar:
+
+1.
+2.
+
+Dieter, G.E. Mechanical Metallurgy, McGraw-Hill,1 edition, 1988.
+Dowling, N.E. Mechanical Behavior of Materials. Person Prentice Hall, 3rd edition,
+
+3.
+4.
+5.
+
+2007.
+Meyers, M.A.; Chawla, K.K. Mechanical behavior of materials, Cambridge University
+Press, 2nd edition, 2009.
+Callister Jr.. W. D. Ciência e Engenharia de Materiais: Uma Introdução, 7ª ed., LTC –
+Livros Técnicos e Científicos Editora S.A., 2008
+Shackelford J. F. Ciência dos Materiais, 6ª ed., Prentice Hall Brasil, 2008.
+
+

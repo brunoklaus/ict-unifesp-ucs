@@ -1,0 +1,79 @@
+Nome do Componente Curricular: Laboratório de Sistemas Computacionais: Compiladores
+Pré-requisitos: Compiladores; Laboratório de Sistemas Computacionais: Engenharia de Sistemas
+Carga Horária Total: 72h
+Carga Horária Prática: 58h
+Carga Horária Teórica: 14h
+Objetivos
+Gerais:
+Esta unidade curricular faz parte das unidades curriculares integradas definidas no Projeto Pedagógico
+do Curso, as quais são utilizadas para que o aluno possa, de fato, desenvolver um sistema
+computacional completo durante o seu processo de aprendizagem, envolvendo a integração entre
+hardware e software. O sistema completo compreende o desenvolvimento da arquitetura do
+processador, a definição de uma linguagem de programação, o projeto de um compilador, a definição
+de um sistema operacional e um processo de comunicação em rede entre dois ou mais sistemas.
+Dentro deste contexto, ao término desta unidade curricular, o aluno deverá ter implementado um
+compilador completo para o sistema computacional especificado. Sendo assim, o objetivo geral dessa
+unidade curricular é capacitar o aluno a construir um compilador completo, envolvendo o processo de
+análise e síntese do compilador.
+Específicos:
+ Capacitar o aluno a especificar a linguagem de programação de alto nível, para a qual o
+compilador será construído;
+ Capacitar o aluno na especificação e modelagem do compilador a ser implementado;
+ Construir os módulos de análise léxica, sintática e semântica do compilador;
+ Construir os módulos de geração e otimização de código objeto da máquina alvo;
+ Capacitar o aluno a desenvolver apresentações orais e redação de textos relativos aos
+conteúdos trabalhados na unidade curricular.
+Ementa:
+Ambientes de execução. Conjunto de instruções (nível ISA). O processo de síntese do compilador.
+Geração de código objeto. Otimização de código.
+Conteúdo Programático:
+Organização de memória durante a execução de programas. Ambientes de execução estáticos.
+Ambientes de execução baseados em pilhas. Memória dinâmica. Mecanismos de passagem de
+parâmetros. Código intermediário e estruturas de dados para geração de código. Técnicas básicas para
+geração de código. A linguagem objeto. Endereços no código objeto. Alocação e atribuição de
+registradores. Técnicas de otimização de código. Otimizações independentes de máquina.
+Metodologia de Ensino Utilizada:
+Esta unidade curricular será baseada na exposição dos conteúdos necessários para a realização da
+síntese do compilador e desenvolvimento de projeto. O projeto será realizado tanto em sala de aula
+como extraclasse, utilizando-se ferramentas de modelagem, compiladores e geradores automáticos
+de módulos de um compilador (léxico e sintático). Essa unidade curricular também levará o aluno a
+elaborar apresentações orais, construir estruturas de trabalhos técnicos e científicos, na forma de
+relatórios, além da redação de textos.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia, computadores com software de modelagem, compiladores, geradores automáticos, e sistema de apoio à condução da unidade curricular (Moodle).
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. LOUDEN, Kenneth C; SILVA, Flávio S.C. Compiladores: princípios e práticas. Säo Paulo:
+Thomson, 2004. 569 p. ISBN 978-85-221-0422-2.
+2. Aho, Alfred V et al. Compiladores: princípios, técnicas e ferramentas. 2 ed. São Paulo: Person
+Addison Wesley, 2007. 634 p. ISBN 978-85-88639-24-9. Tradução de "Compilers: principles,
+techniques, and tools”.
+3. APPEL, Andrew W; PALSBERG, Jens. Modern compiler implementation in Java. 2 ed. New York:
+Cambridge at the University Press, 2002. 501 p. ISBN 978-0-521-82060-8.
+Complementar:
+1. SCOTT, Michael L. Programming language pragmatics. New York: Morgan Kaufmann, 2009. 910
+p. ISBN 978-0-12-374514-9.
+2. HOPCROFT, John E; MOTWANI, Rajeev; ULLMAN, Jeffrey D. Introdução à teoria de autômatos,
+linguagens e computação. [Introduction to automata theory, languages, and computation.].
+Rio de Janeiro: Campus, 2002. 560 p. ISBN 978-85-352-1072-9.
+3. ULLMAN, Jeffrey D; MOTWANI, Rajeev; HOPCROFT, John E. Introduction to automata theory,
+languages, and computation. 3.ed. Boston (USA): Pearson, 2006. 535 p. ISBN 978-0-321-455369.
+4. Ricarte, Ivan. Introdução à compilação. Rio de Janeiro: Elsevier, 2008. 264 p. ISBN
+9788535230673.
+5. PRICE, Ana Maria de Alencar; TOSCANI, Simão Sirineo. Implementação de linguagens de
+programação: compiladores. 3.ed. Porto Alegre: Bookman, 2008. 9. 195 p. ISBN 978-85-7780348-4.
+6. Como Fazer Apresentações em Eventos Acadêmicos e Empresariais – Linguagem Verbal,
+Comunicação Corporal e Recursos Audivisuais. Maria Helena da Nobrega. Editora Atlas. ISBN:
+8522456380, 2010.
+7. Metodologia de Pesquisa para Ciência da Computação. Raul Sidnei Wazlawick. ISBN:
+9788535235227, 2009.
+
+

@@ -1,0 +1,95 @@
+Nome do Componente Curricular: Química Geral
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introduzir os conceitos de estrutura química e transformações. Noções básicas de todas as áreas da
+química: inorgânica, orgânica, analítica, físico-química e biologia química.
+Específicos:
+ Entender a estrutura dos átomos;
+ Relacionar estrutura de átomos com ligações químicas;
+ Relacionar estruturas de moléculas com suas propriedades;
+ Elucidar equações químicas;
+ Entender os principais parâmetros físico-químicos e suas aplicações;
+ Relacionar propriedades químicas das principais biomoléculas com suas funções biológicas.
+Ementa:
+Noções preliminares. Estrutura do átomo e periodicidade química. Ligações químicas. Estudo dos
+gases. Estequiometria. Soluções. Termoquímica. Eletroquímica. Cinética química. Equilíbrios químicos.
+Biomoléculas.
+Conteúdo Programático:
+ Noções preliminares
+o Constituição da matéria
+o Classificação da matéria
+o Estados físicos da matéria
+o Transformações da matéria
+ Estrutura do átomo e periodicidade química
+o Principais características do átomo
+o Modelos atômicos
+o Tabela periódica
+ Ligações químicas
+o Teorias da ligação
+o Ligação iônica ou eletrovalente
+o Ligação covalente ou molecular
+o Geometria molecular
+o Polaridade
+o Forças intermoleculares
+o Ligação metálica
+o Nomenclatura de compostos
+ Estudo dos gases
+o Características gerais dos gases
+o Transformações gasosas
+o Equação de estado dos gases perfeitos
+o Mistura de gases
+ Estequiometria
+
+o Tipos de fórmulas (percentual, mínima, molecular)
+o Estequiometria das reações químicas
+ Soluções
+o Tipos de soluções e solubilidade.
+o Aspectos quantitativos das soluções
+ Termodinâmica
+o Termoquímica: Processos exotérmicos e endotérmicos
+o Entalpia e sua variação
+o Calor ou entalpia das reações químicas
+o Lei de Hess
+o Energia Livre de Gibbs
+o Entropia
+ Eletroquímica
+o Pilhas, potencial das pilhas.
+o Eletrólise (ígnea e em meio aquoso)
+ Cinética-Química
+o Estudo da velocidade das reações químicas.
+o Ocorrência de reações químicas
+ Equilíbrios químicos
+o Constante de equilíbrio.
+o Deslocamento de equilíbrio. Equilíbrio em meio aquoso.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações. Resolução de lista de
+exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. P. Atkins & L. Jones, Princípios De Química: Questionando A Vida Moderna E O Meio-Ambiente
+2001.
+2. KOTZ, John C; TREICHEL, Paul M; WEAVER, Gabriel C. Química geral e reações químicas vol. 1 e
+2, São Paulo: Cengage Learning, c2010.
+3. T. Brown, H. E. Lemay, E., B. Busten, Química: A ciência central. 9 ed. Prentice-Hall, 2005.
+Complementar:
+1. Atkins, P. W., Paula, J., Físico-Química, Vol.3, 7ª ed., LTC.
+2. Lee, J. D., Concise Inorganic Chemistry, 5 ed., Blackwell Science.
+
+3. J. McMurry. Química Orgânica. vol. 1, 6 ed. Cengage Learning, 2005.
+4. J. McMurry. Química Orgânica. vol. 2, 6 ed. Cengage Learning, 2005.
+5. Russel, J. B. Química Geral 2a Edição. Vol. I E II, Editora Afiliada.
+
+

@@ -1,0 +1,110 @@
+Nome do Componente Curricular: Tratamentos Térmicos
+Pré-requisitos: Materiais Metálicos
+Carga Horária Total: 36h
+Carga Horária Prática: 8h
+Carga Horária Teórica: 28h
+Objetivos
+Gerais:
+Desenvolver sólidos conceitos relacionados às mudanças microestruturais e de propriedades
+mecânicas dos metais, possíveis através de seu processamento térmico.
+Específicos:
+Compreender o sistema Fe-C e os efeitos da temperatura e composição na microestrutura e
+propiedades dos aços e ferros fundidos. Conhecer a microestrutura e o efeito térmico em metais e
+ligas de uso mais comum em engenharia (alumínio, magnésio, cobre e titânio). Familiarizar-se com as
+práticas comuns em tratamentos térmicos de superligas e seus resultados associados. Compreender
+os mecanismos envolvidos nos processos de endurecimento superficial e suas práticas recomendadas.
+Desenvolver a capacidade de desenvolver e especificar tratamentos térmicos em metais e ligas em
+geral, para as mais diversas aplicações. Conhecer equipamentos, normas técnicas e práticas
+adequadas ao tratamento térmico dos metais.
+Ementa:
+Conceitos básicos em tratamentos térmicos: tipos, procedimentos e equipamentos. Tratamento
+térmico dos aços. Tratamentos térmicos dos ferros fundidos. Tratamentos térmicos dos metais leves.
+Tratamentos térmicos em ligas de Cu. Tratamentos térmicos em superligas. Tratamentos térmicos e
+termoquímicos de endurecimento superficial. Práticas de laboratório.
+Conteúdo Programático:
+1-Conceitos básicos em tratamentos térmicos:
+1.1– Tipos de tratamentos térmicos e seus ciclos;
+1.2– Revisão: diagramas de equilíbrio, solubilização e precipitação, transformações alotrópicas;
+1.3– Diagramas TTT (ITT e CCT);
+1.4– Efeito da deformação na resposta ao tratamento térmico;
+1.5– Equipamentos;
+1.6– Tensões e distorções.
+2-Tratamento térmico dos aços:
+2.1 – O diagrama Fe-C;
+2.2 – Recozimento e Normalização dos aços;
+2.3 – Têmpera e revenimento dos aços;
+2.4 – Tratamentos isotérmicos: martêmpera e austêmpera
+2.5 – Microestruturas típicas dos aços tratados;
+2.3 – Tratamento térmico de aços ligados, aços inoxidáveis e aços endurecíveis por precipitação.
+3-Tratamento térmico dos ferros fundidos:
+3.1 – Tipos de ferros fundidos;
+3.2 – Tratamentos térmicos dos ferros fundidos cinzentos;
+3.3 – Tratamentos térmicos dos ferros fundidos brancos;
+3.4 – Tratamentos térmicos dos ferros fundidos nodulares;
+3.5 – Microestruturas típicas dos ferros fundidos tratados.
+4-Tratamentos térmicos de metais leves (Ti, Al, Mg):
+4.1 – Fases de equilíbrio e de não equilíbrio em ligas de Ti;
+
+4.2 – Diagramas TTT em ligas de Ti;
+4.3 – Envelhecimento e precipitação em ligas de Ti;
+4.4 – Sistema de designação de têmperas em ligas de Al;
+4.5 – Recozimento em ligas de Al;
+4.6 – Princípios gerais do endurecimento por precipitação em ligas de Al;
+4.7 – Solubilização, têmpera e envelhecimento em ligas de Al;
+4.8 – Tipos de tratamentos térmicos nas ligas de Mg;
+4.9 – Tecnologia do tratamento térmico das ligas de Mg;
+4.10 – Microestruturas típicas das ligas de Ti, Al e Mg.
+5-Tratamentos térmicos em ligas de Cu:
+5.1 – A metalurgia das ligas de Cu;
+5.2 – Principais ligas de Cu;
+5.3 – Recozimento, solubilização, têmpera e envelhecimento em ligas de Cu.
+6-Tratamentos térmicos em superligas:
+6.1 – Introdução à metalurgia das superligas;
+6.2 – Tecnologia do tratamento térmico das superligas;
+6.3 – Microestruturas típicas.
+7-Tratamentos térmicos e termoquímicos de endurecimento superficial:
+7.1 – Têmpera superficial;
+7.2 – Cementação;
+7.3 – Nitretação;
+7.4 – Outros tratamentos termoquímicos de endurecimento superficial.
+8-Práticas de laboratório:
+8.1 – Ensaio Jominy em aços-carbono;
+8.2 – Tempera e revenimento em aços-carbono;
+8.3 – Solubilização e envelhecimento em ligas de alumínio;
+8.4 – Cementação sólida em aços-carbono.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e exemplos de aplicações. Resolução de lista de
+exercícios. Práticas de laboratório.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia. Laboratórios de tratamentos
+térmicos, metalografia e microscopia ótica.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Chiaverini, Vicente. Tratamento Térmico das Ligas Metálicas. São Paulo: Associação Brasileira
+de Metalurgia e Materiais, 2008.
+2. Chiaverini, Vicente. Aços e ferros fundidos: características gerais, tratamentos térmicos,
+
+principais tipos. 7. ed. ampl. e rev.. São Paulo: Associação Brasileira de Metalurgia e Materiais,
+1996. 5ª Reimpressão - 2008.
+3. Silva, André Luiz V. da Costa; Mei, Paulo Roberto. Aços e ligas especiais. 2 ed. Säo Paulo:
+Edgard Blücher, 2006.
+Complementar:
+1. Davis, J. R. (Ed.). Copper and copper alloys. Materials Park (USA): ASM International, c2001.
+(ASM specialty handbook).
+2. Hatch, John E. (ed.). Aluminum: properties and physical metallurgy. Metals Park, Ohio:
+American Society for Metals, 1984.
+3. Chiaverini, Vicente. Tecnologia mecânica: estrutura e propriedades das ligas metálicas. 2.ed.
+São Paulo: Makron Books, 1986. v.2: Processos de fabricação e tratamento. 25.
+4. Porter, D. A.; Eastterling, K. E. Phase Transformations in metals and alloys. 2ª Ed. CRC PRESS,
+2004.
+5. McQueen, Hugh J. et al. Hot deformation and processing of aluminum alloys. Flórida, USA: CRC
+Press/Taylor & Francis Group, 2011.
+
+

@@ -1,0 +1,62 @@
+Nome do Componente Curricular: Sistemas Mecânicos
+Pré-requisitos: Mecânica Geral
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Conhecer conceitos e definições básicas da cinemática e dinâmica de mecanismos.
+Específicos:
+O aluno deverá ser capaz de modelar, equacionar e projetar pequenos sistemas mecânicos, de
+acordo com as condições de contorno.
+Ementa:
+Cinemática de Mecanismos; Síntese analítica dos mecanismos; Dinâmica de mecanismos;
+Projeto de mecanismos.
+Conteúdo Programático:
+1) Cinemática de Mecanismos
+- Fundamentos da cinemática, Síntese Gráfica de mecanismos, Análise de posições
+2) Síntese analítica dos mecanismos
+- Análise de velocidades, Análise de acelerações
+3) Dinâmica de mecanismos
+- Fundamentos da dinâmica, análise dinâmica, balanceamento
+4) Projeto de mecanismos
+Metodologia de Ensino Utilizada:
+Aulas expositivas e seminários.
+Recursos Instrucionais Necessários:
+Lousa e projetor.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das atividades
+letivas e divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o progresso
+do aluno ao longo do semestre. Para isto, as avaliações deverão ser ponderadas de maneira
+crescente ou, ainda, propiciar alternativas de recuperação, como provas substitutivas e/ou
+aplicação de trabalhos adicionais. A promoção do aluno na UC obedecerá aos critérios
+estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do
+curso.
+Bibliografia
+Básica:
+1.
+NORTON, Robert L. Cinemática E Dinâmica Dos Mecanismos, Mcgraw Hill, 2010.
+2.
+NORTON, Robert L. Projeto de Maquinas: Uma Abordagem Integrada, Bookman, 2004.
+3.
+ERDMAN, A.G; SANDOR, G.N. Mechanism Design: Analysis and Synthesis, 4th ed. Prentice
+Hall, 2001.
+
+Complementar:
+1.
+SHIGLEY, J.E. Cinematica dos Mecanismos e Dinamica das Maquinas, Ed. Blucher, 1970.
+2.
+SCLATER, Neil. Mechanisms and Mechanical Devices Sourcebook, 5ª. ed, McGraw-Hill
+Professional, 2011.
+3.
+WALDRON, Keneth J.; KINZEL, Gary L. Kinematics, Dynamics, and Design of Machinery,
+2a. ed., John Wiley, 2004.
+4.
+Beer, Ferdinand P; Johnston, E. Russell. Mecânica vetorial para engenheiros: estática.
+3.ed. São Paulo: McGraw-Hill, 1980. v.1. 456 p.
+5.
+Hibbeler, R. C. Dinâmica: mecânica para engenharia. Tradução de: Mário Alberto Tenan.
+10.ed. São Paulo: Pearson Prentice Hall, 2005. 572 p. ISBN 9788587918963.
+
+

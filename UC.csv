@@ -1,0 +1,253 @@
+ucname_file,error_flag,nome,Pré-Requisitos,Carga Horária Total,Carga Horária Prática,Carga Horária Teórica,Carga Horária Extensão
+algoritmos e estruturas de dados i,False,algoritmos e estruturas de dados i,lógica de programação,72,36,36,0
+algoritmos e estruturas de dados ii,False,algoritmos e estruturas de dados ii,algoritmos e estruturas de dados i,72,26,46,0
+algoritmos em bioinformática,False,algoritmos em bioinformática,lógica de programação,72,36,36,0
+anatomia,False,anatomia,não há,36,10,26,0
+análise de sinais,False,análise de sinais,séries e equações diferenciais ordinárias,72,0,72,0
+análise do rn,False,análise do rn,cálculo em várias variáveis; análise real i,72,0,72,0
+análise real i,False,análise real i,cálculo em uma variável,72,0,72,0
+análise real ii,False,análise real ii,análise real i,72,0,72,0
+aplicações de robótica móvel,False,aplicações de robótica móvel,algoritmos e estruturas de dados i,72,52,20,0
+aprendizado de máquina e reconhecimento de padrões,False,aprendizado de máquina e reconhecimento de padrões,probabilidade e estatística; lógica de programação,72,24,48,0
+arquitetura e organização de computadores,False,arquitetura e organização de computadores,circuitos digitais,72,20,52,0
+aspectos de implementação de banco de dados,False,aspectos de implementação de banco de dados,banco de dados,72,40,32,0
+avanços em engenharia biomédica,False,avanços em engenharia biomédica,sistemas embarcados; instrumentos eletromédicos,36,36,0,0
+banco de dados,False,banco de dados,algoritmos e estruturas de dados i,72,36,36,0
+bioengenharia,False,bioengenharia,fisiologia humana i,72,0,72,0
+bioinformática avançada,False,bioinformática avançada,introdução à bioinformática,72,36,36,0
+biologia do desenvolvimento,False,biologia do desenvolvimento,biologia molecular do gene,36,0,36,0
+biologia estrutural,False,biologia estrutural,bioquímica i,72,36,36,0
+biologia geral,False,biologia geral,não há,72,0,72,0
+biologia molecular da célula,False,biologia molecular da célula,fundamentos da biologia moderna,72,0,72,0
+biologia molecular do gene,False,biologia molecular do gene,fundamentos da biologia moderna,72,0,72,0
+biomateriais,False,biomateriais,química geral,36,0,36,0
+biomecânica,False,biomecânica,sistemas mecânicos,72,36,36,0
+bioquímica analítica,False,bioquímica analítica,bioquímica i,72,0,72,0
+bioquímica i,False,bioquímica i,fundamentos de biologia moderna,72,0,72,0
+bioquímica ii,False,bioquímica ii,bioquímica i,72,0,72,0
+biossensores,False,biossensores,química geral; fenômenos eletromagnéticos; fundamentos de biologia moderna,72,0,72,0
+biotecnologia ambiental i,False,biotecnologia ambiental i,não há,72,0,72,0
+biotecnologia ambiental ii,False,biotecnologia ambiental ii,biotecnologia ambiental i,72,0,72,0
+biotecnologia animal,False,biotecnologia animal,não há,72,0,72,0
+biotecnologia de energias renovaveis ii,False,biotecnologia de energias renováveis ii,biotecnologia de energias renováveis i,72,0,72,0
+biotecnologia de energias renováveis i,False,biotecnologia de energias renováveis i,não há,72,0,72,0
+biotecnologia vegetal,False,biotecnologia vegetal,botânica e fisiologia vegetal,72,0,72,0
+bioética e biossegurança,False,bioética e biossegurança,não há,36,0,36,0
+blendas poliméricas,False,blendas poliméricas,materiais poliméricos,72,0,72,0
+botânica e fisiologia vegetal,False,botânica e fisiologia vegetal,não há,72,0,72,0
+cerâmicas refratárias,False,cerâmicas refratárias,materiais cerâmicos,36,0,36,0
+circuitos digitais,False,circuitos digitais,não há,72,20,52,0
+circuitos elétricos i,False,circuitos elétricos i,não há,72,0,72,0
+circuitos elétricos ii,False,circuitos elétricos ii,circuitos elétricos i; fenômenos eletromagnéticos,72,0,72,0
+ciência e tecnologia dos materiais,False,ciência e tecnologia de materiais,química geral,72,0,72,0
+"ciência, tecnologia e sociedade",False,"ciência, tecnologia e sociedade",não há,36,0,36,0
+"ciência, tecnologia, sociedade e ambiente",False,"ciência, tecnologia, sociedade e ambiente",não há,36,0,36,0
+compiladores,False,compiladores,linguagens formais e autômatos,72,36,36,0
+computação gráfica,False,computação gráfica,algoritmos e estruturas de dados i,72,36,36,0
+condicionamento analógico de sinais,False,condicionamento analógico de sinais,laboratório de circuitos elétricos; eletrônica avançada,72,36,36,0
+controle de sistemas dinâmicos,False,controle de sistemas dinâmicos,análise de sinais; circuitos elétricos ii,72,36,36,0
+controle digital,False,controle digital,controle de sistemas dinâmicos,72,36,36,0
+corrosão e degradação de materiais,False,corrosão e degradação de materiais,ciência e tecnologia dos materiais,72,0,72,0
+cultura digital,False,cultura digital,não há,72,0,72,0
+cálculo em uma variável,False,cálculo em uma variável,não há,108,36,72,0
+cálculo em várias variáveis,False,cálculo em várias variáveis,cálculo em uma variável; geometria analítica,72,10,62,0
+cálculo numérico,False,cálculo numérico,cálculo em uma variável; geometria analítica,72,14,58,0
+desenho técnico assistido por computador,False,desenho técnico assistido por computador,desenho técnico básico,36,36,0,0
+desenho técnico básico,False,desenho técnico básico,não há,36,18,18,0
+desenvolvimento de games,False,desenvolvimento de games,algoritmos e estruturas de dados i,72,36,36,0
+desenvolvimento de novos negócios em engenharia biomédica,False,desenvolvimento de novos negócios em engenharia,microeconomia,36,18,18,0
+desenvolvimento integrado de produtos,False,desenvolvimento integrado de produtos,desenho técnico básico,36,0,36,0
+ecologia avançada,False,ecologia avançada,introdução à ecologia,72,0,72,0
+econometria,False,econometria,probabilidade e estatística; cálculo em várias variáveis,72,22,50,0
+efeitos biológicos das radiações ionizantes,False,efeitos biológicos das radiações ionizantes,instrumentos biomédicos,72,0,72,0
+elementos de álgebra,False,elementos de álgebra,não há,72,0,72,0
+eletrônica avançada,False,eletrônica avançada,circuitos elétricos ii,72,8,64,0
+empreendedorismo,False,empreendedorismo,não há desejável teorias administrativas,36,0,36,0
+empreendedorismo em biotecnologia,False,empreendedorismo em biotecnologia,não há,36,0,36,0
+engenharia bioquímica i,False,engenharia bioquímica i,fundamentos de engenharia bioquímica; microbiologia geral,72,0,72,0
+engenharia bioquímica ii,False,engenharia bioquímica ii,engenharia bioquímica i,72,0,72,0
+engenharia clínica hospitalar,False,engenharia clinica hospitalar aplicada,introdução à eletrotécnica,72,36,36,0
+engenharia de produtos cerâmicos,False,engenharia de produtos cerâmicos,matérias-primas cerâmicas; processamento de materiais cerâmicos,72,0,72,0
+engenharia de software,False,engenharia de software,programação orientada a objetos,72,36,36,0
+engenharia médica aplicada,False,engenharia médica aplicada,fisiologia humana; imagens biomédicas; transdução de grandezas biomédicas,72,36,36,0
+engenharia tecidual e medicina regenerativa,False,engenharia tecidual e medicina regenerativa,biologia molecular da célula; fisiologia humana,72,0,72,0
+ensaios de materiais,False,ensaios de materiais,ciência e tecnologia dos materiais,72,20,52,0
+equações diferenciais ordinárias,False,equações diferenciais ordinárias,álgebra linear; séries e equações diferenciais ordinárias,72,0,72,0
+equações diferenciais parciais,False,equações diferenciais parciais,cálculo em várias variáveis; séries e equações diferenciais ordinárias,72,0,72,0
+espaços métricos,False,espaços métricos,cálculo em várias variáveis,72,0,72,0
+estrutura e propriedades de polímeros,False,estrutura e propriedades de polímeros,materiais poliméricos,72,12,60,0
+farmacologia molecular,False,farmacologia molecular,não há,72,0,72,0
+fenômenos de transporte,False,fenômenos de transporte,séries e equações diferenciais ordinárias; mecânica geral,72,0,72,0
+fenômenos do contínuo,False,fenômenos do contínuo,não há,72,0,72,0
+fenômenos do contínuo experimental,False,fenômenos do contínuo experimental,não há,36,36,0,0
+fenômenos eletromagnéticos,False,fenômenos eletromagnéticos,não há,72,0,72,0
+fenômenos eletromagnéticos experimental,False,fenômenos eletromagnéticos experimental,não há,36,36,0,0
+fenômenos mecânicos,False,fenômenos mecânicos,não há,72,0,72,0
+fenômenos mecânicos experimental,False,fenômenos mecânicos experimental,não há,36,36,0,0
+fisiologia humana i,False,fisiologia humana,não há,72,12,60,0
+fisiologia humana ii,False,fisiologia humana ii,fisiologia humana i,72,12,60,0
+fisiopatologia cardiorrespiratória,False,fisiopatologia cardiorrespiratória,fisiologia humana i,72,0,72,0
+fisiopatologia clínica dos sistemas humanos,False,fisiopatologia clínica dos sistemas humanos,fisiologia humana;,72,0,72,0
+fundamentos de biologia moderna,False,fundamentos da biologia moderna,não há,72,0,72,0
+fundamentos de engenharia bioquímica,False,fundamentos da engenharia bioquímica,matemática geral; física geral,72,0,72,0
+fundamentos de matlab aplicado à engenharia,False,fundamentos do matlab aplicado a engenharia,não há,72,36,36,0
+fundamentos de mecânica celeste,False,fundamentos da mecânica celeste,fenômenos mecânicos; séries e equações diferenciais ordinárias,72,10,62,0
+funções analíticas,False,funções analíticas,cálculo em várias variáveis; séries e equações diferenciais ordinárias,72,10,62,0
+física geral,False,física geral,fenômenos mecânicos,72,0,72,0
+física moderna,False,física moderna,fenômenos mecânicos; fenômenos do contínuo; fenômenos eletromagnéticos,72,0,72,0
+geometria analítica,False,geometria analítica,não há,72,8,64,0
+gestão da inovação,False,gestão da inovação,não há,36,0,36,0
+gestão de projetos,False,gestão de projetos,não há,36,0,36,0
+imagens biomédicas,False,imagens biomédicas,análise de sinais; algoritmos em bioinformática,72,36,36,0
+imunologia aplicada,False,imunologia aplicada,imunologia geral,72,0,72,0
+imunologia geral,False,imunologia geral,biologia molecular da célula,72,0,72,0
+inferência e análise de regressão,False,inferência e análise de regressão,probabilidade e estatística,72,16,56,0
+instrumentos biomédicos i,False,instrumentos biomédicos,circuitos elétricos ii,72,0,72,0
+instrumentos biomédicos ii,False,instrumentos biomédicos ii,circuitos elétricos ii,72,36,36,0
+instrumentos eletromédicos,False,instrumentos eletromédicos,circuitos elétricos ii,72,12,60,0
+inteligência artificial,False,inteligência artificial,algoritmos e estruturas de dados i,72,24,48,0
+interação humano-computador,False,interação humano-computador,programação orientada a objetos,72,18,54,0
+introdução à análise de falhas em metais,False,introdução à análise de falhas em metais,metalurgia mecânica,72,0,72,0
+introdução à bioinformática,False,introdução à bioinformática,biologia molecular da célula ; lógica de programação,72,36,36,0
+introdução à biologia de sistemas,False,introdução à biologia de sistemas,biologia molecular da célula,72,36,36,0
+introdução à biotecnologia,False,introdução à biotecnologia,não há,36,0,36,0
+introdução à ecologia,False,introdução à ecologia,não há,72,0,72,0
+introdução à eletrotécnica,False,introdução à eletrotécnica,circuitos elétricos ii,36,0,36,0
+introdução à engenharia biomédica,False,introdução à engenharia biomédica,não há,36,0,36,0
+introdução à engenharia de materiais,False,introdução à engenharia de materiais,não há,36,0,36,0
+introdução à engenharia financeira,False,introdução à engenharia financeira,cálculo em várias variáveis; probabilidade e estatística,72,36,36,0
+introdução à geometria diferencial,False,introdução à geometria diferencial,cálculo em várias variáveis,72,0,72,0
+introdução à nanotecnologia,False,introdução à nanotecnologia,não há,36,6,30,0
+introdução à neurociência,False,introdução à neurociência,séries e equações diferenciais ordinárias; algoritmos em bioinformática; fisiologia humana,72,36,36,0
+introdução à pesquisa operacional,False,introdução à pesquisa operacional,álgebra linear,72,8,64,0
+introdução à teoria dos sistemas dinâmicos,False,introdução à teoria dos sistemas dinâmicos,análise real i,72,0,72,0
+introdução à ótica biomédica,False,introdução à ótica biomédica,fenômenos do contínuo,72,0,72,0
+introdução às redes neurais artificiais,False,introdução às redes neurais artificiais,algoritmos e estruturas de dados i,72,36,36,0
+laboratório avançado de métodos ágeis e software,False,laboratório avançado de métodos ágeis e software,algoritmos e estruturas de dados i,108,72,36,0
+laboratório de biologia molecular e celular,False,laboratório de biologia molecular e celular,biologia molecular da célula,36,36,0,0
+laboratório de bioquímica,False,laboratório de bioquímica,bioquímica i; biologia molecular do gene,72,72,0,0
+laboratório de bioquímica analítica,False,laboratório de bioquímica analítica,bioquímica analítica,36,36,0,0
+laboratório de circuitos elétricos,False,laboratório de circuitos elétricos,fenômenos eletromagnéticos; circuitos elétricos i,36,36,0,0
+laboratório de eletrônica digital,False,laboratório de eletrônica digital,circuitos digitais,36,36,0,0
+laboratório de engenharia bioquímica,False,laboratório de engenharia bioquímica,engenharia bioquímica i,36,36,0,0
+laboratório de estatística aplicada,False,laboratório de estatística aplicada,probabilidade e estatística,72,36,36,0
+laboratório de matemática,False,laboratório de matemática,não há,36,36,0,0
+laboratório de microbiologia,False,laboratório de microbiologia,microbiologia geral,36,36,0,0
+laboratório de sistemas computacionais: arquitetura e organização de computadores,False,laboratório de sistemas computacionais: arquitetura e,arquitetura e organização de computadores; laboratório de sistemas computacionais: circuitos digitais,72,58,14,0
+laboratório de sistemas computacionais: circuitos digitais,False,laboratório de sistemas computacionais: circuitos digitais,circuitos digitais,36,28,8,0
+laboratório de sistemas computacionais: compiladores,False,laboratório de sistemas computacionais: compiladores,compiladores; laboratório de sistemas computacionais: engenharia de sistemas,72,58,14,0
+laboratório de sistemas computacionais: comunicação digital,False,lab de sistemas computacionais: comunicação,redes de computadores; laboratório de sistemas computacionais: sistemas operacionais,72,36,36,0
+laboratório de sistemas computacionais: engenharia de sistemas,False,laboratório de sistemas computacionais: engenharia de sistemas,laboratório de sistemas computacionais: arquitetura e organização de computadores,36,28,8,0
+laboratório de sistemas computacionais: sistemas operacionais,False,laboratório de sistemas computacionais: sistemas operacionais,sistemas operacionais; laboratório de sistemas computacionais: compiladores,72,58,14,0
+laboratório de usabilidade na web,False,laboratório de usabilidade na web,programação orientada a objetos,72,48,24,0
+linguagens formais e autômatos,False,linguagens formais e autômatos,matemática discreta; lógica de programação,72,0,72,0
+lógica de programação,False,lógica de programação,não há,72,30,42,0
+manufatura aditiva,False,manufatura aditiva,processamento de materiais cerâmicos,72,0,72,0
+marketing estratégico,False,marketing estratégico,teorias administrativas,36,0,36,0
+matemática discreta,False,matemática discreta,não há,72,36,36,0
+matemática geral,False,matemática geral,cálculo em uma variável,72,0,72,0
+materiais aeroespaciais,False,materiais aeroespaciais,"materiais metálicos, materiais cerâmicos, materiais poliméricos",72,0,72,0
+materiais cerâmicos,False,materiais cerâmicos,ciência e tecnologia dos materiais,72,12,60,0
+materiais compósitos,False,materiais compósitos,ciência e tecnologia de materiais,72,8,64,0
+materiais de construção civil,False,materiais de construção civil,materiais cerâmicos,72,0,72,0
+materiais elétricos,False,materiais elétricos,fenômenos eletromagnéticos,72,0,72,0
+materiais metálicos,False,materiais metálicos,ciência e tecnologia dos materiais,72,20,52,0
+materiais poliméricos,False,materiais poliméricos,ciência e tecnologia dos materiais,72,12,60,0
+matérias-primas cerâmicos,False,matérias-primas cerâmicas,materiais cerâmicos,72,16,56,0
+mecânica geral,False,mecânica geral,geometria analítica; fenômenos mecânicos,72,0,72,0
+metalurgia extrativa,False,metalurgia extrativa,"materiais metálicos, termodinâmica dos sólidos",36,0,36,0
+metalurgia física,False,metalurgia física,ciência e tecnologia dos materiais,72,0,72,0
+metalurgia mecânica,False,metalurgia mecânica,ciência e tecnologia dos materiais; resistência dos materiais,72,0,72,0
+metodologia da pesquisa e comunicação ciêntífica,False,metodologia da pesquisa e comunicação científica,não há,36,8,28,0
+microbiologia aplicada e industrial,False,microbiologia aplicada e industrial,microbiologia geral,72,0,72,0
+microbiologia geral,False,microbiologia geral,não há,72,0,72,0
+microeconomia,False,microeconomia,não há,36,0,36,0
+modelagem computacional,False,modelagem computacional,lógica de programação; cálculo em uma variável,36,18,18,0
+modelagem de dados,False,modelagem de dados,não há,72,36,36,0
+modelagem molecular,False,modelagem molecular,biologia estrutural,72,36,36,0
+modelos animais,False,modelos animais,biotecnologia animal,72,0,72,0
+multimídia,False,multimídia,algoritmos e estruturas de dados i,72,30,42,0
+métodos avançados em processamento de imagens biomédicas,False,métodos avançados em processamento de,análise de sinais,72,36,36,0
+métodos estatísticos multivariados,False,métodos estatísticos multivariados,probabilidade e estatística,72,36,36,0
+métodos matemáticos para a engenharia,False,métodos matemáticos para a engenharia,séries e equações diferenciais ordinárias; cálculo em várias variáveis,72,0,72,0
+métodos numéricos para equações diferenciais,False,métodos numéricos para equações diferenciais,cálculo numérico; álgebra linear; séries e equações diferenciais ordinárias,72,14,58,0
+otimização inteira,False,otimização inteira,otimização linear,72,10,62,0
+otimização linear,False,otimização linear,geometria analítica; lógica de programação,72,14,58,0
+otimização não linear,False,otimização não linear,cálculo em várias variáveis; cálculo numérico,72,14,58,0
+paradigmas da programação,False,paradigmas de programação,programação orientada a objetos,72,36,36,0
+planejamento de experimentos,False,planejamento de experimentos,probabilidade e estatística,72,36,36,0
+probabilidade,False,probabilidade,probabilidade e estatística; cálculo em várias variáveis,72,12,60,0
+probabilidade e estatística,False,probabilidade e estatística,cálculo em uma variável,72,16,56,0
+processamento de imagens,False,processamento de imagens,algoritmos e estruturas de dados i; séries e equações diferenciais ordinárias,72,24,48,0
+processamento de materiais cerâmicos,False,processamento de materiais cerâmicos,materiais cerâmicos,72,16,56,0
+processamento de materiais metálicos,False,processamento de materiais metálicos,"metalurgia física, metalurgia mecânica",72,8,64,0
+processamento de sinais,False,processamento de sinais,análise de sinais; algoritmos em bioinformática,36,36,0,0
+processamento de termofíxos e elastômeros,False,processamento de termofixos e elastômeros,materiais poliméricos,36,8,28,0
+processamento de termoplásticos,False,processamento de termoplásticos,materiais poliméricos,72,16,56,0
+programação concorrente e distribuída,False,programação concorrente e distribuída,sistemas operacionais,72,30,42,0
+programação orientada a objetos,False,programação orientada a objetos,algoritmos e estruturas de dados i,72,36,36,0
+programação paralela e processamento de alto desempenho,False,programação paralela e processamento de alto desempenho,programação concorrente e distribuída,72,36,36,0
+projeto e análise de algoritmos,False,projeto e análise de algoritmos,matemática discreta; algoritmos e estruturas de dados ii,72,20,52,0
+projeto orientado a objetos,False,projeto orientado a objetos,programação orientada a objetos,72,36,36,0
+projetos em engenharia da computação,False,projetos em engenharia de computação,não há,36,28,8,0
+proteômica,False,proteômica,bioquímica analítica; introdução à bioinformática,72,36,36,0
+prototipagem e manufatura aditiva,False,prototipagem e manufatura aditiva,desenho técnico básico,72,10,62,0
+prática em projetos extensionistas i,False,prática em projetos extensionistas i,química geral; lógica de programação; fundamentos de biologia moderna,72,0,0,72
+práticas de extensão e divulgação científica,False,práticas de extensão e divulgação científica,não há,72,0,56,16
+práticas em instrumentação biomédica,False,práticas em instrumentação biomédica,instrumentos eletromédicos; instrumentos biomédicos; sistemas embarcados; biossensores,72,72,0,0
+práticas em projetos extensionistas ii,False,práticas em projetos extensionistas ii,química geral; lógica de programação;,72,0,0,72
+qualidade,False,qualidade,probabilidade e estatística,36,0,36,0
+quimica medicinal ii,False,química medicinal ii,química medicinal i,72,0,72,0
+química analítica,False,química analítica,química geral; química geral experimental,72,48,24,0
+química geral,False,química geral,não há,72,0,72,0
+química geral experimental,False,química geral experimental,não há,72,72,0,0
+química inorgânica,False,química inorgânica,química geral,72,12,60,0
+química medicinal i,False,química medicinal i,bioquímica i,72,0,72,0
+química orgânica,False,química orgânica,química geral,72,0,72,0
+química orgânica experimental,False,química orgânica experimental,química geral; química geral experimental,72,72,0,0
+radioterapia para engenharia,False,radioterapia para engenharia,instrumentos biomédicos,72,0,72,0
+realidade virtual e aumentada,False,realidade virtual e aumentada,algoritmos e estruturas de dados i,72,18,54,0
+reciclagem de materiais,False,reciclagem de materiais,ciência e tecnologia dos materiais,36,0,36,0
+redes de computadores,False,redes de computadores,programação orientada a objetos,72,20,52,0
+relações étnico-raciais e cultura afro-brasileira e indígena,False,relações étnico-raciais e cultura afro-brasileira e indígena,não há,36,0,36,0
+reologia dos materiais,False,reologia dos materiais,"materiais poliméricos, fenômenos de transporte",36,6,30,0
+resistência dos materiais,False,resistência dos materiais,mecânica geral,72,0,72,0
+resolução de problemas via modelagem matemática,False,resolução de problemas via modelagem,"cálculo em várias variáveis, geometria analítica, lógica de programação",72,52,20,0
+segurança computacional,False,segurança computacional,sistemas operacionais,72,36,36,0
+seleção de materiais,False,seleção de materiais,ciência e tecnologia dos materiais,36,0,36,0
+seminários interdisciplinares,False,seminários interdisciplinares,não há,36,0,36,0
+sistemas distribuídos,False,sistemas distribuídos,sistemas operacionais,72,18,54,0
+sistemas embarcados,False,sistemas embarcados,não há,72,36,36,0
+sistemas mecânicos,False,sistemas mecânicos,mecânica geral,72,0,72,0
+sistemas operacionais,False,sistemas operacionais,algoritmos e estruturas de dados i,72,18,54,0
+sustentabilidade no gerenciamento de resíduos,False,sustentabilidade no gerenciamento de resíduos,não há,72,36,36,0
+séries e equações diferenciais ordinárias,False,séries e equações diferenciais ordinárias,cálculo em uma variável,72,10,62,0
+síntese de polímeros,False,síntese de polímeros,química orgânica; materiais poliméricos,72,20,52,0
+tecnologia e meio ambiente,False,tecnologia e meio ambiente,não há,36,0,36,0
+tecnologia em tintas e vernizes,False,tecnologia em tintas e vernizes,materiais poliméricos,72,12,60,0
+tecnologia social: práxis e contra-hegemonia,False,tecnologia social: práxis e contra-hegemonia,não há,36,0,36,0
+teoria dos grafos,False,teoria dos grafos,projeto e análise de algoritmos,72,10,62,0
+teoria dos números e criptografia,False,teoria dos números e criptografia,matemática discreta,72,10,62,0
+teorias administrativas,False,teorias administrativas,não há,36,0,36,0
+termodinâmica dos sólidos,False,termodinâmica dos sólidos,química geral,72,0,72,0
+termodinâmica química,False,termodinâmica química,química geral; cálculo em uma variável,72,0,72,0
+trajetorias da inovação,False,trajetórias da inovação,não há,36,0,36,0
+transdução de grandezas biomédicas,False,transdução de grandezas biomédicas,circuitos elétricos ii,72,20,52,0
+tratamentos térmicos,False,tratamentos térmicos,materiais metálicos,36,8,28,0
+técnicas experimentais,False,técnicas experimentais,ciência e tecnologia dos materiais,72,24,48,0
+tópicos em ciência e tecnologia iii,False,tópicos em ciência e tecnologia iii,não há,36,0,36,0
+tópicos em estatística,False,tópicos em estatística,probabilidade e estatística,72,36,36,0
+tópicos em história da matemática,False,tópicos em história da matemática,não há,72,0,72,0
+tópicos em matemática computacional i,False,tópicos em matemática computacional i,não há,72,36,36,0
+tópicos em ressonância magnética nuclear,False,tópicos em ressonância magnética nuclear,fenômenos eletromagnéticos,72,0,72,0
+tópicos em tecnologia da computação i,False,tópicos em tecnologia da computação i,algoritmos e estruturas de dados i,72,36,36,0
+tópicos em tecnologia da computação ii,False,tópicos em tecnologia da computação ii,algoritmos e estruturas de dados i,72,36,36,0
+tópicos em tecnologia da computação iii,False,tópicos em tecnologia da computação iii,algoritmos e estruturas de dados i,72,36,36,0
+tópicos em tecnologia da computação iv,False,tópicos em tecnologia da computação iv,algoritmos e estruturas de dados i,72,36,36,0
+tópicos em tecnologia da computação v,False,tópicos em tecnologia da computação v,algoritmos e estruturas de dados i,72,36,36,0
+tópicos especiais em ciência e engenharia de materiais ii,False,tópicos especiais em ciência e engenharia de materiais ii,não há,72,0,72,0
+validação e verificação de software,False,validação e verificação de software,engenharia de software,72,36,36,0
+"vidros, vitrocerâmicas e vidrados",False,"vidros, vitrocerâmicos e vidrados",materiais cerâmicos,72,18,54,0
+álgebra linear,False,álgebra linear,geometria analítica,72,10,62,0
+álgebra linear computacional,False,álgebra linear computacional,cálculo numérico,72,22,50,0
+álgebra linear ii,False,álgebra linear ii,álgebra linear,72,0,72,0

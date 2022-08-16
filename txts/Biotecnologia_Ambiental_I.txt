@@ -1,0 +1,59 @@
+Nome do Componente Curricular: Biotecnologia Ambiental I
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introdução à biotecnologia ambiental.
+Específicos:
+Introdução à processos de biorremediação e ao tratamento de resíduos e à avaliação e monitoramento
+do meio ambiente.
+Ementa:
+Avaliação da biodiversidade para manutenção e conservação dos ecossistemas para seu uso aplicado.
+Efeitos bioquímicos e fisiológicos dos poluentes nos organismos. Processos biológicos de transformação
+de resíduos. Tratamentos aeróbios e anaeróbios. Remediação biológica utilizando micro-organismos e
+plantas. Prevenção, detecção e monitoramento. Processos ambientalmente amigáveis envolvidos nas
+tecnologias verdes ou limpas. Desenvolvimento sustentável.
+Conteúdo Programático:
+•
+Biodiversidade e conservação de ecossistemas.
+•
+Tratamento de resíduos.
+•
+Biorremediação.
+•
+Desenvolvimento sustentável.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades práticas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico,
+com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do aluno na
+unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+ VALLERO, D. A. Environmental Biotechnology: A Biosystems Approach. Elsevier, Academic
+Press, 2010.
+ EVANS, G. M.; FURLONG, J. C. Environmental Biotechnology: Theory and Application. John
+Wiley & Sons, England, 2003.
+ BURTON, F. L.; TCHOBANOGLOUS, G.; METCALF & EDDY, Inc.; STENSEL, H. D. Wastewater
+Engineering. McGraw-Hill College: Grã-Bretanha, 2013, 1856 p.
+
+Complementar:
+ MILLER JR., G. T. Ciência ambiental. São Paulo: Cengage Learning, c2007. 123 p. ISBN
+9788522105496.
+ BAIRD, C.; CANN, M. Environmental chemistry. 4 ed. New York: Freeman, 2008. 776 p.
+ISBN 978-1-4292-0146-9.
+ STANLEY, E. M. Química ambiental. 9. Porto Alegre: Bookman, 2015, recurso online ISBN
+9788565837354.
+ ZANIN, M.; MANCINI, S. D. Resíduos plásticos e reciclagem: aspectos gerais e tecnologia.
+São Carlos: EdUFSCar, 2009. 143 p. ISBN 978-85-7600-020-4.
+ BLANC, C. Aquecimento global & crise ambiental. São Paulo: Editora Gaia, 2012. 202 p.
+ISBN 9788575552759.
+
+

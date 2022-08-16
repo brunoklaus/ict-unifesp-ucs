@@ -1,0 +1,61 @@
+Nome do Componente Curricular: Algoritmos e Estruturas de Dados II
+Pré-requisitos: Algoritmos e Estruturas de Dados I
+Carga Horária Total: 72h
+Carga Horária Prática: 26h
+Carga Horária Teórica: 46h
+Objetivos
+Gerais:
+Introduzir algoritmos e estruturas de dados avançadas. Ao final do curso o aluno deve estar
+familiarizado com os algoritmos e estruturas de dados avançadas, devendo ser capaz de definir qual
+algoritmo e/ou estrutura de dados é mais apropriada para cada tipo de problema.
+Específicos:
+Implementar algoritmos e estruturas de dados sofisticadas, para aplicações em memória primária e
+secundária em alguma linguagem de programação tais como: C, C++ ou Java.
+Ementa:
+Métodos de ordenação interna: quadrático, n log n, linear e outros. Métodos de pesquisa interna:
+sequencial, busca binária, árvores de pesquisa. Balanceamento de árvores. Algoritmos em grafos
+(busca em largura, profundidade e menor caminho). Tabelas de espalhamento (Hash). Memória
+externa: modelos, ordenação e pesquisa.
+Conteúdo Programático:
+Percurso, menor caminho e busca em largura e profundidade em grafos. Métodos de ordenação
+interna. Métodos de pesquisa interna. Árvore balanceada de busca. Tabelas de espalhamento (Hash) e
+pesquisa com Hashing. Revisão sobre Memória externa (organização e sistemas de arquivos).
+Ordenação em memória externa. Pesquisa em memória externa.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; Atividades monitoradas em grupos de trabalho; Laboratório de programação;
+Atividades complementares a distância; Listas de exercícios.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. CORMEN, Thomas H et al. Algoritmos: teoria e prática. Rio de Janeiro: Campus, 2002. 916 p.
+ISBN 978-85-352-0926-6. tradução de ""Introduction to algorithms"" 2.ed.
+2. ZIVIANI, N. Projeto de algoritmos: com implementações em PASCAL e C. 2 ed. rev. e ampl. São
+Paulo: Thomson, 2004. 552 p. ISBN 978-85-221-0390-4.
+3. ZIVIANI, Nivio; BOTELHO, Fabiano C. Projeto de algoritmos: com implementações em JAVA e C+
++. São Paulo: Thomson, 2007. 621 p. ISBN 978-85-221-0525-0.
+Complementar:
+1. SKIENA, Steven S. The algorithm design manual. 2.ed. New York: Springer, c2008. 730 p. ISBN
+978-1-84800-069-8.
+2. Skiena, Steven S; Revilla, Miguel A. Programming challenges: the programming contest training
+manual. New York: Springer, 2003. 359 p. ISBN 978-0-387-00163-0.
+
+3. Furtado, Antonio et al. Estrutura de dados. Rio de Janeiro: Campus, 1983. 228 p. ISBN 978-857001-352-1.
+4. TENENBAUM, Aaron M et al. Estruturas de dados usando C. São Paulo: Pearson, 2008. 884 p.
+ISBN 978-85-346-0348-5.
+5. GOODRICH, Michael T et al. Estruturas de dados e algoritmos em Java. Porto Alegre, RS:
+Bookman, 2007. 600 p. ISBN 978-85-600-3150-4. atualizado para java 5 0.
+6. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. Säo Paulo: Cengage Learning,
+c2002. 579 p p. ISBN 978-85-221-0295-2. Título original:Data structures and algorithms C++.
+7. Shen, Alexander. Algorithms and programming: problems and solutions. 2. ed. New York, NY:
+Springer, 2010. 272 p. (Springer Undergraduate Texts in Mathematics and Technology). ISBN
+978-1-4419-1747-8.
+
+

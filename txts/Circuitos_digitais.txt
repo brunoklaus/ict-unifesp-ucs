@@ -1,0 +1,107 @@
+Nome do Componente Curricular: Circuitos Digitais
+Pré-requisitos: Não há
+Carga horária total: 72h
+Carga Horária Prática: 20h
+Carga Horária Teórica: 52h
+Objetivos
+Geral:
+Ao término desta unidade curricular, o aluno deverá ser capaz de projetar, analisar, simplificar e
+sintetizar sistemas digitais. Sendo assim, os objetivos gerais são:
+• Apresentar os fundamentos da lógica digital;
+• Descrever métodos para a síntese de circuitos combinacionais;
+• Apresentar métodos para a síntese de circuitos sequenciais..
+Específicos:
+• Apresentar os circuitos combinacionais mais conhecidos e utilizados no projeto de um
+sistema digital
+◦ codificadores, multiplexadores, somadores/subtratores, multiplicadores, comparadores;
+•
+
+Apresentar os circuitos sequenciais mais conhecidos e utilizados no projeto de um sistema
+digital
+◦ latches, flip flops, registradores, contadores, divisores de frequência;
+
+•
+
+Apresentar procedimentos para a síntese de circuitos combinacionais
+◦ construção de tabelas verdade a partir de uma determinada especificação, derivação de
+equações booleanas, simplificação de funções booleanas, descrição de um sistema
+utilizando portas lógicas;
+
+•
+
+Apresentar procedimentos para a síntese de circuitos sequenciais
+◦ construção de diagramas de estados a partir de uma determinada especificação,
+derivação de tabelas verdade, máquinas de estados finitos (Moore e Mealy);
+
+•
+
+Analisar e comparar o impacto de diferentes circuitos digitais no desempenho de um sistema
+computacional.
+
+Ementa:
+Sistemas de Numeração. Funções Lógicas, Álgebra Booleana e Portas lógicas. Simplificação de
+funções booleanas. Circuitos Combinacionais: conversores, decodificadores, multiplexadores,
+demultiplexadores e geradores de paridade. Circuitos Combinacionais Aritméticos: somadores,
+subtratores, multiplicadores e comparadores de magnitude. Circuitos Sequenciais: latches, flip flops
+e registradores. Máquinas de estados finitos: Moore e Mealy. Projeto de Circuitos Combinacionais e
+Sequenciais.
+Conteúdo Programático:
+Sinal Digital e Sistema Numérico. Conversão de números. Representação de Códigos no Computador.
+Funções Lógicas, Formas de Representação, uso de "don't care" e dualidade. Portas Lógicas : AND,
+OR, NOT, XOR, NXOR, buffers e inversores tri-state. Otimização de Circuitos Digitais - Manipulação
+Algébrica. Mintermos/Maxtermos (Forma Canônica). Simplificação utilizando o Mapa de Karnaugh
+em soma de produtos e produto de somas. Circuitos Combinacionais: codificadores, decodificadores,
+multiplexadores,
+demultiplexadores,
+comparadores,
+geradores
+de
+paridade,
+habilitação/desabilitação de blocos funcionais. Circuitos Combinacionais Aritméticos: meio-somador,
+somador completo, somador com vai-um em cascata, somador com vai-um antecipado, somador
+BCD, somador/subtrator em complemento de dois, overflow (estouro de representação),
+multiplicação, comparador de magnitude e outros blocos aritméticos (divisores, números em ponto
+flutuante, incremento/decremento, multiplicação/divisão por constantes, funções trigonométricas,
+zero fill e extensão de sinal). Circuitos Sequenciais: latches do tipo SR/D, transparência dos latches,
+
+flip-flops do tipo SR/D/JK/T, registradores sensíveis ao nível, registradores sensíveis à borda,
+características temporais dos registradores, registradores de deslocamento, divisores de frequência e
+contadores. Síntese de Circuitos Sequenciais: Máquinas de estados finitos – construção de diagramas
+de estados, síntese utilizando diferentes tipos de flip flops, sinais de saída - Moore e Mealy.
+Metodologia de Ensino Utilizada:
+Esta unidade curricular será baseada em aulas expositivas com o auxílio de quadro branco e de
+projetor multimídia. A participação dos alunos em sala de aula será estimulada por meio da
+realização de projetos de alguns sistemas digitais. Esses projetos serão realizados tanto em sala de
+aula como extra classe e deverão ser desenvolvidos utilizando uma plataforma de trabalho específica
+que permita o desenvolvimento de projetos digitais bem como a realização de simulações para
+verificar a funcionalidade dos circuitos projetados.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e computadores com o software Quartus II instalado.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Sistemas Digitais – Fundamentos e Aplicações. Thomas L. Floyd. Editora Bookman. ISBN:
+8560031936, 2007.
+2. Fundamentos de Circuitos Digitais. Flávio Rech Wagner, André Inácio Reis e Renato Perez
+Ribas. Série Livros Didáticos – 17. Editora Bookman. ISBN: 9788577803453, 2008.
+3. Sistemas Digitais: Princípios e Aplicações. Ronald J. Tocci, Neal S. Widmer e Gregory L. Moss.
+Editora Prentice-Hall. ISBN: 9788576050957, 2007.
+Complementar:
+1. Elementos de Eletrônica Digital. Francisco Gabriel Capuano e Ivan Valeije Idoeta. Editora Erica.
+ISBN: 8571940193, 2001.
+2. Fundamentals of Digital Logic with Verilog Design. Stephen Brown e Zvonko Vranesic. Editora
+MCGRAW-HILL. ISBN: 0070667241, 2007.
+3. VHDL: Descrição e Síntese de Circuitos Digitais. Robert D'Amore. Editora LTC. ISBN:
+8521614527, 2005.
+4. Digital Design. M. Morris Mano e Michael D. Ciletti. Editora Prentice Hall. ISBN: 0131989243,
+2007.
+5. Projetos de Circuitos Digitais com FPGA. César da Costa. Editora Érica. ISBN: 9788536502397,
+2009.
+
+

@@ -1,0 +1,97 @@
+Nome do Componente Curricular: Imagens Biomédicas
+Período: 7 º semestre
+Pré-requisitos: Análise de Sinais; Algoritmos em Bioinformática
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36
+Objetivos
+Gerais:
+Ter uma compreensão dos princípios físicos e do tipo de informação fornecida pelas
+diferentes modalidades de imagens biomédicas, para que o discente possa
+desenvolver soluções computacionais que auxiliem direta ou indiretamente no uso de
+imagens biomédicas para aprimoramento do diagnóstico médico.
+Específicos:
+Entender os princípios físicos de formação de imagens médicas; implementar e
+desenvolver técnicas computacionais para optimização da obtenção e tratamento de
+informação com relevância clínica a partir de imagens biomédicas.
+Ementa:
+Introdução a Processamento de Imagens. Princípios físicos de formação das e
+características das principais modalidades (Raio-X, Tomografia Computadorizada,
+Ultrassonografia, Medicina Nuclear, Ressonância Magnética Nuclear). DICOM e PACS.
+Pré-processamento de imagens: convolução 2D, filtragem espacial e em frequência.
+Introdução a operadores numéricos: Gradiente, Laplaciano, Segmentação,
+Limiarização, Morfologia Matemática Binária.
+Conteúdo Programático:
+•
+Introdução a Processamento Digital de Imagens; Características e
+Princípios físicos das e das principais modalidades (Raio-x, Tomografia
+Computadorizada, Ultrassonografia, Medicina Nuclear, Ressonância
+Magnética). DICOM e PACS; Aquisição e Representação de imagens (matricial).
+Resolução espacial e de intensidade (Amostragem, quantização, resolução x
+tamanho); Parâmetro de relacionamento e operações básicas com pixels.
+•
+Processamento no domínio espacial para realce de imagem; Conceito
+de transformação de intensidade e histograma; Funções de transformação de
+intensidade por histograma (brilho e contraste); Kernel, Correlação e
+Convolução 2D; Filtros espaciais: Média, Mediano, Gradiente, Laplaciano e
+Divergente.
+•
+Processamento no domínio da frequência; Transformada de Fourier
+(TF), e TF-2D; Filtragem no domínio da frequência.
+•
+Restauração de Imagens médicas e Introdução a reconstrução; Tipos de
+ruído; Relação sinal ruído relação contraste ruído; Filtragem espacial e em
+frequência para atenuação de ruído; Filtro de Wiener; Reconstrução de
+imagens a partir de projeções.
+•
+Segmentação; Segmentação baseada em borda; Segmentação baseada
+
+em região; Limiarização; Métodos de avaliação de segmentação
+•
+Morfologia Matemática; Erosão, Dilatação, Abertura e Fechamento.
+•
+Introdução à Reconstrução de imagens a partir de projeções
+Metodologia de Ensino Utilizada:
+Aulas expositivas, implementação computacional e seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, projetor, computadores, acesso ao Matlab.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+Gonzalez, Rafael C; Woods, Richard E; Yamagami, Cristina; Piamonte, Leonardo
+(Trad.). Processamento digital de imagens. 3. ed. São Paulo: Pearson Education do
+Brasil, 2010
+2.
+Gonzalez, Rafael C; Woods, Richard E; Eddins, Steven L. Digital image
+processing using MATLAB. Upper Saddle River, NJ: Person Prentice Hall, c2004.
+3.
+Paul Suetens. Fundamentals of Medical Imaging 2ª Ed, 2009: Cambridge
+University Press .
+Complementar:
+1.
+Geoff Dougherty. Digital Image Processing for Medical Applications 2009:
+Cambridge University Press
+2.
+Parker, J.R. Algorithms for image processing and computer vision. New York:
+wiley Computer Publishaing, 1996. 417 p ISBN 0/471-14056-2.
+3.
+Kayvan Najarian, Robert Splinter. Biomedical Signal and Image Processing, 2ª
+Ed, 2012.: Taylor & Francis Group, LLC
+4.
+Russ, John C. The image processing handbook. 5.ed. New York: CRC, 2006.
+5.
+BUSHBERT, Jerrold T et al. The essential physics of medical imaging. 2.ed.
+Philadelphia: Lippincott Williams e Wilkins, 2001.
+6.
+RANGAYYAN, Rangaraj M. Biomedical image analysis. Boca Raton (USA): CRC,
+c2005.
+
+

@@ -1,0 +1,75 @@
+Nome do Componente Curricular: Reciclagem de Materiais
+Pré-requisitos: Ciência e Tecnologia dos Materiais
+Carga Horária Total: 36h
+Carga Horária Prática:0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Apresentar ao aluno os principais processos de reciclagem.
+Específicos:
+O aluno deverá ser capaz de Identificar os principais processos de reciclagem de
+papel, polímeros, metais, vidros, materiais compostos e do reaproveitamento de
+rejeitos.
+Ementa:
+Introdução e antecedentes históricos. O lixo urbano. A coleta de materiais. A
+venda do material reciclável coletado e separado. Processo de reciclagem de resíduos
+lixo e sucatas. Reciclagem e reprocessamento de papel. Reciclagem de polímeros:
+filmes plásticos flexíveis e plásticos rígidos, embalagens de poli(tereftalato de etileno)
+(PET) e artefatos de borracha (pneus). Reciclagem de alumínio (latas). Reciclagem de
+materiais ferrosos (latas de aço). Reciclagem de vidro. Reciclagem de embalagens
+cartonadas “longa vida” (material composto – Al + PE + papel). Produtos reciclados e
+sua qualidade.
+Conteúdo Programático:
+1. Introdução a antecedentes históricos
+2. O lixo urbano. A coleta de materiais. A venda do material reciclável coletado e
+separado.
+3. Processos de reciclagem de resíduos, lixo e sucatas
+4. Reciclagem de metais.
+4.1 - Reciclagem de alumínio (latas).
+4.2 - Reciclagem de materiais ferrosos (latas de aço).
+5. Reciclagem de polímeros.
+5.1 - Filmes plásticos flexíveis e plásticos rígidos
+5.2 - Embalagens de poli (tereftalato de etileno) (PET)
+5.3 - Artefatos de borracha (pneus).
+6. Reciclagem de vidro.
+7. Reciclagem e reaproveitamento do papel.
+8. Reciclagem de embalagens cartonadas “longa vida” (material composto – Al + PE
++ papel).
+9. Produtos reciclados e sua qualidade
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades não presenciais na sala de aula tais como lista de
+exercícios e seminários.
+Recursos Instrucionais Necessários:
+
+Sala de aula com lousa, microcomputador, projetor multimídia e laboratório
+para preparação e caracterização.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início
+das atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+1. S. Grippi, Lixo: Reciclagem e sua História , editora Interciência, Rio de Janeiro,
+2001.
+2. Warrell E., Reuter M., Hanbook of Recycling: State-of-the-art for Practitioners,
+Analysts, and Scientists, editora Elservier, 2013.
+3. Zanin M., Mancini S. Resíduos Plásticos e Reciclagem, editora EDUFSCar, 2004.
+Complementar:
+1. Piva, A. M., Wiebeck H., Reciclagem do Plástico: Como fazer da Reciclagem um
+Negócio Lucrativo, Editora Artliber, 1ª ed., 2004.
+2. Braga B., Hespanhol I., Conejo J.G.L., Barros M.T.L., Veras Jr. M.S., Porto
+M.F.A., Nucci N.L.R., Juliano N.M.A., Eiger S., Introdução à Engenharia
+Ambiental, Editora ArtLiber, 2ª ed., 2005.
+3. Coelho R. M. P., Reciclagem e desenvolvimento sustentável, editora Recóleo,
+2009.
+4. Pacheco E.B.A.V.; Mano E.B.; Bonelli C., Meio Ambiente, Poluição e
+Reciclagem, editora Edgard Blucher, 2ª ed., 2010.
+5. Callister W. D. Jr. Ciência e Engenharia de Materiais - Uma Introdução, 7 ed.,
+LTC, 2008.
+
+

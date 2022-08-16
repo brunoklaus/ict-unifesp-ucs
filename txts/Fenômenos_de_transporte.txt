@@ -1,0 +1,106 @@
+Nome do Componente Curricular: Fenômenos de Transporte
+Pré-requisitos: Séries e Equações Diferenciais Ordinárias; Mecânica Geral
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Apresentar aos alunos os conceitos relacionados com o transporte (taxa e fluxo) de quantidade de
+movimento e calor aplicados nos mais variados processos industriais.
+Específicos:
+O aluno será capaz de:
+-Analisar de maneira crítica exemplos práticos relacionados aos fenômenos de transporte;
+-Aplicar os conceitos aprendidos em sala de aula na resolução de problemas relacionados aos
+processos industriais.
+Ementa:
+Conceitos fundamentais. Equações gerais da cinemática e dinâmica dos fluidos. Equações básicas de
+transferência de calor.
+Conteúdo Programático:
+A - Transferência de quantidade de movimento (momento)
+1 - Conceitos e definições:
+1.1 - Fluido e continium
+1.2 - Propriedades: massa específica, tensão e pressão em um fluido estático
+1.3 - Unidades
+2 - Estática dos fluidos
+2.1 - Fluidos incompressíveis e compressíveis
+2.2 - Unidades, escala e carga de pressão
+3 - Descrição de um fluido em movimento
+3.1 - Leis físicas fundamentais
+3.2 - Campo de escoamento em um fluido
+3.3
+- Escoamento permanente e transiente
+3.4 - Linhas de corrente e de curso
+3.5 - Sistema e volume de controle
+3.6 - Escoamentos unidimensionais e bidimensionais
+3.7 - Escoamento uniforme
+4 - Conservação da massa: relação integral e algumas formas específicas
+5 - Segunda lei de Newton: conservação da quantidade de movimento linear - forma integral e suas
+aplicações
+6 - Conservação da Energia
+6.1 - Forma integral
+6.2 - Equação de Bernoulli
+6.3 - Aplicações
+7 - Tensão nos Fluidos
+7.1 - Tensor tensão e propriedades
+7.2 - Tensor taxa de deformação
+7.3 - Fluidos newtonianos e não-newtonianos
+7.5 - Viscosidade
+
+8 - Equações diferenciais do escoamento de fluidos
+8.1 - Escoamento laminar:
+8.1.1 - Equação da continuidade na forma diferencial
+8.1.2 - Equação de Navier-Strokes
+8.2 - Escoamento turbulento:
+8.2.1 - Propriedades médias no tempo,
+8.2.2 - Equação de Navier-Strokes
+8.2.3 - Tensão aparente
+8.2.4 - Viscosidade Turbilhonar
+B – Transferência de Calor
+1 – Conceitos e definições
+1.1 - Relação com a termodinâmica
+1.2 - Relação com outros fenômenos de transporte
+1.3 - Conservação de energia
+2 – Condução de calor
+2.1 - Regime estacionário
+2.2 - Regime transiente
+3 – Convecção de calor
+3.1 - Escoamento externo
+3.2 - Escoamento interno
+3.3 - Convecção natural
+4 – Radiação
+4.1 - Processos e propriedades
+4.2 - Transferência radiante entre superfícies
+5 – Transferência de calor com mudança de fase
+5.1
+– Ebulição
+5.2 - Condensação
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações. Resolução de lista de
+exercícios (em sala de aula e no laboratório de computação) e seminários de profissionais convidados.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Incropera, F. P.; DeWitt, D. P. Fundamentos de Transferência de Calor e Massa, 5ª Ed., Editora
+LTC, 2013.
+2. Welty, J. R.; Wilson, R. E.; Wicks, C. C. Fundamentals of Momentum, Heat, and Mass Transfer,
+5a Ed., John Wiley & Sons, 2008.
+
+3. Fox, R. W.; McDonald, A. T. Introdução à Mecânica dos Fluidos, 7a Ed., LTC, 2010.
+Complementar:
+1. White, Frank M. Mecânica dos fluidos. Porto Alegre : AMGH. 2011.
+2. Potter, M. C. et al. Mecânica dos fluidos, 3ª. ed., Thomson, 2009.
+3. Roma, W. N. L. . Fenômenos de Transporte para Engenharia 2a. Edição. 2a.. ed. São Carlos:
+Rima Editora, 2006. v. 700. 288 p.
+4. Munson, B.R. et al. Fundamentos da mecânica dos fluidos, 4. ed., Editora Edgard Blücher, 2004.
+5. Potter, M.C; Scott, E.P. Ciências térmicas: termodinâmica, mecânica dos fluídos e transmissão
+de calor. Thomson, 2007.
+
+

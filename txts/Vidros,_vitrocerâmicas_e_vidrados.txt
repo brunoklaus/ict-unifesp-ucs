@@ -1,0 +1,90 @@
+Nome do Componente Curricular: Vidros, Vitrocerâmicos e Vidrados
+Pré-requisitos: Materiais Cerâmicos
+Carga Horária Total: 72h
+Carga Horária Prática: 18h
+Carga Horária Teórica: 54h
+Objetivos
+Gerais:
+O objetivo geral é introduzir o estudante aos principais conceitos físico-químicos do estado vítreo da
+matéria; enfatizando as características típicas desse estado especial, tais como: estrutura, transição
+vítrea, separação de fases, cristalização e suas propriedades reológicas, térmicas, mecânicas, ópticas,
+elétricas e químicas. A cristalização controlada dos vidros é considerada na produção de produtos de
+natureza vitrocerâmica, assim como os princípios e técnicas de recobrimento dos produtos cerâmicos
+com camadas vítreas.
+Específicos:
+O aluno será capaz de:
+- Conhecer a estrutura dos vidros e os princípios para a sua formação e, as composições típicas dos
+principais vidros comerciais.
+- Conhecer os diferentes processos de fabricação de materiais vítreos, vitrocerâmicos e vidrados.
+- Compreender a inter-relação entre estrutura-microestrutura-propriedades nos materiais de natureza
+vítrea e vitrocerâmicos.
+Ementa:
+1. Conceitos básicos sobre vidros. Processos de Elaboração de vidros: Composição, homogeneização e
+afinagem. Processos de conformação. Tratamentos Térmicos. Defeitos em vidros. Propriedades físicas
+e químicas de vidros. Técnicas de caracterização de vidros.
+2. Materiais vitrocerâmicos. Formulação e obtenção. Nucleação e cristalização. Tratamentos térmicos
+controlados. Propriedades.
+3. Obtenção de vidrados. Formulação e preparação. Técnicas de aplicação. Produtos e avaliação de
+propriedades. Principais defeitos.
+Conteúdo Programático:
+A – Conceitos básicos sobre vidros:
+1. Descoberta e evolução da história da tecnologia e ciência de vidros;
+2. Definição de materiais vítreos;
+3. Estrutura de vidros;
+4. Transição vítrea;
+5. Devitrificação.
+B – Fabricação do vidro
+1. Matérias-primas: ocorrência, requisitos de seleção, extração, manuseio, transporte,
+beneficiamento, mistura;
+2. Cálculos de estequiometria vidreira;
+3. Refino e homogenização;
+4. Processos de fabricação: fabricação de vidro plano, estiramento de tubos e barras, fabricação de
+vidro oco, fabricação de fibras de vidro.
+C - Tratamento térmico: recozimento e tratamentos superficiais (têmpera térmica e química).
+D – Defeitos em vidros: devitrificação, infusos, estrias, bolhas, defeitos cromáticos, tensões internas,
+defeitos superficiais.
+E– Propriedades em vidros: viscosidade, tensão superficial, densidade, propriedades químicas,
+
+térmicas, mecânicas, óticas e biológicas.
+F - Técnicas de caracterização de vidros: análise química, análise térmica, determinação da densidade,
+ponto de amolecimento e coeficiente de expansão.
+G – Vitrocerâmicos: definição; formulações; processos nucleação e crescimento controlado de cristais;
+nucleação homogênea e heterogênea; processamento e aplicações industriais; principais sistemas
+vitrocerâmicos comerciais.
+H – Vidrados: classificação e características tecnológicas; matérias-primas e suas funções; formulação
+e técnicas de fabricação; sinterização de pós vítreos; defeitos de fabricação.
+H. Prática:
+1. Formulação e preparação de uma formulação de vídro;
+2. Tratamentos térmicos controlados para fabricação de vitrocerâmicos;
+3. Caracterização técnica e estética de vidrados.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações. Resolução de lista de
+exercícios e desenvolvimento de trabalho em grupos. Aulas práticas. Seminários de profissionais
+convidados.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. VARSHNEYA, A. K. Fundamentals of Inorganic Glasses. Academic Press, 1st Edition, New York,
+1994.
+2. SHELBY, J. E. Introduction to Glass Science and Technology. Royal Society of Chemistry; 2nd
+Edition, 2005.
+3. NAVARRO, J.M.F. El Vidrio. Ed. Consejo Superior de Investigaciones Cientificas. 2003.
+Complementar:
+1. DOREMUS, R. H. Glass Science. Wiley-Interscience, 2nd Edition, 1994.
+2. STRNAD, Z. Glass-Ceramic Materials - “Glass Science and Technology 8”. Elsevier, New York,
+1996.
+3. HÖLAND, W.; BEALL, G. H. Glass ceramic technology. Wiley-American Ceramic Society, 2nd
+Edition, 2012.
+4. SINTON, C.W. Raw materials for glass and ceramics: sources, processes, and quality control.
+John Wiley & Sons, 1st Edition 2006.
+5. LE BOURHIS. E. Glass: mechanics and technology. Wiley & Sons. 1 ed. 2012.
+
+

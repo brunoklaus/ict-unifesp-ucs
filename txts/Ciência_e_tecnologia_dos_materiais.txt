@@ -1,0 +1,140 @@
+Nome do Componente Curricular: Ciência e Tecnologia dos Materiais
+Pré-requisitos: Química Geral
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Apresentar os conceitos fundamentais da Ciência e Engenharia de Materiais como a área da atividade
+humana associada com a geração e com a aplicação de conhecimentos que relacionam composição,
+estrutura e processamento dos materiais às suas propriedades e aplicações.
+Específicos:
+O aluno será capaz de:
+• Compreender conceitos relacionados à estrutura e às propriedades das diferentes classes de
+materiais: poliméricos, cerâmicos , metálicos e compósitos.
+• Compreender a correlação entre os aspectos estruturais em seus diferentes níveis com as
+propriedades dos materiais.
+Ementa:
+Materiais para Engenharia. Estrutura Atômica e Ligações Químicas. Estrutura de Sólidos Cristalinos.
+Imperfeições em Sólidos. Difusão. Diagrama de Fases. Propriedades Mecânicas. Propriedades
+Térmicas. Propriedades Elétricas. Propriedades Magnéticas. Propriedades Óticas.
+Conteúdo programático:
+A – Materiais para Engenharia
+1.
+Perspectiva histórica.
+2.
+Classificação dos Materiais.
+3.
+Relação estrutura x propriedade.
+B – Estrutura Atômica e Ligações Químicas
+1.
+Estrutura atômica.
+2.
+Ligação atômica nos sólidos: força e energia de ligação; ligações primárias; ligação secundária
+ou de Van der Waals.
+C – Estrutura de Sólidos Cristalinos
+1.
+Estrutura Cristalina: rede; célula unitária; sistemas cristalinos e redes de Bravais; estruturas
+cristalinas de metais, cerâmicas e polímeros.
+2.
+Direções e Planos Cristalográficos.
+3.
+Sólidos Não Cristalinos
+D – Imperfeições em Sólidos
+1.
+Defeitos Pontuais.
+2.
+Defeitos Lineares ou Discordâncias.
+3.
+Defeitos Interfaciais.
+4.
+Defeitos Volumétricos ou de Massa.
+E – Difusão
+1.
+Mecanismos de Difusão.
+2.
+Difusão em Estado Estacionário.
+3.
+Difusão em Estado Não- Estacionário.
+F - Diagrama de Fases
+1.
+Conceitos: limite de solubilidade; fases; equilíbrio de fases; regra das fases.
+2.
+Diagramas de Fases em Condições de Equilíbrio: sistemas isomorfos binários; sistemas
+
+eutéticos binários; reações eutetóides e peritéticas; regra da alavanca.
+3.
+Aplicações
+G - Propriedades Mecânicas
+1.
+Conceitos de Tensão e Deformação.
+2.
+Comportamento Tensão x Deformação em Metais, Cerâmicas e Vidros e Polímeros
+3.
+Propriedades Elásticas dos Materiais
+4.
+Deformação Plástica: fundamentos de mecanismos de escorregamento; propriedades de
+tração, tensão e deformação verdadeiras.
+5.
+Dureza
+H - Propriedades Térmicas
+1.
+Capacidade Térmica
+2.
+Expansão Térmica
+3.
+Condutividade Térmica
+4.
+Tensões Térmicas
+I - Propriedades Elétricas
+1.
+Condução Elétrica.
+2.
+Semicondutividade.
+3.
+Condução Elétrica em Cerâmicas e Polímeros
+4.
+Comportamento Dielétrico; Ferroelétrico e Piezoelétrico.
+J - Propriedades Magnéticas
+1.
+Conceitos: magnetismo, ferromagnetismo; ferrimagnetismo; domínios e histerese
+2.
+Materiais magnéticos moles e duros
+K - Propriedades Óticas
+1.
+Conceitos: radiação eletromagnética; interação luz-sólido, interações atômicas e eletrônicas
+2.
+Propriedades óticas: refração; reflexão; absorção; transmissão.
+3.
+Aplicações dos fenômenos óticos.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e exemplos de aplicações. Resolução de lista de
+exercícios, discussão de artigos científicos e desenvolvimento de trabalho em grupos/seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Callister Jr.. W. D. Ciência e Engenharia de Materiais: Uma Introdução, 7ª ed., LTC – Livros
+Técnicos e Científicos Editora S.A., 2008
+2. Shackelford J. F. Ciência dos Materiais, 6ª ed., Prentice Hall Brasil, 2008.
+3. Askeland D. R., Phulé P. P. Ciência e Engenharia dos Materiais, 1ª ed., Cengage Learning,
+2008.
+
+Complementar:
+1. Van Vlack, L. H. Princípios de Ciência dos Materiais, Blucher, 1970.
+2. Padilha A. F. Materiais de Engenharia: Microestrutura e Propriedades, 2ª ed. Hemus, 2007.
+3. Ashby, M. F. Jones, D. R. H. Engenharia de Materiais: Uma Introdução a Propriedades
+Aplicações e Design, vol 1, 2007
+4. Mitchell, B. S. A Introcduction to materials engineerging and science for chemical and materials
+engineers. 2004.
+5. Smith, W. F.; Hashemi, J. Foundations of materials science and engineering. 5 ed. McGraw-Hill,
+2010
+
+

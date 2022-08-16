@@ -1,0 +1,89 @@
+Nome do Componente Curricular: Instrumentos Biomédicos I
+Pré-requisitos: Circuitos Elétricos II
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+- Desenvolver a capacidade e habilidade dos alunos acerca dos princípios físicos e
+tecnológicos dos equipamentos médicos hospitalares empregados na atualidade para diagnóstico
+clínico.
+- Propiciar amplo conhecimento sobre os conceitos físicos e arquitetura elétrica dos
+equipamentos e suas diferentes aplicações médicas no contexto da engenharia biomédica.
+Específicos:
+- Fornecer ao aluno conhecimento amplo sobre os princípios físicos teóricos e análise da
+arquitetura elétrica dos seguintes métodos de diagnósticos empregados na clínica médica: raios-X,
+tomografia computadorizada (CT); medicina nuclear (cintilografia); ressonância magnética nuclear; e
+ultrassonagrafia.
+- Proporcionar uma visão tecnológica sobre a obtenção de imagens de cada método e avaliar
+suas aplicações nos diferentes contextos da engenharia biomédica.
+- Desenvolver a capacidade de relacionar os equipamentos estudados com disciplinas
+correlatas e o uso da engenharia biomédica.
+Ementa:
+Princípios físicos do funcionamento, aplicação e detalhes da arquitetura elétrica dos equipamentos
+de: raios-X, tomografia computadorizada (CT), medicina nuclear (cintilografia), ressonância
+magnética nuclear (RMN) e ultrassonografia.
+Conteúdo Programático:
+ Raios-X: produção de raios X , tubos de raios X e geradores; princípios geometricos da
+formação da imagem radiográfica; sistemas tela-filme: desempenho, contraste e
+processamento de filmes; sistemas digitais: desempenho, razão contraste-ruído; controle da
+radiação espalhada: grades anti-espalhamento; avaliação de dose de entrada na pele;
+qualidade da imagem; procedimentos de controle da qualidade; proteção radiológica em
+radiodiagnóstico.
+ Tomografia Computadorizada: princípio da tomografia por fontes de raios-X; princípio físico e
+tecnológico do funcionamento dos tomógrafos; modelos matemáticos para a reconstrução
+das imagens tomográficas; estudos de imagens tomográficas e uso de contraste.
+ Medicina Nuclear: estrutura, energia e estabilidade nuclear; radioisótopos e radiofármacos;
+princípios de ações dos principais radiofármacos utilizados na Medicina Nuclear; detectores
+cintilográficos e a gama-câmara; formação de imagens; estatística das medidas; noções de
+proteção radiológica em serviços de Medicina Nuclear; e aplicações clínicas no diagnóstico e
+terapia.
+ Ultrassom para aplicação biomédica: ondas mecânicas (vibrações harmônicas, propagação de
+
+onda e suas soluções, circuitos equivalentes; produção e recepção de ondas ultrassôncias;
+propriedades acústicas dos tecidos biológicos (Velocidade e atenuação); transdutores
+ultrassônicos; radiação acústica em meios materiais; métodos de pulso-eco; efeito Doppler
+por ultrassom; modalidades de imagens por ultrassom; artefatos nas imagens por ultrassom;
+efeitos biológicos por ultrassom; e aplicações clínicas para diagnóstico e terapia.
+ Ressonância Magnética Nuclear: fenômeno de ressonância magnética nuclear (RMN);
+descrição clássica; fenômenos de relaxação magnética nuclear; equações de Bloch; formação
+da imagem por RM (IRM); espaço k; principais sequências de pulsos usadas na aquisição de
+imagens por RM; tomógrafo de RM; relação sinal ruído em IRM; principais mecanismos de
+contraste nas IRM - T1, T2 e DP; técnicas quantitativas estruturais e funcionais em IRM; e
+qualidade da imagem, segurança e artefatos.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação,
+tal como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. JOHNS, H. E.; CUNNINGHAN, J. R. The physics of radiology. 4. ed. Springfield, IL: Charles C.
+Thomas, 1983.
+2. Knoll, Glenn F.; Radiation detection and measurement. New York: Wiley, 1989.
+3. CHERRY S.R, SORENSON J.A, Phelps M.E; Physics in Nuclear Medicine. Philadelphia: Saunders,
+2003.
+4. HILL, C.R., Physical Principles of Medical Ultrasonic. Ellis Horwood Limited-England, 1986.
+5. HAACKE, E.M. Magnetic resonance imaging: physical principles and sequence design. New
+York, Wiley, 1999.
+6. HOBBIE, R.K. Intermediate Physics for Medicine and Biology. Chap. 18, AIP Press, New York,
+1997.
+Complementar:
+1. WEBB, S. (Ed.). The physics of medical imaging. Bristol: Institute of Physics, 2003.
+2. SPRAWLS, JR. P., Physical Principles of Medical Imaging. Second edition. Medical Physics
+Publishing Company, ed. Aspen Publishers, 1995.
+
+3. HARMUTH, H.F., Acoustic Imaging with Electronic Circuits. Academic Press Inc., New York,
+1979.
+4. BUSHONG, S.C. Magnetic resonance imaging : physical and biological principles. St Louis, CV.
+Mosby, 1989.
+5. BUSHBERG, J. T.; SEIBERT, J. A.; LEIDHOLFT JUNIOR, E. M.; BOONE, J. M. The essential physics
+of medical imaging. 2. ed. Philadelphia, PA: Lippincott Willians & Wilkins, 2002. .
+
+

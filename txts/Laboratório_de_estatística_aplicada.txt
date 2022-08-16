@@ -1,0 +1,56 @@
+Nome do componente curricular: Laboratório de Estatística Aplicada
+Pré-requisitos: Probabilidade e Estatística
+Carga horária total: 72 h
+Carga horária prática: 36 h
+
+Carga horária teórica: 36 h
+
+Objetivos gerais:
+Oferecer aos alunos a oportunidade de conhecer problemas reais que envolvam aplicações de
+métodos estatísticos.
+Objetivos específicos:
+O aluno deverá ser capaz de desenvolver métodos estatísticos no intuito de solucionar problemas
+e dúvidas, nos procedimentos estatísticos aplicados a problemas práticos no que se refere à
+utilização e à disseminação das técnicas de Estatística Aplicada.
+Ementa:
+O discente participará de atividades acadêmicas, juntamente com o docente, no que se refere a
+solução de problemas na área. Ao aluno matriculado será dado um problema para que possa
+desenvolver e apresentar soluções. A demanda virá dos demais docentes e programas de
+graduação e pós-graduação do instituto de ciência e tecnologia, bem como de outras instituições
+de ensino ou pesquisa do país dentro do seu protocolo de trabalho.
+Conteúdo programático:
+Frente a um problema prático apresentado, serão abordados os aspectos teóricos necessários.
+Metodologia de ensino utilizada:
+A abordagem metodológica será a aprendizagem por projetos que corresponde às fases:
+i) problematização do caso em estudo;
+ii) revisão de literatura;
+iii) discussão das possíveis metodologias estatísticas utilizadas para a solução do problema; e
+iv) solução do problema.
+Recursos instrucionais necessários:
+Laboratório de informática, projetor multimídia e acesso à internet. Acesso ao MOODLE como
+ferramenta EAD.
+Critérios de avaliação:
+O sistema de avaliação será definido pelo docente responsável pela Unidade Curricular (UC) e
+divulgados aos alunos no início do período letivo. O sistema adotado deve contemplar o processo
+de ensino e aprendizagem estabelecido nesse Projeto Pedagógico. A promoção do aluno na UC
+obedecerá aos critérios estabelecidos pela Pró-reitoria de Graduação, tal como discutido no
+Projeto Pedagógico do Curso.
+Bibliografia básica:
+BUSSAB, W. O.; MORETTIN, P. A. Estatística básica. 6ª ed. São Paulo: Saraiva, 2010.
+CHARNET, R.; FREIRE, C. A. L.; CHARNET, E. M. R.; BONVINO, H. Análise de modelos de regressão
+linear com aplicações. 2ª ed. Campinas: Editora Unicamp, 2008.
+NETO, B. B.; SCARMINIO, I. S. ; BRUNS, R. E. Como fazer experimentos: pesquisa e
+desenvolvimento na ciência e na indústria. 2ª Ed. Campinas: Editora da Unicamp, 2003.
+Bibliografia complementar:
+ANDRADE, D. F.; OGLIARI, P. J. Estatística para as ciências sociais agrárias e biológicas: com
+noções de experimentação. 2ª ed. Editora UFSC, 2007.
+
+MINGOTI, S. A. Análise de dados através de métodos de estatística multivariada. 1ª ed. Belo
+Horizonte: Editora UFMG, 2007.
+MONTGOMERY, D. C. Introdução ao controle estatístico da qualidade. 4ª ed. Rio de Janeiro: LTC,
+2001.
+MORETTIN, P. A.; TOLOI, C. M. C. Análise de séries temporais. 2ª ed. São Paulo: Edgard Blücher,
+2006.
+ROSS, S. Probability models for computer science. 6ª ed. Academic Press, 2001
+
+

@@ -1,0 +1,81 @@
+Nome do Componente Curricular: Realidade Virtual e Aumentada
+Pré-requisitos: Algoritmos e Estruturas de Dados I
+Carga Horária Total: 72h
+Carga Horária Prática: 18h
+Carga Horária Teórica: 54h
+Objetivos
+Gerais:
+Transmitir aos alunos um conjunto de conhecimentos básicos, que lhes permitam prosseguir estudos
+mais avançados nas áreas emergentes da Realidade Virtual e Realidade Aumentada, e capacitá-los a
+realizar trabalhos ilustrativos das metodologias estudadas.
+Específicos:
+ Identificar e caracterizar os componentes, a estrutura e as funções de um sistema mínimo de
+Realidade Virtual e/ou Realidade Aumentada;
+ Compreender os algoritmos principais usados na implementação de cada um dos
+componentes;
+ Compreender como interagem os diversos componentes;
+ Realizar a integração entre imagens do mundo real e imagens de objetos virtuais;
+ Desenvolver ambientes de Realidade Virtual e Realidade Aumentada.
+Ementa:
+Conceitos de Realidade Virtual e Realidade Aumentada. Dispositivos. Interação em ambientes virtuais
+e aumentados. Técnicas de modelagem de ambientes virtuais. Realidade Virtual não imersiva.
+Realidade Virtual imersiva. Tecnologias para desenvolvimento de ambientes virtuais e aumentados.
+Implementação de ambientes virtuais e aumentados.
+Conteúdo Programático:
+Introdução a Realidade Virtual e Aumentada. Histórico, fundamentos e aplicações. Conceitos sobre
+interação, metáforas de interação, controles/manipuladores, interface e navegação. Fundamentos da
+computação gráfica: Coordenadas, transformações e projeções. Sistemas de interfaces não
+convencionais. Estereoscopia, paralaxe e anaglifo. Realidade Virtual não imersiva e imersiva, conceitos
+e dispositivos. Ferramentas para aplicações de Realidade Virtual e Aumentada. Linguagem para
+modelar ambientes virtuais: Primitivas Geométricas; Transformações; Animações; Iluminação; Formas
+geométricas; Elementos complementares. Realidade Aumentada móvel. Navegadores de Realidade
+Aumentada. Introdução às técnicas de aquisição, processamento e análise das imagens. Técnicas para
+rastreamento; Rastreamento óptico para sistemas de Realidade Virtual e Aumentada. Técnicas de
+interação para ambientes de Realidade Virtual e Aumentada. Dispositivos hápticos para interfaces de
+Realidade Virtual e Aumentada.
+Ambientes colaborativos de Realidade Virtual e Aumentada.
+Técnicas e algoritmos utilizados em Realidade Virtual e Realidade Aumentada: Modelagem e
+visualização 3D; Oclusão, detecção de colisões e reconhecimento. Ferramentas para desenvolver
+aplicações de Realidade Aumentada para dispositivos móveis; Estudos de casos e desenvolvimento.
+Metodologia de Ensino Utilizada:
+O curso será baseado em aulas expositivas com auxílio do quadro e projetor multimídia. Para fixação
+dos tópicos estudados, os alunos receberão, ao longo do curso, listas de exercícios para entrega em
+sala de aula. Serão realizadas algumas aulas práticas nos laboratórios de informática e o
+desenvolvimento de projetos individuais e em grupos para fixação dos conteúdos. Por fim, destaca-se
+o estudo do estado da arte através da análise e apresentação de artigos indicados pelo professor.
+Recursos Instrucionais Necessários:
+Sala de aula com quadro; Projetor multimídia; Laboratório de Informática e Ambiente de apoio à
+
+aprendizagem colaborativa à distância.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Craig, A., Sherman, W. R., & Jeffrey, D. W.(2009). Developing virtual reality applications:
+Foundations of effective design. New York: Morgan Kaufmann.
+2. Burdea, C. G., & Coiffet, P. (2003). Virtual reality technology (2nd ed.). NewJersey: Wiley &
+Sons.
+3. Hainich R. R., The End of Hardware, 3rd Edition: Augmented Reality and Beyond, BookSurge,
+2009.
+4. Cawood S.: Augmented Reality: A Practical Guide, Pragmatic Bookshelf 2008.
+Complementar:
+1. Ames, L. A.; Nadeau, R. D.; Moreland D. (1997) VRML Sourcebook - Second Edition, John
+Wisley & Sons, Inc – USA.
+2. Kirner, C. and Siscoutto, R. Realidade Virtual e Aumentada: Conceitos, Projeto e Aplicações.
+Editora SBC – Sociedade Brasileira de Computação, Porto Alegre, 2007. Livro do pré-simpósio,
+IX Symposium on Virtual and Augmented Reality, Petrópolis – RJ, 2007.
+3. Foley, J. D.; van Dam, A.; Feiner, S. K. and Hughes, J. F. Computer Graphics Principles and
+Practice (2nd Ed). Addison-Wesley, Reading, MA. 1997.
+4. Don Brutzman and Leonard Daly. 2007. X3D: Extensible 3D Graphics for Web Authors (The
+Morgan Kaufmann Series in Interactive 3D Technology) (The Morgan KaufmannSeries in
+Interactive 3D Technology). Morgan Kaufmann Publishers Inc., SanFrancisco, CA, USA.
+5. Haller M., Emerging Technologies of Augmented Reality: Interfaces and Design, IGI, 2006.
+6. Kalawsky, R. S., Bee, S. T., & Nee, S. P. (1999). Human factors evaluation techniques to aid
+understandingof virtual interfaces. BT Technology Journal, 17(1), 128-141.
+
+

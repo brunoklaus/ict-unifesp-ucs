@@ -1,0 +1,113 @@
+1
+UNIDADE CURRICULAR: Sistemas Distribuídos
+Pré-requisito: Sistemas Operacionais
+Carga horária total: 72 horas
+Carga Horária prática: 18
+Carga Horária teórica: 54
+Objetivos
+Gerais:
+Aprender os princípios básicos utilizados em sistemas distribuídos.
+Específicos:
+Ser capaz de projetar e desenvolver serviços distribuídos confiáveis e escaláveis.
+Ementa:
+Conceitos básicos em Sistemas Distribuídos: transparência, escalabilidade, openness e
+confiabilidade (trust, security e safety). Arquitetura de sistemas distribuídos, padrões
+arquiteturais de projeto e estudos de caso. Organização de processos. Tecnologias de
+comunicação distribuída. Serviços de nomes e técnicas de localização de recursos.
+Coordenação distribuída de tarefas. Replicação de serviços e consistência. Tolerância a
+falhas. Segurança. Redes de distribuição de conteúdo. Computação em nuvem. Confiança.
+Tópicos selecionados dentre tecnologias emergentes.
+Conteúdo Programático:
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+•
+•
+
+Introdução a sistemas distribuídos.
+Tranparência.
+Escalabilidade.
+Openness.
+Confiabilidade.
+Padrões arquiteturais.
+Estudos de caso.
+Comunicação entre aplicações (RPC, RMI, JACORB e Web Services).
+Sistemas de arquivos distribuídos, NFS, GFS e Hadoop.
+Técnicas de Mapreduce.
+Serviço de nomes e DHTs.
+Introdução a segurança, algoritmos e ferramentas.
+Servidores de aplicações.
+Consistência e Replicação.
+Tolerância a falhas.
+Arquitetura de sistemas Web.
+Computação em nuvem.
+Orquestração de serviços.
+Computação móvel.
+Microserviços.
+Tópicos selecionados dentre tecnologias emergentes
+
+◦ Redes definidas por Software.
+◦ Computação de borda (Fog Computing).
+◦ Blockchain.
+Seminários sobre tópicos selecionados.
+Projeto e desenvolvimento de sistema distribuído.
+
+Metodologia de Ensino Utilizada
+Aulas expositivas, laboratórios, seminários e elaboração de projeto.
+Recursos Instrucionais Necessários
+Sala de aula equipada com quadro branco, computador e projetor. Ambiente de ensino a
+
+2
+distância. Laboratório de informática.
+Avaliação
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no
+início das atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos
+alunos. O sistema adotado deve contemplar o processo de ensino e aprendizagem
+estabelecido no Projeto Pedagógico, com o objetivo de favorecer o progresso do aluno ao
+longo do semestre. A promoção do aluno na unidade curricular obedecerá aos critérios
+estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no Projeto Pedagógico do
+Curso.
+Bibliografia:
+Básica:
+1. TANENBAUM, Andrew S; ZUCHI, Wagner L; MARQUES, Arlete S; VAN STEEN,
+Maarten. Sistemas distribuídos: princípios e paradigmas. São Paulo: Pearson,
+2.ed., 2007. 402 p. ISBN 978-85-7605-142-8.
+2. COULOURIS, George; DOLLIMORE, Jean; KINDBERG, Tim. Sistemas
+distribuídos: conceitos e projeto. Porto Alegre: Bookman, 2007. 4.ed. , 784 p.
+ISBN 978-85-600-3149-8.
+3. STEVENS, W. Richard., Fenner, Bill., Rudoff, Andrew. Programação de de rede
+Unix. v. 1. Porto Alegre Bookman. 2005. recurso online. ISBN 9788577802401.
+
+Complementar:
+1. Rhoton, John. Cloud Computing Explained. Recursive Paper, 2009.
+2. BIRMAN, Kenneth P. Reliable distributed systems: technologies, web services,
+and applications. Ithaca: Springer, 2010. 668 p. ISBN 978-1-4419-1950-2
+3. SOSINSKY, Barrie. Cloud computing bible. Indianapolis (USA): Wiley, c2011. 497
+p. ISBN 978-0-470-90356-8.
+4. Janert, Philipp K. Data Analysis with Open Source Tools. O'Reilly, 2010.
+5. MATHER, Tim; KUMARASWAMY, Subra; LATIF, Shahed. Cloud security and
+privacy: an enterprise perspective on risks and compliance. Sebastopol, CA:
+O'Reilly, 2009. 312 p. ISBN 978-0-596-802769.
+6. Tutoriais, artigos e manuais selecionados.
+
+

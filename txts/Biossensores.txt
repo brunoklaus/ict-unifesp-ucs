@@ -1,0 +1,78 @@
+Nome do Componente Curricular: Biossensores
+Pré-requisitos: Química Geral; Fenômenos Eletromagnéticos; Fundamentos de Biologia Moderna
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introduzir aos alunos conceitos básicos de como projetar e fabricar biossensores. Mostrar as novas
+tecnologias sensoriais associadas à biotecnologia e microeletrônica e suas diversas aplicações nos
+campos científicos e tecnológicos.
+Específicos:
+Ao final da unidade curricular o aluno deverá estar apto a compreender as atividades biológicas que
+podem ser monitoradas por um processo físico, químico ou biológico, identificar o sistema de
+transdução adequado e propor um sistema sensorial capaz de detectar um agente biológico por
+meios físicos, químicos ou biológicos envolvendo microfabricação e nanotecnologia.
+Ementa:
+Introdução aos biossensores. Biorreceptores e bioafinidade. Sistemas de transdução. Métodos de
+imobilização. Fatores de desempenho. Métodos de detecção. Propriedades físicas e químicas do
+meio biológico. Microfabricação. Aplicações.
+Conteúdo Programático:
+•
+Introdução aos biossensores: definição e classificação de sensores e biossensores.
+•
+Biorreconhecimento e bioafinidade: enzimas, micro-organismos, anticorpos, antígenos
+e ácidos nucléicos.
+•
+Sistemas de transdução: eletroquímica, ótica, piezoelétrica e elétrica.
+•
+Métodos de imobilização: adsorção, micro-encapsulamento, aprisionamento, ligação
+cruzada, ligação covalente e filmes nanoestruturados.
+•
+Fatores de desempenho: seletividade, sensibilidade, tempo de resposta, precisão,
+exatidão e reprodutibilidade.
+•
+Métodos de detecção: espectroscopia de fluorescência e absorção, medidas elétricas,
+técnicas eletroquímicas, cromatográficas e colorimétricas.
+•
+Propriedades físicas e químicas do meio biológico: mudanças de temperatura,
+pressão, pH e força iônica.
+•
+Microfabricação: Sistemas integrados, membranas seletivas, biochips, testes rápidos,
+nanotecnologia.
+•
+Aplicações.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades extraclasse em forma de trabalhos.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+Eggins, B.R. - "Chemical Sensors and Biosensors” Wiley, 2007.
+2.
+Cooper, J.; Cass, T. - “Biosensors , Oxford University Press Inc., 2ª Ed . 2008.
+3.
+Bon, E.P.S.; Ferrara, M.A.; Corvo, M.L. - “Enzimas em biotecnologia” Interciência, 2008.
+Complementar:
+1.
+Barsoukov, E.; Macdonald, J.R. - “Impedance Spectroscopy” Wiley, 2ª Ed . 2005.
+2.
+Tribollet, B.; Orazen, M.E. - “Electrochemical Impedance Spectroscopy” Wiley, 2008.
+3.
+Wolfbeis, O.S. - “Fluorescence Spectroscopy in Biology”, Springer, 2005.
+4.
+NÖLTING, Bengt. Methods in modern biophysics. 2.ed. New York: Springer, 2006.
+5.
+DEMTRODER, Wolfgang. Laser spectroscopy: basic principles. 4.ed. New York: Springer, c2008.
+v.1.
+
+

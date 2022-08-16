@@ -1,0 +1,59 @@
+Nome do Componente Curricular: Inteligência Artificial
+Pré-requisitos: Algoritmos e Estruturas de Dados I
+Carga horária total: 72h
+Carga Horária Prática: 24h
+Carga Horária Teórica: 48h
+Objetivos
+Geral:
+Proporcionar ao aluno um conhecimento básico de inteligência artificial, apresentando de forma
+teórico-prática as informações necessárias para aplicar esses conceitos.
+Específicos:
+Capacitar o aluno a distinguir tipos de conhecimento sendo utilizados em uma aplicação dita
+inteligente. Capacitar o aluno à criação de modelos que utilizem técnicas de inteligência artificial
+para resolução de problemas que não possam ser resolvidos pelo uso de técnicas convencionais.
+Ementa: História e fundamentos da Inteligência Artificial (IA). Métodos de busca para resolução de
+problemas: busca cega, busca heurística e busca competitiva. Representação do conhecimento.
+Conceitos de aprendizado de máquina: aprendizados supervisionado e não-supervisionado.
+Aplicações de IA: Processamento de Linguagens Naturais, Jogos, Robótica e Mineração de Dados.
+Conteúdo Programático:
+Introdução à Inteligência Artificial (IA): Conceitos. Evolução histórica. Aplicações e perspectivas.
+Métodos de busca: Busca cega. Busca heurística. Busca competitiva. Representação do
+conhecimento: Formalismos de representação do conhecimento. Sistemas baseados em
+conhecimento. Paradigmas de programação: Lógico. Funcional. Aprendizado de máquina.
+Aprendizado supervisionado. Aprendizado não-supervisionado. Aplicações de IA. Processamento de
+linguagens naturais. Jogos. Robótica. Mineração de Dados.
+Metodologia de Ensino Utilizada:
+Para que os objetivos dessa disciplina possam ser atendidos e, consequentemente contribua com os
+objetivos do curso, as seguintes estratégias de ensino-aprendizagem serão utilizadas: Aulas
+expositivas com a utilização de quadro branco e projetor multimídia, procurando explicar a
+fundamentação teórica do assunto; Aula prática em laboratório aplicando os conteúdos trabalhados
+e aprendendo novos conteúdos; Prática de exercícios aplicando os conteúdos trabalhados.
+Desenvolvimento de pesquisas extraclasses sobre os assuntos abordados em aula..
+Recursos Instrucionais Necessários:
+Quadro branco, Projetor multimídia, Laboratório de computação com SWI Prolog instalados.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Russel, S.; Norvig, P. Inteligência Artificial, Ed. Campus, 2003.
+2. Rosa, J. L. G. Fundamentos da Inteligência Artificial, LTC, 2011.
+3. Luger, G. Artificial Intelligence: Structures and Strategies for Complex Problem Solving.
+Addison-Wesley Pub Co, 2008.
+Complementar:
+1. Bishop, C. M. Pattern Recognition and Machine Learning. Springer, 2006.
+2. Bittencourt, G. Inteligência artificial: ferramentas e teorias. 3.ed. Florianópolis: Editora da
+UFSC, 2006.
+3. Coelho, H. Inteligência artificial em 25 lições. Lisboa: Fundação Calouste Gulbenkian, 1995.
+
+4. Jones, M.T. Artificial Intelligence. Jones and Bartlett Publisher, 2009.
+5. Faceli, K.; Lorena, A.C.; Gama, J.; Carvalho, A.C.P.L.F. Inteligência Artificial: uma abordagem de
+aprendizado de máquina. LTC, 2011.
+6. Rezende, S. O. Sistemas Inteligentes – Fundamentos e Aplicações, Manole, 2003.
+7. Tam, P.; Steinbach, M.; Kumar, V. Introduction to Data Mining. Addison-Wesley Pub Co, 2005.;
+
+

@@ -1,0 +1,48 @@
+Nome do Componente Curricular: Laboratório de Bioquímica Analítica
+Pré-requisitos: Bioquímica Analítica
+Carga Horária Total: 36 h
+Carga Horária Prática: 36 h
+Carga Horária Teórica: 0 h
+Objetivos
+Gerais:
+Introdução aos principais métodos da bioquímica analítica.
+Específicos:
+Laboratório introdutório às principais técnicas analíticas na biotecnologia, incluindo espectroscopia,
+cromatografia, espectrometria de massas e ressonância magnética nuclear.
+Ementa: Espectroscopia UV/VIS. Métodos Cromatográficos. HPLC. Interpretação de resultados de
+espectroscopia IR e CD, RMN. Espectrometria de Massas. Métodos de extração.
+Conteúdo Programático:
+ Espectroscopia UV/VIS.
+ Métodos Cromatográficos.
+ HPLC.
+ Espectroscopia IR
+ Espectroscopia CD
+ Ressonância Magnética Nuclear.
+ Espectrometria de Massas.
+ Métodos de extração.
+ Métodos bioquímicos.
+Metodologia de Ensino Utilizada: Experimentos em laboratório.
+Recursos Instrucionais Necessários: Laboratório.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. HOLME, D.; PECK, H. Analytical Biochemistry. Addison Wesley 1998.
+2. BURTIS, C.; ASHWOOD, E.; BURNS, D. Tietz Textbook of Clinical Chemistry and Molecular
+Diagnostics. 4th Ed. Elsevier Saunders, 2006.
+3. PATRINOS, G.; ANSORGE, W. Ed. Molecular Diagnostics. 2nd Ed. Elsevier 2010.
+Complementar:
+1. STRYER, L. Bioquímica. Ed. Guanabara-Koogan, 2007.
+2. NELSON, D.L.; COX, M.M. Lehninger princípios de bioquímica. 5 a ed. Porto Alegre: Artmed,
+2011.
+3. VOET, VOET, Bioquímica, 4a ed. SARAIVA, 2013.
+4. CAMPBELL, M. K. Bioquímica, 3ª edição, Artmed, 2000.
+5. MARZZOCO, Anita; TORRES, Bayardo Baptista. Bioquímica básica. 3 ed. Rio de Janeiro:
+Guanabara Koogan, 2007.
+
+

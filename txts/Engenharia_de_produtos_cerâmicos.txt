@@ -1,0 +1,84 @@
+Nome do Componente Curricular: Engenharia de Produtos Cerâmicos
+Pré-requisitos: Matérias-primas Cerâmicas e Processamento de Materiais Cerâmicos
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+
+Carga Horária Teórica: 72h
+
+Objetivos
+Gerais:
+Desenvolvimento das habilidades para estruturação formal do projeto de um produto
+cerâmico, aplicando conhecimentos adquiridos de ciência dos materiais, processamento
+cerâmico, matérias-primas cerâmicas, seleção/especificação de materiais e gerenciamento de
+projetos.
+Específicos:
+Fomentar no futuro engenheiro de materiais uma visão integrada dos fatores técnicos,
+econômicos e ambientais aplicados no desenvolvimento de um projeto formal de engenharia
+cerâmica nas mais diversas áreas da ceramica.
+Ementa:
+Conceitos básicos sobre gerenciamento de projeto. Aplicação dos critérios de seleção de
+materiais e equipamentos com base na necessidade de cada produto. Assimilação dos
+aspectos técnicos, econômicos e ambientais agrupados num projeto de fabricação de um
+produto cerâmico em escala industrial. Elaboração de projeto conceitual de uma unidade
+fabril de produto cerâmico, com estimativa de recursos internos e externos.
+
+Conteúdo Programático:
+1. Conceitos básicos de gerenciamento de projetos do produto;
+2. Critérios de seleção de materiais cerâmicos e estudos de casos;
+3. Princiais indústrias e processos de produção de produtos cerâmicos,
+contemplando aspesctos técnicos, econômicos, ambientais e, especialmente, a
+avaliação de desempenho dos produtos baseada em critérios normativos, nas
+seguintes áreas:
+3.1. Indústria de cerâmica estrutural (Blocos e Tijolos);
+3.2. Indústria de cerâmica de revestimento (Pisos e Revestimentos);
+3.3. Indústria de cerâmica branca (louça de mesa, isoladores elétricos e louça
+sanitária);
+3.4. Indústria do vidro (vidros planos e vidrados);
+3.5. Indústria do cimento e cal;
+3.6. Indústria de cerâmica refratária;
+3.7. Indústria de cerâmica técnica;
+4. Tabalho orientado de elaboração de projeto. Elaboração de projeto de engenharia
+
+cerâmica para fabricação de um produto e conceituação da unidade fabril, que
+contemple: o panorama econômico-financeiro-ambiental setorial, a seleção das
+matérias-primas e da formulação de trabalho, os controles de recebimento de
+matérias-primas, a tecnologia de manufatura, a especificação e o dimensionamento
+de equipamentos, os controles de processamento, a definição do layout industrial e
+os controles de qualidade do produto final (ensaios normatizados).
+Metodologia de Ensino Utilizada:
+Aulas expositivas, pesquisa bibliográfica, trabalho em grupo e orientação para redação de
+projeto final.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o processo de
+ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. Para isto, as avaliações deverão ser ponderadas de
+maneira crescente ou, ainda, propiciar alternativas de recuperação, como provas substitutivas
+e/ou aplicação de trabalhos adicionais. A promoção do aluno na UC obedecerá aos critérios
+estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do
+curso.
+Bibliografia
+Básica:
+1. RICHERSON, D.W. Modern Ceramic Engineering: Properties, Processing, and Use
+in Design. 3th. ed. New York: CRC, 2005.
+2. Ashby, Michael F.; Jones, David R.H. Engenharia de materiais: uma introdução a
+propriedades, aplicações e projeto. [Enginnering materials 2nd ed]. Tradução:
+Arlete Simille Marques, Consultoria e revisão técnica: Tomaz Toshimi Ishikawa.
+Rio de Janeiro: Elsevier, 2007. 1. 371 p. ISBN 978-85-352-2362-0.
+3. CARTER C.B.; NORTON, M.G. Ceramic Materials - Science and Engineering,
+Springer. 2007. ISBN: 978-0387462707.
+Complementar:
+1. KINGERY, W. D; BOWEN, H. K; UHLMANN, D. R. Introduction to ceramics. 2.ed. [s.l.]:
+[s.n.], c1976. ISBN 978-0-471-47860-7.
+2. Dym, Clive L.; Little, Patrick. Introdução à engenharia: uma abordagem baseada em
+projeto. Tortello, João (Trad.). 3.ed. Porto Alegre: Bookman, 2009. 346 p. ISBN
+9788532804556.
+3. KING, Alan G,. Ceramic technology and processing. [s.l.]: [s.n.], 2002. 512 p. ISBN 9780-8155-1443-5.
+4. Loehman, Ronald E. (Ed.). Characterization of ceramics. New York: Momentum Press,
+2010. 295 p. (Materials characterization series). ISBN 9781606501948.
+5. Reed, J. S. Principles of Ceramics Processing. 2nd ed.New York: John Wiley & Sons,
+1995.
+
+

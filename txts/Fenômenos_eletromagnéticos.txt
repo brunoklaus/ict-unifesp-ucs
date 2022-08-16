@@ -1,0 +1,104 @@
+Nome do Componente Curricular: Fenômenos Eletromagnéticos
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Desenvolver a compreensão de conceitos fundamentais do eletromagnetismo. Proporcionar
+familiaridade com as equações básicas da eletrodinâmica possibilitando a assimilação concreta de sua
+aplicabilidade e generalidade.
+Específicos:
+ Refletir sobre questões fundamentais como conservação da carga e definição de campo;
+ Compreender o aparato matemático e empregar ferramentas de cálculo diferencial, integral e
+vetorial na resolução de problemas práticos;
+ Relacionar os conceitos fundamentais do eletromagnetismo com aplicações em áreas
+adjacentes, em especial química, engenharias e biologia;
+ Assimilar o significado teórico das Leis de Maxwell estabelecendo sua importância para a
+propagação da radiação eletromagnética;
+ Analisar, discutir e resolver problemas característicos de fenômenos eletromagnéticos.
+Ementa:
+Interação elétrica: Definições básicas, Lei de Gauss. Interação Magnética: Definições básicas, Lei de
+Ampere. Corrente, Equações de Maxwell, Ondas eletromagnética.
+Conteúdo Programático:
+ Interação Elétrica:
+o Carga elétrica, Lei de Coulomb;
+o Campo elétrico, Campo elétrico de uma carga pontual;
+o Quantização e conservação da carga elétrica;
+o Potencial elétrico, Relação entre potencial e campo elétrico, Potencial elétrico de uma
+carga pontual;
+o Energia num campo elétrico, Força eletromotriz;
+o Fluxo de campo elétrico;
+o Lei de Gauss;
+o Propriedades de um condutor num campo elétrico;
+o Polarização elétrica da matéria;
+o Vetor polarização;
+o Deslocamento elétrico;
+o Susceptibilidade e permissividade elétricas;
+o Capacitância e capacitores;
+o Energia num campo elétrico.
+ Interação magnética:
+o Força magnética sob uma carga em movimento;
+o Movimento de uma partícula carregada num campo magnético uniforme;
+o Campo magnético de uma carga em movimento;
+o Dipolos magnéticos;
+o Campo magnético;
+
+o Lei de Ampere;
+o Fluxo magnético;
+o Magnetização da matéria;
+o Vetor magnetização;
+o Susceptibilidade e permeabilidade magnéticas;
+o Energia num campo magnético.
+ Corrente elétrica:
+o Lei de Ohm;
+o Condutividade;
+o Potencia elétrica;
+o Força magnética sob uma corrente elétrica;
+o Torque magnético sob uma corrente elétrica;
+o Campo magnético produzido por uma corrente retilínea;
+o Campo magnético produzido por uma corrente circular;
+o Força entre correntes elétricas.
+ Campo eletromagnético:
+o A lei de Faraday-Henry;
+o Indução eletromagnética;
+o Lei de Ampere-Maxwell;
+o Equações de Maxwell;
+o Energia num campo eletromagnético.
+ Ondas eletromagnéticas:
+o Ondas planas;
+o Energia e momento de uma onda eletromagnética;
+o Radiação de dipolos oscilantes;
+o Radiação de carga acelerada;
+o Propagação da onda eletromagnética na matéria;
+o Efeito Doppler para ondas eletromagnéticas;
+o Espectro de radiação eletromagnética;
+o Reflexão, refração e polarização.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação e discussão de situações-problema, listas de exercícios e seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Paul A. Tipler, Física para cientistas e engenheiros, v.2, 6ª ed., Livros Técnicos e Científicos
+
+Editora.
+2. Raymond A. Serway e John W. Jewett, Jr., Principios de Física, v.3, Editora Thonsom.
+3. Halliday, Resnick, Walker, Fundamentos de Física, v.3, 8ª ed., Livros Técnicos e Científicos
+Editora.
+Complementar:
+1. Nussenveig, Moyses, Curso de Física Básica: v.3, 8a.ed., Edgard Blücher.
+2. Alonso, Finn, Física Um curso Universitário, v2, Edgard Blücher.
+3. Richard Feynman, Lectures on Physics, v.2, Addison Wesley.
+4. E. M. Purcell, Berkeley Physics Course (vol2): Electricity and Magnetism, Mc Graw Hill, 1970.
+5. R. M. Eisberg, L. S. Lerner, Física - Fundamentos e Aplicações, vols. 3 e 4 Editora Mc Graw Hill
+do Brasil Ltda, 1983.
+
+

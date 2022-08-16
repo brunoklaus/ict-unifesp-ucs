@@ -1,0 +1,54 @@
+Nome do Componente Curricular: Engenharia Bioquímica I
+Pré-requisitos: Fundamentos de Engenharia Bioquímica; Microbiologia Geral
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introduzir os princípios da engenharia de bioprocessos para alunos de graduação na área de
+Biotecnologia.
+Específicos:
+Apresentar os conceitos básicos necessários ao desenvolvimento, à otimização e à operação de
+processos bioquímicos.
+Ementas:
+Apresentação dos conceitos teóricos envolvidos na pesquisa e no desenvolvimento de processos
+biotecnológicos de interesse industrial. As ferramentas apresentadas nesta disciplina - estequiometria
+e cinética de bioprocesso, análise de bioprocesso e projeto de biorreatores - devem possibilitar a
+compreensão dos fenômenos biológicos e controlar às reações bioquímicas envolvidas nesse tipo de
+processo. Esses conhecimentos são fundamentais na definição e otimização das várias operações
+unitárias, notadamente na fase de síntese do bioproduto ("upstream").
+Conteúdo Programático:
+1.Introdução; 2.Cinética Enzimática; 3.Estequiometria e Cinética de Bioprocesso; 4.Análise de
+bioprocesso; 5.Reatores homogêneos. 6.Biorreatores.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades práticas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. SHULER, M.L.; KARGI, F. Bioprocess engineering: basic concepts. BioprocessEngineering: Basic
+Concepts, 2ndEdition, Prentice Hall,2001, 576p.
+2. SCHMIDELL, W.; LIMA, U.A.; AQUARONE, E.; BORZANI, W. Biotecnologia industrial. vol 2:
+Engenharia Bioquímica, Edgard Blucher, 2000.
+3. RATLEDGE, C.; KRISTIANSEN, B. Basic Biotechnology. Cambridge University Press; 3rd edition,
+2006
+Complementar:
+1. MM Fonseca; JA Teixeira. Reatores biológicos: fundamentos e aplicações. Lisboa: Lidel Edições
+Técnicas, 2007, 483p. (Colecão Biotec) ISBN 9727573665
+2. O Levenspiel. Engenharia das reações químicas. São Paulo: Editora Blücher, 2011. 563 p. ISBN
+9788521202752.
+
+3. HS Fogler. Elementos de engenharia das reações químicas. 4.ed. Rio de Janeiro: LTC, 2009. 853
+p. ISBN 9788521617167
+4. HW Blanch; DS Clark. Biochemical engineering. Boca Raton: CRC/Taylor & Francis, 1997. 702 p.
+ISBN 9780824700997
+5. DORAN, P.M. Bioprocess engineering principles. USA: Academic Press, 2012.
+
+

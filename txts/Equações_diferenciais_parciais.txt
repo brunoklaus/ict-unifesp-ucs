@@ -1,0 +1,74 @@
+Nome do Componente Curricular: Equações Diferenciais Parciais
+Período: 7º semestre
+Pré-requisitos: Cálculo em Várias Variáveis; Séries e Equações Diferenciais Ordinárias
+Carga Horária Total: 72 h
+Carga Horária Prática: 0 h
+Carga Horária Teórica: 72 h
+Objetivos
+Gerais:
+Familiarizar o aluno com técnicas clássicas de resoluções de equações diferenciais
+parciais de primeira e segunda ordem.
+Específicos:
+Ao final da unidade o aluno será capaz de analisar métodos clássicos para resolução de
+algumas equações diferenciais parciais que aparecem constantemente em aplicações da
+engenharia e da física.
+Ementa:
+Definições básicas. Equações de primeira ordem. Equações semi-lineares de segunda
+ordem. Equação de onda. Separação de variáveis e séries de Fourier. Transformada de
+Fourier. A equação de Laplace. A equação de calor..
+Conteúdo Programático:
+1. Definições básicas: introdução. Linearidade e superposição. Condições de contorno
+e iniciais.
+ Equações de primeira ordem: problemas lineares e alguns exemplos. O problema de
+Cauchy. Solução geral. Propagação de singularidades. Ondas de choque.
+ Equações semi-lineares de segunda ordem: classificação. Formas canônicas e curvas
+características.
+ Equação de onda: solução geral. A corda finita.
+ Separação de variáveis e séries de Fourier: o método de separação de variáveis. Os
+coeficientes de Fourier. Interpretação geométrica.
+ Transformada de Fourier.
+ A equação de Laplace: o problema de Dirichlet em um retângulo. O problema de
+Dirichlet no disco unitário.
+ A equação de calor: problema de transmissão de calor. Problema da barra infinita.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta
+EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+FIGUEIREDO, D. G. Análise de Fourier e equações diferenciais parciais. 4ª ed.
+Rio de Janeiro: IMPA, 2009.
+2.
+IÓRIO, R.; IÓRIO, V. M. Equações diferenciais parciais: uma introdução. 2ª ed.
+Rio de Janeiro: IMPA, 2010.
+3.
+IÓRIO, V. M. EDP: um curso de graduação. 3ª ed. Rio de Janeiro: IMPA, 2010.
+Complementar:
+1.
+BREZIS, Haim. Functional analysis, Sobolev spaces and partial differential
+equations, New Jersey, USA: Springer, 2011.
+2.
+FRIEDMAN, A. Partial differential equations of parabolic type. 1ª ed. New
+York: Dover Publications, 2008.
+3.
+O'NEIL, P. V. Beginning partial differential equations. 2ª ed. New York: John
+Wiley & Sons, 2008.
+4.
+ZACHMANOGLOU, E. C.; THOE, D. W. Introduction to partial differential
+equations with applications. 1ª ed. New York: Dover Publications, 1986.
+5.
+WEINBERGER, H. F. A first course in partial differential equations with
+complex variables and transform methods. New York: Dover Publications, 1995.
+
+

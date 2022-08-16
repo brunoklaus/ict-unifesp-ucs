@@ -1,0 +1,106 @@
+Nome do Componente Curricular: Radioterapia para Engenharia
+Pré-requisitos: Instrumentos Biomédicos
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+⁃
+Desenvolver a capacidade e habilidade dos alunos acerca dos princípios físicos
+e tecnológicos dos equipamentos empregados para radioterapia.
+⁃
+Propiciar amplo conhecimento sobre os conceitos físicos e arquitetura elétrica
+dos equipamentos e suas diferentes aplicações médicas no contexto da engenharia
+biomédica.
+Específicos:
+Fornecer ao aluno conhecimento amplo sobre os princípios físicos e clínicos sobre a
+radioterapia (teleterapia e braquiterapia);
+Conhecer os efeitos físicos e clínicos do efeito da radiação sobre o paciente;
+Desenvolver no aluno o conhecimento sobre os princípios de funcionamento (físicos e
+aspectos de engenharia) dos equipamentos de teleterapia e braquiterapia;
+Propiciar uma visão sobre o planejamento 3D em radioterapia e os métodos utilizados
+na atualidade;
+Fornecer ao aluno uma visão ampla sobre as atualidades e funcionalidades dos
+equipamentos modernos utilizados para radioterapia na atualidade.
+Desenvolver a capacidade do aluno em relacionar os equipamentos estudados com
+unidades curriculares correlatas e o uso da Engenharia Biomédica.
+Ementa:
+Introdução à Física Radiológica e Radioterapia; Princípios físicos e de engenharia dos
+Aceleradores Lineares e de equipamentos de braquiterapia; Introdução ao
+planejamento de tratamentos de radioterapia em 3D; Softwares empregados no
+tratamento de radioterapia; Proteção radiológica e controle de qualidade em
+radioterapia.
+Conteúdo Programático:
+1.
+Introdução à física radiológica e radioterapia: princípio físico da
+radiação, interação da radiação com a matéria, introdução à radioterapia;
+2.
+Princípios físicos e de engenharia dos Aceleradores Lineares: histórico
+dos aceleradores lineares, componentes dos aceleradores lineares (gerador RF,
+bomba de elétrons, tubo de aceleração, focalizador magnético, alvo, filtros,
+refrigeração, colimadores e colimadores multi-leaf), gantry e mesa;
+3.
+Introdução à Braquiterapia: braquiterapia, aplicadores radioativos,
+tratamentos e princípios físicos e de engenharia empregados nos
+
+equipamentos de braquiterapia;
+4.
+Introdução ao Planejamento 3D de radioterapia: softwares utilizados,
+objetivos e vantagens do planejamento 3D, introdução às funções e
+responsabilidades dos profissionais médicos e físicos no planejamento 3D.
+5.
+Softwares e fluxos empregados no tratamento de radioterapia:
+imagiamento do paciente por CT ou MRI, planejamento de tratamento (médico
+e físico), softwares empregados, tratamento em aceleradores lineares,
+softwares de planejamento de tratamento e gestão de pacientes.
+6.
+Proteção radiológica e controle de qualidade em radioterapia: normas
+de proteção radiológicas e controle de qualidade nos equipamentos.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e seminários.
+Recursos Instrucionais Necessários:
+Lousa, projetor multimídia e Laboratório de Instrumentação.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas e divulgado aos alunos. O sistema adotado deve
+contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre.
+Para isto, as avaliações deverão ser ponderadas de maneira crescente ou, ainda,
+propiciar alternativas de recuperação, como provas substitutivas ou aplicação de
+trabalhos adicionais. A promoção do aluno na unidade curricular obedecerá aos
+critérios estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no Projeto
+Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+KHAN, F.M. The Physics of Radiation Therapy. 4. ed. Baltimore: Lippincott,
+Williams and Wilkins, 2003.
+2.
+JOHNS, H. E.; CUNNINGHAN, J. R. The physics of radiology. 4. ed. Springfield, IL:
+Charles C. Thomas, 1983.
+3.
+
+KNOLL, G.F. Radiation detection and measurement. New York: Wiley, 1989.
+
+Complementar:
+1.
+WEBB, S. (Ed.). The physics of medical imaging. Bristol: Institute of Physics,
+2003.
+2.
+VAN DYK, J. The Modern Technology for Radiation Oncology: A Compendium
+for Medical Physicists and Radiation Oncologists, (Ed.), Medical Physics Publishing,
+Madison, WI (1999).
+3.
+
+SPRAWLS, JR. P., Physical Principles of Medical Imaging. Second edition.
+
+Medical Physics Publishing Company, ed. Aspen Publishers, 1995.
+4.
+BUSHONG, S.C. Magnetic resonance imaging : physical and biological
+principles. St Louis, CV. Mosby, 1989.
+5.
+BUSHBERG, J. T.; SEIBERT, J. A.; LEIDHOLFT JUNIOR, E. M.; BOONE, J. M. The
+essential physics of medical imaging. 2. ed. Philadelphia, PA: Lippincott Willians &
+Wilkins, 2002.
+
+

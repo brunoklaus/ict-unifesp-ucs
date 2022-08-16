@@ -1,0 +1,68 @@
+Nome do Componente Curricular: Processamento de Imagens
+Pré-requisitos: Algoritmos e Estruturas de Dados I; Séries e Equações Diferenciais Ordinárias
+Carga horária total: 72 h
+Carga Horária Prática: 24 h
+Carga Horária Teórica: 48 h
+Objetivos
+Geral:
+Fornecer uma introdução à teoria e aplicações de processamento digital de imagens. Os tópicos irão
+incluir fundamentos de aquisição de imagens, realce de imagens, filtros e transformadas,
+segmentação e aplicações.
+Específicos:
+Ao final do curso, os estudantes devem ser capazes de projetar e implementar operadores e
+processamentos diversos sobre imagens digitais de diversas modalidades e protocolos.
+Ementa: Definição de processamento de imagens e imagens; processo de aquisição de imagens
+digitais; transformações geométricas e afins; interpolação de pixels; convolução e correlação;
+histograma de imagens; filtragem no domínio espacial; formatos e operações sobre imagens
+coloridas; bordas e gradientes; morfologia; segmentação de regiões; descritores de imagens;
+transformadas no domínio da frequência.;
+Conteúdo Programático:
+Definição de imagens, processamento de imagens e áreas correlatas. Fundamentos de imagens
+digitais. Representação de Imagens. Elementos de Sistema de Processamento de Imagens. Elementos
+de Percepção Visual. Digitalização (amostragem e quantização). Relações entre pixels. Operações
+lógicas e aritméticas entre imagens. Transformações geométricas. Transformadas de imagens.
+Transformações de Coordenadas. Transformada de Fourier. Transformada Wavelet. Realce de
+Imagens. Histograma. Operações em Histograma. Filtragem no domínio espacial. Filtragem no
+domínio da frequência . Operações Morfológicas. Imagens Coloridas. Descritores.
+Metodologia de Ensino Utilizada:
+Aulas expositivas com a utilização de quadro branco e projetor multimídia, procurando explicar a
+fundamentação teórica do assunto; Aula prática em laboratório aplicando os conteúdos trabalhados e
+aprendendo novos conteúdos;
+Prática de exercícios aplicando os conteúdos trabalhados;
+Desenvolvimento de pesquisas extraclasses sobre os assuntos abordados em aula.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, computador e projetor multimídia. Laboratório de computadores com Matlab.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Pedrini, Hélio; Schwartz William R. Análise de imagens digitais: princípios, algorítmos e
+aplicações. São Paulo: Thomson, 2008. 508 p. ISBN 978-85-221-0595-3.
+2. AZEVEDO, Eduardo; CONCI, Aura. Computação gráfica vol.1: geração de imagens. Rio de
+Janeiro: Campus, 2003. 353 p. ISBN 978-85-352-1252-5.
+3. WOODS, Richard E; GONZALES, Rafael C. Digital image processing. 3.ed. Upper Saddle River:
+Pearson, 2008. 954 p. ISBN 978-0-13-168728-8.
+4. Petrou, Maria; Petrou, Costas. Image Processing: The Fundamentals. Wiley, 2010. 818 p. ISBN
+978-0-470-74586-1
+
+Complementar:
+1. Parker, J.R. Algorithms for image processing and computer vision. New York: wiley Computer
+Publishaing, 1996. 417 p p. ISBN 0/471-14056-2.
+2. BRIGHAM, E.Oran. The fast fourier transform and its applications. Upper Saddle River (USA):
+Prentice-Hall, 1988. 448 p. ISBN 978-0-13-307505-2.
+3. Jain, A.K. Fundamentals of digital image processing. Upper Saddle River, NJ: Pretice Hall, 1989.
+569 p. ISBN 978-0-13-336165-0.
+4. Russ, John C. The image processing handbook. 5.ed. New York: CRC, 2006. 817 p. ISBN 978-084937-254-4.
+5. Gonzalez, Rafael C; Woods, Richard E. Processamento de imagens digitais. Tradução de
+Luciano F.Costa e Roberto M.Cesar Jr.. São Paulo: Blucher, 2000. 509 p. ISBN 978-85-212-02646.
+6. LEONDES, Cornelius T. Image processing and pattern recognition. San Diego (USA): Academic
+Press, c1998. 386 p. ISBN 978-0-12-443865-1.
+7. Petrou, Maria Sevilla, Pedro Garcia. Image Processing: Dealing With Texture. Willey, 2006. 634
+p. ISBN 978-0-470-02628-1
+
+

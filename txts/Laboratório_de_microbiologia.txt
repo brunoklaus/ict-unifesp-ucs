@@ -1,0 +1,46 @@
+Nome do Componente Curricular: Laboratório de Microbiologia
+Pré-requisitos: Microbiologia Geral
+Carga Horária Total: 36h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Introdução à prática do laboratório de microbiologia.
+Específicos:
+Este curso tem como objetivo expor técnicas básicas de manipulação, identificação, quantificação de
+microrganismos.
+Ementa:
+Métodos de isolamento e identificação microbiana. Manipulação correta de materiais potencialmente
+contaminados e normas de biossegurança. Estudo de métodos de assepsia, desinfecção e esterilização
+de materiais utilizados em laboratório microbiológico.
+Conteúdo Programático:
+• Introdução à formas de manipulação de microrganismos em ambiente estéril.
+• Isolamento de Microrganismos.
+• Identificação de microrganismos.
+• Biossegurança.
+Metodologia de Ensino Utilizada: Aulas prática de laboratório.
+Recursos Instrucionais Necessários:
+Laboratório com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. TORTORA, G. J.; VAINSTEIN, M. H.; SCHRANK, A. (Cons., super. , rev.técn.). Microbiologia. Porto
+Alegre: Artmed, 2008.
+2. MADIGAN, M.T.; MARTINKO, D.; CLARK. Microbiologia de Brock. 12 ed. Porto Alegre: Artmed,
+2010
+3. BLACK, J.G. Microbiologia. Fundamentos e perspectivas. 4 ed. Rio de Janeiro: Guanabara
+Koogan, 2002.
+Complementar:
+1. TRABULSI, L. R.; ALTERTHUM, F. Microbiologia. 5 ED. São Paulo: Atheneu. 2008.
+2. VERMELHO, A.B.; BASTOS, M.C.F.; SÁ, M.H.B. Bacteriologia geral. Guanabara Koogan, 2008.
+3. WINN JR., W.; et.al. Koneman diagnostic microbiológico. 6 ed. Guanabara Koogan, 2008.
+4. ZAITZ, C. Compêndio de Micologia Médica. Rio de Janeiro: Medsi. 1998.
+5. SCHAECHTER, M.; INGRAHAM, J.L.; NEIDHARDT, F.C. Micróbio: uma visão geral. Artmed, 2010.
+
+

@@ -1,0 +1,68 @@
+Nome do Componente Curricular: Fenômenos do Contínuo Experimental
+Pré-requisitos: Não há
+Carga Horária Total: 36h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Aprofundar a compreensão do caráter experimental de conceitos físicos relacionados à ondulatória,
+hidrodinâmica, termodinâmica.
+Específicos:
+O aluno será capaz de:
+•
+Projetar e executar experimentos de forma crítica, utilizando metodologia cientifica, visando
+descrever quantitativamente problemas práticos.
+•
+Verificar experimentalmente leis da Física e fazer uma apresentação do caráter experimental
+da hidrodinâmica, ondulatória e termodinâmica.
+•
+Reconhecer as propriedades distintivas entre sistemas macroscópicos e microscópicos.
+Ementa:
+Oscilações e Ondas, Hidrodinâmica, Termodinâmica.
+Conteúdo Programático:
+1.
+Oscilações
+2.
+Ondulatória
+3.
+Hidrostática e hidrodinâmica
+4.
+Termodinâmica
+Metodologia de Ensino Utilizada:
+Dividir os alunos em equipes de preferencialmente quatro membros, apresentar uma introdução
+teórica do assunto e acompanhar o andamento da experiência, tirando dúvidas e sugerindo
+procedimentos.
+Os alunos deverão: Projetar e Realizar a experiência coletando os dados dos parâmetros físicos
+envolvidos. Tratar os dados, obtendo os resultados das grandezas físicas procuradas. Apresentar um
+pré-relatório simplificado, por grupo, para cada experiência, ao final da mesma. Elaborar em grupo um
+relatório completo.
+Recursos Instrucionais Necessários:
+Sala, quadro branco ou negro, projetor multimídia, equipamentos constantes do laboratório, como:
+paquímetro/ micrômetro/ trena/ cronômetro/ milivoltímetro/ peças de metais/ aquecedores/
+béqueres/ termômetro/ balança/ suportes diversos.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Tipler P. A. Física para cientistas e engenheiros, v.1, 6ª ed., Livros Técnicos e Científicos Editora,
+2008.
+
+2. Halliday D., Resnick R., Walker J., Fundamentos de Física, v. 2, 8ª ed., Livros Técnicos e
+Científicos Editora, 2009.
+3. Nussenzveig, M. Curso de Física Básica, v. 2, 4ª ed., Editora Edgard Blücher, 2002.
+Complementar:
+1. Feynman, Richard P.; Leighton, Robert B.; Sands, Matthew. Lições de física de Feynman, v.1.
+[The Feynman lectures on physics:the definitive and extended edition]. Porto Alegre, RS:
+Bookman, 2008.
+2. Alonso M., Finn E. Física Um Curso Universitário, v. 2, Editora Edgard Blücher, 1995.
+3. Serway, R.A. e Jewett Jr., J. W., Principios de Física, v. 2, Thonsom, 2004.
+4. PRESTON, D. W. Experiments in physics: laboratory manual for scientists and engineers.
+Chichester (GBR): John Wiley & Sons, c1985.
+5. Young, H.D.; Freedman, R.A. Física II. v. 2, 12 ed. SaÞo Paulo: Pearson, 2008.
+
+

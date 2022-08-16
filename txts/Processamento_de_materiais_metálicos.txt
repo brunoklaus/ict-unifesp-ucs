@@ -1,0 +1,77 @@
+Nome do componente curricular: Processamento De Materiais Metálicos
+Período: 9o semestre
+Pré-requisitos: Metalurgia Física, Metalurgia Mecânica
+Carga horária total: 72 hs
+Carga horária p/ prática: 8 hs
+
+Carga horária p/ teoria: 64 hs
+
+Objetivos gerais: Possibilitar ao aluno a construção de uma ampla base de
+conhecimento sobre os processos convencionais que transformam os metais em
+produtos úteis para aplicações em engenharia.
+Objetivos específicos: Aplicar os fundamentos da metalurgia e da resistência dos
+materiais na compreensão das técnicas de processamento que envolvem o metal no
+estado líquido e no estado sólido.
+Ementa: Solidificação e tecnologia da fundição de metais. Processamento por
+conformação plástica. Tópicos em usinagem. Processos de junção em metais.
+Metalurgia do pó. Processos avançados de metais.
+Conteúdo programático:
+1- Solidificação e tecnologia da fundição de metais:
+1.1 – Estruturas de solidificação;
+1.2 – Ligas eutéticas;
+1.3 – Transferência de calor na solidificação;
+1.4 – Macroestrutrura de solidificação e segregação;
+1.5 – Defeitos;
+1.6 – Projeto de moldes;
+1.7 – Tecnologia da Fundição: Processos;
+2- Processamento por conformação plástica:
+2.1 – Revisão de conceitos básicos da plasticidade;
+2.2 – Dutilidade a quente;
+
+2.3 – Textura critalográfica e anisotropia;
+2.4 – Forjamento;
+2.5 – Extrusão;
+2.6 – Trefilação;
+2.7 - Laminação;
+2.8 – Conformação de chapas:
+3- Tópicos de usinagem em metais;
+4- Técnicas de junção de metais;
+5- Aspectos gerais da metalurgia do pó;
+6- Processamento avançado de metais;
+
+Metodologia de ensino utilizada: Aulas expositivas; apresentação de conceitos e
+exemplos de aplicações. Resolução de lista de exercícios. Visitas técnicas.
+Recursos instrucionais necessários: Sala de aula com lousa, microcomputador e
+projetor multimídia. Laboratório de Processamento de Metais.
+Critérios de avaliação: O sistema de avaliação será definido pelo docente responsável
+pela UC no início das atividades letivas e divulgado aos alunos. O sistema adotado
+deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre.
+Para isto, as avaliações deverão ser ponderadas de maneira crescente ou, ainda,
+propiciar alternativas de recuperação, como provas substitutivas e/ou aplicação de
+trabalhos adicionais. A promoção do aluno na UC
+
+obedecerá aos critérios
+
+estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no projeto
+pedagógico do curso.
+Bibliografia básica:
+1. Cetlin, P. R.; Helman, H. Fundamentos da Conformação Mecânica dos Metais,
+segunda edição, Artliber Editora Ltda, 2005.
+
+2. Garcia, A. Solidificação: Fundamentos e Aplicações, Editora da Unicamp, 2007.
+3. Kalpakjian, S.; Schmid, S. R. Manufacturing Processes for Engineering
+Materials, 5th Edition. Prentice Hall, 2008.
+4.
+5.
+Bibliografia complementar:
+1. Dieter, G. E. Mechanical metallurgy: SI metric edition. New York, NY: Mc GrawHill Book, 1988.
+2. Beeley, P. Foundry Technology, second edition, Butterworth-Heinemann,
+2001.
+3. Wainer, E.; Brandi, S. D.; Oliveira Melo, V. Soldagem - Processos e Metalurgia,
+Editora Edgard Blücher, 1992.
+4. Machado, A. R.; Abrão, A. M.; Coelho, R. T. ; da Silva, M. B. Teoria da usinagem
+dos materiais. 2.ed. rev. São Paulo: Blücher, 2011.
+5. Chiaverini, V. Metalurgia do Pó, quarta edição, Editora ABM, 2001.
+
+

@@ -1,0 +1,90 @@
+Nome do Componente Curricular: Eletrônica Avançada
+Pré-requisitos: Circuitos Elétricos II
+Carga Horária Total: 72h
+Carga Horária Prática: 8h
+Carga Horária Teórica: 64h
+Objetivos
+Gerais:
+Fornecer ao aluno conceitos avançados em eletrônica analógica abordando os
+princípios teóricos dos principais dispositivos e sua contextualização prática na grande
+área da engenharia biomédica. O curso tem como objetivos principais: 1) propiciar ao
+aluno o entendimento dos mecanismos teóricos dos principais dispositivos eletrônicos
+e suas combinações e 2) fornecer ao aluno a noção de suas aplicabilidades na
+engenharia biomédica. Ao final do curso, o aluno deverá ser capaz de entender o
+funcionamento dos principais circuitos eletrônicos e sua aplicabilidade prática na
+solução de problemas na engenharia biomédica.
+Específicos:
+Desenvolver com os alunos:
+·
+Os conceitos práticos dos componentes semicondutores e suas aplicações
+típicas;
+·
+Aplicações da eletrônica em circuitos.
+Ementa:
+Diodos. Transistores Bipolares de Junção (TJB). Transistores de Efeito de Campo (JFET),
+Análise de sistemas. Resposta em frequência do TBJ e JFET. Configurações compostas.
+Realimentação e circuitos osciladores. Fontes de tensão. Outros dispositivos e
+aplicações.
+Conteúdo Programático:
+1.
+Diodos Semicondutores - fundamentos e aplicações
+2.
+Transistores Bipolares de Junção (JBJ)
+3.
+Transistores de Efeito de Campo (JFET)
+4.
+Análise de sistemas – Efeito de Impedâncias
+5.
+Resposta em frequência do TBJ e JFET
+6.
+Configurações Compostas - Amplificadores Operacionais e de Potência
+7.
+Circuitos Integrados Lineares/Digitais
+8.
+Realimentação e circuitos osciladores
+9.
+Fontes de tensão
+10.
+Outros dispositivos e aplicações
+Metodologia de Ensino Utilizada:
+Aulas expositivas (lousa e projeção), práticas de laboratório.
+Recursos Instrucionais Necessários:
+Giz, lousa, apagador, projetor multimídia e Laboratório de Eletrônica.
+Critérios de Avaliação:
+
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas e divulgado aos alunos. O sistema adotado deve
+contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre.
+Para isto, as avaliações deverão ser ponderadas de maneira crescente ou, ainda,
+propiciar alternativas de recuperação, como provas substitutivas ou aplicação de
+trabalhos adicionais. A promoção do aluno na unidade curricular obedecerá aos
+critérios estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no Projeto
+Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+Boylestad, R. L., Nashelsky, L., Dispositivos Eletrônicos, Editora Pearson
+Education, 8a. Edição, 2003.
+2.
+Abdo, Romeu; Bates, David J; Malvino, Albert. Eletrônica. Editora McGraw-Hill,
+7a Edição, 2007.
+3.
+Bates, David J; Malvino, Albert. Eletrônica. Editora McGraw-Hill, 2007.
+Complementar:
+1.
+Rezende, Sergio M. Materiais e dispositivos eletrônicos. 2ª Edição, 2004.
+2.
+Tocci, Ronald J; Widmer, Neal S; Moss, Gregory L. Sistemas digitais: princípios e
+aplicações. 10.ed. Säo Paulo: Pearson, 2007.
+3.
+Idoeta, Ivan Valeije; Capuano, Francisco Gabriel. Elementos de eletrônica
+digital. 40.ed. São Paulo: Érica, 2007.
+4.
+Cipelli, Antonio Marco V; Markus, Otávio; Sandrini, Waldir João. Teoria e
+desenvolvimento de projetos de circuitos eletrônicos. 23 ed. São Paulo: Érica, 2010.
+5.
+Wakerly, John F.. Digital design: principles and practices. 4.ed. Upper Saddle
+River (USA): Pearson, c2006.
+
+

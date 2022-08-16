@@ -1,0 +1,68 @@
+Nome do Componente Curricular: Efeitos Biológicos das Radiações Ionizantes
+Pré-requisitos: Instrumentos Biomédicos
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Fornecer o entendimento da interação da radiação em tecidos biológicos.
+Específicos:
+Aprofundar as bases físicas das radiações ionizantes, interação dessas radiações com o
+corpo humano, aplicações, efeitos biológicos. Discutir as normas de proteção
+radiológica vigentes e cuidados a serem tomados.
+Ementa:
+Classificação das radiações; Interação de fótons; efeitos das radiações ionizantes no
+corpo humano. Precauções e recomendações..
+Conteúdo Programático:
+1.
+Bases teóricas da física moderna – Nuclear e radiações
+2.
+Discussão sobre radiação ionizante e não-ionizante;
+3.
+Radioisótopos; Raios X, produção e atenuação;
+4.
+Unidades e grandezas das radiações;
+5.
+Acidentes radiológicos e nucleares; Aplicações das radiações em geral;
+6.
+Radiação natural; Efeitos biológicos: mecanismos, estágios, aberração
+cromossômica;
+7.
+Reação tecidual, efeitos determinísticos e estocásticos;
+8.
+Proteção radiológica; Hormesis;
+9.
+Modelos de efeito vs dose.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e seminários.
+Recursos Instrucionais Necessários:
+Lousa, projetor multimídia e Acesso ao Moodle.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas e divulgado aos alunos. O sistema adotado deve
+contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre.
+Para isto, as avaliações deverão ser ponderadas de maneira crescente ou, ainda,
+propiciar alternativas de recuperação, como provas substitutivas ou aplicação de
+trabalhos adicionais. A promoção do aluno na unidade curricular obedecerá aos
+critérios estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no Projeto
+Pedagógico do Curso.
+
+Bibliografia
+Básica:
+1.
+Okuno E., Yoshimura, E.M, Física das Radiações.. Editora Oficina de Textos, S.
+Paulo, 2010.
+2.
+
+Okuno E Radiação: efeitos, riscos e benefícios.. Editora Harbra, S. Paulo, 1988.
+
+3.
+Okuno E., Vilela, M. A. C., Radiação ultravioleta: características e efeitos.
+Editora Livraria da Fisica, SBF, S. Paulo, 2005.
+Complementar:
+4.
+The Physics of Radiology. Johns H. E., Cunningham J. R.. Charles C. Thomas,
+USA 1983.
+
+

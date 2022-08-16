@@ -1,0 +1,80 @@
+Nome do Componente Curricular: Estrutura e Propriedades de Polímeros
+Pré-requisitos: Materiais Poliméricos
+Carga Horária Total: 72h
+Carga Horária Prática: 12h
+Carga Horária Teórica: 60h
+Objetivos
+Gerais:
+Estabelecer correlações entre estrutura e propriedades de polímeros.
+Específicos:
+O aluno deverá ser capaz de correlacionar estrutura com propriedades de polímeros.
+Ementa:
+Peso molecular, distribuição de peso molecular e sua relação com as propriedades dos polímeros.
+Grau de cristalinidade, cinética de cristalização dos polímeros. Temperaturas de transição e a estrutura
+química dos polímeros. Orientação molecular e cristalina. Viscoelasticidade dos polímeros no estado
+sólido. Elasticidade das borrachas.
+Conteúdo Programático:
+1.Peso molecular, distribuição de peso molecular e sua relação com as propriedades dos polímeros:
+1.1.Considerações gerais;
+1.2.Expressões dos pesos moleculares médios;
+1.3.Distribuição dos pesos moleculares;
+1.4.Efeito do peso molecular e da sua distribuição nas propriedades dos polímeros;
+1.5.Métodos para a determinação dos pesos moleculares;
+1.6.Métodos para a determinação das curvas de distribuição de pesos moleculares.
+2.Grau de cristalinidade, cinética de cristalização dos polímeros:
+2.1.Morfologia dos polímeros cristalinos;
+2.2.Relação entre cristalinidade e as propriedades;
+2.3.Efeito do tamanho dos esferulitos nas propriedades;
+2.4.Cinética de cristalização.
+3.Temperaturas de transição e a estrutura química dos polímeros;
+3.1.Temperaturas de transição vítrea e de fusão cristalina;
+3.2.Temperaturas de transição e temperaturas de uso em engenharia;
+3.3.Temperatura de amolecimento de polímeros;
+3.4.Relação entre temperaturas de transição e a estrutura química dos polímeros;
+3.5.Métodos de determinação das temperaturas de fusão cristalina e transição
+vítrea.
+4.Orientação molecular e cristalina:
+4.1. Considerações Gerais;
+4.2. Estiramento à frio;
+4.3.Efeito da orientação sobre a morfologia;
+4.4.Efeito da orientação sobre as propriedades;
+4.5. Principais técnicas de medida do grau de orientação
+5. Viscoelasticidade dos polímeros no estado sólido:
+5.1.Considerações gerais;
+5.2.Modelos da viscoelasticidade linear;
+5.3. Viscoelasticidade linear generalizada;
+5.4.O principio da equivalência do tempo e da temperatura;
+
+5.5.Experimentos oscilatórios no estudo da viscoelasticidade do estado sólido;
+5.6.Propriedades mecânicas de polímeros cristalinos;
+5.7.A curvas de módulo versus temperatura e as 5 regiões do comportamento
+viscoelástico;
+5.8.Métodos para a determinação das propriedades dinâmicas e mecânicas.
+6.Elasticidade das borrachas:
+6.1.Considerações gerais;
+6.2. Noções de teoria da elasticidade das borrachas;
+6.3.Efeito das cargas nas propriedades mecânicas das borrachas.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades não presenciais na sala de aula tais como listas de exercícios.
+Recursos Instrucionais Necessários:
+Lousa, multimídia, moodle.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Sperling, L. H. Introduction to Physical Polymer Science, fourth ed. (2005). John Wiley & Sons.
+2. Canevarolo Jr. , S. V. Ciência dos polímeros. São Paulo, 2a ed (2002). Artliber.
+3. Billmeyer, F. W. Jr. Textbook of Polymer Science, 3rd edition (1984). John Wiley and Sons.
+Complementar:
+1. Ackcelrud, L. Fundamentos da Ciência dos Polímeros (2006). Manole.
+2. Fried, J. R. Polymer Science & Technology, (2003). Pearson Education.
+3. Ebewele, R. O. Polymer Science and Technology, (2000). CRC.
+4. Ravve, A. Principles of polymer chemistry,(2000). Kluwer Academic.
+5. Canevarolo Jr., Sebastião V. Técnicas de caracterização de polímeros, (2003). Artliber.
+
+

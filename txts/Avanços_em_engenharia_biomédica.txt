@@ -1,0 +1,64 @@
+Ministério da Educação
+Universidade Federal de São Paulo
+Campus São José dos Campos
+Departamento de Ciência e Tecnologia
+CURSO DE ENGENHARIA BIOMÉDICA
+
+Nome do Componente Curricular: Avanços em Engenharia Biomédica
+Período: 10° semestre
+Pré-requisitos: Sistemas Embarcados e Instrumentos Eletromédicos
+Carga Horária Total: 36h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 0h
+Ementa:
+Principais avanços tecnológicos envolvidos na instrumentação para diagnóstico, terapia e
+reabilitação.
+Bibliografia
+Básica:
+1. SALTZMAN, W. Mark. Biomedical engineering: bridging medicine and technology. New
+York: Cambridge University Press, 2009. 633 p. ISBN 978-0-521-84099-6.
+2. BRONZINO, Joseph D. (Ed.). Biomedical engineering fundamentals. 3.ed. Boca Raton
+(USA): CRC Press, 2006. [p.irr.] (The biomedical engineering handbook). ISBN 978-0-84932121-4.
+3. WEBSTER, John G (Ed.). Medical instrumentation: application and design. 4th ed.
+Hoboken, NJ: John Wiley & Sons, 2009. 713 p. ISBN 978-0-471-67600-3.
+Complementar:
+1. BRONZINO, Joseph D. (Ed.). Medical devices and systems. 3.ed. Boca Raton (USA): CRC
+Press, 2006. 810 p. (The biomedical engineering handbook). ISBN 978-0-84932-122-1.
+2. ENDERLE, John D., Susan M. BLANCHARD, and Joseph D. BRONZINO, eds. Introduction
+to Biomedical Engineering. Boston: Elsevier Academic Press, 2005.
+3. KING, P. H.; FRIES, R. C. Design of biomedical devices and systems (2nd ed.). CRC Press
+– Taylor & Francis Group, LLC, New York, 2009.
+4. WHO. Medical devices: managing the mismatch – an outcome of the Priority Medical
+Devices Project. World Health Organization. Geneve, 2010.
+Nome do Componente Curricular: Bioengenharia
+Período: 9o semestre
+Pré-requisitos: Fisiologia Humana I
+Carga Horária Total: 72h
+Carga Horária Prática: 0
+Carga Horária Teórica: 72h
+Ementa:
+Engenharia Biomolecular e Engenharia Imunológica
+Bibliografia
+Básica:
+1. Nelson, David L.; Cox, Michael M. Princípios de Bioquímica de Lehninger. 5ª Edição.
+Sarvier (2011).
+2. Molecular Biology of the Cell, Bruce Alberts, James Watson, Dennis Bray, Julian Lewis,
+Publisher: Garland
+Science
+3. H.P. Rang & M.M. Dale. Farmacologia, 7a edição, Elsevier (2011).
+4. Abbas, Abul K, Imunologia Celular e Molecular. Editora Elsevier (2015).
+5. Joseph D. Bronzino, Donald R. Peterson. Tissue Engineering and Artificial
+Organs (The Biomedical Engineering Handbook Series). 3rd Edition. CRC Press (2006).
+Complementar:
+1. Naidoo, Kevin J. Brady, John Field, Martin J. Gao, Jiali Hann, Michael (2006).
+Modelling Molecular Structure and Reactivity in Biological Systems. Royal Society of Chemistry.
+2. J. David Logan, William Wolesensky. Mathematical Methods in Biology. Willey (2009).
+3. Mark A. Chaplain. Mathematical Modeling of Tumor Growth (Interdisciplinary
+Applied Mathematics). Springer. 1st Edition (2007).
+4. Lanza, Robert. Essentials of Stem Cell Biology. Academic Press. 2 nd Edition (2009).
+5. Pozrikidis, C. Modeling and Simulation of Capsules and Biological Cells. Chapman &
+Hall. 1a Edition. (2003).
+
+42
+
+

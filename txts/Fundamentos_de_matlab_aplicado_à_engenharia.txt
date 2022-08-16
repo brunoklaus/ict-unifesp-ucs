@@ -1,0 +1,107 @@
+Nome do Componente Curricular: Fundamentos de Matlab Aplicado a Engenharia
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Proporcionar ao discente habilidades inerentes a programação Matlab.
+Específicos:
+•
+Familiarizar o discente com o ambiente Matlab;
+•
+Manipulações e operações com matrizes;
+•
+Manipulação de diversos estilos gráficos (2D e 3D);
+•
+Construção de rotinas e funções;
+•
+Construção de figuras complexas (GUI);
+•
+Programação modular utilizando o toolbox simulink; e
+•
+Programação com estudos de caso em:
+o
+Sinais;
+o
+Circuitos elétricos;
+o
+Resistência dos materiais;
+o
+Processamento de imagens; e
+o
+Otimização.
+Ementa:
+Apresentação do Matlab, operadores, manipulação de matrizes, scripts, criação de funções, interface
+gráfica, toolboxes (symbolic, gui, database), comunicação com periféricos, simulink e projetos
+aplicados a engenharia.
+Conteúdo Programático:
+Apresentação da plataforma Matlab;
+Funções básicas (Operadores, funções trigonométricas, variáveis predefinidas, formato de valores,
+operador collon...);
+Tipos de variáveis básicas (double, char, uintX, logical...);
+Formatação de vetores, Strings e apresentação de dados (disp, echo, fprintf, sprintf, linespace,
+logspace...);
+Construção e manipulação de matrizes (rand, mean, median, max, min, zeros, ones, diag, eye,
+magic, .*, '...);
+Operadores relacionais e lógicos;
+Retorno de posição e função find;
+Funções polinomiais numéricas (roots, conv, deconv, residue, polyval, polyfit...);
+Toolbox simbólico (classe syms, solve, subs, preety, simplify...);
+Funções de limites, derivadas, integrais, séries e transformadas (limit, diff, int, fft, laplace, ztrans,
+ilaplace, ifourier e iztrans...)
+Programação de scripts com entrada (.m, input);
+Gráficos, propriedades e características (plot, plot3, pcolor, mesh, surf, subplot, hold...);
+Controle de fluxo;
+Células e estruturas (class cell, class struct);
+Funções (número de parâmetros de entrada/saída fixos e número de parâmetros de entrada/saída
+variáveis: varargin, varargout);
+
+Manipulação da function_handle;
+Toolbox GUI (Graphical User Interfaces);
+Transferência de dados ftp (File Transference Protocol);
+Toolbox database;
+Comunicação com periféricos utilizando porta serial (RS232);
+Programação em blocos (Simulink, funções transferência, malha de controle PID...); e
+Projetos temáticos (compartilhamento de dados, sinais e sistemas, circuitos elétricos, resistência dos
+matérias, técnicas de otimização).
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades extraclasse em forma de lista de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, projetor multimídia e software Matlab. Acesso ao MOODLE.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. CHAPMAN, STEPHEN J.; Programação em Matlab para Engenheiros; Editora Cengage Learning;
+2011.
+2. DUANE HANSELMAN. BRUCE LITTLEFIELD; MATLAB 6, Curso Completo, Editora: Prentice-Hall,
+2003.
+3. ÉLIA YATHIE MATSUMOTO; Guia Prático Simulink 7.2 - Editora Érica, 2013.
+4. Material
+de
+apoio
+disponibilizado
+por
+Matlab
+Central.
+Disponível
+em:
+http://www.mathworks.com/
+Complementar:
+1. Nilton Mullet Pereira, Ilton Gitz; Análise de Circuitos Elétricos com Aplicações; Editora: AMGH;
+2014.
+2. Moore, Holly; MATLAB for Engineers; Editora: Prentice Hall, 2008.
+3. STEVEN T. KARRIS; Circuit Analysis With Matlab Computing and Simulink/SimPowerSystems
+Modeling Editora: Orchard Publications; 2009.
+4. HUNT LIPSMAN & ROSENBERG; A Guide to MATLAB for Beginners and Experienced Users;
+Editora: Cambridge University; 2006.
+5. S. N. SIVANANDAM, S. N DEEPA; Introduction to Neural Networks Using Matlab 6.0; Editora:
+McGraw-Hill; 2006.
+
+

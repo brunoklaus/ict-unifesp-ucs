@@ -1,0 +1,73 @@
+Nome do Componente Curricular: Sistemas Operacionais
+Pré-requisitos: Algoritmos e Estruturas de Dados I
+Carga horária total: 72h
+Carga Horária Prática: 18h
+Carga Horária Teórica: 54h
+Objetivos
+Geral:
+Apresentar os conceitos básicos de sistemas operacionais, analisando os principais componentes de
+um sistema operacional convencional: gerência de processador, gerência de memória, gerência de
+entrada e saída e sistemas de arquivos.
+Específicos:
+Ao final do curso o aluno deve estar familiarizado com a estrutura e os conceitos básicos e
+funcionamento de sistemas operacionais. Deve estar apto a desenvolver soluções de gerência de
+memória e processos, controle de entrada e saída e organização de sistemas de arquivos.
+Ementa: Conceitos básicos de sistemas operacionais: processos, organizações de sistemas
+operacionais, chamadas de sistema. Gerência do processador: estados de processo, escalonamento.
+Entrada e saída: dispositivos e controladores, software de E/S, interrupções, dependência e
+independência. Gerência de memória: partições fixas e variáveis, paginação, segmentação, memória
+virtual. Gerência de arquivos.
+Conteúdo Programático:
+Apresentação da disciplina. Introdução a sistemas operacionais. Chamadas de sistema. Programas de
+sistema. Conceitos básicos. Tipos de sistemas operacionais. Conceito de multiprogramação: processo,
+ciclo CPU e E/S, estados. Suporte de hardware: interrupções, modos do processador. Implementação
+de processos: representação de processos, bloco descritor do processo, filas. Modelo de processo.
+Relacionamentos entre processos. Suporte de hardware para multiprogramação: proteção de
+memória, proteção de periféricos, proteção de CPU. Programação concorrente: conceito, seção
+crítica. Exclusão mútua: propriedades, mecanismos. Primitivas: mutex e semáforos. Deadlock.
+Gerência do processador: escalonamento, eventos, chaveamento de contexto, níveis de
+escalonamento. Tipos de escalonador. Threads: conceitos, implementação, modelo N:1, modelo 1:1 e
+modelo M:N. Gerência de memória: memória lógica e física. Endereço lógico e físico. Função de
+mapeamento. MMU. Ferramentas de desenvolvimento de programas: montadores, compiladores,
+carregadores e ligadores. Amarração estática e dinâmica. Gerência de E/S: conceitos básicos.
+Organização lógica do software: device driver, subsistema de E/S, independência do dispositivo, E/S
+em nível de usuário. Bufferização. Chamadas bloqueantes, não bloqueantes e assíncronas. Sistema
+de arquivos: requisitos básicos. Estrutura hierárquica. Arquivos: conceito, nomes, tipos, organização
+lógica, operações. Diretório: conceito, linear, dois níveis, árvore, grafo. Aliases.
+Metodologia de Ensino Utilizada:
+O curso será baseado em aulas expositivas com auxílio do quadro e projetor multimídia. A
+participação dos alunos em sala de aula será estimulada através de perguntas e sessões de exercícios.
+Para fixação dos tópicos estudados, os alunos receberão, ao longo do curso, listas de exercícios para
+entrega em sala de aula. Por fim, destacam-se as aulas práticas nos laboratórios de informática para
+fixação dos conteúdos através de do uso de ambientes de desenvolvimento de software.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+
+Bibliografia
+Básica:
+1. SILBERSCHATZ, Abraham et al. Fundamentos de sistemas operacionais. 6.ed. Rio de Janeiro:
+LTC, 2004. 580 p. ISBN 978-85-216-1414-2.
+2. TANENBAUM, Andrew S. Sistemas operacionais modernos. 2.ed. São Paulo: Pearson, 2006.
+693 p. ISBN 979-85-87918-57-3.
+3. TOSCANI, Simão Sirineo; CARISSIMI, Alexandre da Silva; OLIVEIRA, Rômulo S. de. Sistemas
+operacionais. 4.ed. Porto Alegre: Bookman, 2010. 374 p. ISBN 978-85-7780-521-1.
+Complementar:
+1. TORTELLO, João Eduardo N; WOODHULL, Albert S; TANENBAUM, Andrew S. Sistemas
+operacionais: projeto e implementação. 3.ed. Porto Alegre: Bookman, 2008. 990 p. ISBN 97885-7780-057-5.
+2. STALLINGS, William. Operating systems: internal and design principles. 6.ed. Upper Saddle
+River: Pearson, c2009. 822 p. ISBN 978-0-13-600632-9.
+3. SILBERSCHATZ, Abraham et al. Fundamentos de sistemas operacionais. 8.ed. Rio de Janeiro:
+LTC, 2010. 515 p. ISBN 978-85-216-1747-1.
+4. Carissimi, Alexandre da Silva; Oliveira, Rômulo S. de. Sistemas operacionais. 3 ed. Säo Paulo:
+Bookman, 2008. 259 p. ISBN 978-85-7780-337-8.
+5. Mauerer, Wolfgang. Professional Linux Kernel architecture. Canadá: wrox, c2008. 1337 p. ISBN
+978-0-470-34343-2.
+
+

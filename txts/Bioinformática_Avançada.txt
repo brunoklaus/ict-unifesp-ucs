@@ -1,0 +1,63 @@
+Nome do Componente Curricular: Bioinformática Avançada
+Pré-requisitos: Introdução à Bioinformática
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Curso avançado de Bioinformática.
+Específicos:
+Curso teórico-prático introdutório às principais ferramentas computacionais da bioinformática.
+Ementa:
+Introdução à linguagem Python e ao uso de bibliotecas de BioPython. Métodos de Alinhamento de
+Sequências simples (Needleman-Wunsch, Smith-Waterman, BLAST). Métodos de alinhamentos
+múltiplos. Modelos de Markov escondidos. Análise de Clusters. Análise de Componentes Principais.
+Métodos de sequenciamento, montagem e análise de genomas.
+Conteúdo Programático:
+•
+Python
+•
+BioPython
+•
+Alinhamento de Sequências
+•
+Modelos de Markov
+•
+Análise de Clusters
+•
+Análise de Componentes Principais
+•
+Sequenciamento de Genomas
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades práticas.
+Recursos Instrucionais Necessários:
+Sala de aula/ Laboratório de computação com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico,
+com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do aluno na
+unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+ KINSER, J.M. Python for Bioinformatics. Jones & Barltett, 2008.
+ MOUNT, D.W. Bioinformatics. 2nd Ed. CSHL Press, 2004.
+ LESK, A.M. Introdução à Bioinformática. 2ª Ed. Artmed, 2005.
+Complementar:
+ GRAUR, D.; LI, W.H. Fundamentals of Molecular Evolution. 2nd Ed. Sinauer, 2000.
+ N. C. Jones and P. A. Pevzner. An Introduction to Bioinformatics Algorithms, The MIT Press; 1
+
+
+
+
+
+edition, 2004.
+D. Gusfield. Algorithms on Strings, Trees and Sequences: Computer Science and Computational
+Biology. Cambridge, UK: Cambridge University Press, 1997
+M. Waterman. Introduction to Computational Biology: Maps, Sequences, and Genomes, Boca
+Raton, FL: CRC Press, 1995.
+R. Durbin, S. R. Eddy, A. Krogh, G. Mitchison. Biological Sequence Analysis: Probabilistic Models of
+Proteins and Nucleic Acids, Cambridge University Press, 1998.
+
+

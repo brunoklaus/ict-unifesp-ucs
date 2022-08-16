@@ -1,0 +1,67 @@
+Nome do Componente Curricular: Química Inorgânica
+Pré-requisitos: Química Geral
+Carga Horária Total: 72 h
+Carga Horária Prática: 12 h
+Carga Horária Teórica: 60 h
+Objetivos
+Gerais:
+Desenvolver um conhecimento estruturado e compreender conceitos fundamentais de Química
+Inorgânica de diversas áreas como Química do Estado Sólido, Química de Coordenação e
+Bioinorgânica.
+Específicos:
+O aluno será capaz de: Interpretar com base nos conceitos de ligação química e estrutura, as
+propriedades dos compostos inorgânicos e compreender a relevância de alguns destes compostos nos
+processos industriais e/ou biológicos.
+Ementa:
+Fundamentos básicos de Química Inorgânica (Química dos não metais, metais e gases nobres).
+Química de Coordenação: complexos clássicos e organometálicos. Química de Estado Sólido.
+Eletroquímica. Bioinorgânica.
+Conteúdo Programático:
+A. Fundamentos Básicos de Química Inorgânica
+1. Estrutura atômica
+2. Estrutura molecular
+3. Ligações Químicas
+4. Propriedades Gerais dos Elementos
+B Química de Coordenação: Complexos clássicos e organometálicos
+1. Constituição e geometria
+2. Ligações em complexos de metais de transição
+C Princípios de Química de Estado Sólido e Química de Materiais
+1. Princípios gerais
+2. Estrutura dos sólidos simples
+D. Princípios Gerais de Eletroquímica
+E. Princípios Gerais de Bioinorgânica
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações. Resolução de lista de
+exercícios, desenvolvimento de trabalho em grupos e aulas práticas envolvendo a síntese de
+compostos inorgânicos.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia. Laboratório de Química.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+
+Bibliografia
+Básica:
+1. J. D. Lee. Química inorgânica não tão concisa. [Concise inorganic chemistry]. Tradução de:
+Henrique E. Toma, Koiti Araki, Reginaldo C. Rocha. São Paulo: Edgard Blücher, 1999. 527 p.
+ISBN 8429174818.
+2. FAHLMAN, Bradley D.. Materials chemistry. Dordrecht(DEU): Springer, c2008. 485 p. ISBN 9781-402-06119-6.
+3. ATKINS, Peter; JONES, Loretta. Princípios de química: questionando a vida moderna e o meio
+ambiente. 3.ed. [s.l.]: [s.n.], 2006. 965 p. ISBN 978-85-363-0668-1.
+Complementar:
+1. ATKINS, P.W et al. Química inorgânica 4.ed. Porto Alegre: Bookman, 2008. 847 p. ISBN 978-857780-199-2. tradução de "Inorganic chemistry,4 ed". FARIAS, R. F. Práticas de Química
+Inorgânica, 3ª Edição, Editora: Átomo, 2010.
+2. SPENCER, James M; BODNER, George M; RICKARD, Lyman H. Química: estrutura e dinâmica.
+[Chemistry: structure & dynamics]. 3.ed. Rio de Janeiro: LTC, 2007. 452 p. ISBN 978-85-2161525-5.
+3. Russel,J.B. Química Geral 2a Edição. Vol. I E II, Editora Afiliada.
+4. KLEIN, Cornelis. Minerals and rocks: exercices in crystal and mineral chemistry, crystallography,
+x-ray powder diffraction, mineral and rock identification, and ore mineralogy. 3 ed. [s.l.]: [s.n.],
+2008. 440 p p. ISBN 978-0-471-77277-4. Livro contém anexado moldes de exercícios.
+5. Hartwig, John F.. Organotransition metal chemistry: from bonding to catalysis. Mill Valley, CA:
+University Science Books, 2010. 1127 p. ISBN 978-1-891389-53-
+
+

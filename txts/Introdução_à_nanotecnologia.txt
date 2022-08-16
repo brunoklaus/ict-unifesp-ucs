@@ -1,0 +1,124 @@
+Nome do Componente Curricular: Introdução à Nanotecnologia
+Pré-requisitos: Não há
+Carga Horária Total: 36 h
+Carga Horária Prática: 6 h
+Carga Horária Teórica: 30 h
+Objetivos
+Gerais:
+Apresentar aos alunos os fenômenos e as propriedades fisico-químicas de materiais e técnicas em
+escala nanométrica. Serão também apresentadas técnicas de preparação e caracterização de
+nanomateriais, bem como as aplicações desses materiais.
+Específicos:
+O aluno será capaz de:
+- Compreender a importância dos nanomateriais para o desenvolvimento tecnológico da sociedade;
+- Compreender os efeitos de escalas sobre as propriedades fisico-químicas dos nanomateriais
+- Escolher a melhor rota de produção para cada tipo de nanomaterial e técnicas de caracterização de
+nanomateriais.
+Ementa:
+Introdução histórica. Efeito de escala. Tipos de nanomateriais. Síntese e fabricação de nanomateriais.
+Técnicas de caracterização de nanomateriais. Aplicações e implicações dos nanomateriais no setor
+tecnológico. Considerações e limitações do uso de nanomateriais.
+Conteúdo Programático:
+A – Introdução
+1.
+Histórico: evolução da nanociência e o surgimento da nanotecnologia
+2.
+Áreas emergentes no mercado de nanomateriais
+3.
+Correlações entre propriedades e aplicações de nanomateriais
+B – Nanomateriais
+1.
+Nanopartículas
+2.
+Nanogrãos
+3.
+Materiais nanoestruturados
+4.
+Hetereoestruturas artificiais
+C – Efeitos de Escala
+1.
+Efeitos de interface
+2.
+Efeitos de superfície
+3.
+Efeitos de tamanho de grãos e espessura
+D – Rotas químicas e físicas para a preparação de nanomateriais
+1.
+Fabricação Bottow-up
+2.
+Fabricação Top-down
+3.
+Litografia
+E- Nanocompósitos e Nanoblendas
+1.
+Definição de nanocompósitos e nanoblendas
+2.
+Métodos de obtenção
+3.
+Tipos de estrutura
+
+4.
+5.
+
+Termodinâmica de formação da estrutura
+Propriedades e aplicações dos nanocompósitos
+
+F – Técnicas de Caracterização de Nanomateriais
+1.
+Microscopia eletrônica de varredura
+2.
+Microscopia eletrônica de transmissão
+3.
+Microscopia de força atômica
+4.
+Difração de Raios-X
+5.
+Técnicas Espectroscópicas
+6.
+Espalhamento de luz dinâmico e estático
+G – Considerações e limitações do uso de nanomateriais
+1.
+Efeitos de nanomateriais no meio ambiente
+2.
+Nanotoxicologia
+H – Panorama da aplicação da nanotecnologia no Brasil
+1.
+Programas governamentais de apoio a implementação da nanotecnologia
+2.
+Principais pesquisas, patentes e resultados alcançados por pesquisadores brasileiros.
+Metodologia de Ensino Utilizada:
+Aula expositiva e prática.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. TOMA, Henrique Eisi. O mundo nanométrico: a dimensão do novo século. 2 ed. São Paulo:
+Oficina de Textos, 2009. 102 p. ISBN 978-85-86238-86-4.
+2. DURAN, Nelson; MATTOSO, Luiz Henrique Capparelli; MORAIS, Paulo Cezar. Nanotecnologia:
+introdução, preparação e caracterização de nanomateriais e exemplos de aplicação. São Paulo:
+Artliber, 2006. 208 p. ISBN 978-85-88098-33-6.
+3. GODDARD III, William A et al. Handbook of nanoscience, engineering, and technology. 2 ed.
+Boca Raton (USA): CRC, 2007.ISBN 978-0-84937-563 7.
+Complementar:
+1. CALLISTER, William D. Jr., Fundamentos da Ciência e Engenharia de Materiais. Uma abordagem
+Integrada, 2aed., LTC, 2005.
+2. BULTE, Jeff W.M; MODO, Michel M.J. Nanoparticles in biomedical imaging: emerging
+tehcnologies and applications. New York: Springer, c2008. 524 p. ISBN 978-0-387-72026-5.
+3. Kumar, Challa (Ed.). Biological and pharmaceutical nanomaterials. Weinheim (DEU): Wiley VCH, c2006. 408 p. (Nanotechnologies for the life sciences, 2). ISBN 9783527313822.
+
+4. Grupo ETC. Nanotecnologia os riscos da tecnologia do futuro: saiba sobre produtos invisíveis
+que já estão no nosso dia-a-dia e o seu impacto na alimentação e na agricultura. Editora
+L&PM : Porto Alegre, 2005.
+5. Micro and nano technologies in bioanalysis: methods and protocols. New York: Humana Press,
+Lee, James Weifu; Foote, Robert S., 2009. 668 p.
+6. Nanotechnology in Biology and Medicine, Methods, devices and applications, Tuan Vo-Dinh,
+CRC, 2007.
+
+

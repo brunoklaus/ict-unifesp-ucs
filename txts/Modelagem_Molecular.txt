@@ -1,0 +1,76 @@
+Nome do Componente Curricular: Modelagem Molecular
+Pré-requisitos: Biologia Estrutural
+Carga Horária Total: 72h
+Carga Horária Prática: 36 h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Introdução à teoria e prática da modelagem molecular.
+Específicos:
+Curso teórico-prático de introdução aos principais conceitos da modelagem molecular
+desde a análise de campos de forças moleculares aos principais métodos de
+optimização de estruturas biológicas.
+Ementa:
+Métodos de bioinformática estrutural. Modelagem molecular. Mecânica Molecular.
+Dinâmica molecular. Cálculos energéticos. Desenho racional de fármacos.
+Conteúdo Programático:
+
+Modelos moleculares
+
+Campos de Forças Moleculares
+
+Mecânica Molecular
+
+Potenciais híbridos
+
+Métodos de otimização
+
+Análise de modos normais
+
+Simulações de dinâmica molecular.
+
+Cálculos energéticos
+
+Desenho racional de inibidores
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades práticas.
+Recursos Instrucionais Necessários:
+Sala de aula o com lousa e projetor multimídia. Laboratório computacional.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+
+LEACH, A.R. Molecular Modelling, Principles and Applications. 2nd Ed. Prentice
+
+Hall 2001.
+
+SCHLICK, T. Molecular Modeling and Simulation. Springer 2002.
+
+CRAMER, C.J. Computational Chemistry. Wiley 2002.
+Complementar:
+
+TINOCO, Ignacio; SAUER, Kenneth; WANG, James C.; PUGLISI, Joseph D.
+Physical chemistry: principles and applications in biological sciences. 4 ed. Upper
+Saddle, NJ: Prentice Hall, 2003.
+
+BRANDEN, C.; TOOZE, J. Introduction to Protein Structure, 2nd Ed.,
+Garland,1999.
+
+MILLER, TANNER. Essentials of Chemical Biology. Structure and Dynamics of
+Biological Macromolecules. Wiley 2013.
+
+KINSER, Jason. Python for bioinformatics. Sudbury, Massachusetts: Jones and
+Bartlett Publishers, 2009.
+
+MCQUARRIE, Donald A. Quantum chemistry. 2 ed. Sausalito, California:
+University Science Books, 2007.
+
+

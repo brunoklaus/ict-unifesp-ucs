@@ -1,0 +1,63 @@
+Nome do Componente Curricular: Controle de Sistemas Dinâmicos
+Pré-requisitos: Análise de Sinais; Circuitos Elétricos II
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Caracterizar e modelar sistemas lineares e conhecer a teoria clássica de controle.
+Específicos:
+Propriciar ao aluno o entendimento sobre técnicas de controle de forma a projetar
+controladores para sistemas dinâmicos em malha fechada incluindo o uso de
+ferramentas computacionais.
+Ementas:
+Modelagem matemática de sistemas dinâmicos; caracterização de sistemas lineares;
+solução de equações diferenciais e a diferenças; resposta em frequência; sistemas de
+controle com realimentação; critérios de estabilidade; critérios de desempenho;
+controladores PID atraso e avanço; projeto de controle via lugar das raízes e via
+resposta em frequência.
+Conteúdo Programático:
+1) Modelagem Matemática de Sistemas Dinâmicos.
+2) Solução de equações diferenciais e a diferenças.
+3) Sistemas de Controle com Realimentação: Sistemas dinâmicos e problemas de
+controle; estrutura básica; função de transferência; resposta em frequência; classe de
+controladores; discretização.
+4) Critérios de Estabilidade: Critério de Routh-Hurwitz.
+5) Critérios de Desempenho: Domínio do tempo (tempo de estabilização e
+sobrelevação); domínio da frequência (margem de fase e margem de ganho); regime
+permanente (erros em regime).
+6) Controladores Clássicos: Controladores P, PI, PID, atraso, avanço.
+7) Projeto de Sistemas de Controle: Método do lugar das raízes; método da resposta em
+frequência.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos discentes. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do discente ao longo do semestre. A promoção do discente na unidade
+curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+
+Bibliografia
+Básica:
+1. K. Ogata, "Engenharia de controle moderno", Pearson/Prentice Hall, 4ª. Ed.,
+2003.
+2. N. S. Nise, “Engenharia de Sistemas de Controle”, 6a Ed., LTC, 2012.
+3. P. Maya, F. Leonardi, “Controle Essencial”, 2a Ed., Pearson, 2014.
+Complementar:
+1. J. C. Geromel, R. H. Korogui, ``Controle Linear de Sistemas Dinâmicos:
+Teoria, Ensaios Práticos e Exercícios'', Edgard Blucher Ltda, 2011.
+2. B. C. Kuo, F. Golnaraghi, "Automatic Control Systems", John Wiley & Sons,
+2003.
+3. R. C. Dorf, R. H. Bishop, "Modern control systems", Prentice Hall, 11a. Ed.,
+2003.
+4. CARVALHO, J.L.Martins de. Sistema de controle automático. Rio de Janeiro:
+LTC, c2000.
+5. J. C. Geromel, A. G. B. Palhares, "Análise Linear de Sistemas Dinâmicos.
+Teoria, Ensaios Práticos e Exercícios". Edgard Blucher ltda, 2° edição, 2011.
+
+

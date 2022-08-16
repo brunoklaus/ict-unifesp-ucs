@@ -1,0 +1,52 @@
+Nome do Componente Curricular: Introdução às Redes Neurais Artificiais
+Pré-requisitos: Algoritmos e Estruturas de Dados I
+Carga horária total: 72 h
+Carga Horária Prática: 36 h
+Carga Horária Teórica: 36 h
+Objetivos
+Geral:
+Apresentar aos alunos os conceitos básicos e principais características dos modelos clássicos de
+redes neurais artificiais, sua fundamentação biológica e suas possíveis aplicações em diversas áreas.
+Específicos:
+Capacitar o aluno a distinguir os modelos de Redes Neurais Artificiais mais comuns, a partir de seu
+embasamento teórico e prático. Capacitar o aluno a aplicar os conceitos e técnicas da Inteligência
+Artificial Conexionista, dando ênfase ao projeto e construção de sistemas para resolução de
+problemas práticos.
+Ementa: Definição de modelos conexionistas. O neurônio biológico. Aprendizado em modelos
+conexionistas. Modelos de redes neurais: Perceptron, Adaline, Redes MLP, Redes de Hopfield, Redes
+Auto-organizáveis. Aplicações.
+Conteúdo Programático:
+Introdução e histórico dos modelos conexionistas (neurais). O modelo biológico do neurônio.
+Aprendizado em redes neurais: supervisionado, não-supervisionado. Modelos de redes neurais:
+perceptron, Adaline, perceptron de multiplas camadas (MLP), redes de Hopfield, redes autoorganizaveis de Kohonen, família ART. Aplicações: reconhecimento de padrões, segmentação de
+imagens,
+construção de memórias associativas, dentre outras.
+Metodologia de Ensino Utilizada: Aulas expositivas, aulas de laboratório, estudos de caso e
+desenvolvimento de trabalhos práticos de implementação.
+Recursos Instrucionais Necessários:
+Quadro branco, Projetor multimídia, Laboratório de computação.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Haykin, S. Redes Neurais - Principios e Pratica, Bookman, 2 ed., 2000.
+2. Braga,A.; Carvalho, A.; Ludermir, T. Redes Neurais Artificiais: Teoria e Aplicações, LTC, Rio de
+Janeiro, 2ª edição, 2011.
+3. Bishop, C. Neural Networks for Pattern Recognition, Oxford University Press, 1996.
+Complementar:
+1. Haykin, S. Neural Networks and Learning Machines (3rd Edition), Prentice Hall, 2008
+2. Rezende, S. O. Sistemas Inteligentes, Editora Manole, 2003
+3. Rosa, J. L. G. Fundamentos da Inteligência Artificial, LTC, 2011.
+4. Silva, L. N. C. Fundamentals of Natural Computing: Basic Concepts, Algorithms, and
+Applications, Chapman & Hall, 2006.
+5. Silva, I. N.; Spatti, D. H.; Flauzino, R. A. Redes Neurais para engenharia e ciências aplicadas:
+curso prático, Editora ArtLiber, 2010.
+6. Artigos dos periódicos: Neural Networks, Neurocomputing, Neural Computation, IEEE
+Transactions on Neural Networks.
+
+

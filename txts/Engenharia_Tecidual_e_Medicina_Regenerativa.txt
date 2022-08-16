@@ -1,0 +1,71 @@
+Nome do Componente Curricular: Engenharia Tecidual e Medicina Regenerativa
+Pré-requisitos: Biologia Molecular da Célula; Fisiologia Humana
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Aprimoramento e prática de aprendizado independente, crítico e contextualizado
+acerca das recentes descobertas científicas na área da engenharia tecidual e medicina
+regenerativa.
+Específicos:
+a. Capacitar o aluno a identificar e compreender os processos já conhecidos aplicados
+à engenharia tecidual e medicina regenerativa;
+b. Capacitar o aluno a aplicar o conhecimento biológico adquirido a problemas que
+envolvam a BT e MR em sua solução.
+Ementa:
+Introdução à Engenharia de Tecidos; Crescimento de tecidos; Biomateriais na
+Engenharia de Tecidos; Scaffolds (Suportes) na Engenharia de Tecidos; Métodos de
+preparo de scaffolds; noções de bioreatores para cultura de células; Células-tronco e
+aplicações na Engenharia de Tecidos; Engenharia de Tecidos no sistema
+gastrointestinal; Engenharia de Tecidos no sistema genitourinário; Engenharia de
+Tecidos no sistema ósseo; Engenharia de Tecidos no sistema nervoso; Engenharia de
+Tecidos da pele; Produtos comerciais da Engenharia de Tecidos; Regulamentação;
+Perspectivas na área de Engenharia de Tecidos; Órgãos artificiais.
+Conteúdo Programático:
+Introdução à Engenharia de Tecidos; Crescimento de tecidos; Biomateriais na
+Engenharia de Tecidos; Scaffolds (Suportes) na Engenharia de Tecidos; Métodos de
+preparo de scaffolds; noções de bioreatores para cultura de células; Células-tronco e
+aplicações na Engenharia de Tecidos; Engenharia de Tecidos no sistema
+gastrointestinal; Engenharia de Tecidos no sistema genitourinário; Engenharia de
+Tecidos no sistema ósseo; Engenharia de Tecidos no sistema nervoso; Engenharia de
+Tecidos da pele; Produtos comerciais da Engenharia de Tecidos; Regulamentação;
+Perspectivas na área de Engenharia de Tecidos; Órgãos artificiais.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades práticas.
+Recursos Instrucionais Necessários:
+Laboratório com lousa e projetor multimídia. Acesso ao MOODLE.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+
+GRAAFF, Kent M. Van de; WAFAE, Nader. Anatomia humana. 6. ed. Barueri:
+Manole, 2003. 840 p.
+
+Moore & Persaud. Embriologia Básica. Ed. Elsevier, 8ª. ed. 2013
+
+ALBERTS, Bruce et al. Biologia molecular da célula. 5.ed. Artmed 2010.
+Complementar:
+
+Lodish, H. et al. Biologia Celular e Molecular. 5a ed., Ed. Artmed 2005.
+
+Cooper G, M. et al. A Célula – Uma Abordagem Molecular. 3a ed. Ed. Artmed
+2007.
+
+Tharp GD, Woodman DA. Experiments in Physiology. 10. ed. Pearson, 2010.
+
+BRONZINO, Joseph D.; PETERSON, Donald R. Molecular, cellular, and tissue
+engineering. In: 4.ed. CRC Press, 2015.
+
+BRONZINO, Joseph D. Tissue engineering and artificial organs. 3.ed. Boca Raton
+(USA): CRC Press, 2006. 776 p.
+
+

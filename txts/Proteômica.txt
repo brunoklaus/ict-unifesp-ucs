@@ -1,0 +1,84 @@
+Nome do Componente Curricular: Proteômica
+Pré-requisitos: Bioquímica Analítica; Introdução à Bioinformática
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Espera-se que ao final deste curso o aluno seja capaz de entender a importância da
+proteômica como ciência e da espectrometria de massas como estratégia analítica no
+entendimento da complexidade dos mais diversos processos biológicos, bem como da
+heterogeneidade estrutural inerente às proteínas eucarióticas.
+Específicos:
+•
+Entender como evoluíram as metodologias de análises de proteínas desde a
+técnica desenvolvida por Frederick Sanger à utilização de espectrometria de massas
+para o sequenciamento de peptídeos/proteínas;
+•
+Discutir os princípios básicos relacionados às propriedades físico-química dos
+aminoácidos, que permitem a sua análise por espectrometria de massas;
+•
+Abordar, de forma introdutória, o funcionamento de um espectrômetro de
+massas e a suas aplicações em proteômica;
+•
+Introduzir o conceito de análises “ômicas” (de larga escala) e reconhecer sua
+importância na ciência atual.
+•
+Familiarizar-se com as principais plataformas bioinformáticas de análise de
+dados proteômicos de larga-escala.
+Ementa:
+Métodos analíticos para análise de biomoléculas; cromatografia líquida acoplada à
+espectrometria de massas; análise proteômica shotgun e top down; bancos de dados
+em proteômica; bioinformática aplicada à proteômica; proteômica quantitativa;
+sequênciamento de novo; modificações pós-traducionais.
+Conteúdo Programático:
+Aspectos introdutórios a química de proteínas e análise de compostos orgânicos em
+fase gasosa. Introdução à separação de biomoléculas para análise por espectrometria
+de massas. Principais plataformas bioinformáticas de análise proteômica e de
+modificações pós-traducionais de proteínas. Espectrometria de massas. MS/MS.
+Exemplos e aplicações de análise proteômica. Digestão in gel e “proteômica shotgun”.
+Proteômica quantitativa (label-based e label-free). Preparo de amostras para
+espectrometria de massas. Aquisição e análise bioinformática de dados em
+proteômica.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades práticas.
+Recursos Instrucionais Necessários:
+Sala de aula e laboratório com lousa, projetor multimídia e computadores com
+sistema operacional Windows.
+
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+
+KANNICHT, C. Post translational modifications of proteins – tools for functional
+proteomics. Humana Press, 2002.
+
+KINTER, M.; SHERMAN, N.E. Protein sequencing and identification using
+tandem mass spectrometry. John Wiley & Sons, 2000
+
+Lesk, Arthur M. Introduction to protein science—architecture, function, and
+genomics. Oxford University Press, USA; 3rd UK ed. 2016.
+Complementar:
+
+TWYMAN, R.M. Principles of Proteomics. Taylor & Francis Group, 2007.
+
+WESTERMEIER, R.; NAVEN, T. Proteomics in Practice: a laboratory manual of
+proteome analysis. Darmstadt-German, Wiley-VCH Verlag-GmbH Press, 2002.
+
+BRANDEN, C.; TOOZE, J. Introduction to Protein Structure, 2nd Ed.,
+Garland,1999.
+
+CASS, Quezia. Cromatografia Líquida 1ED. 1st. 2015 392 p.
+
+Michael R. Green et al. Molecular Cloning: A Laboratory Manual (Fourth
+Edition) Cold Spring Harbor Laboratory Press, 2012.
+
+

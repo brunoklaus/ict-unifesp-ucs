@@ -1,0 +1,53 @@
+Nome do Componente Curricular: Biologia Estrutural
+Pré-requisitos: Bioquímica I
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Introdução à biologia estrutural.
+Específicos:
+Introdução à estrutura de proteínas e ácidos nucleicos, aos principais métodos da biologia estrutural e à
+prática de resolução de estruturas através da cristalografia de proteínas.
+Ementa:
+Introdução à biologia estrutural. Estrutura dos ácidos nucleicos e das proteínas. Exemplos de estruturas de
+proteínas das vias de sinalização, de enzimas e de complexos proteicos. Classificação estrutural das
+proteínas. Biofísica Molecular. Cristalografia de raios X. Ressonância Magnética Nuclear.
+Conteúdo Programático:
+•
+Introdução.
+•
+Estrutura dos ácidos nucleicos.
+•
+Estrutura e das proteínas.
+•
+Classificação estrutural das proteínas.
+•
+Biofísica Molecular.
+•
+Cristalografia de raios X.
+Metodologia de Ensino Utilizada:
+Aulas teóricas e exercícios práticos.
+Recursos Instrucionais Necessários:
+Sala de aula; data-show; laboratório computacional.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico,
+com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do aluno na unidade
+curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no
+Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+ BRANDEN, C.; TOOZE, J. Introduction to Protein Structure, 2nd Ed., Garland,1999.
+ DRENTH, J. Principles of Protein X-Ray Crystallography, 3rd Ed. Springer, 2006.
+ LESK, A. Introduction to Protein Science, Architecture, Function and Genomics, Oxford, 2010.
+Complementar:
+ DONALD VOET & JUDITH G. VOET. Biochemistry, 3rd Ed. Willey, 2004.
+ MCREE, D. Practical Protein Crystallography, 2ª Ed., Academic Press 1999.
+ BRUCE ALBERTS et al. Biologia Molecular da célula. 5ª Edição, Artmed, 2010.
+ LILJAS, A. et al. Textbook of Structural Biology. World Scientific Publishing, 2009.
+ MILLER, Andrew; TANNER, Julian. Essentials of chemical biology: structure and dynamics of
+biological macromolecules. Hoboken (USA): John Wiley & Sons, 2007.
+
+

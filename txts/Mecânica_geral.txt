@@ -1,0 +1,82 @@
+Nome do Componente Curricular: Mecânica Geral
+Pré-requisitos: Geometria Analítica; Fenômenos Mecânicos
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Apresentar os conceitos fundamentais da Mecânica Geral necessários para o entendimento e previsão
+dos efeitos das forças e movimentos nos projetos de engenharia.
+Específicos:
+ Compreender os princípios físicos e matemáticos da mecânica;
+ Visualizar configurações físicas em termos de materiais reais, restrições verdadeiras e
+limitações práticas que norteiam o comportamento de máquinas e estruturas.
+Ementa:
+Sistemas de forças bi e tridimensionais. Equilíbrio de um ponto material e dos corpos rígidos. Análise
+de estruturas. Centro de massa e centroides. Forças internas. Atrito e suas aplicações na engenharia.
+Cinemática plana de corpos rígidos. Cinética plana de corpos rígidos.
+Conteúdo Programático:
+ Sistemas de forças bi e tridimensionais
+o Componentes retangulares
+o Momento e Binário
+o Resultantes
+ Equilíbrio de um ponto material e de corpos rígidos
+o Isolamento do sistema mecânico e Diagrama do corpo livre
+o Condições de equilíbrio
+ Análise de estruturas
+o Treliças planas: Método dos Nós e Método das Seções
+o Treliças espaciais
+o Estruturas e máquinas
+ Centro de massa e centróides
+o Centro de massa
+o Centróides de linhas, áreas e volumes
+o Corpos compostos
+o Resultantes de forças distribuídas
+ Forças internas
+o Forças internas em elementos estruturais
+o Diagramas de força de cisalhamento e de momento fletor
+ Atrito e suas aplicações na engenharia
+o Tipos de atrito
+o Aplicações de atrito em máquinas: cunhas, parafusos, mancais, correias, rolamentos
+ Cinemática plana de corpos rígidos
+o Rotação
+o Movimento absoluto
+o Velocidade relativa
+o Centro instantâneo de velocidade nula
+
+o Aceleração relativa
+o Movimento em relação a eixos que giram
+ Cinética plana de corpos rígidos
+o Equações gerais do movimento
+o Translação
+o Rotação em torno de um eixo fixo
+o Movimento plano geral
+o Trabalho e energia
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e exemplos de aplicações. Resolução de lista de
+exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Meriam, J.L.; Kraige, L.G. Mecânica para Engenharia: Estática. 6ª ed. Rio de Janeiro: LTC –
+Livros Técnicos e Científicos Editora S.A., 2009.
+2. Meriam, J.L.; Kraige, L.G. Mecânica para Engenharia: Dinâmica. 6ª ed. Rio de Janeiro: LTC –
+Livros Técnicos e Científicos Editora S.A., 2009.
+3. Hibbeler, R.C. Estática - Mecânica para Engenharia. 12ª ed. São Paulo: Prentice Hall, 2011.
+Complementar:
+1. Kaminski P. C. Mecânica Geral para Engenheiros, Edgard Blucher, 2000.
+2. Beer F. P., Johnston E. R. Mecânica Vetorial para Engenheiros: Cinemática e Dinâmica, 5ª ed.,
+Makron Books, 1991.
+3. Sonino S. Mecânica Geral: cinemática e dinâmica, 3 ed., Nobel, 1985.
+4. Beer, F. P. et al. Mechanics of Materials. 5ed. Nova Iorque. McGrawHill, 2009.
+5. Beer, F. P. et al. Statics and mechanics of materials. McGrawHill, 2009.
+
+

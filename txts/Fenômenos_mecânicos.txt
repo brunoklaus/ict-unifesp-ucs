@@ -1,0 +1,114 @@
+Nome do Componente Curricular: Fenômenos Mecânicos
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Oferecer uma apresentação lógica e quantificada da mecânica, com ênfase na dinâmica e nas
+consequentes leis de conservação. Possibilitar a compreensão de seu significado teórico e reconhecer
+seus fundamentos experimentais. Ressaltar os conceitos fundamentais da mecânica e sua utilidade
+nos diversos ramos da ciência básica como química, engenharia e biologia. Desenvolver habilidades
+para manipular a matemática requerida para expressar os conceitos envolvidos.
+Específicos:
+ Entender a mecânica de forma integrada e visualizar um problema em diferentes perspectivas;
+ Descrever problemas mecânicos relacionados ao movimento e equilíbrio através do uso das
+leis da mecânica;
+ Relacionar os conceitos fundamentais da mecânica com aplicações em áreas adjacentes;
+ Empregar ferramentas básicas de cálculo diferencial e integral na resolução de problemas
+práticos;
+ Assimilar o significado teórico das leis e princípios de conservação e suas bases experimentais,
+concebendo a inter-relação entre teoria e experimento.
+Ementa:
+Medidas e Unidades. Leis de Movimento. Aplicações das leis de Newton. Trabalho e energia.
+Momento. Sistemas de partículas.
+Conteúdo Programático:
+ Introdução
+o Medidas e Unidades
+o Quantidades Fundamentais em Mecânica
+o Sistemas de Unidades
+o Unidades derivadas e dimensões
+o Sistemas de coordenadas
+o Definições básicas: Velocidade e Aceleração
+ Leis de Movimento
+o Lei da Inércia e Massa
+o Segunda Lei de Newton
+o Terceira Lei de Newton
+o Princípio da relatividade clássica
+ Aplicações das leis de Newton
+o Movimento translacional e as transformações de Galileu.
+o Movimento sob força constante: Movimento retilíneo. Composição de velocidades e
+acelerações.
+o Movimento relativo.
+o Movimento curvilíneo. Aceleração tangencial e normal.
+o Movimento Circular Uniforme: Velocidade e Aceleração Angular.
+o Vetores no movimento circular
+
+o Força resultante
+o Equilíbrio
+o Forças de atrito
+o Forças viscosas
+o Sistemas com massas variáveis
+ Trabalho e energia
+o Definição: Trabalho e energia
+o Teorema trabalho-energia cinética
+o Forças conservativas e energia potencial
+o Potencial da mola e potencial gravitacional
+o Relação entre força e energia potencial
+o Conservação da energia
+o Potência
+o Forças conservativas e não conservativas
+o Dissipação da energia
+ Movimento gravitacional e Leis de Kepler
+o A lei da gravitação
+o Energia potencial gravitacional
+o Energia e movimento orbital
+o Potencial e campo gravitacional
+o Leis de Kepler: Lei das órbitas, lei das áreas e lei dos períodos.
+ Momento
+o Momento linear
+o Conservação do Momento
+o Colisões
+o Momento angular: Torque e momento de inércia
+o Conservação do momento angular
+o Forças centrais
+ Sistemas de partículas
+o Movimento do centro de massa
+o Massa reduzida
+o Centro de massa e centro de gravidade
+o Momento angular de um sistema de partículas
+o Momento angular orbital e spin
+o Momento angular de um corpo rígido
+o Rotação e oscilação de um corpo rígido
+o Equilíbrio de um corpo rígido
+o Energia cinética de um corpo rígido
+o Conservação da energia num sistema de partículas
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação e discussão de situações-problema, listas de exercícios e seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Paul A. Tipler, Física para cientistas e engenheiros, v.1, 6ª ed., Livros Técnicos e Científicos
+Editora.
+2. David Halliday, Robert Resnick e Jearl Walker, Fundamentos de Física, v.1, 8ª ed., Livros
+Técnicos e Científicos Editora.
+3. Raymond A. Serway e John W. Jewett, Jr., Principios de Física, v.1, Editora Thonsom.
+Complementar:
+1. Nussenveig, Moysés, Curso de Física Básica:v.2, 4a. Ed., Edgard Blücher.
+2. Alonso, M., Finn, E., Física Um curso Universitário, v.1, Edgard Blücher.
+3. R. Feynman, Lectures on Physics, v.1, Addison Wesley.
+4. C. Kittel, W. D. Knight e M. A. Ruderman, Mecânica, Curso de Física de Berkeley vol. 1, Edgard
+Blucher (1970).
+5. M. Fishbane, S. Gasiorowicz e S. T. Thorton, Physics for Scientists and Engineers, 2a ed.,
+Prentice Hall (1996).
+
+

@@ -1,0 +1,71 @@
+Nome do Componente Curricular: Reologia dos Materiais
+Pré-requisitos: Materiais Poliméricos, Fenômenos de Transporte
+Carga Horária Total: 36h
+Carga Horária Prática: 6h
+Carga Horária Teórica: 30h
+Objetivos
+Gerais:
+Apresentar os conceitos fundamentais sobre reologia de materiais com respectivas aplicações.
+Específicos:
+Ser capaz de compreender os conceitos de reologia, de forma a utilizá-los ne análise e aplicações de
+materiais.
+Ementa:
+Introdução a reologia e histórico. Definições básicas. Classificação reológica dos materiais. Equações
+fundamentais da reologia. Modelos viscoelásticos. Reometria e viscosimetria. Aplicações da reologia
+em materiais.
+Conteúdo Programático:
+1. Introdução a reologia e histórico;
+2. Definições básicas:
+2.1. Tensão;
+2.2. Deformação;
+2.3. Taxa;
+2.4. Viscosidade.
+3. Classificação reológica de materiais:
+3.1. Materiais ideais: sólido elástico Hookeano e fluidos newtonianos;
+3.2. Fluidos não newtonianos:fluidos independente do tempo (Bingham, dilatante e pseudoplástico) e
+fluidos dependentes do tempo (reopéxico e tixotrópico).
+3.3.Fluidos viscoelásticos:
+3.3.1. Viscoelasticidade e fenômenos;
+3.3.2. Modelos viscoelásticos: Maxwell, Voight e Maxwell-Voight.
+4. Equações fundamentais da reologia.
+5. Aplicações da reologia em materiais:
+5.1. Polímeros no estado fundido;
+5.2 Polímeros termofixos;
+5.3. Sistemas coloidais;
+5.4.Materiais metálicos.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades não presenciais na sala de aula tais listas de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico,
+com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do aluno na
+unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+Dealy, John M.; Wissbrun, Kurt F.. Melt rheology and its role in plastics processing: theory and
+applications. Dordrecht: Kluwer, c1999.
+2.
+Macosko, C. W. Rheology: Principles, Measurements, and Applications, Wiley-VCH, 1994.
+3.
+Sperling L. H. Introduction to Physical Polymer Science, John Wiley & Sons, fourth edition, 2006.
+Complementar:
+1.
+Bretas, R. E. S.; D´Avila, M. A. Reologia dos polímeros fundidos, Editora da UFSCar, 2000.
+2.
+Manrich, S. Processamento de termoplásticos: rosca única, extrusão e matrizes, injeção e
+moldes, Artliber, 2005.
+3.
+Dinger D. R. Rheology for ceramist, 2 Ed.,Dinger Ceramic Consulter Service, 2010.
+4.
+Bird R. B. Dynamic of Polymeric Liquids: Fluid mechanics, 2 Ed., Willey v. 1, 1987.
+5.
+Philippe Coussot. Rheometry of Pastes, Suspensions and Granular Materials: Applications in
+Industry and Environment, John Wiley Sons, 2005.
+
+

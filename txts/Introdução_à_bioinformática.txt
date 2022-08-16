@@ -1,0 +1,78 @@
+Nome do Componente Curricular: Introdução à Bioinformática
+Pré-requisitos: Biologia molecular da célula ; Lógica de programação
+Carga Horária Total: 72h
+Carga Horária Prática: 36 h
+Carga Horária Prática: 36 h
+Objetivos
+Gerais:
+Introduzir o aluno à biologia computacional por meio da apresentação e discussão dos modelos
+utilizados para a análise de sequências de proteínas, ácidos nucléicos e modificações pós-traducionais.
+Específicos:
+Fornecer subsídios para o entendimento da diversidade e complexidade de fenômenos em bioquímica
+e biologia molecular a partir da análise computacional de dados experimentais.
+Ementa:
+Este curso introdutório será fundamentalmente baseado na utilização de ferramentas bioinformáticas
+para o entendimento de diversos processos em biologia molecular e bioquímica. Com o advento das
+estratégias analíticas empregadas em biologia moderna, a bioinformática tem se tornado uma ciência
+de fundamental importância, sobretudo para auxiliar a interpretação e atribuir significância ao grande
+volume de informação adquirido.
+Conteúdo Programático:
+•
+Bancos de dados em biologia;
+•
+Ferramentas bioinformáticas on line para o estudo de genes;
+•
+Genomas e transcriptomas;
+•
+Duplicação gênica e suas implicações evolutivas;
+•
+Matrizes PAM e BLOSUM e suas aplicações no alinhamento de sequências;
+•
+Pacote BLAST;
+•
+ClustalW
+•
+Hmmer
+•
+Aspectos introdutórios à espectrometria de massas;
+•
+Proteoma - o complemento protéico do genoma;
+•
+Introdução à proteômica computacional;
+•
+Análise proteômica in silico: Peptide Mass Fingerprint e MS/MS ion search;
+•
+Análise de modificações pós-tradicionais;
+•
+Interações proteína-proteína.
+•
+Bioestatistica
+Metodologia de Ensino Utilizada:
+Aula expositiva e prática.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia. Laboratório computacional.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+
+Bibliografia
+Básica:
+1. Lesk, A. Introdução à bioinformática. Artmed, 2°ed., 2008.
+2. Krawetz, S.A. & Womble, D.D. Introduction to bioinformatics – A theoretical and practical
+approach. Humana Press, 2003.
+3. Ewens, W.J. & Grant, G.R. Statistical methods in bioinformatics- An introduction. Springer, 2 nd
+ed., 2010.
+Complementar:
+1. Pevsner, J. Bioinformatics and functional genomics. John Wiley & Sons Inc. 2 nd ed., 2009.
+2. Samuelson, T. Genomics and bioinformatics. Cambridge, University Press. 2012.
+3. Sanger, F. Sequences, sequences and sequences. Ann. Rev. Biochem. 57:1-28, 1988.
+4. Green, E.D. Strategies for the systematic sequencing of complex genomes. Nat. Rev. Gen.
+2:573-583, 2001.
+5. Altschul, S. et al.,Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs. Nucleic Acids Res. 25(17):3389-402, 1997.
+
+

@@ -1,0 +1,60 @@
+Nome do Componente Curricular: Fundamentos de Engenharia Bioquímica
+Pré-requisitos: Matemática Geral; Física Geral
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introduzir os princípios da engenharia de bioprocessos para Engenheiros, Químicos e Biólogos.
+Específicos:
+Apresentar os fundamentos da engenharia química aplicados à bioprocessos: balanços de massa e
+energia, fenômenos de transporte e cinéticas de reações químicas.
+Ementa:
+Os conceitos apresentados nesta disciplina são essenciais para as etapas de transformação de
+descobertas biológicas em produtos de interesse industrial. A partir dos fundamentos da engenharia
+(balanços de massa e energia, fenômenos de transporte e cinéticas de reações químicas) estabelecemse as base para compreender e controlar às reações bioquímicas envolvidas nesse tipo de processo.
+Esses conhecimentos são fundamentais na definição e otimização das várias operações unitárias, tanto
+da fase de síntese (upstream), como de recuperação e purificação de produtos (downstream), que
+serão abordadas em disciplinas subsequentes.
+Conteúdo Programático:
+1. Introdução; 2. Cálculos de engenharia; 3. Termodinâmica aplicada. 4. Balanços de massa; 5.
+Balanços de energia; 6. Transporte de quantidade de movimento; 7. Transporte de calor; 8. Transporte
+de massa; 9. Cálculo de reatores homogêneos.
+Metodologia de Ensino Utilizada:
+Aulas teóricas e exercícios práticos.
+Recursos Instrucionais Necessários:
+Salas de aula, computador e projetor.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. PM Doran, Bioprocess engineering principles. USA: Academic Press, 2012. 928p. ISBN 9780122208515.
+2. RM Felder; RW Rousseau. PRINCIPIOS ELEMENTARES DOS PROCESSOS QUIMICO. Rio de
+Janeiro: LTC. 2005 (3a Ed). 604p. ISBN 978-8521614296.
+3. O Levenspiel. Engenharia das reações químicas. São Paulo: Editora Blücher, 2011. 563 p. ISBN
+9788521202752.
+Complementar:
+1. HW Blanch; DS Clark. Biochemical engineering. Boca Raton: CRC/Taylor & Francis, 1997. 702 p.
+ISBN 9780824700997.
+2. J Villadsen , J Nielsen, G Lidén. Bioreaction Engineering Principles. Springer 2011 (3a Ed). 591p.
+
+3.
+4.
+5.
+6.
+
+ISBN 978-1441996879.
+DM Himmelblau; JB Riggs. ENGENHARIA QUIMICA - PRINCIPIOS E CALCULOS. Rio de
+Janeiro:LTC. 2006 (7a Ed). 2006. 868p., ISBN 978-8521615026.
+HS Fogler. Elementos de engenharia das reações químicas. 4.ed. Rio de Janeiro: LTC, 2009. 853
+p. ISBN 9788521617167.
+ML Shuler; F Kargi. Bioprocess engineering: basic concepts. 2nd ed. Upper Saddle River:
+Prentice Hall, 2002. 553 p. ISBN 0130819085.
+Katho e Yoshida, Biochemical Engineering, Wiley 2009. ISBN 3527325360.
+
+

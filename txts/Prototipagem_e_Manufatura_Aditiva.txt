@@ -1,0 +1,67 @@
+Nome do Componente Curricular: Prototipagem e Manufatura Aditiva
+Pré-requisitos: Desenho técnico básico
+Carga Horária Total: 72h
+Carga Horária Prática: 10h
+Carga Horária Teórica: 62h
+Objetivos
+Gerais:
+Apresentar uma visão geral das aplicações atuais e desafios do uso da tecnologia de
+manufatura aditiva em diversas áreas.
+Específicos:
+O aluno será capaz de entender os requisitos necessários para prototipar um
+dispositivo médico utilizando a tecnologia de manufatura aditiva.
+Ementa:
+Histórico e quadro evolutivo da manufatura aditiva • Conceitos básicos de modelagem
+3D e criação de modelos sólidos para a produção de um objeto físico • Técnicas e
+processos de manufatura aditiva aplicados à área médica • Fundamentos básicos da
+fabricação por manufatura aditiva (materiais, softwares, parâmetros do processo, etc).
+Integração da manufatura aditiva com o processo de desenvolvimento de produto.
+Controle de qualidade de peças produzidas por manufatura aditiva. Principais
+processos e aplicação de manufatura aditiva. Avanços recentes e desafios da
+manufatura aditiva.
+Conteúdo Programático:
+1. Conceitos básicos sobre Computer-Aided Design na criação de modelos sólidos para
+a área médica. 2. Principais processos e aplicação de manufatura aditiva na área
+médica (Estereolitografia, sinterização seletiva a laser, modelagem por deposição de
+material Fundido e outros). 3. Materiais.de uso geral e avançados para manufatura
+aditiva na área médica. 4. Dispositivos personalizados de órteses, próteses e implantes
+produzidos por manufatura aditiva. 5. Biomodelos e protótipos produzidos por
+manufatura aditiva para diagnóstico, treinamento e planejamento cirúrgico. 6. Estado
+atual das pesquisas em bioimpressão de tecidos e órgãos. 7. Considerações
+regulatórias no design e manufatura de dispositivos médicos no Brasil e no mundo. 8.
+Principais desafios da integração da manufatura aditiva com o processo de
+desenvolvimento de produto na engenharia biomédica.
+Metodologia de Ensino Utilizada:
+Aulas explicativas dos princípios básicos e teoria da disciplina com exercícios focados
+nos tópicos apresentados em aula. Aulas práticas em Laboratório de Informática,
+Laboratório de Bioengenharia e Instrumentação.
+Recursos Instrucionais Necessários:
+Laboratório de Informática, Laboratório de Bioengenharia e Instrumentação e datashow.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+1. VOLPATO N. Manufatura aditiva: tecnologia e aplicações da impressão 3D, 1ª
+ed., Editora Bluecher (20017)
+2. EMANUEL C. Prototipagem rápida: Definições, conceitos e prática, 1ª ed.,
+Buenos Aires: Delearte EMCampos (2011)
+3. BOOKER J.D., SWIFT K.G. Seleção de processos de manufatura, v.1, Editora
+Camous (2015).
+Complementar:
+1. BIBB R., DOMINIC E. and ABBY P. Medical modelling: the application of
+advanced design and rapid prototyping techniques in medicine. Woodhead
+Publishing (2014).
+2. GIBSON I., ROSEN D., Stucker B. Additive Manufacturing Technologies: 3D
+Printing, Rapid Prototyping, and Direct Digital Manufacturing. Springer. 2015.
+3. Li, J.Z. CAD, 3D Modeling, Engineering Analysis, and Prototype
+Experimentation. Industrial Research Applications. Springer. 2015.
+
+

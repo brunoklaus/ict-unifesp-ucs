@@ -1,0 +1,63 @@
+Nome do Componente Curricular: Otimização Linear
+Pré-requisitos: Geometria Analítica; Lógica de Programação
+Carga Horária Total: 72h
+Carga Horária Prática: 14h
+Carga Horária Teórica: 58h
+Objetivos
+Gerais:
+Capacitar o aluno a identificar, formular e resolver problemas de otimização linear.
+Específicos:
+O aluno deverá ser capaz de identificar e formular problemas de otimização linear; compreender a
+teoria básica de otimização linear; conhecer e aplicar o método simplex; compreender conceitos de
+dualidade; analisar a sensibilidade das soluções obtidas; conhecer e aplicar o método de pontos
+interiores.
+Ementa:
+Modelagem matemática. Conceitos básicos de otimização linear. Método Simplex. Dualidade. Análise
+de sensibilidade. Método de Pontos Interiores.
+Conteúdo Programático:
+ Modelagem matemática: problema de mistura, problema de transporte, transbordo e designação,
+problema de planejamento da produção, problema de corte e empacotamento, etc.
+ Conceitos básicos de otimização linear: conjunto e cone poliedral, pontos e direções extremas,
+solução básica viável, representação do conjunto poliedral, representação gráfica, existência e
+otimalidade de pontos extremos, degenerescência.
+ Método Simplex: condições de otimalidade, motivação geométrica, desenvolvimento algébrico do
+método Simplex, representação em forma de quadros, métodos para obter solução inicial viável (BigM e duas fases), convergência e complexidade computacional. Método Simplex revisado.
+ Dualidade: formulação dual, teoremas de dualidade forte e fraca, variáveis auxiliares
+complementares, problema dual em forma padrão, método dual simplex.
+ Análises de sensibilidade e paramétrica: inserção de novas variáveis e/ou restrições,
+parametrização dos custos da função objetivo, parametrização do termo independente do conjunto
+de restrições.
+ Métodos de Pontos Interiores: motivação algébrica e geométrica, métodos em forma primal e dual,
+complexidade computacional, comparação com método Simplex.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Laboratório de Informática. Acesso ao MOODLE como
+ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. ARENALES, M. N.; ARMENTANO, V.; MORABITO, R.; YANASSE, H. Pesquisa operacional. Rio de
+Janeiro: Campus, 2006.
+2. BAZARAA, M. S.; JARVIS, J. J.; SHERALI, H. D. Linear programming and network flows. 4ª ed.
+
+Nova York: John Wiley & Sons, 2010.
+3. BERTSIMAS, D.; TSITSIKLIS, J. N. Introduction to linear optimization. Belmont, Massachusetts:
+Athena Scientific, 1997.
+Complementar:
+1. CHVATAL, V. Linear programming. New York: Freeman, 1983.
+2. GOLDBARG, M.C.; LUNA, H.P.L. Otimização combinatória e programação linear - modelos e
+algoritimos. 2ª ed. Rio de Janeiro: Campus, 2005.
+3. LUENBERGER, D. G.; YE, Y. Linear and nonlinear programming. 3ª ed. Nova York: Springer,
+2008.
+4. TAHA, H. A. Pesquisa operacional. 8ª ed. São Paulo: Pearson, 2008.
+5. VANDERBEI, R. J. Linear programming: foundations and extensions. 3ª ed. New Jersey:
+Springer, 2008.
+
+

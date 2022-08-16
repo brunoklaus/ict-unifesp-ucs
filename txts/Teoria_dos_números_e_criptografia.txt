@@ -1,0 +1,81 @@
+Nome do Componente Curricular: Teoria dos Números e Criptografia
+Período: 5º semestre
+Pré-requisitos: Matemática Discreta
+Carga Horária Total: 72h
+Carga Horária Prática: 10h
+Carga Horária Teórica: 62h
+Objetivos
+Gerais:
+Familiarizar o aluno com conceitos básicos de teoria dos números. Introduzir os
+conceitos de criptografia fazendo a relação entre a base matemática teórica com a parte
+computacional necessária para implementações numéricas. Discussão sobre a
+necessidade da sociedade contemporânea de proteção de dados. Compreender os
+aspectos interdisciplinares do assunto.
+Específicos:
+Ao final da unidade curricular o aluno deverá ser capaz de reconhecer e resolver
+problemas relacionados aos números inteiros e suas propriedades básicas. O aluno
+deve compreender os conceitos de criptografia fazendo a relação entre a base
+matemática teórica com a parte computacional necessária para implementações
+numéricas. Além disso, o aluno deve saber debater sobre a necessidade da sociedade
+contemporânea de proteção de dados. O aluno deve compreender os aspectos
+interdisciplinares de Matemática, Computação e Humanidades, envolvidos no assunto
+e ter uma visão maior de como fazer relações semelhantes com outros temas estudados
+no curso.
+Ementa:
+Divisibilidade. Aritmética modular. Números primos. Funções aritméticas. Criptografia Teoria e Algoritmos Computacionais. A necessidade contemporânea de proteção de
+dados.
+Conteúdo Programático:
+1. Divisibilidade: algoritmo da divisão, máximo divisor comum, algoritmo de Euclides,
+mínimo múltiplo comum, critérios de divisibilidade.
+ Aritmética modular: relações de equivalência, congruência linear, equações
+diofantinas, teorema do resto chinês, teoremas de Euler, Fermat e Wilson.
+ Números primos: fatoração, teorema fundamental da artimética, crivo de
+Eratóstenes, testes de primalidade, pseudoprimos, raízes primitivas.
+ Funções aritméticas: função de Euler, função de Möbius, função maior inteiro.
+ Aplicação: criptografia RSA - Teoria e Algoritmos Computacionais.
+ Sociedade Contemporânea: Sigilo e proteção de Dados
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios. Seminários e trabalhos envolvendo a
+interdisciplinaridade do tema.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Laboratório de Informática. Acesso ao
+MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela PróReitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+1.
+COUTINHO, S. C. Números inteiros e criptografia RSA. 2ª ed. Rio de Janeiro:
+SBM-IMPA, 2005.
+2.
+MARTINEZ, F. B.; MOREIRA, C. G.; SALDANHA, N.; TENGAN, E. Teoria dos
+números, um passeio com primos e outros números familiares pelo mundo inteiro. 2ª
+ed. Rio de Janeiro: IMPA, 2011.
+3.
+SANTOS, J. P. O. Introdução à teoria dos números. 2ª ed. Rio de Janeiro: SBMIMPA, 2009.
+Complementar:
+1.
+DAVENPORT, H. The higher arithmetic: an introduction to the theory of
+numbers. 8ª ed. Cambridge: Cambridge Univeristy Press, 2008.
+2.
+FERREIRA, J. A construção dos números. 2ª ed. Rio de Janeiro: SBM-IMPA, 2011.
+3.
+HARDY, G. H.; WRIGHT, E. M. An introduction to the theory of numbers. 6ª ed.
+Oxford: Oxford University Press, 2008.
+4.
+HEFEZ, A. Elementos da aritmética. 2ª ed. Rio de Janeiro: SBM-IMPA, 2006.
+5.
+LEVEQUE, W. J. Fundamentals of number theory. Mineola: Dover Publications,
+1996.
+Observação: Outras referências complementares deverão ser selecionadas, indicadas
+e utilizadas pelo professor de forma a abranger a interdisciplinaridade do tema da
+maneira particular que o assunto for abordado pelo docente.
+
+

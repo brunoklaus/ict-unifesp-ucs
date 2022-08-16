@@ -1,0 +1,65 @@
+Nome do Componente Curricular: Introdução à Teoria dos Sistemas Dinâmicos
+Pré-requisitos: Análise Real I
+Carga Horária Total: 72h
+Carga Horária Prática: 0 h
+Carga Horária Teórica: 72 h
+Objetivos
+Gerais:
+Apresentar e formalizar conceitos básicos da teoria de sistema dinâmicos e caos.
+Específicos:
+Ao final da unidade curricular o aluno deverá ser capaz de identificar um sistema dinâmico, bem como
+saber determinar se ele apresenta pontos periódicos, recorrentes, órbitas transitivas e caracterizações
+de caoticidade.
+Ementa:
+Sistemas dinâmicos discretos. Órbitas. Recorrência, transitividade e caos. Rotações no círculo,
+aplicação tenda e outros exemplos. Noções de ergodicidade.
+Conteúdo Programático:
+•
+•
+•
+
+Sistemas dinâmicos discretos: definição, órbitas, pontos fixos e periódicos.
+Órbitas não-periódicas, conjuntos limites, órbitas densas, recorrência. Conjugação topológica.
+Sistemas com comportamento assintóticamente estável – atratores; aplicações lineares e
+equações diferenciais lineares.
+• Exemplos: rotações no círculo, fluxo linear no toro, outros exemplos.
+• Número de rotação, difeomorfismos do círculo. Teorema de Denjoy.
+• Linearização: teorema de Hartman e Grobman,
+• Aplicação shift, dinâmica simbólica.
+• Sistemas caóticos: transitividade topológica, caos, entropia, sistemas (topologicamente) mixing
+e ergódicos.
+• Elementos de teoria ergódica. Teorema de recorrência de Poincaré. Teorema ergódico de
+Birkhoff.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. DE MELO, W.; PALIS J. Introdução aos Sistemas Dinâmicos. Rio de Janeiro: IMPA, 1977.
+2. OLIVEIRA, K. ; VIANA, M. Fundamentos da teoria ergódica. Rio de Janeiro: SBM, 2014.
+3. BOYCE, W.E.; DiPRIMA, R.C. Equações Diferenciais Elementares e Problemas de Valores de
+Contorno, LTC, 2002.
+
+Complementar:
+1.
+2.
+3.
+4.
+
+BRIN, M.; STUCK, G.; Introduction to Dynamical Systems, Cambridge, 2002.
+DEVANEY, R.L. A First Course in Chaotic Dynamical Systems, Addison Wesley, 1992.
+DEVANEY, R.L. An Introduction to Chaotic Dynamical Systems, Westview Press (2003).
+HIRSCH, M.W.; SMALE, S.; DEVANEY, R.L. Differential equations, dynamical systems and an
+introduction to chaos. London: Elsevier, 2003.
+5. KATOK, A.; HASSELBLATT, B. Introduction to the Modern Theory of Dynamical Systems.
+Cambridge: Cambridge University Press, 1996.
+
+

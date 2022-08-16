@@ -1,0 +1,80 @@
+Nome do Componente Curricular: Fenômenos Mecânicos Experimental
+Pré-requisitos: Não há
+Carga Horária Total: 36h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Demonstrar experimentalmente os resultados teóricos, bem como estimular o aluno a planejar e
+organizar experiências onde as leis fundamentais da mecânica sejam verificadas. Desenvolver no
+aluno espírito crítico ao realizar um experimento científico, estimar as incertezas associadas às
+grandezas analisadas empregando a teoria e a terminologia normatizada para esta finalidade além de
+elaborar relatórios no padrão científico com as informações e discussões adequadas.
+Específicos:
+O aluno será capaz de:
+- Desenvolver atividades em laboratório com segurança.
+- Operar instrumentos de medidas de comprimento, tempo e temperatura.
+- Organizar dados experimentais, determinar e processar erros, construir e analisar gráficos para que
+possa fazer uma avaliação crítica de seus resultados.
+- Verificar experimentalmente leis da Física e fazer uma apresentação lógica e quantificada da
+mecânica, com ênfase na dinâmica e nas consequentes leis de conservação compreendendo seus
+significados teóricos e reconhecendo seus fundamentos experimentais.
+- Entender os conceitos fundamentais da mecânica e sua utilidade nos diversos ramos da ciência
+básica como química, engenharia e biologia. Desenvolver habilidades para manipular a matemática
+requerida para expressar os conceitos envolvidos.
+Ementa:
+Medidas e unidades, propagação de incertezas e erros, leis do movimento, aplicações das leis de
+Newton, trabalho e energia, momento, sistemas de partículas.
+Conteúdo Programático:
+1.
+Metodologia e erros
+2.
+Leis de Movimento
+3.
+Aplicações das leis de Newton
+4.
+Trabalho e energia
+5.
+Movimento gravitacional e Leis de Kepler
+6.
+Momento
+7.
+Sistemas de partículas
+Metodologia de Ensino Utilizada:
+Dividir os alunos em equipes de preferencialmente quatro membros, apresentar uma introdução
+teórica do assunto e acompanhar o andamento da experiência, tirando dúvidas e sugerindo
+procedimentos. Os alunos deverão: Realizarão a experiência coletando os dados dos parâmetros
+físicos envolvidos. Tratar os dados, obtendo os resultados das grandezas físicas procuradas. Apresentar
+um pré-relatório simplificado, por grupo, para cada experiência, ao final da mesma. Elaborar em grupo
+um relatório completo.
+Recursos Instrucionais Necessários:
+Sala, quadro branco ou negro, projetor multimídia, equipamentos constantes do laboratório, como:
+paquímetro/ micrômetro/ trena/ cronômetro/ milivoltímetro/ peças de metais (cilindros, discos,
+esferas, paralelepípedos) / termômetro/ balança/ suportes diversos.
+
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Tipler, P.A. Física para cientistas e Engenheiros, v.1, 6ª. ed., Livros Técnicos e Científicos Editora,
+2009.
+2. Nussenzveig, M., Curso de Física Básica: v1, 4ª. ed., Editora Edgard Blücher, 2002.
+3. Halliday, D., Resnick. R. e Walker, J., Fundamentos de Física, v.1, 8a. ed., Livros Técnicos Editora,
+2008.
+Complementar:
+1. Alonso, M. e Finn, E., Física Um Curso Universitário, v.1, Editora Edgard Blücher, 1972.
+2. Feynman, R.P.; Leighton, Robert B.; Sands, Matthew. Lições de física de Feynman.
+Tradutor:Elcio Abdalla, revisão técnica:Adalberto Fazzio. Porto Alegre, RS: Bookman, 2008. v.1.
+tradução de "The Feynman lectures on physics:the definitive and extended edition" 2.ed.
+3. Serway, R.A. e John W. e Jewett Jr., J.W., Fundamentos de Física, v.1, 8a. ed., Livros Técnicos
+Editora, 2004.
+4. PRESTON, D. W. Experiments in physics: laboratory manual for scientists and engineers.
+Chichester (GBR): John Wiley & Sons, 1985.
+5. FREEDMAN, R.A.; YOUNG, H.D. Física I: mecânica. v. 1, 12.ed. São Paulo: Pearson, 2008.
+
+

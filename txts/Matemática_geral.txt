@@ -1,0 +1,45 @@
+Nome do Componente Curricular: Matemática Geral
+Pré-requisitos: Cálculo em uma Variável
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introdução conceitual à matemática superior.
+Específicos:
+Conhecimento de conceitos fundamentais sobre vetores, matrizes e suas operações. Introdução ao
+cálculo de várias variáveis. Conceitos básicos de números complexos. Fundamentos de séries e
+equações diferenciais ordinárias.
+Ementa:
+Vetores, matrizes, determinantes e sistemas lineares. Derivada de funções de várias variáveis.
+Números complexos, séries e equações diferenciais.
+Conteúdo Programático:
+1. Vetores. 2. Matrizes. 3. Determinantes e sistemas lineares. 4. Derivada de funções de várias
+variáveis. 5. Números complexos 6. Séries. 7. Equações diferenciais.
+Metodologia de Ensino Utilizada:
+Cátedras.
+Recursos Instrucionais Necessários:
+Sala de aula; data-show.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. WELTNER, K. et al. Mathematics for physicists and engineers: fundamentals and interactive
+study guide. Berlin: Springer, 2009.
+2. LEITHOLD, L. O cálculo com geometria analítica. v. 1. 3ª ed. SãoPaulo:Harbra, 1990.
+3. SIMMONS, G. F. Cálculo com geometria analítica. v. 1. 1ª ed. SãoPaulo:Pearson, 2008.
+Complementar:
+1. Boulos, P. ; Abud, Z. I. Cálculo Diferencial e Integral. São Paulo :Pearson, 2006. vol. 2 .
+2. Flemming, D. M. ; Gonçalves, M. B. Cálculo B: Funções de Várias Variáveis, Integrais
+Múltiplas, Integrais Curvilíneas e de Superfície. 2ª Ed. São Paulo, Pearson, 2007.
+3. Simmons, G. F. Cálculo com Geometria Analítica. 1ªed. São Paulo:Makron Books, vol. 2.
+4. Lima, E., L., Geometria Analítica e Álgebra Linear, Coleção Matemática Universitária, IMPA, 2a.
+Edição, 201.
+5. ZILL, D. G.; CULLEN M. R. Equações diferenciais. 3ªed. São Paulo: Makron, 2001. v. 1.
+
+

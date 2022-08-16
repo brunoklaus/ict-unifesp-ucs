@@ -1,0 +1,89 @@
+Nome do Componente Curricular:Manufatura Aditiva
+Período:9 º termo
+Pré-requisitos: Processamento de Materiais Cerâmicos
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+
+Carga Horária Teórica: 72h
+
+Objetivos
+Gerais:
+Apresentar os conceitos básicos relacionados com os processos de manufatura aditiva.
+Específicos:
+O aluno será capaz de:
+- Entender as etapas do processo produtivo da manufatura aditiva
+- Escolher o melhor processo para cada tipo de produto
+Ementa: Princípios básicos da manufatura aditiva; manufatura aditiva como processo de
+fabricação; manufatura aditiva e desenvolvimento de produto; processos baseados em
+líquido; processos baseados em sólido; processos baseados em pó; exemplos e aplicações;
+realidade, desafios e perspectivas
+
+Conteúdo Programático:
+A – Princípios básicos da manufatura aditiva:
+1.
+2.
+3.
+4.
+
+Fundamentos básicos
+Histórico e evolução
+Classificação dos processos de manufatura aditiva
+Normas e termos
+
+B – Manufatura aditiva como processo de fabricação
+1.
+2.
+3.
+4.
+5.
+
+Processo produtivo genérico
+Etapas da elaboração do produto
+Etapas de elaboração do modelo tridimensional
+Etapas do planejamento do processo
+Pós-processamento e acabamento
+
+C – Tipos de processos
+1.
+2.
+3.
+4.
+
+Processos baseados em líquido
+Processos baseados em sólido
+Processos baseados em pó
+Novos processos
+
+D – Aplicações e exemplos
+
+E – Realidade, desafios e perspectivas
+
+Metodologia de Ensino Utilizada:
+Aulas expositivas, trabalhos em grupo, discussão de artigos científicos
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no
+início das atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos
+alunos. O sistema adotado deve contemplar o processo de ensino e aprendizagem
+estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o progresso do aluno ao
+longo do semestre. A promoção do aluno na unidade curricular obedecerá aos critérios
+estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no Projeto Pedagógico do
+Curso.
+Bibliografia
+Básica:
+1 – N. Volpato, Prototipagem Rápida: Tecnologias e Aplicações, Ed. Blücher, 1ed, 2007
+2 – I. Gibson, D. Rosen, B. Strucker, Additive Manufacturing Technologies: 3D Printing, Rapid
+Prototyping and Direct Digital Manufacturing, Springer, 2ed, 2015
+3 – C. K. Chua, K. F. Leong, C. S. Lim; Rapid Prototyping: Principles and Applications, World
+Scientific, 3ed, 2010
+Complementar:
+1 – Additive Manufacturing, Elsevier, ISSN 2214-8604
+2 – Progress in Additive Manufacturing, Springer, ISSN 2363-9520
+3 – The International Journal of Advanced Manufacturing Technology, Springer, ISSN 14333015
+4 – Richerson, D. W. Modern Ceramic Engineering: Properties, Processing, and Use in Design.
+3rd ed. New York: Boca Raton: CRC Press, 2006.
+5 - Norton, M. G.; Carter, C. B. Ceramic Materials: Science and Engineering. Editora Springer.
+2007.
+
+

@@ -1,0 +1,80 @@
+Nome do Componente Curricular: Materiais Compósitos
+Pré-requisitos: Ciência e Tecnologia de Materiais
+Carga Horária Total: 72h
+Carga Horária Prática: 8h
+Carga Horária Teórica: 64h
+Objetivos
+Gerais:
+Apresentar ao aluno um panorama geral de tipos, comportamentos, processamentos e aplicações de
+materiais compósitos.
+Específicos:
+O aluno deve ser capaz de compreender e analisar comportamentos e aplicações de materiais
+compósitos.
+Ementa:
+Introdução aos materiais compósitos: definições e conceitos básicos. Tipos de matrizes: poliméricas,
+metálicas, cerâmicas e carbonosas. Reforços: particulados, "whiskers" e fibras sintéticas orgânicas,
+inorgânicas e naturais. Adesão e interface reforço/matriz. Processos de fabricação de compósitos
+poliméricos, metálicos e cerâmicos, propriedades e aplicações. Compósitos estruturais.
+Conteúdo Programático:
+1. INTRODUÇÃO:
+1.1. Definições e classificação;
+1.2. Histórico;
+1.3. Matériais primas-básicas;
+1.4. Aplicações Tecnológicas;
+2. MATRIZES PARA COMPÓSITOS:
+2.1.Matrizes poliméricas e gelcoat;
+2.2. Matrizes cerâmicas e carbonosas;
+2.3 Matrizes metálicas;
+3. REFORÇOS PARA COMPÓSITOS:
+3.1. Fibras de vidro
+3.2. Fibras de carbono
+3.3. Fibras poliméricas
+3.4. Fibras cerâmicas;
+3.5. Reforços particulados;
+3.6. Fibras naturais;
+3.7. Influência do comprimento, da orientação e concentração das fibras;
+3.8. Compósitos híbridos;
+4. ADESÃO E INTERFACE REFORÇO/MATRIZ:
+4.1. Teorias de adesão;
+4.2. Ângulo de contato;
+4.3. Energia superficial e ângulo de contato de fibras;
+4.4. Resistência à adesão interfacial;
+5. PROCESSOS DE FABRICAÇÃO DE COMPÓSITOS:
+5.1. Processamento de compósitos poliméricos;
+5.2. Processamento de compósitos cerâmicos;
+5.3. Processamento de compósitos metálicos;
+5.4. Testes práticos em laboratório
+
+5.5. Moldes
+5.6. Compósitos estruturais;
+5.7. Compósitos laminados;
+5.8. Painéis-sanduiche.
+Metodologia de Ensino Utilizada:
+Aulas expositivas, experimentais e atividades não presenciais na sala de aula tais como listas de
+exercícios e visitas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, laboratório químico, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Callister, W. D. Jr. Ciência e Engenharia de Materiais - Uma Introdução, 7 ed., LTC, 2008, 705p.
+2. Shackelford J. F., Ciência dos Materiais, 6 ed. São Paulo: Pearson, 2008. 556 p.
+3. Askeland D. R., Phulé P. P. Ciência e Engenharia dos Materiais, São Paulo: Cengage Learning,
+2008, 594p.
+Complementar:
+1. Gersten, J.L., Smith, F.W. The physics and chemistry of materials. Hoboken (USA): John Wiley &
+Sons, 2001. 826 p.
+2. Levy Neto, F., Pardini, L.C. Compósitos estruturais: Ciência e Tecnologia. São Paulo: Blucher,
+2006. 313.
+3. Mallick, P.K. (ed.). Composites engineering handbook. New York: Marcel Dekker, 1997. 1249 p.
+4. Gay, D., Suong V. Composite materials design and applications. 2.ed. Boca Raton: CRC, 2003.
+548 p.
+5. BANSAL, Narottam P. Handbook of ceramic composites. [s.l.]: [s.n.], c2005. 554 p.
+
+

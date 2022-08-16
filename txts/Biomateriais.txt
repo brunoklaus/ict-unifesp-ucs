@@ -1,0 +1,84 @@
+Nome do Componente Curricular: Biomateriais
+Pré-requisitos: Química Geral
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Apresentar os conceitos básicos relacionados aos biomateriais. Apresentar os
+requisitos para a aplicação clínica de um material. Introduzir os conceitos de
+biocompatibilidade e bioatividade: interação entre biomateriais e tecido. Biomimética.
+Apresentar os principais biomateriais cerâmicos, poliméricos, metálicos e compósitos.
+Panorama do contexto atual de mercado e pesquisa.
+Específicos:
+O aluno será capaz de:
+- Entender os requisitos para a aplicação clínica de um material
+- Entender as propriedades que levam ao sucesso o ao fracasso de um biomaterial
+- Analisar de maneira critica alguns casos
+Ementa:
+Definições de biomateriais. Biocompatibilidade. Bioatividade. Reabsorção.
+Osteointegração e osteocondução. Principais biomateriais cerâmicos, poliméricos,
+metálicos e compósitos. Contexto atual de pesquisa e mercado.
+Conteúdo Programático:
+A - Biomateriais
+1.
+Definição de biomateriais
+2.
+Classificação
+3.
+Interação biomaterial - tecido
+4.
+Requisitos de um biomaterial: biocompatibilidade, bioatividade,
+osteointegração, osteocondução e reabsorção “in vivo”
+5.
+Principais propriedades dos biomateriais
+B – Principais Biomateriais e suas Aplicações
+1.
+Cerâmicos
+2.
+Metálicos
+3.
+Poliméricos
+4.
+Compósitos
+C – Contexto Atual
+1.
+Pesquisa
+2.
+Mercado
+D – Estudos de Casos
+Metodologia de Ensino Utilizada:
+Aulas expositivas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. R.L. ORÉFICE, M. M. PEREIRA, H. S. MANSUR, Biomateriais: Fundamentos e
+Aplicações, Ed. Cultura Médica, Rio de Janeiro, 2005.
+2. B. D. RATNER, A. S. HOFFMAN, F. J. SCHOEN, J. E. LEMONS, Biomaterials
+Science, Second Edition: An Introduction to Materials in Medicine, 2 nd Ed.,
+Elsevier, 2004.
+3. PARK, Joon B; BRONZINO, Joseph D. Biomaterials: principles and applications.
+Boca Raton: CRC, 2002.
+Complementar:
+1. HENCH, Larry L; WILSON, June. An introduction to bioceramics. [s.l.]: [s.n.],
+c1993.
+2. CALLISTER JR., William D. Ciência e engenharia de materiais: uma introdução.
+7.ed. [s.l.]: [s.n.], 2008.
+3. VAN VLACK, Lawrence Hall. Princípios de ciência e tecnologia dos materiais.
+Tradução de: Edson Monteiro. Rio de Janeiro: Campus, c2003. 567 p. ISBN
+9788570014801. Tradução da 4.ed. americana atualizada e ampliada.
+4. Garcia, Amauri; Spim, Jaime A; Santos, Carlos A. Ensaios dos materiais. Rio de
+Janeiro: LTC, 2008.
+5. FAHLMAN, Bradley D. Materials chemistry. Netherlands: Springer, c2008.
+
+

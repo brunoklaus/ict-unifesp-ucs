@@ -1,0 +1,64 @@
+Nome do Componente Curricular: Econometria
+Pré-requisitos: Probabilidade e Estatística; Cálculo em Várias Variáveis
+Carga Horária Total: 72h
+Carga Horária Prática: 22h
+Carga Horária Teórica: 50h
+Objetivos
+Gerais:
+O objetivo desse curso é oferecer aos alunos de graduação uma abordagem teórica e prática dos
+principais métodos econométricos modernos, a fim de inicializá-los para a realização de pesquisas de
+natureza econômica. Conhecimentos básicos de Matemática (especialmente cálculo diferencial e
+álgebra matricial) e Estatística (especialmente teoria probabilística) são desejáveis para um
+aproveitamento efetivo do curso. Faremos uso do Software GRETL para a solução dos exercícios e
+atividades em classe.
+Específicos:
+• Introduzir as principais técnicas econométricas para realização de pesquisas.
+• Apresentar como realizar pesquisas econométricas utilizando computação.
+• Demonstrar matematicamente e estatisticamente de maneira simples as principais ideias da
+econometria.
+Ementas:
+1. Modelos Lineares; 2. Teoria da Distribuição Assimptótica; 3. Modelos de Regressão Genérica; 4.
+Problema com Dados; 5. Noções de Séries de Tempo.
+Conteúdo Programático:
+1. Modelos Lineares: regressão múltipla, propriedades estatísticas do estimador de mínimos
+quadrados, inferência estatística (testes de hipóteses, restrições lineares), testes de significância da
+regressão e análise de variância, testes de previsão, testes de mudança estrutural e estabilidade;
+2. Teoria da distribuição assimptótica: estimadores e limites de probabilidade, convergência para
+variável randômica, teoremas do limite central, propriedades de estimadores de máxima
+verossimilhança, viés e ineficiência do estimador de mínimos quadrados (OLS);
+3. Modelos de regressão genérica: erros não esféricos (heterocedasticidade e autocorrelação), GMM
+(Método dos Momentos), testes de restrições: LR (Razão de Verossimilhança), LM (Multiplicador de
+Lagrange) e Wald; modelo SURE (Regressões Aparentemente não Correlacionadas), GLS (Mínimos
+Quadrados Generalizados) FGMLS (Mínimos Quadrados Generalizados Estimados);
+4. Problemas com dados: multicolinearidade, variáveis proxy, método das variáveis instrumentais e
+mínimos quadrados de dois estágios;
+5. Noções de séries temporais.
+Metodologia de Ensino Utilizada:
+Aulas expositivas com atividades em classe e listas de exercícios, atividades no Moodle, exercícios no
+laboratório de Informática.
+Recursos Instrucionais Necessários:
+Multimídia, lousa, laboratório de informática e acesso ao MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Wooldridge, J.M. Introdução à Econometria, 4. Ed. Cengage, 2011.
+2. Brooks, C. Introductory Econometrics for Finance, 2. Ed. Cambridge, 2008.
+3. Gujarati, D. Econometria Básica, 4.ed, Campus, 2006.
+Complementar:
+1. Casella, G.; Berger, R.L. Inferência Estatística, 2. Ed. Cengage, 2011.
+2. Greene, William H. Econometric analysis. 7th ed. Upper Saddle River, N.J: Pearson/Prentice
+Hall, 2012.
+3. Kennedy, P. Manual de Econometria, Campus, 2009.
+4. Angrist, J.D.; Pischke, J. Mostly Harmless Econometrics: An Empiricist's Companion, Princeton
+University Press, 2008.
+5. Ruud, Paul A. An introduction to classical econometric theory. New York: Oxford University
+Press, 2000.
+
+

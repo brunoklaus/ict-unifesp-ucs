@@ -1,0 +1,60 @@
+Nome do Componente Curricular: Séries e Equações Diferenciais Ordinárias
+Pré-requisitos: Cálculo em Uma Variável
+Carga Horária Total: 72h
+Carga Horária Prática: 10h
+Carga Horária Teórica: 62h
+Objetivos
+Gerais:
+Desenvolver no aluno a capacidade de modelar e resolver um problema real de física, biologia,
+economia, utilizando equações diferenciais ordinárias. Familiarizar o aluno com conceitos de
+sequência e séries numéricas. Desenvolver com os alunos modelos matemáticos e computacionais de
+problemas reais.
+Específicos:
+Ao final da unidade curricular o aluno deverá estar apto a analisar e resolver problemas que envolvam
+séries e sequências. Deverá também saber usar equações diferenciais ordinárias na modelagem de
+problemas práticos. O aluno deverá também ser capaz de discutir problemas científicos em termos de
+modelos que envolvam equações diferenciais e suas soluções.
+Ementa:
+Sequências e séries numéricas. Séries de Fourier. Equações diferenciais ordinárias.
+Conteúdo Programático:
+ Sequências numéricas.
+ Séries numéricas
+ Séries de potências.
+ Série de Fourier.
+ Equações diferenciais ordinárias de primeira ordem, equações lineares, teorema da existência e
+unicidade, equações separáveis, exatas, fatores integrantes, outros métodos substitutivos, equações
+homogêneas. Resolução por série de potências.
+ Equações diferenciais ordinárias lineares de ordem superior, princípios de superposição,
+Wronskiano. Equações homogêneas com coeficientes constantes, métodos: coeficientes
+indeterminados, variação dos parâmetros, redução de ordem, equação de Euler.
+ Sistemas e coeficientes constantes. Sistemas não homogêneos.
+ Modelagem e aplicações.
+ (tópico opcional) Transformadas de Laplace, solução de problemas de valor inicial, funções degrau,
+funções impulso. A integral de convolução.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. BOYCE, W. E.; DIPRIMA, R. C. Equações diferenciais elementares e problemas de valores de
+contorno. 8ª ed. Rio de Janeiro:LTC, 2006.
+2. GUIDORIZZI, H. L. Um curso de cálculo. v. 4. 5ª Ed. Rio De Janeiro:LTC, 2007.
+
+3. STEWART, J. Cálculo. v.2. 6ª ed. São Paulo:Cengage Learning, 2009.
+Complementar:
+1. FIGUEIREDO, D. G.; NEVES, A. F. Equações diferenciais aplicadas. 3ª ed. Rio de Janeiro:IMPA,
+2010.
+2. LEITHOLD, L. O cálculo com geometria analítica. v.2. 3ªed. São Paulo:Harbra, 1994.
+3. THOMAS, G. B. Cálculo. v. 2. 12ª ed. São Paulo:Pearson, 2013.
+4. ZILL, D. G.; CULLEN M. R. Equações diferenciais. v. 1. 3ªed. São Paulo:Makron, 2001.
+5. ZILL, D. G.; CULLEN M. R. Equações diferenciais. v. 2. 3ªed. São Paulo:Makron, 2001.
+
+

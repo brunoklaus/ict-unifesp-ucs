@@ -1,0 +1,83 @@
+Nome do Componente Curricular: Laboratório de Sistemas Computacionais: Engenharia de Sistemas
+Pré-requisitos: Laboratório de Sistemas Computacionais: Arquitetura e Organização de Computadores
+Carga Horária Total: 36h
+Carga Horária Prática: 28h
+Carga Horária Teórica: 08h
+Objetivos
+Gerais:
+Esta unidade curricular faz parte das unidades curriculares integradas definidas no Projeto Pedagógico
+do Curso, as quais são utilizadas para que o aluno possa, de fato, desenvolver um sistema
+computacional completo durante o seu processo de aprendizagem, envolvendo a integração entre
+hardware e software. O sistema completo compreende o desenvolvimento da arquitetura do
+processador, a definição de uma linguagem de programação, o projeto de um compilador, a definição
+de um sistema operacional e um processo de comunicação em rede entre dois ou mais sistemas.
+Dentro deste contexto, ao término desta unidade curricular, o aluno deverá ter elaborado a
+especificação do projeto de um sistema computacional completo, tanto do ponto de vista do software
+como do hardware. Sendo assim, o objetivo geral dessa unidade curricular é capacitar o aluno a
+conceber e especificar, em termos sistêmicos, seus projetos de engenharia, tanto no nível de produtos
+como serviços e negócios.
+Específicos:
+ Oferecer ao aluno a fundamentação sobre sistemas e a ciência de sistemas;
+ Capacitar o aluno a realizar projetos de engenharia baseando-se em conceitos de
+gerenciamento de projetos;
+ Capacitar o aluno a conceber, especificar e desenvolver artefatos de engenharia a partir de
+uma visão integrada de sistemas;
+ Oferecer ao aluno uma visão geral dos principais padrões de Engenharia de Sistemas;
+ Capacitar o aluno a aplicar os conceitos de Engenharia de Sistemas no desenvolvimento de
+produtos, processos e serviços;
+ Capacitar o aluno a desenvolver apresentações orais e redação de textos.
+Ementa:
+Introdução e histórico da Engenharia de Sistemas. Fundamentos e tipos de sistemas. Modelos de ciclo
+de vida. Concepção de sistemas. Gerenciamento de sistemas, produtos e serviços. Aplicações da
+Engenharia de Sistemas. Equipes e indivíduos no contexto da Engenharia de sistemas.
+Conteúdo Programático:
+Perspectiva histórica e visão geral da Engenharia de Sistemas. Valor econômico da Engenharia de
+Sistemas. Desafios da Engenharia de Sistemas. Relacionamento da Engenharia de Sistemas com outras
+disciplinas. Corpo de conhecimento da Engenharia de Sistemas (SEBoK – Systems Engineering Body of
+Knowledge): estrutura e escopo. Sistemas: fundamentos e ciência dos sistemas. Utilização de modelos
+para representação de sistemas. Gerenciamento de Engenharia de Sistemas: planejamento, avaliação,
+gerenciamento de riscos, medição, gerenciamento de decisão. Padrões em Engenharia de Sistemas.
+Aplicações: engenharia de sistemas de produtos, engenharia de sistemas de serviços, engenharia de
+sistemas de empresas, sistemas de sistemas. Influência da Engenharia de Sistemas nos negócios,
+empresas, equipes e indivíduos.
+Metodologia de Ensino Utilizada:
+Esta unidade curricular será baseada em análise de estudos de casos e desenvolvimento de projetos.
+Os projetos serão realizados tanto em sala de aula como extra-classe, utilizando-se de ferramentas de
+modelagem e simulação de sistemas. Essa unidade curricular também levará o aluno a elaborar
+
+apresentações orais, construir estruturas de trabalhos técnicos e científicos, na forma de relatórios,
+além da redação de textos.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia, computadores com software de modelagem e simulação de
+sistemas, e sistema de apoio à condução da unidade curricular (Moodle).
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Kossiakoff, A.; Sweet, W. N.; Seymour, S. And Biener, S. M. Systems Engineering Principles and
+Practice. Wiley Series in Systems Engineering and Management, 2011.
+2. Blanchard, B. S. and Fabrychy, W. J. Systems Engineering and Analysis. Prentice Hall
+International series in Industrial & Systems Engineering, 5th Edition, 2010.
+3. Weilkiens, T. Systems Engineering with SysML/UML: Modeling, Analysis, Design. The MK/OMG
+Press, 2008.
+Complementar:
+1. INCOSE. 2012. Systems Engineering Handbook: A Guide for System Life Cycle Processes and
+Activities, version 3.2.2. San Diego, CA, USA: International Council on Systems Engineering
+(INCOSE), INCOSE-TP-2003-002-03.2.2.
+2. Meadows, D. H. Thinking in Systems: A Primer. Chelsea Green Publishing Company. 2008.
+3. Martin, J. N. Systems Engineering Guidebook: A Process for Developing Systems and Products.
+CRC Press, 1996.
+4. Sommerville, I. Engenharia de Software. Editora Pearson, 8a edição. 2007.
+5. Pressman, R. Software Engineering: a practitioner’s approach. McGraw-Hill, 6th edition, 2005.
+6. Como Fazer Apresentações em Eventos Acadêmicos e Empresariais – Linguagem Verbal,
+Comunicação Corporal e Recursos Audivisuais. Maria Helena da Nobrega. Editora Atlas. ISBN:
+8522456380, 2010.
+7. Metodologia de Pesquisa para Ciência da Computação. Raul Sidnei Wazlawick. ISBN:
+9788535235227, 2009.
+
+

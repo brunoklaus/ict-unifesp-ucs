@@ -1,0 +1,84 @@
+Nome do Componente Curricular: Cerâmicas Refratárias
+Pré-requisitos: Materiais Cerâmicos
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Introduzir aos alunos os conceitos básicos dos cerâmicas refratárias e suas aplicações na indústria
+Específicos:
+O aluno será capaz de:
+- Entender as principais propriedades e avaliar o desempenho dos materiais cerâmicos refratários;
+- Vislumbrar as principais aplicações e especificar materiais cerâmicos refratários para aplicações
+específicas.
+Ementa: Definição, caracterização e normatização. Refratários ácidos, básicos e neutros. Refratários
+especiais. Ensaios e análise do desempenho. Refratários estruturais tradicionais e avançados.
+Refratários não formados.
+Conteúdo Programático:
+•
+
+Classificação dos refratários quanto ao aspecto exterior, ao processo de fabricação à
+composição químico mineralógica.
+
+•
+
+Propriedades das cerâmicas refratárias à temperatura ambiente: refratariedade, composição
+química, composição mineralógica, microestrutura, densidade aparente, porosidade,
+resistência à compressão e à flexão, permeabilidade.
+
+•
+
+Processos de fabricação das cerâmicas refratárias: tratamentos das matérias-primas, dosagem,
+conformação, secagem, queima.
+
+•
+
+Propriedades dos refratários nas estruturas térmicas: índice de refratariedade, resistência à
+fluência, estabilidade dimensional, condutividade e difusividade térmica, resistência ao
+choque térmico, resistividade elétrica, resistência à corrosão, resistência termomecânica,
+mecanismos de tenacificação à fratura de cerâmicas refratárias.
+
+•
+
+Refratários de Sílica, refratários Sílico–Aluminosos, refratários Aluminosos (a base de
+Silimanita, de Bauxita, Mulíticos e de Coríndom), refratários de Alumina-Óxido de Cromo,
+Alumina-Óxido de Zircônio, Alumina-Nitreto de Silício, Alumina-Grafite, refratários
+Cordieríticos, refratários Básicos de Magnesita, Magnesita-Grafite, refratários a base de
+Espinélio Magnésia-Alumina, refratários Dolomíticos, refratários de Carbono e Grafite,
+refratários de Carbeto de Silício, refratários a base de Zircônio (Silicato de Zircônio, Zircônia,
+Zircão-Mulita).
+
+•
+
+Requisitos para especificação de cerâmicas refratárias: estudos de caso.
+
+• Refratários não formados: massas de socar, plásticos, concretos, massas de projeção.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. SCHACHT, Charles A. (Ed.). Refractories handbook. Boca Raton (USA): CRC Press, 2004.
+2. CARTER C.B.; NORTON, M.G. Ceramic Materials - Science and Engineering, Springer. 2007.
+3. REED, J. S. Principles of Ceramics Processing. 2nd ed.New York: John Wiley & Sons, 1995.
+Complementar:
+1. HUMMEL, Floyd A. Introduction to phase equilibria in ceramics systems. [s.l.]: [s.n.], 1984. 388
+p. ISBN 978-0-8247-7152-2.
+2. KING, Alan G,. Ceramic technology and processing. [s.l.]: [s.n.], 2002. 512 p. ISBN 978-0-81551443-5.
+3. KINGERY, W. D; BOWEN, H. K; UHLMANN, D. R. Introduction to ceramics. 2.ed. [s.l.]: [s.n.],
+c1976. ISBN 978-0-471-47860-7.
+4. Koller, A. (Editor). Structure and properties of ceramics. Amsterdam: Elsevier, 1994. 587 p.
+(Materials Science Monographs, 80). ISBN 0-444-98719-3.
+5. Loehman, Ronald E. (Ed.). Characterization of ceramics. New York: Momentum, 2010. 295 p.
+ISBN 978-1-60650-194-8.
+
+

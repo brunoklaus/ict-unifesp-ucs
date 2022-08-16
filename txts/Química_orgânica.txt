@@ -1,0 +1,96 @@
+Nome do Componente Curricular: Química Orgânica
+Pré-requisitos: Química Geral
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Fornecer aos alunos conhecimentos básicos sobre as várias técnicas de caracterização de materiais,
+com o propósito de permitir a aplicação na solução de problemas relativos à fabricação e análise de
+falhas de materiais e produtos.
+Específicos:
+O aluno será capaz de:
+Identificar a função a qual pertence um composto orgânico.
+Construir o nome desse composto.
+Entender as reações possivelmente utilizadas para a síntese do composto.
+Entender as reações que podem ser realizadas com o composto.
+Entender a relação entre propriedades físicas e estrutura dos compostos.
+Conhecer as principais aplicações dos compostos orgânicos.
+Ementa:
+Estrutura e propriedades físico-químicas de compostos orgânicos, síntese e reações de alcanos,
+alcenos, alcino, haletos de alquila, álcoois, fenóis, éteres, epóxidos, ácidos orgânicos, esteres, amidas,
+cetonas e aldeídos.
+Conteúdo Programático:
+A - ESTRUTURA QUÍMICA E REATIVIDADE
+1.
+Introdução à química orgânica. Orbitais atômicos. Orbitais moleculares. Metano (hibridização
+sp3). Etano (hibridização sp2). Etino (hibridização sp). Geometria molecular. As ligações e seus
+parâmetros: comprimento, energia e ângulo de ligação. Polaridade. Efeito indutivo. Efeito
+mesomérico.
+B - COMPOSTOS ORGÂNICOS REPRESENTATIVOS
+1.
+Grupos funcionais. Propriedades físicas e estrutura molecular. Introdução as reações
+orgânicas.
+C - ALCANOS E CICLOALCANOS
+1.
+Introdução. Fonte (petróleo). Forma dos alcanos. Nomenclatura. Propriedades físicas.
+Reações. Síntese. Aspectos industriais.
+D – ALCENOS
+1.
+Nomenclatura. Propriedades físicas. Isomeria geométrica. Síntese: reações de eliminação.
+Propriedades químicas: reações de adição.
+E – ALCINOS
+1.
+Introdução. Nomenclatura. Propriedades físicas. Síntese: hidrogenação. NOMENCLATURA.
+F - HALETOS DE ALQUILA
+1. Introdução. Nomenclatura. Propriedades físicas. Síntese. Aplicações.
+G - ALCOOIS E ÉTERES
+1.
+Estrutura. Nomenclatura. Propriedades físicas. Síntese. Reações.
+H – EPÓXIDOS
+1.
+Estrutura e nomenclatura. Propriedades físicas. Síntese. Reações.
+I - COMPOSTOS AROMÁTICOS E FENÓIS
+
+1.
+Introdução e importância dos compostos aromáticos. Benzeno. Reatividade e orientação
+(efeito do substituinte). Reação de substituição aromática (eletrofílica e nucleofílica). Fenol.
+Propriedades físicas. Síntese. Reações do fenol: substituição aromática nucleofílica.
+J - CETONAS E ALDEÍDOS
+1.
+Estrutura. Nomenclatura. Propriedades físicas. Síntese. Reações: adições nucleofílicas ao
+grupo carbonila. Reações aldólicas.
+K - ÁCIDOS CARBOXÍLICOS
+1.
+Estrutura. Nomenclatura. Propriedades físicas. Síntese. Reações.
+L - ÉSTERES E AMIDAS
+1.
+Estrutura. Nomenclatura. Propriedades físicas. Síntese. Reações.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações. Resolução de lista de
+exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Solomons T. W. G., Fryhle C. B. Química Orgânica, v. 1 e 2, LTC, 9ª ed., 2009.
+2. Carey, F. A. Química Orgânica, v 1 e 2, 7ª ed., Bookman, 2011.
+3. Bruice, P. Y. Química Organica, v1 e 2, 4ª ed., Pearson Prentice Hall, 2006.
+Complementar:
+1. Atkins, Peter; Jones, Loretta. Princípios de química: questionando a vida moderna e o meio
+ambiente, 3ª ed., Bookman, 2006.
+2. Brown, Theodores L et al. Química: a ciência central. 9ª ed., Pearson Prentice Hall, 2005.
+3. Kotz, J. C.; Treichel, P. M; Weaver, G. C. Química geral e reações químicas, Cengage Learning,
+2010.
+4. Costa, Paulo R. R. Ácidos e bases em química orgânica. Bookman, 2005.
+5. Vollhardt, K. Peter; Schore, Neil E. Química orgânica: estrutura e função. Tradução de: Ricardo
+Bicca de Alencastro et al. 4ª ed., Bookman, 2004.
+
+

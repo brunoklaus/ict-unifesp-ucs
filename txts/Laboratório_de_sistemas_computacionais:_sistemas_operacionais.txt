@@ -1,0 +1,70 @@
+Nome do Componente Curricular: Laboratório de Sistemas Computacionais: Sistemas Operacionais
+Pré-requisitos: Sistemas Operacionais; Laboratório de Sistemas Computacionais: Compiladores
+Carga Horária Total: 72h
+Carga Horária Prática: 58h
+Carga Horária Teórica: 14h
+Objetivos
+Gerais:
+Esta unidade curricular faz parte das unidades curriculares integradas definidas no Projeto Pedagógico
+do Curso, as quais são utilizadas para que o aluno possa, de fato, desenvolver um sistema
+computacional completo durante o seu processo de aprendizagem, envolvendo a integração entre
+hardware e software. O sistema completo compreende o desenvolvimento da arquitetura do
+processador, a definição de uma linguagem de programação, o projeto de um compilador, a definição
+de um sistema operacional e um processo de comunicação em rede entre dois ou mais sistemas.
+Dentro deste contexto, ao término desta unidade curricular, o aluno deverá ser capaz de apresentar,
+através de estudo de casos, questões relacionadas à programação em Sistemas Operacionais.
+Específicos:
+ Estudar os recursos do sistema operacional oferecidos aos programas de usuário (chamadas
+de sistema);
+ Estudar um sistema operacional real e discutir suas características, visando identificar
+componentes de software e políticas adotadas;
+ Definir e implementar alguns módulos de um sistema operacional simplificado;
+ Capacitar o aluno a desenvolver apresentações orais e redação de textos relativos aos
+conteúdos trabalhados na unidade curricular.
+Ementa:
+Projeto e implementação de alguns módulos de um sistema operacional específico para um sistema
+digital em lógica programável composto por processador, memória e interface de comunicação.
+Conteúdo Programático:
+Gerenciamento de periféricos; Desenvolvimento de algoritmos para gerenciamento de processos;
+Mecanismos de comunicação e sincronização; Escalonamento de processo; Gerenciamento de
+memória.
+Metodologia de Ensino Utilizada:
+Esta unidade curricular será baseada na exposição de conteúdos necessários para a implementação
+de módulos de um sistema operacional simplificado. Os projetos serão realizados tanto em sala de
+aula/laboratório como extraclasse e deverão ser desenvolvidos utilizando computadores e
+ferramentas para a compilação e execução de códigos. Essa unidade curricular também levará o aluno
+a elaborar apresentações orais, construir estruturas de trabalhos técnicos e científicos, na forma de
+relatórios, além da redação de textos.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia, computadores com softwares específicos e sistema de apoio à
+condução da unidade curricular (Moodle).
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. TORTELLO, João Eduardo N; WOODHULL, Albert S; TANENBAUM, Andrew S. Sistemas
+operacionais: projeto e implementação. 3 ed. Porto Alegre: Bookman, 2008. 990 p. ISBN 97885-7780-057-5.
+2. SILBERSCHATZ, Abraham et al. Fundamentos de sistemas operacionais. 8.ed. Rio de Janeiro:
+LTC, 2010. 515 p. ISBN 978-85-216-1747-1.
+3. TANENBAUM, Andrew S. Sistemas operacionais modernos. 2.ed. São Paulo: Pearson, 2006.
+693 p. ISBN 979-85-87918-57-3.
+Complementar:
+1. STALLINGS, William. Operating systems: internal and design principles. 6.ed. Upper Saddle
+River: Pearson, c2009. 822 p. ISBN 978-0-13-600632-9.
+2. TOSCANI, Simão Sirineo; CARISSIMI, Alexandre da Silva; OLIVEIRA, Rômulo S. de. Sistemas
+operacionais. 4.ed. Porto Alegre: Bookman, 2010. 374 p. ISBN 978-85-7780-521-1.
+3. Carissimi, Alexandre da Silva; Oliveira, Rômulo S. de. Sistemas operacionais. 3 ed. São Paulo:
+Bookman, 2008. 259 p. ISBN 978-85-7780-337-8.
+4. Como Fazer Apresentações em Eventos Acadêmicos e Empresariais – Linguagem Verbal,
+Comunicação Corporal e Recursos Audivisuais. Maria Helena da Nobrega. Editora Atlas. ISBN:
+8522456380, 2010.
+5. Metodologia de Pesquisa para Ciência da Computação. Raul Sidnei Wazlawick. ISBN:
+9788535235227, 2009.
+
+

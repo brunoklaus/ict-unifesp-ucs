@@ -1,0 +1,52 @@
+Nome do componente curricular: Modelagem de Dados
+Pré-requisitos: não há
+Carga horária total: 72 hs
+Carga horária p/ prática: 36h
+
+Carga horária p/ teoria: 36h
+
+Objetivos gerais:
+O objetivo desse curso é oferecer aos alunos de graduação uma abordagem teórica e prática
+dos principais métodos para análise quantitativa em negócios. A abordagem segue o uso de
+computadores para ajudar no processo de tomada de decisão utilizando ferramentas e
+métodos científicos.
+Objetivos específicos:
+1. Apresentar as principais técnicas para modelagem computacional de problemas para
+tomada de decisões.
+Ementa: 1. Introdução a Otimização e Programação Linear, 2. Análise de Sensibilidade, 3.
+Modelagem de Rede, 4. Programação Inteira, 5. Análise de Regressão Simples, 6. Análise de
+Regressão Múltipla, 7. Previsão de Séries Temporais, 8. Tópicos Específicos em Análise de
+Dados.
+1. Introdução a Otimização e Programação Linear
+2. Análise de Sensibildade
+3. Modelagem de rede
+4. Programação Inteira
+5.Análise de Regressão Simples
+6.Análise de Regressão Múltipla
+7. Previsão de Séries Temporais
+8. Tópicos Específicos em Analise de Dados.
+Metodologia de ensino utilizada: Aulas expositivas com atividades em classe e listas de
+exercícios, atividades no Moodle, exercícios no laboratório de Informática.
+Recursos instrucionais necessários: Multimídia, moodle, lousa, laboratório de informática.
+
+Critérios de avaliação: Duas provas.
+Bibliografia básica:
+1. RAGSDALE, Cliff T. Spreadsheet modeling & decision analysis: a practical introduction to
+management science. 6.ed. Mason (USA): Cengage Learning, 2012.
+2. MAKRIDAKIS, Spyros; WHEELWRIGHT, Steven C.; HYNDMAN, Rob J. Forecasting: methods
+and applications. 3.ed. Hoboken (USA): John Wiley & Sons, 1998.
+3. WITTEN, Ian H.; FRANK, Eibe; HALL, Mark A. Data mining: Practical machine learning tools
+and techniques. 3.ed. Burlington (USA): Morgan Kaufmann, 2011.
+
+Bibliografia Complementar
+1. FRY, Ben. Visualizando dados. Rio de Janeiro: Alta Books, c2008.
+2. BAYE, Michael R. Economia de empresas e estratégias de negócios. 6.ed. Porto Alegre:
+AMGH, 2010.
+3. FIANI, Ronaldo. Teoria dos jogos: com aplicações em economia, administração e ciências
+sociais. 3.ed. Rio de Janeiro: Elsevier, 2009.
+4. KOLLER, Tim; GOEDHART, Marc; WESSELS, David. Valuation: measuring and managing the
+value of companies. 5 ed. Hoboken, New Jersey: John Wiley & Sons, 2010.
+5. GUJARATI, Damodar N.; PORTER, Dawn C. Econometria básica. 5 ed. Porto Alegre: AMGH
+Editora, 2011
+
+

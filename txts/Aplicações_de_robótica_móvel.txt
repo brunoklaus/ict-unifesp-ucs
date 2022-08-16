@@ -1,0 +1,61 @@
+Nome do Componente Curricular: Aplicações de Robótica Móvel
+Pré-requisitos: Algoritmos e Estruturas de Dados I
+Carga horária total: 72h
+Carga Horária Prática: 52h
+Carga Horária Teórica: 20h
+Objetivos
+Gerais: O objetivo geral da disciplina é habilitar os alunos na programação de robôs, voltados
+para a resolução de problemas de navegação autônoma. Ao término da disciplina, o aluno
+deverá ser capaz de realizar projetos de aplicações robóticas utilizando plataformas e bibliotecas
+de desenvolvimento.
+Específicos:
+ Familiarizar-se com linguagens e bibliotecas de ambientes robóticos;
+ Aprender técnicas de modelagem, análise e desenvolvimento de sistemas
+computacionais relacionados à área de robótica móvel;
+ Projetar, simular e testar aplicações robóticas em ambientes de desenvolvimento.
+Ementa: Sensores e atuadores utilizados em robótica móvel. Linguagens de programação para
+plataformas robóticas. Algoritmos e técnicas de programação para o desenvolvimento de
+aplicações robóticas. Projeto, implementação e testes de programas para robôs móveis.
+Conteúdo Programático:
+Introdução à linguagem de programação NXC. Estudo da arquitetura da plataforma robótica
+Lego NXT Mindstorm. Estudo do ambiente de desenvolvimento de software BricxCC. Estudo
+sobre os sensores e os atuadores do NXT Mindstorm (ótico, ultrassônico, de contato,
+servomotor). Estudo de técnicas e algoritmos para o controle de posição e de trajetórias.
+Desenvolvimento de sistemas computacionais utilizando o ambiente BricxCC.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e listas de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula equipada com quadro branco, computador e projetor. Laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início
+das atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O
+sistema adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste
+Projeto Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A
+promoção do aluno na unidade curricular obedecerá aos critérios estabelecidos pela PróReitoria de Graduação, tal como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Programando Robôs Lego NXT Usando NXC. Daniele Benedettelli. Janeiro/2012. Livro
+eletrônico para download gratuito disponível em: http://nera.sr.ifes.edu.br/wpcontent/uploads/2012/01/Programando-Rob%C3%B4s-Lego-NXT-com-NXC1.pdf
+2. Hansen,
+J.
+NXC
+Programmer’s
+Guide.
+Oct.
+2011.
+Disponível
+em:
+http://bricxcc.sourceforge.net/nbc/nxcdoc/NXC_Guide.pdf
+3. Fundamentos de robótica. Antonio Barrientos. Editora MCGRAW-HILL. ISBN:
+9788448156367, 2007.
+
+Complementar:
+1. Principles of Robot Motion: Theory, Algorithms, and Implementatios. H. Choset, K. M.
+Lynch, S. Hutchinson, G. A. Kantor, W. Burgard, L. E. Kavraki e S. Thrun. Editora MIT Press.
+ISBN: 0262033275, 2005.
+2. Introduction to Autonomous Mobile Robots. R. Siegwart e I. R. Nourbakhsh. Editora MIT
+Press. ISBN: 026219502X, 2004.
+3. Artigos da literatura científica sobre controle de posição e estratégias de determinação
+de trajetórias.
+
+

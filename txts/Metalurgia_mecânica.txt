@@ -1,0 +1,119 @@
+Nome do Componente Curricular: Metalurgia Mecânica
+Pré-requisitos: Ciência e Tecnologia Dos Materiais; Resistência dos Materiais.
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+
+Carga Horária Teórica: 72h
+
+Objetivos
+Gerais:
+Apresentar os princípios básicos de Metalurgia, destacando a correlação entre o
+comportamento mecânico e aspectos microestruturais dos metais para aplicação em
+Engenharia.
+Específicos:
+Conhecer os fundamentos de mecânica e metalurgia. Estabelecer relações entre tensão e
+deformação para o comportamento elástico e plástico. Conhecer o comportamento mecânico
+dos materiais metálicos. Estudar as teorias de defeitos e de deformação. Analisar os ensaios
+de fadiga e fluência. Conhecer os mecanismos de fratura.
+Ementa:
+Fundamentos da mecânica e metalurgia. Relações entre Tensão e Deformação para o Regime
+Elástico. Princípios da Teoria da Plasticidade. Deformação Plástica de Monocristais. Teoria das
+Discordâncias. Fadiga. Fluência. Fratura.
+
+Conteúdo Programático:
+1.Fundamentos da mecânica e metalurgia:
+1.1- Considerações gerais sobre mecânica,
+1.2- Considerações gerais sobre metalurgia,
+1.3- Comportamento elástico e plástico,
+1.4- Comportamento dúctil e frágil,
+1.5- Tipos de tensões,
+1.6- Tipos de deformações.
+2.Relações entre Tensão e Deformação para o Regime Elástico:
+2.1- Aspectos gerais,
+2.2- Relações elásticas tensão-deformação,
+2.3- Teoria da elasticidade,
+2.4- Concentração de tensão.
+3.Princípios da Teoria da Plasticidade:
+
+3.1- Aspectos gerais,
+3.2- Curva de escoamento,
+3.3- Tensão verdadeira e deformação verdadeira,
+3.4- Critério de escoamento para metais dúcteis,
+3.5- Relações plásticas de tensão-deformação,
+3.6- Curva tensão-deformação de Engenharia,
+3.7- Curva tensão-deformação verdadeira.
+4.Deformação Plástica de Monocristais:
+4.1- Aspectos gerais,
+4.2- Conceitos da geometria dos cristais,
+4.3- Defeitos da rede,
+4.4- Deformação por deslizamento,
+4.5- Tensão cisalhante crítica para o deslizamento,
+4.6- Falhas de empilhamento,
+4.7- Encruamento.
+5- Teoria das discordâncias:
+5.1- Aspectos gerais,
+5.2- Vetor de Burgers e anel de discordância,
+5.3- Forças entre discordâncias,
+5.4- Interações de discordâncias,
+5.5- Degraus,
+5.6- Fontes de discordâncias.
+6- Fadiga e Fluência:
+6.1- Aspectos gerais,
+6.2- Ciclos de tensões,
+6.3- A curva S-N,
+6.4- Tipos de fadiga,
+6.5- Estágios de fadiga,
+6.6- Fatores que afetam a fadiga,
+
+6.7- Propagação de trincas por fadiga,
+6.8- Aspectos microestruturais da fadiga,
+6.9- Materiais resistentes à fadiga
+7- Fluência:
+7.1- Aspectos gerais,
+7.2- Tipos de fluência,
+7.3- Curva de fluência,
+7.4- Estágios de fluência,
+7.5- Mecanismos de fluência,
+7.6- Métodos de extrapolação,
+7.7- Materiais resistentes à fluência.
+8- Fratura:
+8.1- Aspectos gerais,
+8.2- Tipos de fratura nos metais,
+8.3- Mecânica da fratura,
+8.4- Aspectos metalográficos da fratura,
+
+8.5- Propagação de trinca.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e exemplos de aplicações. Resolução de listas de
+exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o processo de
+ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. Para isto, as avaliações deverão ser ponderadas de
+maneira crescente ou, ainda, propiciar alternativas de recuperação, como provas substitutivas
+e/ou aplicação de trabalhos adicionais. A promoção do aluno na UC obedecerá aos critérios
+estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do
+curso.
+
+Bibliografia
+Básica:
+1. Dieter, G.E. Metalurgia Mecânica, Ed. Guanabara Dois, 3.ed. 1986.
+2. Dowling, N.E. Mechanical Behavior of Materials. Person Prentice Hall, 3rd edition,
+2007.
+3. Meyers, M.A.; Chawla, K.K. Mechanical behavior of materials, Cambridge University
+Press, 2nd edition, 2009.
+Complementar:
+4. SHACKELFORD J. F. Ciência dos Materiais, 6ª ed., Prentice Hall Brasil, 2008.
+5. CALLISTER Jr. W. D. Ciência e Engenharia de Materiais: Uma Introdução, 7ª ed., LTC –
+Livros Técnicos e Científicos Editora S.A., 2008.
+6. BORESI, Arthur P; SCHIMIDT, Richard J. Advanced mechanics of materials. 6.ed.
+Hoboken: John Wiley & Sons, 2002.
+7. REED-HILL, Robert E; ABBASCHIAN, Lara; ABBASCHIAN, Reza. Physical metallugy
+principles. 4 ed. Boston (USA): Cengage Learning, 2010.
+8. TAYLOR, James L. Dicionário metalúrgico: inglês-português/português-inglês. 2ed.
+São Paulo: Associação Brasileira de Metalurgia, Materiais e Mineração, 2010..
+
+

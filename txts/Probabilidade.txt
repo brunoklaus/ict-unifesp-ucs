@@ -1,0 +1,67 @@
+Nome do componente curricular: Probabilidade
+Pré-requisitos: Probabilidade e Estatística; Cálculo em Várias Variáveis
+Carga horária total: 72 h
+Carga horária prática: 12 h
+
+Carga horária teórica: 60 h
+
+Objetivos gerais:
+Apresentar os conceitos fundamentais da Teoria das Probabilidades bem como o estudo das
+variáveis aleatórias e das principais distribuições discretas e contínuas.
+Objetivos específicos:
+Ao final da unidade curricular o aluno deverá ter condições de entender o conceito de
+probabilidade, que é essencial na modelagem de problemas não determinísticos. Tais problemas
+são descritos através de parâmetros que são as variáveis aleatórias. Algumas dessas variáveis são
+funções com características específicas e essas especificidades são exploradas no estudo das
+principais distribuições de probabilidade.
+Ementa:
+Revisão sobre variáveis aleatórias e funções de densidade de probabilidade unidimensionais.
+Introdução à convergência de Variáveis Aleatórias. Teorema Central do Limite. Variável aleatória
+multidimensional. Distribuição de funções de variáveis aleatórias multidimensionais.
+Conteúdo programático:
+· Probabilidade. Introdução e conceitos básicos.
+· Variável aleatória. Variáveis aleatórias discretas.
+· Probabilidade condicional e independência. Teorema de Bayes.
+· Principais distribuições discretas
+· Variáveis aleatórias contínuas e funções de densidade de probabilidade. Função de distribuição
+acumulada.
+· Principais distribuições contínuas.
+· Transformações de variáveis aleatórias. Desigualdade de Chebyshev. Momentos e função
+geradora de momentos.
+· Variável aleatória multidimensional.
+· Distribuições conjuntas, marginais e condicionais.
+· Vetor de médias, matrizes de covariâncias e correlações, função geratriz de momentos.
+· Distribuição multinomial e distribuição normal multivariada.
+· Distribuição de funções de variáveis aleatórias multidimensionais: transformações.
+· Teorema central do limite.
+Metodologia de ensino utilizada:
+Aulas expositivas, exercícios e aulas em laboratórios de informática.
+Recursos instrucionais necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta EAD.
+Programa estatístico R.
+Critérios de avaliação:
+O sistema de avaliação será definido pelo docente responsável pela Unidade Curricular (UC) e
+divulgados aos alunos no início do período letivo. O sistema adotado deve contemplar o processo
+de ensino e aprendizagem estabelecido nesse Projeto Pedagógico. A promoção do aluno na UC
+obedecerá aos critérios estabelecidos pela Pró-reitoria de Graduação, tal como discutido no
+Projeto Pedagógico do Curso.
+Bibliografia básica:
+
+DANTAS, C. A. B. Probabilidade: um curso introdutório. 3ª ed. São Paulo: EDUSP, 2008.
+MEYER, P. L. Probabilidade: aplicações à estatística. 2ª ed. Rio de Janeiro: LTC, 2009.
+ROSS, S. Probabilidade: um curso moderno com aplicações. 8ª ed. Porto Alegre: Bookman, 2010.
+Bibliografia complementar:
+BUSSAB, W. O.; MORETTIN, P. A. Estatística básica. 6ª ed. São Paulo: Saraiva, 2010.
+DEVORE, J. L. Probabilidade e estatística para engenharia e ciências.
+Thomson, 2006.
+
+1ª ed. São Paulo:
+
+GNEDENKO, B. V. A teoria da probabilidade. 1ª ed. Rio de Janeiro: Ciência Moderna, 2008.
+JAMES, B. R. Probabilidade: um curso em nível intermediário. 3ª ed. Rio de Janeiro: SBM, 2011.
+MAGALHÃES, M. N.; LIMA, A. C. P. Noções de probabilidade e estatística. 7ª ed. São Paulo:
+EDUSP, 2010.
+MONTGOMERY, D. C.; RUNGER, G. C. Estatística aplicada e probabilidade para engenheiros. 2ª
+ed. Rio de Janeiro: LTC, 2008.
+
+

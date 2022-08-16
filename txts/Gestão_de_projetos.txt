@@ -1,0 +1,64 @@
+Nome do Componente Curricular: Gestão De Projetos
+Pré-requisitos: Não há
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+O objetivo desta disciplina é familiarizar o aluno com o ambiente de projeto nas empresas, e suas
+práticas recomendáveis.
+Específicos:
+Apresentar a definição de projeto, a maneira como se estrutura e sua inserção nas organizações.
+Apresentar as melhores práticas de gestão de projetos, baseadas em suas nove principais dimensões.
+Propiciar uma visão do ambiente de projeto nas empresas e seus aspectos humanos.
+Ementa:
+Projetos e gestão, o ambiente de projeto, áreas de conhecimento na gestão de projeto.
+Conteúdo Programático:
+1- Projeto e gestão:
+1.1- Definição de projeto,
+1.2- Portfólio,
+1.3- O ambiente de gestão.
+2- O ambiente de projeto:
+2.1- Estrutura dos projetos,
+2.2- Fases e ciclo de vida dos projetos,
+2.3- Processos envolvidos,
+2.4- A dimensão humana dos projetos.
+3- Áreas de conhecimento na gestão de projetos:
+3.1- Gestão da Integração,
+3.2- Gestão do Escopo,
+3.3- Gestão do Tempo,
+3.4- Gestão do Custo,
+3.5- Gestão da Qualidade,
+3.6- Gestão dos Recursos Humanos,
+3.7- Gestão da comunicação,
+3.8- Gestão do risco,
+3.9- Gestão de suprimentos.
+Metodologia de Ensino Utilizada:
+Aulas expositivas: apresentação de conceitos e discussão de aplicações. De desenvolvimento de
+trabalhos práticos e palestras.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. J. Gido, J. P. Clements. Gestão de Projetos, 3ª Edição (2007). Editora Cengage Learning.
+2. A. C. A. Maximiano. Administração de Projetos, 4ª Edição (2010). Editora Atlas.
+3. L. C. M. Menezes. Gestão de Projetos - 3ª Ed. 2009. Editora Atlas.
+Complementar:
+1. R. Rabechini Jr, M. M. de Carvalho. Fundamentos Em Gestão de Projetos - Construindo
+Competências Para Gerenciar Projetos - 3ª Ed. 2011. Editora Atlas.
+2. D. G. Moura, E. F. Barbosa. Trabalhando com projetos: planejamento e gestão de projetos
+educacionais. 5ª Ed. , 2010. Editora Vozes.
+3. M. S. L. Freitas. Empreendedorismo. Itajubá, MG: Gráfica Fernanda, 2009.
+4. I. Chiavenato. Gestão de pessoas. 3ª Ed., 2010. Editora Elsevier.
+5. A. A. Ferreira, A. C. F Reis, M. I. Pereira. Gestão empresarial: de taylor aos nossos dias. Evolução
+e tendências da moderna administração de empresas. 1ª Ed. 1997. Editora Thomson Pioneira.
+
+

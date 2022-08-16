@@ -1,0 +1,61 @@
+Nome do Componente Curricular: Microbiologia Geral
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72 h
+Objetivos
+Gerais:
+Fornecer informações básicas de bactérias, fungos e vírus, enfocando estrutura e fisiologia, abordando
+suas relações com outros organismos e interferência no meio ambiente. Trabalhar com exercícios de
+modo a desenvolver a formação dos alunos.
+Específicos:
+Incentivar a discussão científica entre os alunos nas diferentes áreas da microbiologia geral e
+específica. Estimular os alunos a fazerem críticas científicas dos trabalhos apresentados nas diferentes
+áreas da microbiologia, e não somente na área de concentração do estudo desenvolvido pelo aluno.
+Desenvolver e aprimorar as técnicas de apresentação de seminários, de forma a fomentar as
+discussões sobre os avanços da microbiologia.
+Ementa:
+Morfologia e estruturas bacterianas. Nutrição e crescimento bacteriano. Metabolismo bacteriano.
+Genética bacteriana. Morfologia e estruturas de Archaeas. Nutrição e crescimento de Archaeas.
+Técnicas moleculares para Identificação de Microrganismos. Biologia dos fungos levuriformes e
+filamentosos. Nutrição e crescimento fúngico. Morfologia e estruturas de protozoários. Nutrição e
+crescimento dos protozoários. Métodos de controle microbiano. Propriedades gerais dos vírus e sua
+replicação. Patogênese bacteriana, fúngica e viral. Origem e Evolução dos vírus. Terapia Gênica. Príons.
+Conteúdo Programático:
+Morfologia e estruturas bacterianas. Nutrição e crescimento bacteriano. Metabolismo bacteriano.
+Genética bacteriana. Técnicas moleculares para Identificação de Microrganismos. Biologia dos fungos
+levuriformes e filamentosos. Nutrição e crescimento fúngico. Métodos de controle microbiano.
+Biologia de Protozoários. Propriedades gerais dos vírus e sua replicação. Origem e Evolução dos vírus.
+Terapia Gênica. Patogênese viral, bacteriana, fúngica e viral. Príons.
+Metodologia de Ensino Utilizada:
+Aulas expositivas com fomento de discussões.
+Recursos Instrucionais Necessários:
+Multimídia para as aulas teóricas.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Madigan, M.T. et al. Microbiologia de Brock. São Paulo: Prentice
+2. Tortora, G.J. et al. Microbiologia. Porto Alegre: ArtMed, 10ª ed., 2010.
+3. SCHAECHTER, M.; INGRAHAM, J.L.; NEIDHARDT, F.C. Micróbio: uma visão geral. Artmed, 2010.
+Complementar:
+
+1.
+2.
+3.
+4.
+5.
+
+TRABULSI, L. R.; ALTERTHUM, F. Microbiologia. 5 ED. São Paulo: Atheneu. 2008.
+ZAITZ, C. Compêndio de Micologia Médica. Rio de Janeiro: Medsi. 1998.
+VERMELHO, A.B.; BASTOS, M.C.F.; SÁ, M.H.B. Bacteriologia geral. Guanabara Koogan, 2008.
+WINN JR., W.; et.al. Koneman diagnostic microbiológico. 6 ed. Guanabara Koogan, 2008.
+BLACK, J.G. Microbiologia. Fundamentos e perspectivas. 4 ed. Rio de Janeiro: Guanabara
+Koogan, 2002.
+
+

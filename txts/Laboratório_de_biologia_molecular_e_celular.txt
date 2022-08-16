@@ -1,0 +1,59 @@
+Nome do Componente Curricular: Laboratório de Biologia Molecular e Celular
+Pré-requisitos: Biologia Molecular da Célula
+Carga Horária Total: 36h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Apresentar aos alunos as bases experimentais para cultura de células eucarióticas, abordagem de
+questões moleculares em células e tecidos. Mostrar aos alunos técnicas para visualização e
+localização de proteínas em células e tecidos usando anticorpos monoclonais e policlonais usando
+princípios físicos e químicos, técnicas de identificação e dosagem de moléculas em solução usando
+anticorpos. Desenvolver competência técnica para resolução de problemas práticos em biotecnolocia
+celular e molecular. A ênfase desse curso é a compreensão de conceitos, discernimento técnico e
+resolução de problemas práticos durante a experimentação.
+Específicos:
+Ao final da unidade curricular o aluno deverá estar apto a executar criticamente procedimentos
+práticos de abordagem celular e molecular.
+Ementa:
+Introdução à Cultura de Células. Transfecção. Western-Blot. Imunoprecipitação. Imunofluorescência.
+ELISA.
+Conteúdo Programático:
+ Cultura de células – diferentes meio de cultura, componentes essenciais de meios de cultura,
+uso de soro, periodicidade de passagem/repique.
+ Transfecção e expressão de genes exógenos em células.
+ Eletroforese de proteínas e western blot
+ Imunoprecipitação e western blot
+ Imunofluorescência em células e tecidos
+ Imuno ensaio de detecção de moléculas em suspenção - ELISA
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades práticas. Atividades extraclasse semanais em forma de lista de
+exercícios e seminários.
+Recursos Instrucionais Necessários:
+Laboratório com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. MANIATIS, T.; FRITSCH, E.F.; SAMBROOK, J. Molecular cloning: a laboratory manual. Cold
+Spring Harbor Laboratory, 1982.
+2. ALBERTS, A.; BRAY, D.; JOHNSON, A.; LEWIS, J.; RAFF, M.; ROBERTS, K.; WALTER, P.
+Fundamentos da Biologia Celular. Editora Artmed 1999.
+
+3. ABBAS, ABUL K.; LICHTMAN, ANDREW H., Imunologia Molecular e Celular. Editora Elsevier
+2012.
+Complementar:
+1. DOUDNA, JENNIFER A.; DOUDNA, JENNIFER A.; M. COX, MICHAEL, Biologia Molecular –
+Princípios e Técnicas. Artmed, 2012.
+2. ABBAS, ABUL K.; LICHTMAN, ANDREW H., Imunologia Básica. Editora Elsevier 2013.
+3. BRAY, DENNIS; HOPKIN, KAREN; ALBERT, BRUCE, Fundamentos da Biologia Celular. Artmed,
+2012.
+4. Lodish, H. e cols. Biologia Celular e Molecular. 5a ed., Ed. Artmed 2005.
+5. KARP, Gerald. Cell and molecular biology: concepts and experiments. 5 ed. 2008.
+
+

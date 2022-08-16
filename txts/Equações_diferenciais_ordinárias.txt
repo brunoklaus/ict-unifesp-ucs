@@ -1,0 +1,64 @@
+Nome do Componente Curricular: Equações Diferenciais Ordinárias
+Pré-requisitos: Álgebra Linear; Séries e Equações Diferenciais Ordinárias
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Formalizar os conceitos de equações diferenciais ordinárias e apresentar uma breve introdução à
+teoria dos sistemas dinâmicos.
+Específicos:
+Apresentar ao aluno a teoria de sistemas lineares usando técnicas de álgebra linear para descrever a
+matriz fundamental associada. Estabilidade assintótica a partir da análise da matriz fundamental.
+Discutir a teoria de sistemas não-homogêneos e a continuidade com relação às condições iniciais.
+Discutir conceitos elementares de sistemas não-lineares, em particular o teorema de existência e
+unicidade de soluções de equações diferenciais.
+Ementa:
+Noções gerais. Sistemas de Equações lineares de primeira ordem. Equações não-lineares. Estabilidade.
+Transformada de Laplace. Modelagem e aplicações.
+Conteúdo Programático:
+ Noções gerais: conceito de Equações Diferenciais Ordinárias (EDO). Problema de Cauchy.
+Soluções. Teorema de existência e unicidade, intervalo de definição.
+ Continuidade e diferenciabilidade das soluções. Campo e vetoriais. Discussão desta Teoria
+Fundamental no caso concreto de EDO de primeira e segunda ordem. Aplicações.
+ Sistemas de equações lineares: propriedades gerais. Equações Lineares com coeficientes
+constantes. Exponencial de uma matriz. Solução geral. Caracterização dos sistemas
+bidimensionais homogêneos. Equações Lineares com coeficientes variáveis. Propriedade da
+solução. Matriz fundamental.
+ Equações não-lineares: equações diferencias autônomas. Teorema de existência e unicidade.
+Solução de equilíbrio. Soluções periódicas. Retrato de fase. Sistemas conservativos. Integrais
+primeiras. Problema de força central. Estabilidade de sistemas lineares perturbados. Campos
+vetoriais e fluxos.
+ Transformada de Laplace: resolução de problemas de valor inicial.
+ Aplicações.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+
+1. BOYCE, W. E.; DIPRIMA, R. C. Equações diferenciais elementares e problemas de valores de
+contorno. 8ª ed. Rio de Janeiro: LTC, 2006.
+2. DOERING, C. I.; LOPES, A. O. Equações diferenciais ordinárias. 4ª ed. Rio de Janeiro: IMPA,
+2008.
+3. FIGUEIREDO, D. G.; NEVES, A. F. Equações diferenciais aplicadas. 3ª ed. Rio de Janeiro: IMPA,
+2010.
+Complementar:
+1. BAUER, F.; NOHEL, J. A. The qualitative theory of ordinary differential equations: an
+introduction. New York: Dover Publications, 1989.
+2. HIRSCH, M. W.; SAMALE, S.; DEVANEY, R. L. Differential equations, dynamical systems and an
+introduction to chaos. London: Elsevier, 2003.
+3. NAGLE, R. K.; SAFF, E. B.; SNIDER, D. A. Equações diferenciais. 8ª ed. São Paulo: Person, 2012.
+4. SIMMONS, G. F.; KRANTZ, S. G.; CASTRO, H. M. A. Equações diferenciais: teoria, técnica e
+prática. São Paulo: Mc-Graw Hill, 2008.
+5. ZILL, D. G. Equações diferenciais com aplicações em modelagem. São Paulo: Thomson, 2003.
+
+

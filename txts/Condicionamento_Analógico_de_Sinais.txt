@@ -1,0 +1,68 @@
+Nome do Componente Curricular: Condicionamento Analógico de Sinais
+Pré-requisitos: Eletrônica e Laboratório de Circuitos Elétricos
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+ Fornecer conceitos avançados eletrônica analógica em um contexto prático
+implementando projetos envolvendo os principais elementos eletrônicos, como
+eles se relacionam e podem ser utilizados no condicionamento analógico de
+sinais biomédicos.
+ Propiciar ao discente o aprofundamento dos conceitos teóricos de dispositivos
+eletrônicos modernos e suas combinações, permitindo ao discente compreender
+e projetar circuito de condicionamento de sinais complexos com aplicabilidade
+na engenharia biomédica.
+Específicos:
+1. Abordar conceitos práticos de componentes eletrônicos modernos e suas aplicações
+típicas;
+2. Projetar circuitos analógicos de condicionamento de sinais biomédicos.
+Ementa:
+Projetos envolvendo: Circuitos lineares; Filtros; Circuitos Operacionais de Potência e
+Controle; Circuitos não lineares; Geradores de Sinais; Referências de Tensão e
+Reguladores; Amplificadores não lineares.
+Conteúdo Programático:
+ Aplicações de Amplificadores Operacionais.
+ Circuitos lineares/não lineares
+o Comparadores de tensão
+o Retificadores de precisão
+o Chaves analógicas
+o Circuitos sample-and-hold
+ Filtros.
+ Projetos para geração de sinais e temporizadores
+ Referências de tensão e reguladores
+ Projetos com amplificadores não lineares
+Metodologia de Ensino Utilizada:
+Aulas expositivas (lousa e projeção), práticas de laboratório.
+Recursos Instrucionais Necessários:
+Giz, lousa, apagador, projetor multimídia e Laboratório de Eletrônica.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas e divulgado aos discentes. O sistema adotado deve
+contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+
+Pedagógico, com o objetivo de favorecer o progresso do discente ao longo do semestre.
+Para isto, as avaliações deverão ser ponderadas de maneira crescente ou, ainda,
+propiciar alternativas de recuperação, como provas substitutivas ou aplicação de
+trabalhos adicionais. A promoção do discente na unidade curricular obedecerá aos
+critérios estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no Projeto
+Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Sedra, A. S.; Smith, K. Microeletrônica. 5 ed. São Paulo: Pearson, 2007. 848 p.
+2. Boylestad, R. L. Dispositivos eletrônicos: teoria e circuitos. 11 ed. São Paulo:
+Pearson, 2013. 766 p.
+3. Malvino, A.; Bates, D. J. Eletrônica: diodos, transistores e amplificadores. 7 ed.
+Porto Alegre: McGraw-Hill, 2011. 429 p.
+Complementar:
+1. Franco, S. Design with Operational Amplifiers and Analog Integrated Circuits,
+4 ed., McGraw-Hill Education, 2014;
+2. Abdo, R.; Bates, D. J.; Malvino, A. Eletrônica : volume 1. São Paulo: McGrawHill, 2007. 672p.
+3. Bates, D. J.; Malvino, A. Eletrônica : volume 2. São Paulo: McGraw-Hill, 2007.
+556 p.
+4. WAKERLY, John F. Digital design: principles and practices. 4.ed. Upper Saddle
+River (USA): Pearson, c2006. 895 p.
+5. TOCCI, Ronald J; WIDMER, Neal S; MOSS, Gregory L. Sistemas digitais:
+princípios e aplicações. 11.ed. Säo Paulo: Pearson, 2011. 817 p.
+
+

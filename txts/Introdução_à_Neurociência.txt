@@ -1,0 +1,68 @@
+Nome do Componente Curricular: Introdução à Neurociência
+Pré-requisitos: Séries e Equações Diferenciais e Ordinárias; Algoritmos em Bioinformática; Fisiologia
+Humana I
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Introduzir os alunos aos princípios básicos da modelagem em neurociência a partir de uma perspectiva
+interdisciplinar, abrangendo aspectos teóricos e computacionais.
+Específicos:
+O aluno deverá ser capaz de implementar modelos simples de neurônios e de redes de neurônios e
+discutir as bases teóricas das principais funções cerebrais.
+Ementa:
+O Sistema Nervoso Central; Bases das principais técnicas de Neuroimagem e Eletrofisiologia; Introdução à
+modelagem de sistemas biológicos; Modelos de Neurônio; Modelos de Rede de Spikes e de População de
+Neurônios; Plasticidade; Memória; Percepção e Comportamento; Cognição e Consciência.
+Conteúdo Programático:
+•
+O Sistema Nervoso Central: organização; estrutura em larga escala; princípios de anatomia do
+cérebro; o tecido nervoso; organização morfológica e histológica do córtex; neurônios e potencial de
+ação.
+•
+Bases das principais técnicas de Neuroimagem e Eletrofisiologia: registros intracelulares,
+field Potentials, MUA e LFP, Eletrencefalografia (ECoG e EEG), Magnetoencefalografia, fMRI e PET.
+•
+Modelos simplificados de Neurônios: o modelo de Hodgkin-Huxley; Modelos de
+Condutância; Modelos fenomenológicos.
+•
+Modelos simplificados de Rede e de População de neurônios: modelando input sináptico;
+modelando a variabilidade neural; taxa de disparo e atividades de população.
+•
+Princípios da plasticidade cerebral, modelos simples de LTP e LTD, aprendizado de Hebbian
+e distribuição de pesos sinápticos.
+•
+Princípios da memória: redes associativas e memória episódica.
+•
+O cérebro Cognitivo; Princípios da Percepção e a organização dos sistemas sensoriais;
+Princípios do Movimento e a organização do córtex motor; Introdução a teorias da cognição e da
+consciência.
+Metodologia de Ensino Utilizada:
+Aulas práticas no laboratório de Informática, exercícios e trabalhos.
+Recursos Instrucionais Necessários:
+Lousa, projetor, acesso ao laboratório de informática, acesso ao Matlab.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica
+1. Wallisch, P., Lusignan, M. E., Benayoun, M. D., Baker, T. I., Dickey, A. S., Hatsopoulos, N. G.,
+“MATLAB for neuroscientists: an introduction to scientific computing in MATLAB” 1a Ed.,
+Academic Press, 2009.
+2. Kandel, E. R; Schwartz, J. H., Jessell, T. M., “Principles of neural science”, 4 ed , McGrawHill, 2000.
+3. Trappenberg, T. “Fundamentals of Computational Neuroscience”, Oxford Press,
+
+Complementar:
+1. Koch, C., “Biophysics of Computation: Information Processing in Single Neurons”. Oxford. 1a
+ed., 2004.
+2. Lytton, W., “From Computer to Brain”, Springer, 1a edição, 2002.
+3. Dayan, P. e Abbot, L., “Theoretical Neuroscience: Computational and Mathematical Modeling
+of Neural Systems”, ed revisada, MIT press, 2005.
+
+

@@ -1,0 +1,55 @@
+Nome do Componente Curricular: Funções Analíticas
+Pré-requisitos: Cálculo em Várias Variáveis; Séries e Equações Diferenciais Ordinárias
+Carga Horária Total: 72h
+Carga Horária Prática: 10h
+Carga Horária Teórica: 62h
+Objetivos
+Gerais:
+Apresentar aos alunos os fundamentos do Cálculo de Funções em uma variável complexa..
+Específicos:
+Ao final da unidade curricular o aluno deverá estar apto a analisar e resolver problemas que
+envolvam analiticidade de funções de uma variável complexa, bem como resolver integrais reais a
+partir de integrais complexas.
+Ementa:
+Números complexos. Funções complexas. Derivação complexa. Séries de potências. Integração
+complexa. Aplicações.
+Conteúdo Programático:
+• Números complexos: definição, propriedades, operações, exemplos. Plano de ArgandGauss, teoremas de De Moivre, fórmula de Euler.
+• Funções complexas: funções elementares (polinômios, funções racionais, exponencial,
+trigonométricas e trigonométricas hiperbólicas, logaritmo).
+• Derivação complexa: diferenciabilidade e continuidade, condições de Cauchy-Riemann,
+analiticidade. Funções Inteiras.
+• Séries de potências: séries de Maclaurin, Taylor e Laurent.
+• Integração complexa: contornos, integrais sobre contornos, teorema de Cauchy.
+Resíduos. Teorema dos resíduos. Cálculo de integrais reais via integrais complexas.
+• Tópicos adicionais e aplicações: Teorema Fundamental da Álgebra, Teorema de Rouché,
+continuação analítica, transformações conformes.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Laboratório de Informática. Acesso ao MOODLE como
+ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. ALCIDES, L. N. Funções de uma variável complexa. Rio de Janeiro: IMPA, 2008.
+2. OLIVEIRA, E. C.; RODRIGUES Jr, W. A. Funções analíticas com aplicações. 1ª ed. São Paulo:
+Livraria da Física, 2006.
+3. SOARES, M. G. Cálculo em uma variável complexa. 5ª ed. Rio de Janeiro: IMPA, 2009.
+Complementar:
+1. AHLFORS, L. V. Complex analysis: an introduction to the theory of one complex variable. 3ª ed.
+New York: McGraw-Hill, 1979.
+
+2. ÁVILA, G. Variáveis complexas e aplicações. 3ª ed. Rio de Janeiro: LTC, 2008.
+3. BROWN, J. W.; CHURCHILL, R. V. Complex variables and applications. 1ª ed. Boston: McGrawHill, 2009.
+4. CONWAY, J. B. Functions of one complex variable I. 2ª ed. New York: Springer Verlag, 1978.
+5. CONWAY, J. B. Functions of one complex variable II. New York: Springer Verlag, 1995.aurence
+A. Integer programming. Hoboken, N.J.: Wiley Interscience, 1998.
+
+

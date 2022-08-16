@@ -1,0 +1,64 @@
+Nome do Componente Curricular: Introdução à Biotecnologia
+Pré-requisitos: Não há
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Introduzir os conceitos básicos da biotecnologia e suas principais aplicações científicas e industriais.
+Específicos:
+Apresentar rapidamente as principais ferramentas usadas pela biotecnologia (modificação genética,
+biologia molecular, microbiologia industrial, engenharia bioquímica, etc.) e introduzir as principais
+linhas de desenvolvimento da área.
+Ementa:
+O curso propõe uma introdução à Biotecnologia Clássica e Moderna mediante a breve explanação das
+principais técnicas (biologia molecular, microbiologia industrial e engenharia bioquímica) envolvidas
+na manufatura de produtos biológicos e a apresentação de um conjunto representativos de
+bioprodutos e bioprocessos das áreas das Biotecnologias “Branca” (produtos de aplicação industrial
+ou ambiental), “Vermelha” (produtos com aplicação na saúde) e “Verde” (produtos com aplicação
+agrícola).
+Conteúdo Programático:
+Introdução; Biotecnologia e medicina; A genética e biologia molecular na Biotecnologia;
+Microbiologia industrial e Engenharia bioquímica; Biotecnologia Ambiental; Biologia de Sistemas;
+Bioinformática; Biocombustíveis e biorrefinarias; Produção de enzimas; Biofármacos e vacinas;
+Desenho racional de inibidores; Biossegurança; Engenharia Biomédica e Engenharia tecidual ; Células
+tronco; Mercado, Patentes, Regulação; Seminários dos alunos.
+Metodologia de Ensino Utilizada:
+Aulas expositivas. Seminários de áreas temáticas ministrados por alunos. Relatórios das aulas.
+Recursos Instrucionais Necessários:
+Sala de aula, computador e projetor.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. R Rennerberg. Biotechnology for beginners. China: Academic Press, 2008, 349p. ISBN 978-012-373581-2.
+2. N Lima; M Mota (Coord.). Biotecnologia: fundamentos e aplicações. Lisboa: Lidel, 2003. 505 p.
+ISBN 9789727571970.
+3. WJ Thieman; MA Palladino. Introduction to Biotechnology. Pearson Education, 2013 , 3rd
+Edition, 408p. ISBN 978-0321766113.
+Complementar:
+1. Schmidell, Willibaldo (Coord.) et al. Biotecnologia industrial: engenharia química. São Paulo:
+
+2.
+
+3.
+
+4.
+5.
+
+Edgard Blucher, 2001. v.2. 541 p. ISBN 9788521202790 .
+Lima, Urgel de Almeida (Coord.) et al. Biotecnologia industrial: processos fermentativos e
+enzimáticos. São Paulo: Edgard Blücher, 2001. v.3. 593 p. ISBN 9788521202806. 2ª
+Reimpressão - 2007; 4ª reimpressão - 2011.
+Bon, Elba P. S.; Ferrara, Maria Antonieta; Corvo, Maria Luísa (Ed.). Enzimas em biotecnologia:
+produção, aplicações e mercado. Rio de Janeiro: Interciência, 2008. 506 p. ISBN
+9788571931893.
+JE Smith. Biotechnology. 5ed. Cambridge 2009.
+DP Clark, NJ Pazdernik. Biotechnology. Academic Cell Update. Elsevier 2012.
+
+

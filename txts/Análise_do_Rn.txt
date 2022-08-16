@@ -1,0 +1,69 @@
+Nome do Componente Curricular: Análise do Rn
+Pré-requisitos: Cálculo em Várias Variáveis; Análise Real I
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Formalizar os conceitos básicos de topologia e diferenciabilidade que envolvem funções de várias
+variáveis reais.
+Específicos:
+Apresentar ao aluno os conceitos de limite, continuidade e derivadas de funções em várias variáveis
+reais de forma rigorosa e habituar o aluno a entender e elaborar demonstrações de resultados
+importantes em Matemática.
+Ementa:
+Topologia do Rn. Limite, continuidade e derivação em Rn.
+Conteúdo Programático:
+•
+
+Topologia do Rn
+
+•
+
+Cálculo de várias variáveis
+
+•
+
+Aplicações diferenciáveis. Diferencial e matriz Jacobiana. Regra da cadeia. Derivadas de ordem
+superior. Desigualdade do valor médio
+
+•
+
+Fórmula de Taylor
+
+•
+
+Teorema da função inversa e implícita
+
+•
+
+Forma local de imersões e submersões e o teorema do posto
+
+• Tópicos adicionas e aplicações
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. LIMA, E. L. Análise real. V. 2. Rio de Janeiro: IMPA, 2010.
+2. Lima, Elon Lages. Análise real: funções de n variáveis. 5 ed. Rio de Janeiro: IMPA, 2010.
+3. Spivak, Michael. O Cálculo em Variedades. 1 ed. Rio de Janeiro: Editora Ciência Moderna,
+2003.
+Complementar:
+1. FIGUEIREDO, D. G. Análise I. 2ª ed. Rio de Janeiro: LTC, 2008.
+2. LIMA, E. L. Análise real: análise vetorial. 3 ed. Rio de Janeiro: IMPA, 2011.
+
+3. LIMA, E. L. Curso de análise. V. 1. Rio de Janeiro: IMPA, 2009.
+4. LIMA, E. L. Espaços métricos. 4ª ed. Rio de Janeiro: SBM-IMPA, 2011.
+5. MUNKRES, J. R. Analysis on Manifolds. Advanced Book Classics, Westview Press, USA, 1991.
+6. RUDIN, Walter. Principles of mathematical analysis. 3 ed. New York: McGraw-Hill, 1979.
+
+

@@ -1,0 +1,79 @@
+Nome do Componente Curricular: Física Moderna
+Pré-requisitos: Fenômenos mecânicos; Fenômenos do contínuo; Fenômenos Eletromagnéticos
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Desenvolver os aspectos conceituais e os princípios básicos da física moderna, em particular da
+mecânica quântica e da relatividade especial. Esclarecer tais conceitos, através de uma ampla gama de
+aplicações atuais e exemplos nas áreas de engenharias. Estabelecer uma ponte entre as noções
+elementares da teoria quântica com as aplicações contemporâneas.
+Específicos:
+O aluno será capaz de:
+• Compreender o contexto do surgimento da física moderna.
+• Assimilar os postulados básicos da mecânica quântica e da relatividade.
+• Compreender e aceitar a natureza quântica da matéria e da luz e seus e a natureza
+probabilística dos efeitos observados.
+• Reconhecer o papel crucial da aplicação física moderna em áreas contemporâneas do
+conhecimento, como nanotecnologia, fotônica e engenharia.
+Ementa:
+Relatividade. Fundamentos de Mecânica quântica. (sub-tópicos no quadro abaixo)
+Conteúdo Programático:
+1. Relatividade restrita
+Relatividade de Galileu
+Velocidade da luz
+Transformações de Lorentz
+Princípio da relatividade restrita: momento, força e energia relativísticas
+2. Fundamentos de mecânica quântica
+Radiação de corpo negro
+Interferência e difração e ondas de radiação e partículas
+Efeito Compton
+Efeito Fotoelétrico
+Modelos atômicos
+Quantização do momento angular
+Quantização da energia
+Dualidade partícula-onda
+Postulado de deBroglie
+Princípio da incerteza
+Função de onda
+Teoria de Schrödinger da mecânica quântica
+Oscilador harmônico quantizado: moléculas e sólidos
+3. Aplicações da mecânica quântica nas engenharias e medicina
+Oscilações de moléculas e estruturas cristalinas: modos normais de vibração
+Técnicas de caracterização de materiais empregando princípios físicos da mecânica quântica
+Princípios de funcionamento de componentes eletrônicos (díodos, transistores, circuitos Integrados,
+microprocessadores; etc..)
+
+Produção de energia (nuclear, solar, célula combustível, etc.)
+Técnicas de diagnoses e terapias biomédicas empregando princípios físicos da mecânica quântica (TC,
+PET, RMN, lasers, radioterapia, etc)
+Metodologia de Ensino Utilizada:
+Aulas expositivas; Apresentação e discussão de situações-problema, Listas de exercícios e Seminários
+sobre estudo de casos por parte dos alunos.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Paul A. Tipler e Ralph A. Llewellyn, Física Moderna, 3ª ed., Livros Técnicos e Científicos Editora.
+2. Raymond A. Serway e John W. Jewett, Jr., Principios de Física, v.4, Editora Thonsom.
+3. David Halliday, Robert Resnick e Jearl Walker, Fundamentos de Física, v.4, 8ª ed., Livros Técnicos
+e Científicos Editora.
+4. Robert Eisberg e Robert Resnick, Física Quântica, 9ª ed., Editora Campus.
+Complementar:
+1. Moisés Nussenzweig, Curso de Física Básica, v.4, 4ª ed., Editora Edgard Blücher.
+2. Marcelo Alonso e Edward Finn, Fundamental University Physics, v.3, Editora Addison Wesley.
+3. Richard Feynman, Lectures on Physics, v.3, Addison Wesley.
+4. CHESMAN, C.; ANDRÉ, C.; MACÊDO, A. Física Moderna Experimental e Aplicada. São Paulo:
+Editora Livraria da Física, 2004.
+5. CAVALCANTE, Marisa Almeida; TAVOLARO, Cristiane R.C. Física moderna e experimental. 2.ed.
+Barueri: Manole, 2007.
+
+

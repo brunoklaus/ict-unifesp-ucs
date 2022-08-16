@@ -1,0 +1,72 @@
+Nome do Componente Curricular: Programação Paralela e Processamento de Alto Desempenho
+Pré-requisitos: Programação Concorrente e Distribuída
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Apresentar aos alunos os fundamentos de programação paralela para diversas arquiteturas
+computacionais visando o desenvolvimento de softwares com alto desempenho, especialmente
+voltados para computação científica.
+Específicos:
+Ao final da unidade curricular o aluno deverá ter condições de analisar e desenvolver códigos
+computacionais paralelos utilizando diversas arquiteturas computacionais diferentes, bem como usar
+bibliotecas matemáticas otimizadas para computação científica.
+Ementa:
+Revisão: arquiteturas computacionais paralelas de memória compartilhada e distribuída e métricas de
+desempenho. Pacotes paralelos para funções matemáticas. Afinidade de dados em memória cachê.
+Influência da memória cache no desempenho. Programação com OpenMP avançada. Programação
+com o padrão MPI-1 e MPI-2. Programação em C/C++-CUDA para GPUs (Graphics Processing Units).
+Introdução ao modelo PGAS (Partitioned Global Address Space). Introdução a Computação em Grade.
+Conteúdo Programático:
+• Revisão: arquiteturas computacionais paralelas de memória compartilhada e distribuída;
+Arquiteturas Multicores / Manycores; métricas de desempenho: Speedup, eficiência,
+escalabilidade, granularidade; investigação sobre razões que impedem paralelismo eficiente:
+fração serial do código, custo de comunicação e desbalanceamento de carga.
+• Pacotes paralelos para funções matemáticas (BLAS, LAPACK, ATLAS, MKL, BLACS, scaLAPACK).
+• Afinidade de dados em memória cachê. Influência da memória cachê no desempenho.
+• Programação com OpenMP avançada: revisão, novas funcionalidades e aplicações.
+• Programação com o padrão MPI-1 e MPI-2: Revisão de comunicações ponto-a-ponto.
+Comunicações coletivas. Criação de tipos derivados de dados. Criação e manipulação de
+Grupos e Comunicadores. Topologias de processos. Avaliações de desempenho. Padrão MPI-2:
+One-sided-comunication, Entrada/saída paralela.
+• Programação em C/C++ - CUDA para GPUs (Graphics Processing Units): Arquiteturas de uma
+GPU, Introdução a Linguagem CUDA, Organização de threads em CUDA, Acesso a memória.
+• Introdução ao modelo PGAS (Partitioned Global Address Space).
+• Introdução a Computação em Grade: modelo Bag of Tasks, OurGrid.
+Metodologia de Ensino Utilizada:
+Para que os objetivos dessa disciplina possam ser atendidos e, consequentemente contribua com os
+objetivos do curso, as seguintes estratégias de ensino-aprendizagem serão utilizadas: Aulas expositivas
+com a utilização de quadro branco e projetor multimídia, procurando explicar a fundamentação
+teórica do assunto; Aula prática em laboratório aplicando os conteúdos trabalhados e aprendendo
+novos conteúdos; Prática de exercícios aplicando os conteúdos trabalhados. Desenvolvimento de
+pesquisas e atividade extraclasse sobre os assuntos abordados em aula.
+Recursos Instrucionais Necessários:
+Quadro branco, Projetor multimídia, computador com acesso ao Moodle como ferramenta EAD . Laboratório de computação com equipamentos conectados em rede (para experimentação prática de programas para sistemas de memória distribuída).
+
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Kumar, V.; Karypis, G.; Gupta, A.; Grama, A. Introduction to parallel computing. 2ª ed. Pearson,
+2003.
+2. Pacheco, P.S. An Introduction to Parallel Programming, Morgan Kaufmann, 2011.
+3. Kirk, D.B.; Hwo, W.W. Programming Massively Parallel Processors – A Hands-on Approach.
+Morgan-Kaufmann. 2010.
+Complementar:
+1. Chandra, R.; Dagum, L.; Kohr, D.; Maydan, D. ; Mcdonald, J.; Menon, R. Parallel programming in
+OpenMP. Morgan Kaufmann, 2001.
+2. Culler, D.E.; Singh, J.P.; Gupta, A. Parallel computer architecture: a hardware software
+approach. San Francisco, CA: Morgan Kaufmann, 1999.
+3. Dongarra, J., Foster, I., Fox, G., Gropp, W., Kennedy, K., Torczon, L., White, A. Sourcebook of
+Parallel Computing, Morgan Kaufmann, 2003.
+4. Herlihy, M.; Shavit, N. The art of multiprocessor programming. Burlington: Elsevier, 2008.
+5. Rauber, T.; Rünger, G. Parallel programming: for multicore and cluster systems. Nova Iorque:
+Springer, 2010.
+
+

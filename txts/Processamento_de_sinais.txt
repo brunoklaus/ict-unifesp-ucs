@@ -1,0 +1,75 @@
+Nome do Componente Curricular: Processamento de Sinais
+Período: 6 º semestre
+Pré-requisitos: Análise de Sinais; Algoritmos em Bioinformática
+Carga Horária Total: 36h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Conhecer as aplicações básicas do processamento de sinais em um contexto prático e
+as metodologias apropriadas de captação, aquisição, e análise de sinais.
+Específicos:
+O aluno deverá ser capaz de aplicar as principais técnicas de análise de sinais em
+problemas práticos usando exemplos de sinais reais, e projetar computacionalmente
+filtros digitais para diferentes aplicações na engenharia.
+Ementa:
+Aquisição de sinais; Sinal e ruído; Convolução, correlação e coerência de sinais;
+Amostragem de sinais e Aliasing; Transformada Rápida de Fourier (FFT); Projeto de
+Filtros digitais.
+
+Conteúdo Programático:
+•
+Sistemas básicos para processamento de sinais.
+•
+Caracterização de sinais (origem, classificação, aquisição e propriedades dos
+sinais).
+•
+Aquisição de sinais (digitalização, amostragem e aliasing, relação
+sinal/ruído).
+•
+Técnicas de tratamento do sinal adquiridos (estacionariedade, artefatos);
+•
+Convolução e correlação de sinais de tempo discreto;
+•
+Decomposição espectral de sinais: Transformada Rápida de Fourier.
+•
+Coerência Espectral de sinais de tempo discreto.
+•
+Cálculo e interpretação da fase dos sinais. Índices de phase-locking.
+Transformada de Hilbert.
+•
+Projeto de Filtros Digitais; Filtros IIR: Butterworth, Chebyshev e Elípticos.
+Filtros FIR e técnicas de janelamento. Técnicas de aproximação de filtros FIR.
+Metodologia de Ensino Utilizada:
+Aulas práticas no laboratório de Informática, exercícios e trabalhos.
+Recursos Instrucionais Necessários:
+Lousa, projetor, acesso ao laboratório de informática, acesso ao Matlab.
+
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica
+1. Ingle, V. K.; Proakis, J. G. Digital Signal Processing using MATLAB, Cengage
+Learning, 3a Ed., 2011.
+2. S. K. Mitra. Digital Signal Processing: A Computer-Based Approach. McGrawHill, 1998.
+3. Stearns, S. D.; Hush, D. R. Digital signal processing with examples in
+MATLAB. 2nd. CRC Press, 2011.
+Complementar:
+1. Oppenheim, A.V.; Schafer, R.W. Discrete-Time Signal Processing, Prentice
+Hall, Englewood Cliffs, NJ, 3a. Edição, 2010.
+2. Lyons, R.G. Understanding Digital Signal Processing, Prentice Hall, 2a. edição,
+2004.
+3. Diniz, P.S.R. Adaptive filtering: algorithms and practical implementation,
+Kluwer Academic Publishers, 3a. Edição, 2008.
+4. VAN DRONGELEN, W. Signal Processing for Neuroscientists: An
+Introduction to the Analysis of Physiological Signals. Amsterdam: Elsevier
+Science, 2006.
+5. Oppenheim, A., Wilsky, A., Sinais e Sistemas, Pearson, 2ª edição, 2010.
+
+

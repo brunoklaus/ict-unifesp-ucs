@@ -1,0 +1,86 @@
+Nome do Componente Curricular: Redes de Computadores
+Pré-requisitos: Programação Orientada a Objetos
+Carga horária total: 72h
+Carga Horária Prática: 20h
+Carga Horária Teórica: 52h
+Objetivos
+Geral:
+Esse curso tem como objetivo possibilitar que os alunos adquiram conhecimentos sólidos sobre os
+principais conceitos e desafios relacionados às Arquiteturas, Serviços e Protocolos das Redes de
+Computadores.
+Específicos:
+Apresentar um histórico, as características e as classes de Redes de Computadores; Introduzir o
+conceito de Arquitetura Multicamadas e os princípios básicos de operação; Descrever a organização
+da arquitetura e os conceitos associados ao Modelo de Referência OSI e da arquitetura de protocolos
+TCP/IP;
+Apresentar as noções básicas da arquitetura Internet e seus principais protocolos de comunicação;
+Apresentar as principais técnicas associadas à transmissão de dados em meios de transmissão (modos
+de transmissão, técnicas de codificação, modulação, multiplexação etc); Introduzir os conceitos
+relativos às arquiteturas de Redes Locais de Computadores e os padrões associados; Apresentar as
+principais arquiteturas e padrões de Redes sem Fio;
+Ementa: Introdução às Redes de Computadores: Conceitos Gerais Medidas de Desempenho, Camadas
+de protocolos e serviços; Histórico das redes de computadores e Internet; Camada Física:
+Características do meio de transmissão, Técnicas de transmissão; Camada de Aplicação: Fundamentos
+das aplicações de rede, Principais protocolos da camada de aplicação. Camada de Transporte:
+Introdução e Serviços da camada de transporte, Protocolos TCP e UDP, Princípios do controle de
+congestionamento Camada de Rede: Introdução, O protocolo IPv4, O protocolo IPv6, Algoritmos de
+roteamento; Camada de enlace e redes locais: Serviços oferecidos pela camada de enlace, Protocolos
+de acesso múltiplo, Endereçamento na camada de enlace, Redes Ethernet; Redes sem fio; Redes
+móveis; Princípios da Gerência de Redes;
+Conteúdo Programático:
+Introdução às redes de comunicações e a Internet; Modelos de Referência OSI e TCP/IP; Características
+do meio de transmissão; Técnicas de transmissão analógica e digital; Técnicas de Multiplexação;
+Técnicas de comutação; Camada de aplicação: protocolos HTTP, DNS, SMTP e FTP; Camada de
+transporte: protocolos TCP e UDP; Multiplexação e Demultiplexação; Mecanismos de controle de fluxo
+e congestionamento; Camada de Rede: Redes locais e metropolitanas; Endereçamento; Protocolos
+IPV4, IPV6, DHCP, ARP, ICMP; Algoritmos de roteamento; Protocolos RIP, OSPF, BGP; Técnicas e
+algoritmos para Anycast, Broadcast e Multicast; Interconexão de Redes: repetidores, pontes e
+roteadores; Camada de enlace: Estratégias de controle de erro e protocolos da camada de enlace;
+Técnicas, padrões e protocolos da subcamada de acesso ao meio (MAC): TDMA, FDMA, CDMA, CSMA,
+CSMA-CD, CSMA-CA, Aloha, Ethernet, IEEE 802.11 , WiMAX, Bluetooth. Princípios de Gerência de
+redes;
+Metodologia de Ensino Utilizada:
+O curso será baseado em aulas expositivas com auxílio do quadro e projetor multimídia. A
+participação dos alunos em sala de aula será estimulada através de perguntas e sessões de exercícios.
+Para fixação dos tópicos estudados, os alunos receberão, ao longo do curso, listas de exercícios para
+entrega em sala de aula. Por fim, destacam-se as aulas práticas nos laboratórios de informática para
+fixação dos conteúdos através de do uso de ambientes de desenvolvimento de software e softwares
+para análise de tráfego em redes.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e laboratório de informática.
+
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. KUROSE, James F.; Ross, Keith W.. Redes de computadores e a internet: uma abordagem topdown. 5.ed. São Paulo: Addison-Wesley, 2010. 614 p. ISBN 9788588639973.
+2. Tanenbaum, Andrew S; Wetherall, David. Redes de computadores. [Computer networks 5th
+edition]. Tradução Daniel Vieira, Revisão técnica: Prof.Dr. Isaias Lima. 5 ed. Rio de Janeiro:
+Elsevier, 2011. 582 p. ISBN 978-85-7605-924-0.
+3. COMER, Douglas E. Interligação de redes com TCP/IP. Rio de Janeiro: Campus, 2006. 1. 435 p.
+ISBN 8535220178.
+Complementar:
+1. Kurose, James F; Ross, Keith W. Computer networking: a top-down approach. 5.ed. Boston,
+MA: Addison-Wesley, 2009. 862 p. ISBN 978-0-13-607967-5.
+2. Soares, Luiz F. G; Lemos, Guido; Colcher, Sérgio. Redes de computadores: das LANs MANs e
+WANs às redes ATM. 2.ed. Rio de Janeiro: Campus, 1995. 705 p. ISBN 978-85-7001-998-1.
+3. TANENBAUM, Andrew S. Redes de computadores. 4a Ed. Rio de Janeiro: Elsevier, 2003. 945 p.
+ISBN 978-85-352-1185-6.
+4. COMER, Douglas E. Internetworking with TCP/IP: principles, protocols, and architecture. 5.ed.
+Upper Saddle River: Pearson, c2006. v.1. 650 p. ISBN 9780131876716.
+5. COMER, Douglas E; STEVENS, David L. Internetworking with TCP/IP vol. II: design,
+implementation, and internals. 3 ed. Upper Saddle River (USA): Prentice-Hall, 1991. 660 p.
+ISBN 978-0-13-973843-2.
+6. GAST, Mathew S. 802.11 wireless netwoks: the definitive guide. 2ed. Cambridge: O'Reilly, 2005.
+630 p. ISBN 978-0-596-10052-0.
+7. OLIFER, Victor; OLIFER, Natalia. Redes de computadores: princípios, tecnologias e protocolos
+para o projeto de redes. Rio de Janeirp: LTC, 2008. 576 p. ISBN 978-85-216-1596-5.
+8. GRANVILLE, Lisandro Zambenedetti; ROCHOL, Juergen; CARISSIMI, Alexandre da Silva. Redes
+de computadores. Porto Alegre: Bookman, 2009. 391 p. ISBN 978-85-7780-496-2.
+
+

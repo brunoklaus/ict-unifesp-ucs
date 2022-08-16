@@ -1,0 +1,66 @@
+Nome do Componente Curricular: Resistência dos Materiais
+Pré-requisitos: Mecânica Geral
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Apresentar os conceitos básicos de carregamentos mecânicos em materiais e seus respectivos
+modelos de análise simplificados. Capacitar o aluno a desenvolver, aplicar e reconhecer as condições
+em que são válidas as fórmulas necessárias à solução de problemas de carregamento em estruturas e
+componentes mecânicos, de maneira lógica, racional e segura.
+Específicos:
+Desenvolver a capacidade de análise das tensões e deformações em estruturas mediante
+carregamento axial, torção, flexão e transversal. Estabelecer as tensões e deformações principais a
+partir de qualquer estado de tensões.
+Ementa:
+Conceito de tensão e deformação; propriedades mecânicas dos materiais; estados de tensão e de
+deformação; carregamento axial; torção; flexão pura; carregamento transversal; transformação da
+tensão; transformação da deformação.
+Conteúdo Programático:
+1- Revisão de conceitos de estática: forças externa e interna, equilíbrio de corpos rígidos, equações de
+equilíbrio;
+2- Conceitos de tensão normal e de cisalhamento;
+3 - Conceitos de deformação normal e de cisalhamento;
+4 - Propriedades mecânicas dos materiais;
+5 - Carregamento axial: Princípio de Saint Venant; Deformação elástica de um elemento carregado
+axialmente; princípio da superposição; carregamento estaticamente indeterminado; concentrações
+de tensões em carregamento axial; tensões térmicas
+6 - Torção: Análise preliminar das tensões de torção em eixos; deformação por torção em eixos
+circulares; tensão e ângulo de torção no regime elástico; eixos estaticamente indeterminados;
+transmissão de potência; concentradores de tensão.
+7 - Flexão: análise preliminar das tensões na flexão pura; fórmulas da flexão; flexão assimétrica;
+8 - Cisalhamento transversal: cisalhamento em elementos retos; fórmulas de cisalhamento.
+9 - Cargas combinadas
+10 - Transformação da tensão: transformação no estado plano de tensões; equações gerais; tensões
+principais e tensão de cisalhamento máxima absoluta; Círculo de mohr - estado plano de tensões.
+11 - Transformação da Deformação: estado plano de deformações; equações gerais; Círculo de Mohr estado plano de deformações.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e exemplos de aplicações. Resolução de lista de
+exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Hibbeler, R. C. Resistência dos Materiais, 5a Edição (2004). Editora Prentice Hall.
+2. Gere, J. M. Mecânica dos Materiais, (2003). Editora Thomson.
+3. Melconian, S. Mecânica técnica e resistência dos materiais. 18ed. São Paulo: Érica, 2007.
+Complementar:
+1. Di Blasi, CG. Resistência dos materiais. 2ed. Rio de Janeiro: Freitas Bastos, 1990.
+2. Beer, FP. et al. Mechanics of Materials. 5ed. Nova Iorque: McGrawHill, 2009.
+3. Boresi, AP.; Schimidt, RJ. Advanced mechanics of materials. 6.ed. Hoboken: John Wiley &
+Sons, 2002.
+4. Riley, WF.; Sturges, LD.; Morris, DH. Mecânica dos Materiais, Quinta Edição. Editora LTC,
+2003.
+5. Beer, FP; Johnston Jr., ER; Dewolf, JT. Resistência dos Materiais, 4ª edição. Mcgraw-hill
+Interamericana, 2006.
+
+

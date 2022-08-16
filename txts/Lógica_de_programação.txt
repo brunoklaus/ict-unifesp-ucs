@@ -1,0 +1,67 @@
+Nome do Componente Curricular: Lógica de Programação
+Pré-requisitos: Não há
+Carga horária total: 72h
+Carga Horária Prática: 30h
+Carga Horária Teórica: 42h
+Objetivos
+Geral:
+Propiciar o aprendizado de introdução á computação e lógica de programação de computadores.
+Específicos:
+Ao final do curso, os estudantes devem ser capazes de projetar algoritmos e de desenvolver
+programas.
+Ementa: Introdução à computação; Noções de lógica; Conceitos e representação de algoritmos;
+Constantes e variáveis; Estruturas de controle; Vetores; Matrizes; Registros e uniões; Procedimentos,
+Funções com passagem de parâmetros por valor e referência; Recursividade; Introdução à linguagem
+de programação;
+Conteúdo Programático:
+Parte 1.
+Introdução a computação; Introdução a lógica de programação; Noções de lógica; Algoritmos;
+Pseudocódigos e fluxogramas; Teste de mesa.
+Parte 2.
+Elementos básicos de algoritmos: Constantes, variáveis simples e compostas; Tipos enumerados;
+Comandos de entrada e saída; Expressões, estruturas sequenciais e condicionais; Estruturas de
+repetição; Funções.
+Parte 3.
+Linguagem de programação C (padrão ANSI): Sintaxe da linguagem; Modularização: procedimentos e
+funções (passagem de parâmetros por valor e referência); Funções recursivas. Vetores, matrizes,
+registros e uniões; Busca sequencial e binária em vetores;
+Metodologia de Ensino Utilizada:
+Utilização da linguagem C++ no contexto de programação estruturada; Aulas expositivas sobre o
+desenvolvimento de algoritmos e aulas práticas em laboratório para implementação dos algoritmos.
+Extensa prática de programação extra classe (20 horas), coordenada com o auxílio da ferramenta de
+ensino à distância Moodle e com o apoio de monitores. A metodologia de ensino baseada na
+resolução de problemas (Problem Based Learning) será amplamente utilizada. O professor, após
+apresentar a teoria necessária, irá propor problemas e atuará apenas como
+facilitador/problematizador junto aos alunos na resolução do problema.
+Recursos Instrucionais Necessários:
+Laboratório de computação equipado com o sistema operacional Linux e com o compilador gcc. Ambiente integrado de desenvolvimento Codeblocks. Projetor de slides.
+Sala de aula com quadro-negro. Ambiente de apoio pedagógico Moodle.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Forbellone, André L.V; Eberspache, Henri F. Lógica de programação: a construção de
+algoritmos e estruturas de dados. 3.ed. São Paulo: Pearson, 2005. 218 p. ISBN 978-857605-024-7.;
+
+2. Feofiloff, Paulo. Algoritmos em linguagem C. Rio de Janeiro: Elsevier, 2009. 208 p. ISBN
+978-85-352-3249-3.;
+3. Mokarzel, Fábio; Soma, Nei. Introdução à ciência da computação. Rio de Janeiro: Elsevier,
+2008. 429 p. ISBN 978-85-352-1879-4.;
+Complementar:
+1. Mizrahi, Victorine Viviane. Treinamento em linguagem C: módulo profissional. Säo Paulo:
+Makron, c1993. 225 p. ISBN 978-85-346-0109-2.;
+2. Deitel, Paul; Deitel, Harvey. C: como programar. [C: how to program]. Tradução: Daniel
+Vieira. 6 ed. São Paulo: Pearson Prentice Hall, 2011. 818 p. ISBN 978-85-7605-934-0.;
+3. KERNIGHAN, Brian W; VIEIRA, Daniel; RITCHIE, Dennis M. C: a linguagem de programação
+padrão ANSI. Rio de Janeiro: Campus, 1989. ISBN 978-85-7001-586-0.;
+4. FARRER, Harry et al. Algoritmos estruturados. 3.ed. Rio de Janeiro: LTC, 1999. 284 p. ISBN
+978-85-216-1180-6. ;
+5. Horowitz, Ellis; Sahni, Sartaj; Rajasekaran, Sanguthevar. Computer algorithmics/C++. New
+York: Computer Science, 1997. 769 p. ISBN 978-0-7167-8315-2.
+
+

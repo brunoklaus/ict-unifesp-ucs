@@ -1,0 +1,62 @@
+Nome do Componente Curricular: Farmacologia Molecular
+Pré-requisitos: Não há
+Carga Horária Total: 72 h
+Carga Horária Prática: 0 h
+Carga Horária Teórica: 72 h
+Objetivos
+Gerais:
+Visa o entendimento do estudo das drogas e seus receptores e o mecanismo de ação.
+Específicos:
+Compreender a sinalização celular dos principais receptores farmacológicos.
+Ementa:
+A disciplina abordará a Farmacologia do Sistema Nervoso Sistema Respiratório,
+Sistema Cardiovascular a Farmacologia da Diabetes; a Imunofarmacologia e a
+Resposta Inflamatória.
+Conteúdo Programático:
+Princípios gerais: interação das moléculas das drogas com as células; aspectos
+moleculares de ação das drogas. Farmacologia da Inflamação; Farmacologia do
+Sistema do Nervoso; Farmacologia do óxido nítrico; Farmacologia da Hipertensão;
+Farmacologia da Asma e da DPOC.
+Metodologia de Ensino Utilizada:
+Aulas expositivas, apresentação de seminários e estudos de caso.
+Recursos Instrucionais Necessários:
+Lousa e projetor
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+Goodman & Gilman - As Bases Farmacológicas da Terapêutica. 11a ed., 2006 Ed. McGraw-Hill.
+2.
+Katzung, B G.- Farmacologia Básica e Clínica. 10a ed., 2007 - Ed. McGraw-Hill.
+3.
+Range, A P.; Dale M M.; Ritter J M. - Farmacologia. 6a ed., 2007 - Ed. Elsevier.
+4.
+Smith C M., Reynard A M. - Essentials of Pharmacology. 1a ed., 1995 - Ed. W. B.
+Saunders Company.
+5.
+Golan – A Base Fisiopatológica da Farmacoterapia. 2a ed., 2006 - Ed. RAR
+Complementar:
+
+1.
+Roberto DeLucia, Ricardo Martins de Oliveira Filho, Cleopatra S. Planeta.
+Farmacologia Integrada. 3a ed., 2007 - Ed. Revinter
+2.
+Klaus Mohr & Heinz Lüllmann. - Farmacologia - Texto e Atlas. 6a ed., 2007 - Ed.
+Artmed.
+3.
+Rang, H. P. et al. Rang & Dale Farmacologia. [Rang & Dale's Pharmacology]. Rio
+de Janeiro: Elsevier, 2011.
+4.
+Antonio Alves de Couto – Farmacologia Cardiovascular. 1a ed., 2011 - Ed. Roca.
+5.
+Garland, C.J.; Angus, J.A. (Eds.). Pharmacology of vascular smooth muscle.
+Oxford: Oxfor University Press, 2011.
+
+

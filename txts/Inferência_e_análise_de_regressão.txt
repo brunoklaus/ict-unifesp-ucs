@@ -1,0 +1,68 @@
+Nome do componente curricular: Inferência e Análise de Regressão
+Pré-requisitos: Probabilidade e Estatística
+Semestre: PAR
+Carga horária total: 72 h
+Carga horária prática: 16 h
+
+Carga horária teórica: 56 h
+
+Objetivos gerais:
+Introduzir os conceitos de inferência estatística e modelos de regressão. Capacitar a interpretação
+das análises e conclusões estatísticas relatadas em artigos científicos.
+Objetivos específicos:
+Fornecer aos alunos a capacidade de planejar e executar experimentos envolvendo: o processo de
+coleta de amostras; o conhecimento das distribuições de valores representativos destas;
+interpretação e construção de intervalos de confiança e testes de hipóteses para vários
+parâmetros, tais como: média, diferença de médias, proporções e diferenças de proporções;
+variâncias e comparação de variâncias; verificação da adequação do conjunto de dados observado
+aos modelos estatísticos; comparação do efeito de diversos tratamentos aplicados em amostras;
+verificação da existência de relação entre as variáveis estudadas através dos modelos adequados.
+Ementa:
+Estimação pontual e intervalar. Teste de hipóteses. Regressão linear simples. Regressão linear
+múltipla.
+Conteúdo programático:
+1-INFERÊNCIA
+· Estimação pontual e intervalar
+· Testes de hipóteses
+2-RERESSÃO LINEAR SIMPLES
+· Modelo estatístico
+· Estimação;
+· Testes de hipóteses;
+· Intervalo de confiança para os parâmetros;
+· Análise de resíduos diagnósticos.
+3-RERESSÃO LINEAR MÚLTIPLA
+· Modelo estatístico;
+· Estimação;
+· Testes de hipóteses;
+· Intervalo de confiança para os parâmetros;
+· Análise de resíduos;
+· Seleção de variáveis.
+Metodologia de ensino utilizada:
+Aulas expositivas e de exercícios. Aulas de Laboratório.
+Recursos instrucionais necessários:
+Sala de aula com lousa e projetor multimídia. Laboratório de Informática. Acesso ao MOODLE
+como ferramenta EAD. Programa R
+Critérios de avaliação:
+O sistema de avaliação será definido pelo docente responsável pela Unidade Curricular (UC) e
+divulgados aos alunos no início do período letivo. O sistema adotado deve contemplar o processo
+de ensino e aprendizagem estabelecido nesse Projeto Pedagógico. A promoção do aluno na UC
+
+obedecerá aos critérios estabelecidos pela Pró-reitoria de Graduação, tal como discutido no
+Projeto Pedagógico do Curso.
+Bibliografia básica:
+BOLFARINI, H.; SANDOVAL, M. C. Introdução à inferência estatística. 1ª ed. Rio de Janeiro: SBM,
+2002.
+CASELLA, G.; BERGER, R. L. Inferência estatística. 2ª ed. São Paulo: Cengage Learning, 2010.
+CHARNET, R.; FREIRE, C. A. L.; CHARNET, E. M. R.; BONVINO, H. Análise de modelos de regressão
+linear com aplicações. 2ª ed. Campinas: Editora Unicamp, 2008.
+Bibliografia complementar:
+BUSSAB, W. O.; MORETTIN, P. A. Estatística básica. 6ª ed. São Paulo: Editora Saraiva, 2010.
+DRAPER, N. R.; SMITH, H. A. Applied regression analysis. 3ª ed. New York: John Wiley & Sons,
+1998.
+MAGALHÃES, M. N.; LIMA, A. C. P. Noções de probabilidade e estatística. 7ª ed. São Paulo:
+EDUSP, 2010.
+MIGON, H. S.; GAMERMAN, D. Statistical inference: an integrated approach. 1ª ed. CRC Press,
+1999.
+ROHATGI, V. K. Statistical inference. 1ª ed. New York: Dover Publications, 2003.
+
+

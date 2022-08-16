@@ -1,0 +1,80 @@
+Nome do Componente Curricular: Desenho Técnico Básico
+Pré-requisitos: Não há
+Carga Horária Total: 36h
+Carga Horária Prática: 18h
+Carga Horária Teórica: 18h
+Objetivos
+Gerais:
+Esta disciplina tem por objetivo desenvolver competências referentes à visualização espacial, ao uso das
+técnicas de desenhor técnico manual, à interpretação de desenhos técnicos e a compreenção das
+normas tecnicas brasileiras.
+Específicos:
+•
+Conhecer normas utilizadas em desenho técnico;
+•
+Compreender e desenhar vistas ortográficas, cortes e secções de um objeto em sua
+representação em perspectiva;
+•
+Compreender e desenhar representações em perspectiva de objetos em vistas ortográficas; e
+•
+Compreender e desenhar cotas e tolerâncias.
+•
+Ao final da unidade curricular o aluno estará apto a analisar e elaborar projetos de desenhos
+técnicos, obedecendo as regras estabelecidas pela Associação Brasileira de Normas Técnicas (ABNT).
+Ementas:
+Construções geométricas, projeções, perspectivas, cotas, cortes, elementos de máquina.
+Conteúdo Programático:
+•
+Técnicas de construções geométricas;
+•
+Caracterização dos elementos de desenho;
+•
+Projeções ortográficas (Primeiro e terceiro diedro);
+•
+Normas de apresentação de projetos (folhas, legendas, margens);
+•
+Elementos e normas de cotas;
+•
+Tipos de cortes (Total, composto, parcial, meio corte e meia vista);
+•
+Vistas auxiliares de superfícies obliquas;
+•
+Perspectiva isométrica e cavaleira;
+•
+Tolerâncias de: medidas, relação furo-eixo, geométricas e de orientação; e
+Elementos de máquina.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades extraclasse em forma de lista de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico,
+com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do aluno na
+unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+LEAKE, J; BORGERSON, J. Manual de Desenho Técnico para Engenharia, LTC, 2010.
+2.
+MICELI, M.T.; FERREIRA, P. Desenho Técnico Básico. 2ª ed. Rio de Janeiro: Imperial Novo Milênio,
+2008.
+3.
+RIBEIRO, C.P.B.V. Desenho Técnico para Engenharias. 1ª ed. Curitiba: Juruá, 2010, v.1.
+Complementar:
+1.
+LANDI, F.R. et al. Desenho, v.1-3, Apostila, São Paulo: PCC/EPUSP, 1991.
+2.
+RANGEL, A.P. Projeções Cotadas, Rio de Janeiro: Livros Técnicos e Científicos,1979.
+3.
+MACHADO, A. Geometria Descritiva, 24a.ed. São Paulo: McGraw-Hill, 1974
+4.
+SCHNEIDER, W. Desenho técnico industrial: introdução aos fundamentos do desenho técnico
+industrial. São Paulo: Hemus, 2008.
+5.
+SILVA, A et al. Desenho Técnico Moderno. 1ª ed. Rio de Janeiro: LTC, 2009.
+
+

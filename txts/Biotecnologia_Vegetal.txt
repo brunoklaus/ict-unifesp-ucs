@@ -1,0 +1,77 @@
+Nome do Componente Curricular: Biotecnologia Vegetal
+Período: 7°semestre
+Pré-requisitos: Botânica e Fisiologia Vegetal
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introdução à biotecnologia vegetal.
+Específicos:
+Introdução ao métodos e conceitos da biotecnologia com plantas.
+Ementa:
+Conceitos básicos de biotecnologia vegetal. Histórico da biotecnologia vegetal:
+melhoramento clássico versus manipulação genética. Micropropagação de plantas:
+cultura de células, produção de protoplastos e biofábricas. Germinação e conservação
+de sementes. Bancos de germoplasma e sua importância para a diversidade. Obtenção
+de Plantas transgênicas e diferentes métodos de Transformação visando a obtenção
+de plantas com interesse biotecnológico. Técnicas de edição de genoma.
+Conteúdo Programático:
+•
+Padrões de crescimento em plantas, tipos de tecido, níveis de diferenciação
+celular e totipotência.
+•
+Meios de Cultura: Exigências nutricionais e hormonais.
+•
+Técnicas de Manipulação de plantas, tecidos e células em ambiente
+asséptico.
+•
+Introdução de sementes in vitro
+•
+Limpeza clonal e cultura de ápices ou de meristemas.
+•
+Culturas de gemas, brotos axilares, calos e de Células em Suspensão,
+Haplóides e de ovários
+•
+Plantas transgênicas, Protoplastos; isolamento, transformação e cultura
+•
+Micro propagação. Técnicas e etapas da manipulação de plantas,
+condições de cultura, tipos de substrato.
+•
+Embriogênese somática
+•
+Interação planta-patógeno e planta-insetos
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades práticas. Atividades extraclasse semanais em forma de
+lista de exercícios e seminários.
+Recursos Instrucionais Necessários:
+Laboratório com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+ KERBAUY, G.B. Fisiologia vegetal. 2 ed. Rio de Janeiro: Guanabara Koogan,
+2008.
+ Michael R. Green et al. Molecular Cloning: A Laboratory Manual (Fourth
+Edition) Cold Spring Harbor Laboratory Press, 2012.
+ CUTLER, David F; BOTHA, T; STEVENSON, Dennis Wm; MORAES, Marcelo
+Gravina de; SANTOS, Rinaldo Pires dos. Anatomia vegetal: uma abordagem
+aplicada. Porto Alegre: Artmed, 2011.
+Complementar:
+ RAVEN PH, EVERT RF, EICHHORN S. Biology of Plants. 8th Ed. Freeman 2012.
+ JE Smith. Biotechnology. 5ed. Cambridge 2009.
+ Taiz, Li et al. FISIOLOGIA e desenvolvimento vegetal. 6. Porto Alegre ArtMed
+2017.
+ Pierik, R.L.M. In vitro Culture of Higher Plants. Martinus Nijhoff Publishers,
+Dordrecht. 1987.
+ Reinert, J. e Yeoman, M.M. Plant Cell and Tissue Culture. A laboratory Manual.
+Sringer Verlag, Berlin. 1982.
+
+

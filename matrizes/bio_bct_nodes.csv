@@ -1,0 +1,37 @@
+ucname_file,error_flag,nome,Pré-Requisitos,Carga Horária Total,Carga Horária Prática,Carga Horária Teórica,Carga Horária Extensão,id,rev_topgen
+algoritmos em bioinformática,False,algoritmos em bioinformática,lógica de programação,72.0,36.0,36.0,0.0,2,006
+anatomia,False,anatomia,não há,36.0,10.0,26.0,0.0,3,000
+análise de sinais,False,análise de sinais,séries e equações diferenciais ordinárias,72.0,0.0,72.0,0.0,4,005
+circuitos digitais,False,circuitos digitais,não há,72.0,20.0,52.0,0.0,37,007
+circuitos elétricos i,False,circuitos elétricos i,não há,72.0,0.0,72.0,0.0,38,007
+circuitos elétricos ii,False,circuitos elétricos ii,circuitos elétricos i; fenômenos eletromagnéticos,72.0,0.0,72.0,0.0,39,006
+"ciência, tecnologia e sociedade",False,"ciência, tecnologia e sociedade",não há,36.0,0.0,36.0,0.0,41,000
+"ciência, tecnologia, sociedade e ambiente",False,"ciência, tecnologia, sociedade e ambiente",não há,36.0,0.0,36.0,0.0,42,000
+controle de sistemas dinâmicos,False,controle de sistemas dinâmicos,análise de sinais; circuitos elétricos ii,72.0,36.0,36.0,0.0,46,004
+cálculo em uma variável,False,cálculo em uma variável,não há,108.0,36.0,72.0,0.0,50,007
+cálculo em várias variáveis,False,cálculo em várias variáveis,cálculo em uma variável; geometria analítica,72.0,10.0,62.0,0.0,51,006
+cálculo numérico,False,cálculo numérico,cálculo em uma variável; geometria analítica,72.0,14.0,58.0,0.0,52,006
+desenho técnico básico,False,desenho técnico básico,não há,36.0,18.0,18.0,0.0,54,007
+eletrônica avançada,False,eletrônica avançada,circuitos elétricos ii,72.0,8.0,64.0,0.0,62,005
+fenômenos do contínuo,False,fenômenos do contínuo,não há,72.0,0.0,72.0,0.0,79,007
+fenômenos do contínuo experimental,False,fenômenos do contínuo experimental,não há,36.0,36.0,0.0,0.0,80,000
+fenômenos eletromagnéticos,False,fenômenos eletromagnéticos,não há,72.0,0.0,72.0,0.0,81,007
+fenômenos eletromagnéticos experimental,False,fenômenos eletromagnéticos experimental,não há,36.0,36.0,0.0,0.0,82,000
+fenômenos mecânicos,False,fenômenos mecânicos,não há,72.0,0.0,72.0,0.0,83,007
+fenômenos mecânicos experimental,False,fenômenos mecânicos experimental,não há,36.0,36.0,0.0,0.0,84,000
+fisiologia humana i,False,fisiologia humana,não há,72.0,12.0,60.0,0.0,85,007
+fisiologia humana ii,False,fisiologia humana ii,fisiologia humana i,72.0,12.0,60.0,0.0,86,006
+fundamentos de biologia moderna,False,fundamentos da biologia moderna,não há,72.0,0.0,72.0,0.0,89,007
+geometria analítica,False,geometria analítica,não há,72.0,8.0,64.0,0.0,96,007
+introdução à eletrotécnica,False,introdução à eletrotécnica,circuitos elétricos ii,36.0,0.0,36.0,0.0,113,005
+laboratório de circuitos elétricos,False,laboratório de circuitos elétricos,fenômenos eletromagnéticos; circuitos elétricos i,36.0,36.0,0.0,0.0,128,006
+laboratório de eletrônica digital,False,laboratório de eletrônica digital,circuitos digitais,36.0,36.0,0.0,0.0,129,006
+lógica de programação,False,lógica de programação,não há,72.0,30.0,42.0,0.0,142,007
+mecânica geral,False,mecânica geral,geometria analítica; fenômenos mecânicos,72.0,0.0,72.0,0.0,155,006
+probabilidade e estatística,False,probabilidade e estatística,cálculo em uma variável,72.0,16.0,56.0,0.0,178,006
+processamento de sinais,False,processamento de sinais,análise de sinais; algoritmos em bioinformática,36.0,36.0,0.0,0.0,182,004
+química geral,False,química geral,não há,72.0,0.0,72.0,0.0,200,007
+química geral experimental,False,química geral experimental,não há,72.0,72.0,0.0,0.0,201,007
+sistemas mecânicos,False,sistemas mecânicos,mecânica geral,72.0,0.0,72.0,0.0,219,005
+séries e equações diferenciais ordinárias,False,séries e equações diferenciais ordinárias,cálculo em uma variável,72.0,10.0,62.0,0.0,222,006
+álgebra linear,False,álgebra linear,geometria analítica,72.0,10.0,62.0,0.0,249,006

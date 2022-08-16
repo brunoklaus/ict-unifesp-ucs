@@ -1,0 +1,62 @@
+Nome do Componente Curricular: Biotecnologia Animal
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introdução à biotecnologia animal.
+Específicos:
+Revisão sobre as diferentes tecnologias empregadas na biotecnologia animal.
+Ementa:
+Conceitos gerais. Bases da zoologia. Bases da fisiologia Animal. Introdução à Biotecnologia Animal.
+Aplicações. Doenças veterinárias de interesse econômico. Biotecnologia aplicada à produção e
+reprodução animal. Métodos de cultivo de células animais in vitro. Métodos de transferência de genes
+para células de mamíferos e células de insetos. Animais transgênicos: aplicações. Clonagem de animais.
+Conteúdo Programático:
+•
+Fisiologia comparativa dos animais.
+•
+Doenças veterinárias.
+•
+Reprodução animal.
+•
+Transferência de genes
+•
+Transgênicos
+•
+Clonagem de animais.
+Metodologia de Ensino Utilizada:
+Aulas expositivas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico,
+com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do aluno na
+unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+ ALBERTS, A.; BRAY, D., JOHNSON, A, LEWIS, J., RAFF, M., ROBERTS, K.; WALTER, P. Fundamentos
+da Biologia Celular. 1999. Editora Artmed – Porto Alegre – RS;
+ LODISH, H. et al. Biologia Celular e Molecular. 2005. 5a ed., Ed. Artmed;
+ COOPER, Geoffrey M.; HAUSMAN, Robert E. A célula: uma abordagem molecular. 3.ed. Porto
+Alegre: Artmed, 2007
+Complementar:
+ LEHNINGER, A.L.; NELSON, D.I.; COX, M.M. Princípios de Bioquímica. 2007. 4a ed. Ed. Sarvier.
+
+
+
+
+
+
+JE Smith. Biotechnology. 5ed. Cambridge 2009.
+GROSS, David R. Animal models in cardiovascular research. 3 ed. New York, N.Y.: Springer, 2009.
+BOREM, Aluizio; SANTOS, Fabricio R.; BOWEN, David E. Understanding biotechnology. New
+Jersey: Prentice Hall, 2003
+HAIDER, Syed Imtiaz; ASHOK, Anika. Biotechnology: A comprehensive training guide for the
+biotechnology industry. Flórida, USA: CRC Press, 2009.
+
+

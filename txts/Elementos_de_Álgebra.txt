@@ -1,0 +1,47 @@
+Nome do Componente Curricular: Elementos de Álgebra
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Familiarizar os alunos com os conceitos pertinentes às mais comuns estruturas algébricas, a saber,
+grupos e anéis.
+Específicos:
+Ao final da unidade curricular os alunos devem ser capazes de compreender e utilizar resultados
+acerca de grupos, anéis e corpos. Para lidar com facilidade com estes conceitos é altamente
+recomendável que o aluno tenha cursado o curso de Teoria de Números e Criptografia.
+Ementas:
+Conceitos básicos da Teoria de Grupos, Anéis e Corpos.
+Conteúdo Programático:
+• Grupos, subgrupos, grupos cíclicos, grupos de permutações, subgrupos normais, grupos
+quocientes. Teorema de Lagrange. Homomorfismos de grupos e o teorema do isomorfismo de
+grupos.
+• Anéis. Ideais, ideais primos, maximais e principais. Homomorfismo de anéis e o teorema do
+isomorfismo de anéis. Domínios de integridade. Corpos e subcorpos.
+• Anel de polinômios. Fatoração de polinômios sobre um corpo.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. FRALEIGH, J. B. A first course in abstract algebra. 7ª ed. Boston: Pearson, 2002.
+2. GARCIA, A.; LEQUIAN, Y. Elementos de álgebra. 5ª ed. Rio de Janeiro: SBM-IMPA, 2008.
+3. GONÇALVES, A. Introdução à álgebra. 5ª ed. Rio de Janeiro: SBM-IMPA, 2011.
+Complementar:
+1. CLARK, A. Elements of abstract algebra. 2ª ed. New York: Dover Publications, 1984.
+2. DESDKINS, W. E. Abstract algebra. 2ª ed. New York: Dover Publications, 1995.
+3. MILIES, F. C. P.; COELHO, S. P. Números: uma introdução à Matemática. 3ª ed. São Paulo:
+EDUSP, 2006.
+4. ROTMAN, J. J. An introduction to theory of groups. 4ª ed. New York: Springer, 1994.
+5. WARNER, S. Modern algebra. 1ª ed. New York: Dover Publications, 1990.
+
+

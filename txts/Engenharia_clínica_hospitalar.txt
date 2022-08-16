@@ -1,0 +1,63 @@
+Ministério da Educação
+Universidade Federal de São Paulo
+Campus São José dos Campos
+Departamento de Ciência e Tecnologia
+CURSO DE ENGENHARIA BIOMÉDICA
+
+Nome do Componente Curricular: Engenharia Clinica Hospitalar Aplicada
+Período: 8º semestre
+Pré-requisitos: Introdução à Eletrotécnica
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36
+Ementa:
+Introdução à engenharia clínica, Inventário e Implantação de grupo de manutenção de
+equipamentos hospitalares, Gerenciamento da manutenção – Controle periódico, Rotinas de
+Manutenção Corretivas e Preventivas; Portarias, legislações, regulamentações e normas para
+certificação, registro, instalação e manutenção dos equipamentos médicos hospitalares mais
+usados; Gerenciamento de serviços externos; Aquisição de equipamentos médicos; Fundamentos
+de segurança para unidades de saúde.
+Bibliografia
+Básica:
+1. Calil, Saide Jorge; Gomide E.T.; “Equipamentos Médico-Hospitalares e Gerenciamento da
+Manutenção”, ed 1, F, Editora Ministério da Saúde, 2002
+2. Oliveira, V.C.M; Manual para registro de equipamentos médicos – Agencia Nacional de
+Vigilância Sanitária.
+3. Webster, J.G.; Cook, A.M. “Clinical Engineering – Principles and Practices”, Prentice Hall, 1979.
+Complementar:
+1. Webster, J.G. “Medical Instrumentation – Application and Design”, 2ª ed., Houghton Mifflin Co.,
+Boston, USA, 1992.
+2. Dyro, J. “Clinical Engineering Handbook”, Elsevier Academic Press., Boston, USA, 1992.
+3. Holsbach, LR; Varani, ML; Calil, JS. Manutenção preventiva em Equipamentos MédicoHospitalares. Ed. Anvisa, 2005.
+4. SABBATINI, R.M.E. “Informática em Medicina”, São Paulo, Editora
+5. McGraw-Hill, 1992. Segurança E Medicina Do Trabalho. Manual de legislação Atlas. São Paulo.
+Editora Atlas. 54ª ed. 2003.
+Nome do Componente Curricular: Engenharia Médica Aplicada
+Período: 10º semestre
+Pré-requisitos: Fisiologia Humana I; Imagens Biomédicas; Transdução de Grandezas Biomédicas;
+Probabilidade e Estatística
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36
+Ementa:
+Introdução à Engenharia Médica. Introdução ao Monitoramento Clínico Hospitalar e à Intervenção
+Clínica. Desenvolvimento de Sistemas de Apoio ao Diagnóstico Médico.
+Bibliografia
+Básica:
+1. BRONZINO, J. “Medical Devices and Systems”. CRC Press, 3ª edição, 2006.
+2. HALL, J., GUYTON, A. “Tratado de fisiologia médica”. 12 ed. Rio de Janeiro: Elsevier, 2011.
+3. THEODORIDIS, S. e KOUTROUMBAS, K., “Pattern recognition”, quarta edição, Elsevier, 2009.
+Complementar:
+1. NORTHROP, R. “Noninvasive Instrumentation and Measurement in Medical Diagnosis”, CRC
+Press, 2002.
+2. SEIFTER, J., RATNER, A., SLOANE, D., “Concepts in medical physiology”. Lippincott Willians &
+Wilkins, 2005.
+3. DUDA, R. O, HART, P. E., STORK, D. G., “Pattern classification” 2 ed. New York: John Wiley &
+Sons, 2000.
+4. BISHOP, C. M. “Pattern recognition and machine learning”. New York: Springer, 2006.
+5. DOUGHERTY, G. “Digital image processing for medical applications”. Cambridge: Cambridge
+University Press, 2009.
+
+51
+
+

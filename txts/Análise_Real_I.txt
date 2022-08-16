@@ -1,0 +1,48 @@
+Nome do Componente Curricular: Análise Real I
+Pré-requisitos: Cálculo em Uma Variável
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Formalizar os conceitos básicos que envolvem os números e funções reais.
+Específicos:
+Apresentas aos alunos o formalismo sobre supremo e ínfimo, completude da reta real, limites,
+continuidade e derivação de funções.
+Ementa:
+Conjuntos. Cardinalidade. Reta real e completude. Sequências e séries. Convergência e limites.
+Topologia da reta. Continuidade de funções. Diferenciação.
+Conteúdo Programático:
+• Conjuntos. Cardinalidade.
+• O corpo dos números reais. Axioma da completude. Supremo e ínfimo.
+• Sequências. Sequências monótonas, subsequências. Convergência e limites. Sequências de
+Cauchy. Séries numéricas. Convergência e limites.
+• Topologia da reta.
+• Limites e continuidade de funções. Continuidade uniforme. Limites laterais. Limites infinitos.
+Limites ao infinito.
+• Diferenciação. Teorema do valor médio. Regras de L´Hospital. Teorema de Taylor.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. FIGUEIREDO, D. G. Análise I. 2ª ed. Rio de Janeiro: LTC, 2008.
+2. LIMA, E. L. Análise real. V. 1. Rio de Janeiro: IMPA, 2009.
+3. LIMA, E. L. Curso de análise. V. 1. Rio de Janeiro: IMPA, 2009.
+Complementar:
+1. BARTLE, R. G. Introduction to real analysis. 4ª ed. New York: John Wiley & Sons, 2011.
+2. BRESSOUD, D. M. A radical approach to real analysis. 2ª ed. Mathematical Association of
+America, 2006.
+3. LAY, S. R. Analysis with an introduction to proof. 4ª ed. New Jersey: Prentice Hall, 2005.
+4. ROYDEN, H. L. Real analysis. 2ª ed. New Jersey: Pearson, 1988.
+5. RUDIN, W. Principles of mathematical analysis. 3ª ed. New York: McGraw-Hill, 1979.
+
+

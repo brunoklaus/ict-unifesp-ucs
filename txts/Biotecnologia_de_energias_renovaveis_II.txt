@@ -1,0 +1,66 @@
+Nome do Componente Curricular: Biotecnologia de Energias Renováveis II
+Pré-requisitos: Biotecnologia de Energias Renováveis I
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Apresentar aos alunos os conceitos relacionados à produção de biocombustíveis além do etanol
+(biogás, biocombustíveis de segunda geração, butanol, etc.)
+Específicos:
+O aluno será capaz de analisar os conceitos envolvidos com a produção de outros biocombustíveis
+além do etanol, as principais matérias primas e processos industriais de sua produção, com foco nos
+processos biotecnológicos envolvidos, além de aspectos relacionados à sustentabilidade.
+Ementa:
+Biogás. Butanol. Hidrogênio. Biocombustíveis avançados. Fermentação de pentoses. Rotas
+termoquímicas para obtenção de biocombustíveis de segunda geração. Biocombustíveis de algas.
+Biocombustíveis de aviação. Sustentabilidade da produção de biocombustíveis. Biorrefinarias.
+Conteúdo Programático:
+1. Biodigestão
+1.1. Resíduos agropecuários
+1.2. Resíduos urbanos
+1.3. Resíduos industriais
+2. Biocombustíveis avançados
+2.1. Uso de materiais lignocelulósicos
+2.2. Rotas termoquímicas
+2.3. Fermentação de gás de síntese
+2.4. Fermentação de C5
+2.5 Fermentação de C6 a outros biocombustíveis
+2.6 Fermentação ABE (Butanol)
+3. Biocombustíveis de algas
+4. Biocombustíveis de aviação
+5. Sustentabilidade da produção de biocombustíveis
+6. Biorrefinarias
+Metodologia de Ensino Utilizada:
+Aulas expositivas e seminários; apresentação de conceitos e discussão de aplicações.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+ HINRICHS, R. A.; KLEINBACH, M.; REIS, L. B. Energia e meio ambiente. São Paulo: Cengage
+Learning, 2012. 724 p. ISBN 978-85-221-0714-8.
+ SCHMIDEL W.; LIMA U.A.; AQUARONE E.; BORZANI W. Biotecnologia industrial. vol 2:
+Engenharia Bioquímica, Edgard Blucher, 2000.
+ GOLDEMBERG, J.; LUCON, O. Energia, meio ambiente e desenvolvimento. 3. ed., rev. e ampl.
+São Paulo: EDUSP, 2008. 396 p. (Acadêmica; 72). ISBN 9788531411137 (broch.)
+Complementar:
+ FERREIRA, H. S. Biocombustíveis: fonte de energia sustentável. São Paulo: Saraiva 2010,
+recurso online ISBN 9788502143074.
+ KLASS, D. L. Biomass for renewable energy, fuels and chemicals. Oxford: Academic Press,
+1998.
+ DRAPCHO, C.; WALKER, T.; NGHIEM, J. Biofuels Engineering: Process Technology. 1 ed.
+Mcgraw-hill, 2008, 371 p.
+ GUPTA, R. B. Gasoline, Diesel, and Ethanol Biofuels from Grasses and Plants. Cambridge
+University Press, 2010, 246 p.
+ MOUSDALE, D. M. Biofuels: Biotechnology, Chemistry, and Sustainable Development. CRC
+Press, 2008, 424 p.
+
+

@@ -1,0 +1,97 @@
+Nome do Componente Curricular: Síntese De Polímeros
+Pré-requisitos: Química Orgânica, Materiais Poliméricos
+Carga Horária Total: 72h
+Carga Horária Prática: 20h
+Carga Horária Teórica: 52h
+Objetivos
+Gerais:
+Capacitar o aluno para o entendimento, analise e síntese dos principais polímeros, assim como os
+conceitos fundamentais sobre as técnicas de polimerização, processos de fabricação, novas tecnologias
+e as principais áreas de aplicação.
+Específicos:
+Compreender as principais reações de polimerização (poliadição e policondensação), as matérias
+primas, os mecanismos envolvidos, os processos de polimerização. Correlacionar os fundamentos
+teóricos e práticos das reações de polimerização com as características finais dos polímeros e suas
+aplicações.
+Ementa:
+Introdução geral e conceitos básicos sobre polímeros; Origem das matérias primas empregadas na
+síntese de polímeros; Polimerização em etapas; Polimerização em cadeia via radicais livres;
+Polimerização em cadeia estereo-regular (catalisadores
+Ziegler-Natta e Metalocênicos);
+Homopolimerização e Copolimerização; Polimerização
+por abertura de anel; Técnicas de
+polimerização; Reações químicas em polímeros; Processos de polimerização; Principais aplicações;
+Laboratório de síntese dos principais polímeros comerciais.
+Conteúdo Programático:
+1 - INTRODUÇÃO: Matérias Primas; Pólos Petroquímicos; Classificação das
+matérias primas
+e dos polímeros;
+1.1 Monômeros1
+1.2 Iniciadores
+1.3 Solventes
+1.4 Estabilizantes/surfatantes
+1.5 Inibidores
+1.6 Outros
+2 - POLIMERIZAÇÃO EM ETAPAS: Polimerização e Copolimerização; Técnicas de Polimerização;
+Polímeros Comerciais;
+3 - POLIMERIZAÇÃO EM CADEIA: Polimerização e Copolimerização; Técnicas de Polimerização;
+Polímeros Comerciais;
+3.1 Via Radicais Livres
+3.2 Via Catalisadores Estéreo Regulares; (Ziegler-Natta, Metalacenos, etc.);
+3.3 Outras Reações;
+4 - TÉCNICAS DE POLIMERIZAÇÃO
+4.1 Polimerização interfacial
+4.2 Polimerização em massa
+4.3 Polimerização em solução
+
+4.4 Polimerização em suspensão
+4.5 Polimerização em emulsão
+4.6 Polimerização em miniemulsão
+4.7 Polimerização em fase gasosa
+4.8 Polimerização via biotecnológica
+4.9 Polimerização e Copolimerização por Abertura de Anel
+4.10 Polimerização inversa
+5 - REAÇÕES QUÍMICAS EM POLÍMEROS:
+5.1 Mecanismos ;
+5.2 Reações de Ligação Cruzada;
+5.3 Reações de modificação & enxerto
+5.4 Modificação de polímeros
+6 - PROCESSOS DE POLIMERIZAÇÃO
+6.1 Polimerização em batelada
+6.2 Polimerização com adição rápida "shot"
+6.3 Polimerização em semi-contínuo
+6.4 Polimerização contínua
+6.5 Polimerização por semente e "core-shell"6.6 Fluxogramas dos processos de
+polimerização
+Metodologia de Ensino Utilizada:
+Aulas expositivas, aulas práticas e atividades não presenciais na sala de aula tais como relatórios, visitas
+e listas de exercícios.
+Recursos Instrucionais Necessários:
+Técnicos para auxiliar nas aulas práticas,monitor e tutor, retroprojetor, moodle, material de consumo e
+equipamentos para as aulas práticas.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico,
+com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do aluno na
+unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Sperling, L.H. Introduction to Physical Polymer Science, 4a ed. Hoboken: John Wiley & Sons.
+2006, 845p.
+2. Billmeyer Jr., F.W. Textbook of Polymer Science, 3rd ed., New York: John Wiley, 1984. 578p.
+3. Odian, G. Principles of Polymerization, Hoboken: John Wiley & Sons, 4a ed., 2004, 812p.
+Complementar:
+1. Mano, E.B.; Dias, M. L.; Oliveira, C.M.F. Química Experimental de Polímeros, Rio de Janeiro:
+Edgard Blücher. 2004, 326p.
+2. Brandrup, J.; Immergut, E.H.; Grulke E.A.(eds.). Polymer handbook: Fourth ed. v. 2. Associate
+editors A. Abe and D.R. Bloch. 4th ed. New Jersey, USA: John Wiley & Sons, 1999. 769 p.
+
+3. Mano, EB; Mendes, LC “Introdução a Polímeros” 2a ed. Edgard Blücher, São Paulo, 2a ed. (1999),
+191p.
+4. Michaeli, W.; Greif H. & Kaufmann H. et al. Tecnologia dos Plásticos C,Edgard Bluche, 1995.
+5. Bird, R. Byron; Armstrong, Robert C.. Dynamics of polymeric liquids. 2th ed. New Jersey, USA:
+John Wiley & Sons, 1987. v.2. 437 p.
+
+

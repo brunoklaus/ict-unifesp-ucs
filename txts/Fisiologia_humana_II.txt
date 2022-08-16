@@ -1,0 +1,78 @@
+Nome do Componente Curricular: Fisiologia Humana II
+Período: 4º semestre
+Pré-requisitos: Fisiologia Humana I
+Carga Horária Total: 72h
+Carga Horária Prática: 12h
+Carga Horária Teórica: 60h
+Objetivos
+Gerais:
+Fornecer conhecimentos teórico-práticos acerca do funcionamento fisiológico dos
+sistemas que compõem o corpo humano.
+Específicos:
+Fornecer conhecimento sobre a Fisiologia dos seguintes sistemas: Sistema
+Cardiovascular, Sistema Respiratório, Sistema Digestório, Sistema Renal, Sistema
+Endócrino, Regulação da Temperatura Corporal.
+Ementa:
+Aulas expositivas e/ou demonstrativas relacionadas aos tópicos: Sistema
+Cardiovascular. Sistema Respiratório. Sistema Digestório. Sistema Renal. Sistema
+Endócrino. Regulação da Temperatura Corporal. Aulas expositivas e/ou demonstrativas
+relacionadas aos tópicos.
+Conteúdo Programático:
+ Sistema Cardiovascular: Músculo Cardíaco e Excitação Rítmica do Coração,
+Controle do Fluxo Sanguíneo, Regulação da Pressão Arterial.
+ Sistema Respiratório: Ventilação e Circulação Pulmonar, Controle da
+Respiração.
+ Sistema Renal: Compartimentos dos Líquidos Corporais, Líquidos
+Extracelulare e Intracelular, Formação de Urina pelos Rins.
+ Sistema Digestório: Motilidade, Secreções, Digestão e Absorção intestinal.
+ Sistema Endócrino: Eixo Hipotalâmico-Hipofisário, Hormônios Metabólicos da
+Tireóide, Hormônios Córtico-Supra-Renais, Hormônios Pancreáticos. Bases da
+Cronobiologia.
+ Metabolismo: Controle Hipotalâmico da Temperatura, Influência do Sistema
+Nervoso Autônomo.
+Metodologia de Ensino Utilizada:
+Oferecer aos discentes a oportunidade aprendizado sobre a fisiologia humana através
+de aulas expositivas, aulas demonstrativas, apresentação de seminários e estudos de
+casos.
+Recursos Instrucionais Necessários:
+Data-show, lousa, equipamentos do laboratório de Fisiologia Experimental, software de
+simulação computadorizada e o software LabStudent.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+
+atividades letivas e divulgado aos discentes. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do discente ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do discente na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+1.
+Silverthorn, Deen Unglaub. - Fisiologia Humana – Uma Abordagem Integrada.
+5a ed., 2010 - Ed. Artmed.
+2.
+Guyton, A C.; Hall, E. J. - Fisiologia Humana e Mecanismos das Doenças. 6a
+ed., 1997 - Ed. Guanabara Koogan.
+3.
+Constanzo L. Fisiologia. 3a ed., 2007- Ed. Elsevier.
+4.
+Berne & Levi - Fisiologia. 6a ed., 1997 - Ed. Elsevier.
+Complementar:
+1.
+Barker K. Na bancada - Manual de iniciação científica em laboratório de
+pesquisas biomédicas. 1. ed. Porto Alegre: Artmed, 2002.
+2.
+Abbas, A.K.; Kumar, V; Fausto, N.; Aster, J.C. Robbins & Cotran – Patologia:
+Bases Patológicas das Doenças. 8a. ed. 2010. Elsevier.
+3.
+Nelson, D.L.; CoX, M.M. Princípios de Bioquímica de Lehninger. 5a. ed. 2011.
+Artmed.
+4.
+Carroll, Robert G - Fisiologia. 6a ed. 2007 - Ed. Elsevier 2007.
+5.
+Douglas, Carlos R -Tratado de Fisiologia Humana Aplicada às Ciências
+Médicas. 6a ed., 2006 – Ed. Guanabara-Koogan.
+
+

@@ -1,0 +1,87 @@
+Nome do Componente Curricular: Química Geral Experimental
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 72h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Introduzir técnicas laboratoriais básicas de todas as áreas da química: orgânica, inorgânica, analítica,
+físico-química. Noções de segurança e manipulação de equipamentos. Coleta e tratamento de dados
+experimentais. Consulta de propriedades químicas em manuais.
+Específicos:
+O aluno será capaz de:
+• Montar fluxogramas de experimentos.
+• Buscar dados (propriedades e toxicidade) dos produtos utilizados em cada experimento.
+• Manipular equipamentos.
+• Montagem dos experimentos.
+• Realizar os experimentos.
+• Analisar os resultados obtidos.
+Ementa:
+Noções de segurança. Equipamentos. Técnicas básicas. Tratamento de dados. Coleta de dados.
+Titulação ácido-base. Equilíbrio químico. Química Qualitativa. Química Quantitativa. Físico-química.
+Química orgânica. Química dos produtos naturais.
+Conteúdo Programático:
+A – Noções de segurança
+B – Equipamentos
+C – Técnicas básicas
+D – Tratamento dos dados (notação científica, precisão, incerteza)
+E – Coleta de dados em Handbook e Merck index
+F – Titulação ácido-base: titulação do ácido acético (vinagre)
+1. Diluição e cálculos de concentração
+2. Preparação e padronização de soluções
+3. Soluções tampão
+G – Equilíbrio químico: cromato e dicromato de potássio
+1. Determinação da constante de equilíbrio
+2. Aplicação do princípio de Le Chatelier
+H – Química qualitativa: separação dos íons na tinta da caneta
+1. Determinação analítica de íons
+2. Cromatografia em camada delgada
+I – Química quantitativa: determinação da quantidade de ferro na vitamina
+1. Espectrofotometria: lei de Beer
+2. Construção de curva padrão
+3. Complexo ferro-fenantrolina
+J – Físico-Química
+1. Reações de óxido-redução: Metais como agentes redutores e halogênios e Fe+3 como agente
+oxidante
+2. Identificar a natureza das reações de oxi-redução
+
+K – Calorimetria: Calor de combustão e de solidificação da vela
+1. Compreender o funcionamento de um calorímetro
+2. Aplicação da Lei de Hess
+L – Cinética química: reação entre iodeto e tiosulfato
+1. Método das velocidades iniciais
+2. Determinação da constante de velocidade
+3. Efeito de um catalisador
+M – Química Orgânica: síntese e análise da aspirina
+1. Síntese orgânica
+2. Purificação
+3. Filtração por sucção
+N – Química dos produtos naturais: extração da cafeína de chá
+1. Isolamento de um produto natural através de extração por solventes
+2. Destilação simples
+3. Cromatografia em camada delgada
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e técnicas. Discussão dos experimentos e resultados.
+Recursos Instrucionais Necessários:
+Laboratório químico.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Atkins, P.; Jones, L. Princípios de química: questionando a vida moderna e o meio ambiente.
+3.ed. , 2006.
+2. Medham, J et al. Vogel Análise química quantitaiva. 6.ed. LTC, 2002.
+3. Baird, C.; Cann, M.. Environmental chemistry. 4 ed. Freeman, 2008.
+Complementar:
+1. Solomons T. W. G., Fryhle C. B. Química Orgânica, v. 1 e 2, LTC, 9 ed., 2009.
+2. Skoog, D. A. et al. Fundamentos de química analítica. Cengage Learning, 8 ed., 2006.
+3. Mano, E. B.; Dias, M. L.; Oliveira, C. M. F. Química experimental de polímeros. Blucher, 2004.
+4. Simões, J A.M. et al. Guia do laboratório de química e bioquímica. Lidel, 2000.
+5. Brown, T. L. et al. Química: a ciência central. 9 ed. Pearson Prentice Hall, 2005.
+
+

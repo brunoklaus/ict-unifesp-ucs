@@ -1,0 +1,86 @@
+Nome do Componente Curricular: Métodos Numéricos para Equações Diferenciais
+Pré-requisitos: Cálculo Numérico; Álgebra linear; Séries e Equações Diferenciais Ordinárias
+Carga Horária Total: 72h
+Carga Horária Prática: 14h
+Carga Horária Teórica: 58h
+Objetivos
+Gerais:
+Familiarizar o aluno com as técnicas computacionais na solução de problemas matemáticos
+governados por Equações Diferenciais, através do estudo de métodos numéricos. Estudar
+teoricamente e computacionalmente os métodos numéricos. Analisar e discutir soluções de
+problemas oriundos de aplicações na Física, reforçando a interdisciplinaridade do assunto.
+Específicos:
+Ao final da unidade curricular o aluno deverá ser capaz de analisar problemas matemáticos
+envolvendo Equações Diferenciais, e resolvê-los numericamente com o auxílio de computadores. O
+aluno deverá ser capaz de compreender modelos físicos que motivam o tipo de problema abordado
+na Unidade Curricular. Além disso, o aluno deverá estar apto de discutir a importância de tais
+problemas e de analisar suas soluções, de forma a ressaltar o aspecto interdisciplinar do tema. Deste
+modo, um dos principais objetivos da UC é fazer com que o aluno compreenda os aspectos
+interdisciplinares de Matemática, Computação e Física, envolvidos no assunto e que tenha uma visão
+maior de como fazer relações semelhantes com outros temas estudados no curso.
+Ementa:
+Revisão de conceitos fundamentais. Revisão sobre métodos numéricos para EDO. Método de
+shooting. Introdução à métodos numéricos para EDP. Desenvolvimento de Taylor e métodos de
+Diferenças Finitas. Solução numérica de equações parabólicas, elípticas e hiperbólicas. Discussão dos
+resultados baseados nos modelos físicos que motivam estas equações. Introdução aos métodos de
+elementos finitos para problemas de valor de contorno.
+Conteúdo Programático:
+ Estudo de casos envolvendo problemas oriundos da Física que são modelados com Equações
+Diferenciais.
+ Revisão de conceitos fundamentais: problemas de valor inicial e de contorno, tipos de equações e
+classificação, condições de contorno do tipo Neumann e Dirichlet.
+ Revisão sobre métodos numéricos para solução de sistemas lineares e não lineares destacando
+aqueles mais utilizados na resolução de subproblemas oriundos da solução de equações diferenciais
+e como utilizar a estrutura do sistema para construir métodos eficientes.
+ Revisão e aprofundamento sobre métodos numéricos para EDOs e sistemas de EDOs (método de
+Taylor, métodos de passo múltiplo, métodos do tipo preditor-corretor, métodos de Runge-Kutta).
+ O método de shooting.
+ Desenvolvimento de Taylor e métodos de Diferenças Finitas: discretização espacial, discretização
+temporal: métodos explícitos e métodos implícitos. Domínios genéricos e transformação de variáveis.
+ Solução numérica de equações elípticas: a equação de Laplace e de Poisson. Discretizações por
+Diferenças Finitas. Consistência. Estabilidade e convergência. Análise do erro numérico.
+ Solução numérica de equações parabólicas: a equação do calor. Método de Euler explícito e
+implícito. Método de Crank-Nicolson e métodos de direção alternada implícito. Consistência,
+estabilidade e convergência. Análise do erro numérico.
+ Solução numérica de equações hiperbólicas: A equação da onda. Discretização upwind, método de
+Lax-Wendroff, método de Euler implícito e Crank-Nicolson. Consistência, estabilidade e condição CFL.
+Análise do erro numérico.
+ O método de Elementos Finitos para problemas de valor de contorno: discretização do domínio e os
+polinômios interpoladores. A aproximação de Rayleigh-Ritz. A aproximação de Galerkin.
+ Discussão sobre os resultados obtidos nos problemas aplicados à Física.
+
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios. Aulas de laboratório. Estudo de casos sobre os problemas
+formulados. Seminários e trabalhos envolvendo a interdisciplinaridade do tema.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Laboratório de Informática. Acesso ao MOODLE como
+ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. BURDEN, R. L.; FAIRES, J. D. Análise numérica. 8ª ed. São Paulo: Cengage Learning, 2008.
+2. FRANCO, N. B. Cálculo numérico. São Paulo: Pearson, 2006.
+3. SMITH, G. D. Numerical solution of partial differential equations: finite difference method. 3ª
+ed. Oxford: Oxford University Press, 1986.
+Complementar:
+1. BRENNER, S. C.; SCOTT, L. R. The mathematical theory of finite element methods. 3ª ed. New
+York: Springer, 2008.
+2. CHAPRA, S. C.; CANALE, R. P. Métodos numéricos para engenharia. 5ª ed. São Paulo:
+McGraw-Hill, 2008.
+3. HOFFMAN, J. D. Numerical methods for engineers and scientists. 2ª ed. New York: CRC, 2001.
+4. LEVEQUE, R. Difference methods for ordinary and partial differential equations. Philadelphia,
+SIAM, 2007.
+5. LEVEQUE, R. Finite volume method for hyperbolic problems. 1ª ed. Cambridge: Cambridge
+University Press, 2002.
+6. THOMAS, J. W. Numerical partial differential equations. v. 1. New York: Springer, 1995.
+Observação: Outras referências complementares deverão ser selecionadas, indicadas e utilizadas pelo
+professor de forma a abranger a interdisciplinaridade do tema da maneira particular que o assunto
+for abordado pelo docente.
+
+

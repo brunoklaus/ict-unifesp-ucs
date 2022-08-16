@@ -1,0 +1,67 @@
+Nome do Componente Curricular: Métodos Avançados em Processamento de
+Imagens Biomédicas
+Pré-requisitos: Análise de Sinais
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Reproduzir um ambiente de desenvolvimento de uma empresa de engenharia ou centro
+de pesquisa, que visem superar desafios atuais com técnicas mais complexas em
+Processamento de Imagens Médicas.
+Específicos:
+Apresentar e provocar debates em torno dos tópicos. A medida que os conceitos vão
+sendo compreendidos, o aluno fará sua implementação computacional.
+A
+implementação, assim como, discussão e apresentação de artigos recentes e
+relacionados aos tópicos acima, também fazem parte do conteúdo desta disciplina.
+Ementa:
+Métodos avançados em Processamento de Imagens Médicas: Transformada Wavelet
+conceito, implementação e aplicações 1D e 2D (filtragem, compactação de imagens e
+extração de características). Métodos de Reconstrução de imagens a partir de projeções
+Tomográficas e reflexões de Ultrassom. Métodos avançados em segmentação: baseada
+em borda, e região, usando: contornos ativos, GVF; crescimento em regiões, fuzzy
+connectedness; e por agrupamento de atributos k-means-clustering. Introdução à
+Elementos Finitos e Morfismo para uso em Eletrografia em Processamento de Imagens
+Médicas.
+Conteúdo Programático:
+1) Transformada Wavelet Continua, conceito e aplicações 1D e 2D. Filtragem,
+Realce e Extração de Características.
+2) Métodos de Reconstrução de imagens a partir de projeções Tomográficas e
+Sinais de RF de Ultrassom.
+3) Métodos avançados em segmentação:
+a) Segmentação baseada em bordas, usando modelos deformáveis: Gradiente
+Vector Flow.
+b) Segmentação baseado em região: usando teoria de grafo e fuzzy
+connectedness;
+c) Segmentação estatística: k-means ou fuzzy C Means clustering
+4) Introdução a Elementos Finitos e Morfismo para Elastografia em Imagens
+Biomédicas.
+Metodologia de Ensino Utilizada:
+Aulas expositivas, implementação computacional dos métodos e seminários..
+Recursos Instrucionais Necessários:
+
+Lousa, projetor, acesso ao laboratório de informática, acesso ao Matlab.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica
+1. Gonzalez, Rafael C.; Woods, Richard Processamento Digital De Imagens. 3ª
+Ed. – 2011: Pearson Education - Br
+2. Geoff Dougherty. Digital Image Processing for Medical Applications 2009:
+Cambridge University Press
+3. Paul Suetens. Fundamentals of Medical Imaging 2ª Ed, 2009.: Cambridge
+University Press
+Complementar:
+1. Kayvan Najarian, Robert Splinter. Biomedical Signal and Image Processing, 2ª
+Ed, 2012.: Taylor & Francis Group, LLC
+2. PARKER, J.R. Algorithms for image processing and computer vision. New
+York: wiley Computer Publishaing, 1996. 417 p ISBN 0/471-14056-2.
+
+

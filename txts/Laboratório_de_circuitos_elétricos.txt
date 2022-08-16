@@ -1,0 +1,91 @@
+Nome do Componente Curricular: Laboratório de Circuitos Elétricos
+Período: 5o semestre
+Pré-requisitos: Fenômenos Eletromagnéticos e Circuitos Elétricos I
+Carga Horária Total: 36h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Desenvolver no discente a capacidade de aplicar os conceitos teóricos de eletricidade
+em circuitos elétricos de corrente contínua (CC) e alternada (CA).
+Propiciar ao discente uma visão prática em desenvolver, montar e avaliar circuitos
+elétricos utilizando componentes eletrônicos, circuitos integrados e equipamentos de
+análise.
+Específicos:
+
+Aprender a operar instrumentos elétricos: multímetros, fontes de tensão CC,
+gerador de função e osciloscópio;
+
+Montar e analisar circuitos com diferentes componentes e elementos
+eletroeletrônicos, tais como: resistores, capacitores, indutores, transformadores, diodos,
+transistores, amplificadores operacionais e circuitos integrados diversos;
+
+Analisar circuitos elétricos (CC e CA) em diferentes situações experimentais; e
+
+Analisar a resposta em frequência de filtros.
+Ementa:
+Introdução aos instrumentos de medição e alimentação, práticas com circuitos
+resistivos, implementação das principais configurações de amplificadores operacionais,
+introdução a sensores, osciladores, filtros passivos, ativos e resposta em frequência,
+transformadores, aplicação de componentes semicondutores, diodos e transistores de
+junção bipolar.
+Conteúdo Programático:
+ Introdução ao protoboard, multímetros, fonte DC, osciloscópio, gerador
+de função;
+ Associação de resistores, cálculo de tolerância, medição de resistência,
+tensão e corrente;
+ Ponte de Wheatstone, equivalente de Thévenin, Leis de Kirchhoff;
+ Práticas com Amplificadores Operacionais em modo comparador, modo
+amplificador inversor, modo amplificador não inversor, cascata de
+amplificadores;
+ Aplicações de sensores de temperatura (LM35) e luminosidade (LDR);
+ Carga e descarga do capacitor, análise do tempo de subida e constante
+de tempo;
+ Aplicações e análise com CI555 (oscilador);
+ Filtros passivos, ativos de primeira e segunda ordem e análise da
+resposta em frequência;
+ Diodos – Retificadores de meia onda, retificadores de onda completa,
+
+filtro capacitivo, regulador de tensão zenner;
+ Análise de ruídos;
+ Ttransformadores;
+ Transistores de junção bipolar – Caracterização dos TJB, pontos de
+operação, circuito chaveador, circuito de polarização fixa, circuito de
+polarização estável; e
+ Ponte H – Controle de motor DC com PWM.
+Metodologia de Ensino Utilizada:
+Aulas práticas de laboratório, desenvolvimento de projetos e uso de softwares de
+simulação.
+Recursos Instrucionais Necessários:
+Laboratório de práticas, laboratório de informática, lousa.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas e divulgado aos discentes. O sistema adotado deve
+contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do discente ao longo do semestre.
+Para isto, as avaliações deverão ser ponderadas de maneira crescente ou, ainda,
+propiciar alternativas de recuperação, como provas substitutivas ou aplicação de
+trabalhos adicionais. A promoção do discente na unidade curricular obedecerá aos
+critérios estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no Projeto
+Pedagógico do Curso.
+Bibliografia
+Básica:
+1. NILSSON, James W.; RIEDEL, Susan A.; MARQUES, Arlete Simille;
+ARAÚJO, Antônio Emílio Angueth de; LOPES, Ivan José da Silva. Circuitos
+elétricos. 8 ed. São Paulo: Pearson Prentice Hall, 2009. 574 p. ISBN 978-857605-159-6.
+2. JOHNSON, David E; HILBURN, John L; JOHNSON, Johnny R. Fundamentos
+de análise de circuitos elétricos. Rio de Janeiro: LTC Editora, 2012. 539 p.
+ISBN 978-85-216-1238-4.
+3. ORSINI, L.q; CONSONNI, Denise. Curso de circuitos elétricos. 2.ed. São
+Paulo: Blucher, 2002. 286 p. ISBN 978-85-212-0308-7.
+Complementar:
+1. Charles Alexander, Matthew N. O. Sadiku; Fundamentos de Circuitos Elétricos,
+5ª Edição; Editora: McGraw Hill, 2013.
+2. Boylestad, RobertL.; Dispositivos Eletrônicos e Teoria de Circuitos 11ª Edição;
+Editora: Pearson, 2013.
+3. William H Hayt Junior; Analise de circuitos em engenharia, 7ª Edição; Editora:
+McGraw Hill, 2008.
+4. ABDO, Romeu; BATES, David J; MALVINO, Albert. Eletrônica. 7.ed. São
+Paulo: McGraw-Hill, 2007. 672 p. ISBN 978-85-7726-022-5.
+
+

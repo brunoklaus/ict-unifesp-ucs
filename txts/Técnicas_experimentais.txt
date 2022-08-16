@@ -1,0 +1,114 @@
+Nome do Componente Curricular: Técnicas Experimentais
+Pré-requisitos: Ciência e Tecnologia dos Materiais
+Carga Horária Total: 72h
+Carga Horária Prática: 24h
+Carga Horária Teórica: 48h
+Objetivos
+Gerais:
+Fornecer aos alunos conhecimentos básicos sobre as várias técnicas de caracterização de materiais,
+com o propósito de permitir a aplicação na solução de problemas relativos à fabricação e análise de
+falhas de materiais e produtos.
+Específicos:
+O aluno será capaz de:
+- Desenvolver conhecimentos científicos e técnicos necessários à seleção das análises mais adequadas
+para caracterizar um determinado tipo de material.
+- Desenvolver a fundamentação científica necessária à programação do ensaio e à análise e
+interpretação dos resultados obtidos.
+Ementa:
+Caracterização de partículas e sistemas particulados. Técnicas de raios-X: Difração e fluorescência de
+raios-X. Microscopia: Microscopia óptica. Microscopia eletrônica de varredura. Microscopia eletrônica
+de transmissão. Análise da rugosidade superficial: parâmetros e avaliação da rugosidade. Análises
+térmicas: análise térmica diferencial; calorimetria diferencial de varredura; análise termogravimétrica
+e análise dilatométrica. Espectroscopia no ultravioleta visível. Espectroscopia na região do
+infravermelho. Espectroscopia RAMAN.
+Conteúdo Programático:
+A - Caracterização de partículas e sistemas particulados
+1. Caracterização de partículas: definições de diâmetro equivalente, fator de forma, esfericidade.
+2. Amostragem do material particulado: tipos de misturas de pós, segregação e erros de amostragem.
+3. Técnicas de medida de partículas: microscopia, peneiramento, sedimentação (gravitacional e
+centrífuga), elutriação e difração de laser.
+4. Densidade dos pós: densidade volumétrica, densidade aparente, densidade real (princípio de
+Arquimedes e picnometria de hélio).
+5. Área superficial e porosidade: Adsorção de gases. Isotérmicas de adsorção. Teorias de Langmuir e
+BET. Análise de porosidade por adsorção. Princípios, funcionamento de equipamento, aplicações e
+limitações da técnica.
+B - Técnicas de raios-X:
+1. Difração de Raios-X (DRX)
+a) O Fenômeno da difração
+b) Lei de Bragg
+c) Métodos de difração
+d) Configuração do equipamento
+e) Análise de Fourier aplicado à difração de Raios-X
+f) Aplicações: medidas de fase, tensão residual, microtensão e tamanho do cristalito
+g) Preparação da amostra: amostra sólida e amostra em pó
+2. Fluorescência de Raios-X (FRX)
+a) Configuração do equipamento: WD-XRF, ED-XRF e TR-XRF
+b) Aplicação
+
+D – Microscopia
+1. Microscopia óptica (MO): fundamentos básicos do microscópio óptico, componentes do
+equipamento, análise em campo claro, análise em campo escuro, contraste de interferência,
+aplicações do microscópio óptico.
+2. Microscopia eletrônica de varredura (MEV): fundamentos básicos do MEV, componentes do MEV,
+contraste de voltagem, imagem de elétrons secundários, imagem de elétrons retroespalhados,
+preparação de amostras de materiais poliméricos, metálicos e semicondutores.
+3. Microscopia eletrônica de transmissão (MET): princípio de operação, componestes do MET,
+formação de imagem e padrões de difração, aplicações, preparação da amostra de materais
+poliméricos, orgânicos e metálicos
+E - Análise da rugosidade superficial
+1. Conceitos, aplicações e influência do acabamento superficial.
+2. Parâmetros de rugosidade: superfície geométrica, real e efetiva, linha média, percursos (inicial, de
+medição, final e total), comprimento de amostragem (cut-off) e filtros de rugosidade.
+3. Avaliação da rugosidade: rugosidade média (Ra), rugosidade total (Rt), rugosidade parcial (Zi),
+rugosidade máxima (Ry), rugosidade média quadrática (Rq), rugosidade de profundidade média (Rz),
+rugosidade média do terceiro pico e vale (R3Z).
+4. Instrumentos de medição: rugosímetros, perfilômetros mecânico e óptico, microscópio de força
+atômica (AFM) e microscópio de tunelamento (STM).
+F - Análises Térmicas
+1. Apresentação das técnicas de análise térmica mais usuais – análise térmica diferencial (DTA);
+calorimetria diferencial de varredura (DSC); análise termogravimétrica (TGA) e análise dilatométrica
+(DIL). Princípios, funcionamento de equipamento, aplicações e limitações de cada técnica. Estudo de
+casos.
+G - Espectroscopia
+1. Espectroscopia no ultavioleta visível (UV/VIS): O espectro electromagnético. Lei de Lambert-Beer.
+Reta de Calibração. Princípios, funcionamento de equipamento, aplicações e limitações. Estudo de
+casos.
+2. Espectroscopia de infravermelho (FTIR): Princípios: Vibrações moleculares. Modos de vibração.
+Regras de Seleção. Espectrômetros dispersivos e de transformada de Fourier. Preparação de amostras:
+pastilhas de KBr e de polietileno. Guia de interpretação de espectros. Estudo de casos.
+3. Espectroscopia RAMAN: Princípios de funcionamento, equipamento, aplicações e limitações. Estudo
+de casos.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações. Resolução de lista de
+exercícios. Aulas práticas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia. Laboratório de Análises Térmicas;
+Laboratório de Microscopia; Difratômetro de Raios-X.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Mannheimer, W. Microscopia dos Materiais: Uma Introdução. Editora E-papers. 2002.
+2. Sala, O. Fundamentos da Espectroscopia Raman e no Infravermelho. Editora: UNESP. 2ª edição,
+2009.
+3. Mothé, C. G.; Azevedo, A.D. Análise térmica de materiais. Editora Artliber, 2002.
+4. Cullity, B.D.; Stock, S. R. Elements of X-Ray Diffraction. Ed. Prentice Hall; 3rd edition, 2001.
+Complementar:
+1. Merkus, H.G. Particle Size Measurements: Fundamentals, Practice, Quality. Ed. Springer, 2009.
+2. Allen, T. Particle Size Measurement , Volume 1, Ed. Springer; 5th edition, 1996.
+3. Ergeton, R. F. Physical Principles of Electron Microscopy: An Introduction to TEM, SEM, and
+AEM. Ed. Springer, 2010.
+4. Brandon, D.; Kaplan, W.D. Microstructural Characterization of Materials Ed. Wiley; 2nd edition,
+2008.
+5. Whitehouse, D. Surfaces and their Measurement. Ed. Hermes Penton Science, 2002.
+6. Brown, M.E. Introduction to Thermal Analysis: Techniques and Applications. eD. Springer; 2nd
+edition, 2001.
+7. Hollas, J.M. Modern Spectroscopy. Ed. Wiley, 4th edition, 2004.
+
+

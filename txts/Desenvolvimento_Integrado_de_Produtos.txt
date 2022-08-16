@@ -1,0 +1,57 @@
+Nome do Componente Curricular: Desenvolvimento Integrado de Produtos
+Pré-requisitos: Desenho Técnico Básico
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Apresentar ferramentas para o projeto e desenvolvimento de produtos.
+Específicos:
+Capacitar o desenvolvimento de projetos de inovação usando conceitos da engenharia de
+sistemas.
+Gerenciar e organizar projetos industriais com equipes multiprofissionais.
+Aprender as principais ferramentas e técnicas utilizadas no desenvolvimento de produtos
+industriais.
+Ementas:
+Introdução ao desenvolvimento integrado de produtos;
+Principais ferramentas utilizadas no projeto de produtos;
+Manufatura enxuta (Lean Manufacturing);
+Engenharia de sistemas (System Engineering).
+Conteúdo Programático:
+1) Ferramentas básicas de projeto (fluxograma, árvore de objetivos, análise funcional, carta
+morfológica, brainstorming);
+2) Fundamentos de VDI 2221 (Verein Deutscher Ingenieure) e IDEF (Icam DEFinition for Function
+Modeling);
+3) Sistemas de manufatura convencional e avançada;
+4) Técnicas e conceito de engenharia simultânea DFx (Design for x);
+5) Anova (Análise da Variância), FMEA (Failure Mode and Effect Analysis), QFD (Quality Function
+Deployment);
+Metodologia de Ensino Utilizada:
+Aulas expositivas multimídia e atividades em PBL (Project Based Learning).
+Recursos Instrucionais Necessários:
+Sala de aula com computador e projetor multimídia.
+Critérios de Avaliação:
+Promoção baseada em avaliação do desempenho nas atividades do projeto do curso (N3) e
+critérios estabelecidos pela Pró-Reitoria de Graduação com duas avaliações presenciais
+bimestrais (N1 e N2).
+
+Bibliografia
+Básica:
+1.
+Engineering Design Methods – Strategies for Product Design, 3.ed / 2005 - ( Livro )
+CROSS, Nigel. New York: John Wiley & Sons, 211 p. ISBN 0-471-87250-4.
+2.
+Product Design for Manufacture and Assembly ( Livro ) G. Boothroyd and P. Dewhurst,
+Boothroyd Dewhurst, Marcell Dekker, Inc., 2010, 3º ed., 712 p. ISBN 978-14-200-8927-1.
+3.
+Systems Engineering Principles and Practice 2º Ed., (Livro) Alexander Kossiakoff, William
+N. Sweet, Samuel J. Seymour, Steven M. Biemer, Wiley-Interscience: 2011. 560 p. ISBN 047-040548-1.
+Complementar:
+1.
+System Engineering Management - 4.ed / 2017 - ( Livro ) Benjamin S. Blanchard, John
+Wiley & Sons, 2008. 560 p. ISBN 0470167351.
+2.
+The Lean Product Design and Development Journey - A Practical View. 2017 – (Livro),
+Pessoa, Marcus; Trabasso, Luis Gonzaga ", Springer International Publishing, 309p., ISBN: 978-3319-46791-7.
+
+

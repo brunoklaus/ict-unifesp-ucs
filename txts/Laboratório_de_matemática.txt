@@ -1,0 +1,63 @@
+Nome do Componente Curricular: Laboratório de Matemática
+Pré-requisitos: nenhum
+Carga Horária Total: 36h
+Carga Horária Prática: 36h
+Objetivos gerais:
+Esta UC visa preparar o aluno para compreender de forma natural os conceitos apresentados na
+UC Cálculo em Uma Variável.
+Objetivos específicos:
+O aluno será capaz de entender bem os conceitos de números e funções reais. O aluno deve fazer
+manipulações algébricas de forma fluente. O aluno deve também saber e compreender as
+propriedades mais importantes das funções elementares.
+
+Ementa: Números, manipulações algébricas, funções reais elementares.
+Conteúdo Programático:
+Números: Números Naturais; Números Racionais e Números Reais.
+
+Manipulações algébricas elementares: Radiciação; Potenciação; Fatoração de polinômios;
+Operações com Frações; Equações; Inequações. Funções elementares: Introdução; Função
+Linear; Função do Segundo Grau; Funções Polinomiais; Função Exponencial; Função
+Logarítmica; Funções Trigonométricas; Funções Compostas; Funções Inversas; Noções
+introdutórias de limite e derivada.
+
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação e discussão dos assuntos e textos, atividades e
+seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela Unidade Curricular (UC) e
+divulgados aos alunos no início do período letivo. O sistema adotado deve contemplar o processo
+de ensino e aprendizagem estabelecido nesse Projeto Pedagógico.
+
+Bibliografia Básica:
+1.
+
+Iezzi, G.; Murakami, C. Fundamentos de matemática elementar 1: Conjuntos e
+
+Funções. 8ª ed. São Paulo: Atual 2009.
+Iezzi, G; Dolce, O.; Murakami, C. Fundamentos de matemática elementar 2:
+Logaritmos. 9ª ed. São Paulo: Atual 2004.
+2.
+
+3.
+
+Iezzi, G.; machado, N.J.; Murakami, C Fundamentos de matemática elementar 8:
+
+limites, derivadas, noções de integral. 6ª ed. São Paulo: Atual 2005.
+Bibliografia complementar:
+
+1. Iezzi, G. Fundamentos de matemática elementar: sequências, matrizes, determinantes,
+sistemas. 9ª ed. São Paulo: Atual 2013.
+
+2. Iezzi, G. Fundamentos de matemática elementar: trigonometria. 6ª ed. São Paulo: Atual
+2013.
+
+3. Iezzi, G. Fundamentos de matemática elementar: geometria analítica. 9ª ed. São Paulo:
+Atual 2013.
+4. LIMA, E.L.; CARVALHO, P.C.P.; WAGNER, E.; MORGADO, A.C.. A matemática do ensino
+médio. 6. ed. Rio de Janeiro: SBM, 2006.
+
+5. Stewart, J. Cálculo Vol 1. 7ª ed. São Paulo: Cengage Learning 2013.
+
+

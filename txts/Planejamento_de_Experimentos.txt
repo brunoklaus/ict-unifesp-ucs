@@ -1,0 +1,82 @@
+Nome do componente curricular: Planejamento de Experimentos.
+Pré-requisitos: Probabilidade e Estatística.
+Carga horária total: 72 h.
+Carga horária prática: 36 h.
+
+Carga horária teórica: 36 h.
+
+Objetivos gerais:
+Apresentar os conceitos e as ferramentas estatísticas que fundamentam o planejamento de
+experimentos por meio de casos práticos de otimização de produtos e processos ou condução de
+trabalhos científicos.
+Objetivos específicos:
+O aluno será capaz de:
+- Entender os conceitos que fundamentam o planejamento de experimentos;
+- Aplicar os conhecimentos apresentados em casos reais propondo soluções para a otimização de
+experimentos, produtos e processos.
+Ementa:
+Introdução. Princípios básicos da experimentação. Delineamentos inteiramente casualizado e
+casualizado em blocos. Experimentos com um único fator. Planejamento fatorial. Planejamento
+fatorial fracionário. Introdução às superfícies de resposta. Estudo de casos.
+Conteúdo programático:
+1. Introdução.
+O que é Planejamento de Experimentos?
+Qual a importância prática do planejamento de experimentos?
+Revisão de conceitos de inferência estatística.
+2. Princípios básicos da experimentação.
+Repetição.
+Casualização.
+Controle Local.
+3. Tipos de delineamentos.
+Delineamento inteiramente casualizado (DIC).
+Delineamento casualizado em blocos (DCB).
+4. Experimentos com um único fator.
+Nos delineamentos DIC e DCB.
+Balanceado e com parcelas perdidas.
+Fator de efeito fixo e aleatório.
+Análise de variância.
+Adequabilidade do modelo.
+Determinação do tamanho da amostra.
+5. Experimentos com mais de um fator.
+Introdução aos ensaios fatoriais.
+Fatorial com dois fatores nos delineamentos DIC e DCB.
+Fatorial 22.
+Fatorial 23.
+Fatorial 2k geral.
+Confundimento no fatorial 2k.
+
+Análise de Variância.
+6. Fatorial fracionário.
+Meia fração no fatorial 2k.
+Um quarto fração no fatorial 2k.
+Análise de variância.
+7. Superfícies de resposta.
+Introdução aos métodos de superfície de resposta.
+Metodologia de ensino utilizada:
+Aulas expositivas, listas de exercícios, aulas em laboratórios de informática e estudos de casos.
+Recursos instrucionais necessários:
+Sala de aula com lousa e projetor multimídia. Laboratório de Informática. Pacote “R”.
+Acesso ao MOODLE como ferramenta EAD.
+Critérios de avaliação:
+O sistema de avaliação será definido pelo docente responsável pela Unidade Curricular (UC) e
+divulgados aos alunos no início do período letivo. O sistema adotado deve contemplar o processo
+de ensino e aprendizagem estabelecido nesse Projeto Pedagógico. A promoção do aluno na UC
+obedecerá aos critérios estabelecidos pela Pró-reitoria de Graduação, tal como discutido no
+Projeto Pedagógico do Curso.
+Bibliografia básica:
+1. B. B. NETO, I. S. SCARMINIO, R. E. BRUNS, Como Fazer Experimentos – Pesquisa e
+desenvolvimento na ciência e na indústria, 2ª Ed., Editora da Unicamp, 2003.
+2. Montgomery, Douglas C. Introdução ao controle estatístico da qualidade. 4.ed. Rio de Janeiro:
+LTC, 2004. 513 p
+3. Montgomery, Douglas C. Design and analysis of experiments. 8.ed. Hoboken (USA): John Wiley
+& Sons, c2013. 730 p.
+Bibliografia complementar:
+1. Bussab W. O., Morettin P. A. Estatística Básica, 7ª Ed., saraiva, 2011
+2. Montgomery, D. C.; Runger, G. C; Calado, V.; Estatística Aplicada e probabilidade para
+engenheiros, 2ed., LTC, 2008.
+3. Anton J, Design of Experiments for Engineers and Scientists, Butterworth-Heinemann, 2003
+4. Devore, Jay L. Probabilidade e estatística: para engenharia e ciências. São Paulo: Thomson,
+2006. 692 p.
+5. Triola, Mario F. Introdução à estatística. 10 ed. Rio de Janeiro: LTC, 2008. 696 p
+
+

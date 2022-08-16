@@ -1,0 +1,66 @@
+Nome do Componente Curricular: Projeto e Análise de Algoritmos
+Pré-requisitos: Matemática Discreta; Algoritmos e Estruturas de Dados II
+Carga horária total: 72h
+Carga Horária Prática: 20h
+Carga Horária Teórica: 52h
+Objetivos
+Geral:
+Nesta unidade curricular o aluno aprenderá técnicas de construção de algoritmos, prova de corretude,
+cálculo de complexidade. Também entrará em contato com classes de problemas intratáveis na
+exatidão.
+Específicos:
+Ao final do curso é esperado que os alunos projetem algoritmos com um maior formalismo e
+utilizando de técnicas que otimizem a complexidade para o seu melhor desempenho. Além disso, o
+aluno deverá reconhecer problemas de fácil e de difícil solução por meio do estudo de sua
+complexidade.
+Ementa: Análise assintótica. Relações de recorrência. Técnicas de prova de corretude de algoritmos.
+Construção de algoritmos por indução. Análise de Algoritmos: gulosos, ordenação e pesquisa.
+Programação dinâmica. Redutibilidade de problemas. Introdução à NP-Completude.
+Conteúdo Programático:
+Análise de assintótica: Comportamento Assintótico; Notação Assintótica; Notações Padrões e funções
+comuns. Relações de recorrência: Definições Recorrentes; Resolvendo relações de recorrência; Análise
+de Algoritmos usando relação de recorrência. Técnicas de prova de corretude: Demonstração de
+Correção; Técnicas de demonstração: construção, contradição e indução; Algoritmo de Euclides.
+Construção de algoritmos por indução: Exemplos de problemas cujos algoritmos são construídos por
+indução: subgrafo induzido maximal, designação; Algoritmo de divisão e conquista; Programação
+dinâmica: o problema da mochila. Análise de Algoritmos: Estudo da complexidade de algoritmos
+gulosos, de divisão e conquista e de programação dinâmica; Análise de complexidade de métodos de
+ordenação: Quicksort, árvore de busca binária ótima. Redutibilidade de problemas: Exemplos de
+Redução; Reduções envolvendo programação linear. NP-completude: Introdução; Reduções em tempo
+polinomial; Teorema de Cook e Exemplos de provas NP-completude.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; Atividades monitoradas em grupos de trabalho; Laboratório de programação;
+Atividades complementares a distância; Listas de exercícios.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. CORMEN, Thomas H et al. Algoritmos: teoria e prática. Rio de Janeiro: Campus, 2002. 916 p.
+ISBN 978-85-352-0926-6. tradução de ""Introduction to algorithms"" 2.ed.
+2. VELOSO, Paulo; TOSCANI, Laira Vieira. Complexidade de algoritmos. 2.ed. Porto Alegre:
+Bookman, 2008. 261 p. ISBN 978-85-7780-350-7.
+3. MANBER, Udi. Introduction to algorithms: a creative approach. Reading, Massachussets:
+Addison-Wesley, 1989. 478 p p. ISBN 978-0-201-12037-0.
+4. Gersting, Judith L; Iorio, Valéria de M. Fundamentos matemáticos para a ciência da
+
+computação: um tratamento moderno de matemática discreta. 5.ed. Rio de Janeiro: LTC, 2008.
+597 p. ISBN 978-85-216-1422-7.
+Complementar:
+1. Garey, Michael R; Johnson, David S. Computers and intractability: a guide to the theory of NPCompleteness. New York: W.H.Freeman and Company, 1979. 338 p. ISBN 978-0-7167-1045-5.
+2. ZIVIANI, N. Projeto de algoritmos: com implementações em PASCAL e C. 2 ed. rev. e ampl. São
+Paulo: Thomson, 2004. 552 p. ISBN 978-85-221-0390-4.
+3. ZIVIANI, Nivio; BOTELHO, Fabiano C. Projeto de algoritmos: com implementações em JAVA e C+
++. São Paulo: Thomson, 2007. 621 p. ISBN 978-85-221-0525-0.
+4. Lewis, Harry R; Papadimitriou, Christos H. Elementos de teoria da computação. 2 ed. Porto
+Alegre: Bookman, 2004. 344 p. ISBN 978-85-7307-534-2.
+5. Sipser, Michael. Introdução à teoria da computação. [Introduction to the theory of
+computation]. Tradução:Ruy J. G. B. Queiroz. : Cengage, 2012. 459 p. ISBN 9788522104994.
+
+

@@ -1,0 +1,59 @@
+Nome do Componente Curricular: Multimídia
+Pré-requisitos: Algoritmos e Estruturas de Dados I
+Carga horária total: 72h
+Carga Horária Prática: 30h
+Carga Horária Teórica: 42h
+Objetivos
+Geral:
+Aprender os conceitos fundamentais utilizados na produção de conteúdo Multimídia, tais como as
+técnicas de codificação digital e de transmissão de áudio, imagem e vídeo.
+Específicos:
+Capacitar para a construção de aplicações e sistemas computacionais multimídia.
+Ementa: Propriedades físicas do som e da imagem. Captura e representação digital de sons, imagens
+e vídeos. Música (síntese digital e efeitos). Reconhecimento de voz. Princípios de projeto dos
+principais formatos digitais de codificação de áudio, imagem e vídeo. Transmissão de conteúdo
+multimídia. Projeto de desenvolvimento de conteúdo multimídia. Aplicações.
+Conteúdo Programático:
+Introdução ao conteúdo multimídia: Representação digital de conteúdo multimídia.
+Sistemas analógicos e digitais. Propriedades físicas de imagem (teoria das cores) e do som
+(frequências audíveis). Limites da percepção e da cognição humanas. Áudio. Captura e representação
+digital do som. Música: representação, síntese e efeitos
+Transformação espectral e processamento de áudio. Filtros. Formatos MP3, Advanced Audio Coding e
+Speex. Imagens. Captura e representação digital de imagens. Formato PGM. Transformação Discreta
+de Cosseno (DCT). Formato JPEG. Métricas de qualidade visual. Vídeo. Captura e representação digital
+de vídeo. Formatos MPEG 1, 2 e 4. Padrão H.264. Formato Ogg e VP8. Transmissão. Transmissão de
+conteúdo multimídia: protocolo RTP. Redes de distribuição de conteúdo: CDNs. Aplicações e tópicos:
+reconhecimento de voz, DRM, autoria, multimídia móvel, APIs de Android, VoIP, videoconferência,
+MMS, hipermídia, TV Digital etc. Projeto: desenvolvimento de conteúdo multimídia..
+Metodologia de Ensino Utilizada:
+Aulas expositivas, laboratórios práticos e elaboração de projetos. Nas aulas práticas, os alunos
+codificarão rotinas essenciais no contexto de aplicações multimídia, tais como, por exemplo, algoritmo
+DCT e empacotamento RTP. Os projetos serão orientados para prover soluções multimídia para
+problemas reais.
+Recursos Instrucionais Necessários:
+Sala de aula equipada com quadro branco, computador e projetor. Laboratório de
+informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Digital Multimedia. N. Chapman, Jenny Chapman; Wiley, third edition, 2009.
+2. H.264 and MPEG-4 Video Compression. I. E. G. Richardson; Wiley, second edition, 2010.
+3. RTP: Audio and Video for the Internet. Perkins C. Addisson-Wesley, 2006. Digital Multimedia.
+N. Chapman, Jenny Chapman; Wiley, third edition, 2009.
+Complementar:
+1. An Introduction to Digital Multimedia. T. M. Savage, K. E. Vogel; Jones and Bartlett Publishers,
+2009.
+
+2. HTML5 Multimedia: Develop and Design. Ian Devlin, Peachpit Press, 2011.
+3. Scalable Parallel Programming Applied to H.264/AVC Decoding. Ben Juurlink, Mauricio AlvarezMesa, Chi Ching Chi, Arnaldo Azevedo, Cor Meenderinck, Alex Ramirez. Spring, 2012.
+4. Video Over IP: IPTV, Internet Video, H.264, P2P, Web TV, and Streaming: A Complete Guide to
+Understanding the Technology.
+5. A Practical Guide to Content Delivery Networks, Gilbert Held. CRC Press, 2010.
+
+

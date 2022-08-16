@@ -1,0 +1,86 @@
+Nome do Componente Curricular: Bioquímica Analítica
+Período: 5°semestre
+Pré-requisitos: Bioquímica I
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introdução à bioquímica analítica.
+Específicos:
+Introdução aos métodos analíticos. Validação de métodos analíticos. Cromatografia.
+Eletroforese. Espectroscopia. Espectrometria de massas. Radioisótopos. RMN.
+Métodos Imunológicos. Enzimas. Testes Genéticos. Métodos de Sequenciamento. PCR
+e métodos derivados. Microarranjos. Biossegurança e aspectos éticos.
+Ementa:
+Introdução aos métodos analíticos. Validação de métodos analíticos. Cromatografia.
+Eletroforese. Espectroscopia. Espectrometria de massas. Radioisótopos. RMN.
+Métodos Imunológicos. Enzimas. Testes Genéticos. Métodos de Sequenciamento. PCR
+e métodos derivados. Microarranjos. Biossegurança e aspectos éticos.
+Conteúdo Programático:
+1.
+Introdução e Classificação dos métodos analíticos – Métodos
+estatísticos
+2.
+Métodos de separação – Cromatografia
+3.
+Eletroforese
+4.
+Espectroscopia (UV/Vis)
+5.
+Espectroscopia (IR, CD)
+6.
+Espectrometria de massas
+7.
+Ressonância magnética nuclear (NMR)
+8.
+Métodos imunológicos
+9.
+Enzimas
+10.
+Testes genéticos e Métodos de sequenciamento
+11.
+PCR, métodos derivados e Sondas
+12
+Microarranjos
+13.
+Radioisótopos
+14.
+Métodos eletro analíticos
+15.
+Análise bioquímica de aminoácidos e proteínas
+16.
+Análise bioquímica de carboidratos e lipídeos
+17.
+Biossegurança e aspectos éticos
+Metodologia de Ensino Utilizada:
+Aulas teóricas, exercícios e seminários.
+Recursos Instrucionais Necessários:
+
+Sala de aula; data-show.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+ HOLME, D.; Peck, H. Analytical Biochemistry. Addison Wesley 1998.
+ BURTIS, C.; ASHWOOD, E.; BURNS, D. Tietz Textbook of Clinical Chemistry and
+Molecular Diagnostics. 4th Ed. Elsevier Saunders, 2006.
+ PATRINOS, G.; ANSORGE, W. Ed. Molecular Diagnostics. 2nd Ed. Elsevier 2010.
+Complementar:
+ NELSON, D.L., COX, M.M. Princípios de Bioquímica de Lehninger 5ªEd. Artmed.
+2011.
+ ROBYT. J.F. and WHITE, B.J., Biochemical Techniques: Theory and Practice,
+Waveland Press.1990.
+ BOYER, R.F. Modern Experimental Biochemistry. 3rd Edition. Prentice Hall,
+2000.
+ COMPRY-NARDY, M. Práticas de laboratório em Bioquímica e Biofísica. Uma
+visão integrada. 1ª. Ed. Lab (Grupo Gen).2009.
+ CASS, Quezia. Cromatografia Líquida 1ed. 1st. 2015
+
+

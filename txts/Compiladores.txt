@@ -1,0 +1,71 @@
+Nome do Componente Curricular: Compiladores
+Pré-requisitos: Linguagens Formais e Autômatos
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Geral:
+A disciplina tem o objetivo de apresentar os conceitos fundamentais sobre compiladores, por meio
+de abordagem teórica e prática.
+Específicos:
+Apresentar aos alunos técnicas consolidadas de projeto e construção de compiladores; Capacitar os
+alunos para a especificação e utilização de gramáticas usadas na construção de compiladores;
+Habilitar os alunos a compreender as fases de análise léxica, sintática e semântica; Capacitar os
+alunos para o uso de geradores automáticos de analisadores léxicos e sintáticos; Apresentar aos
+alunos uma visão geral do processo de síntese realizado por um compilador; Proporcionar aos alunos
+a experiência de projetar e construir um compilador.
+Ementa:
+Sistema de Varredura - Análise Léxica; Gerador de Analisador Léxico; Análise Sintática Descendente;
+Análise Sintática Ascendente; Gerador de Analisador Sintático; Análise Semântica; Geração de
+Código; Otimização de Código;
+Conteúdo Programático:
+Introdução: Importância dos compiladores; histórico e evolução; visão geral do processo de
+compilação. Partida rápida e transposição.Análise Léxica: Uso de expressões regulares para descrição
+de padrões de tokens ; algoritmo de Thompson; construção de subconjuntos; otimização dos
+autômatos finitos determinísticos; transformação de autômatos finitos em programas de
+reconhecimento de cadeias; gerador de analisadores léxicos (Flex). Análise Sintática: Árvores
+sintáticas; análise sintática descendente; análise sintática ascendente; gerador de analisadores
+sintáticos (YACC-Bison). Análise Semântica: Algoritmos para computação de atributos; tabela de
+símbolos; tipos de dados e verificação de tipos. Geração de Código: Código intermediário (código de
+três endereços); geração de código para referências e estruturas de dados; geração de código para
+declarações de controle e expressões lógicas; geração de código para chamadas de procedimentos e
+funções. Otimização de Código: Escolha de modos de endereçamento. Substituição de instruções.
+Eliminação de operações redundantes.
+Metodologia de Ensino Utilizada:
+Aulas expositivas com auxílio de quadro branco e projetor multimídia, intercaladas com aulas de
+exercícios e laboratório, participação dos alunos de forma oral e escrita. Desenvolvimento de um
+compilador simples.
+Recursos Instrucionais Necessários:
+Sala de aula com quadro; Projetor multimídia; Ambiente de apoio à aprendizagem colaborativa à distância (Moodle).
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. LOUDEN, Kenneth C; SILVA, Flávio S.C. Compiladores: princípios e práticas. Säo Paulo:
+Thomson, 2004. 569 p. ISBN 978-85-221-0422-2.;
+
+2. Aho, Alfred V et al. Compiladores: princípios, técnicas e ferramentas. 2 ed. São Paulo: Person
+Addison Wesley, 2007. 634 p. ISBN 978-85-88639-24-9. tradução de "Compilers: principles,
+techniques, and tools.;
+3. APPEL, Andrew W; PALSBERG, Jens. Modern compiler implementation in Java. 2 ed. New York:
+Cambridge at the University Press, 2002. 501 p p. ISBN 978-0-521-82060-8.
+4. RICARTE, I. Introdução à Compilação. Editora Elsevier/Campus, 2008.
+Complementar:
+1. SCOTT, Michael L. Programming language pragmatics. New York: Morgan Kaufmann, c2009.
+910 p. ISBN 978-0-12-374514-9.
+2. HOPCROFT, John E; MOTWANI, Rajeev; ULLMAN, Jeffrey D. Introdução à teoria de autômatos,
+linguagens e computação. [Introduction to automata theory, languages, and computation.].
+Rio de Janeiro: Campus, 2002. 560 p. ISBN 978-85-352-1072-9.
+3. ULLMAN, Jeffrey D; MOTWANI, Rajeev; HOPCROFT, John E. Introduction to automata theory,
+languages, and computation. 3.ed. Boston (USA): Pearson, 2006. 535 p. ISBN 978-0-32145536-9.
+4. Ricarte, Ivan. Introdução à compilação. Rio de Janeiro: Elsevier, 2008. 264 p. ISBN
+9788535230673.
+5. PRICE, Ana Maria de Alencar; TOSCANI, Simão Sirineo. Implementação de linguagens de
+programação: compiladores. 3.ed. Porto Alegre: Bookman, 2008. 9. 195 p. ISBN 978-85-7780348-4.
+
+

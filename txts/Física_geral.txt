@@ -1,0 +1,44 @@
+Nome do Componente Curricular: Física Geral
+Pré-requisitos: Fenômenos Mecânicos
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introdução à fenômenos oscilatórios, à termodinâmica, à hidrostática e hidrodinâmica , aos
+fenômenos eletromagnéticos e à física moderna.
+Específicos:
+Introdução conceitual à física experimental e suas aplicações.
+Ementa:
+Oscilações e ondas. Fluidos. Termodinâmica. Ótica. Eletricidade e Magnetismo. Física Moderna.
+Conteúdo Programático:
+1. Oscilações e ondas. 2. Termodinâmica. 3. Fluidos. 4. Ótica. 5. Eletricidade. 6. Magnetismo. 7.
+Introdução à física moderna.
+Metodologia de Ensino Utilizada:
+Cátedras.
+Recursos Instrucionais Necessários:
+Sala de aula; data-show.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. TIPLER, P.A. Física para cientistas e engenheiros, v.1, 6ª ed., Livros Técnicos e Científicos
+Editora.
+2. HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física, v.1, 8ª ed., Livros Técnicos e
+Científicos Editora.
+3. SERWAY, R.A.; JEWETT, Jr., J.W. Princípios de Física, v.1, Editora Thomsom.
+Complementar:
+1. R. Feynman, Lectures on Physics, v.1, Addison Wesley.
+2. C. Kittel, W. D. Knight e M. A. Ruderman, Mecânica, Curso de Física de
+3. Berkeley vol. 1, Edgard Blucher (1970).Moisés Nussenzweig, Curso de Física Básica: v.1, 4ª
+ed., Editora Edgard Blücher.
+4. Marcelo Alonso e Edward Finn, Física Um Curso Universitário, v.1, Editora Edgard Blücher.
+5. C. Kittel, W. D. Knight e M. A. Ruderman, Mecânica, Curso de Física de Berkeley vol. 1,
+Edgard Blucher (1970).
+
+

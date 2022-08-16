@@ -1,0 +1,98 @@
+Nome do Componente Curricular: Materiais Metálicos
+Pré-requisitos: Ciência e Tecnologia dos Materiais
+Carga Horária Total: 72h
+Carga Horária Prática: 20h
+Carga Horária Teórica: 52h
+Objetivos
+Gerais:
+Apresentação dos aspectos fundamentais dos materiais metálicos para aplicações tecnológicas: o
+contexto histórico, estrutura, propriedades e aplicações gerais. Principais sistemas metálicos,
+transformações de fase e mecanismos de endurecimento. Principais características e aplicações das
+ligas ferrosas e não ferrosas.
+Específicos:
+O aluno será capaz de:
+•
+Consolidar os conceitos ligados à estrutura dos metais e sua aplicação
+•
+Conhecer os principais sistemas metálicos, sua microstrutura e os fenômenos pelos quais esta
+microestrutura pode ser modificada para fins específicos;
+•
+Identificar as principais ligas ferrosas e não-ferrosas, suas características e aplicações.
+Ementa:
+Metais e Ligas Metálicas: Propriedades e Aplicações. Sistemas Metálicos. Transformações de Fases em
+Metais. Mecanismos de Endurecimento em Metais. Ligas Ferrosas. Ligas Não-Ferrosas.
+Conteúdo Programático:
+A – Metais e Ligas Metálicas: Propriedades e Aplicações
+1.
+História da utilização de metais.
+2.
+Estrutura dos metais (átomos metálicos, ligações metálicas, estruturas cristalinas e nãocristalinas, defeitos, aspectos microestruturais).
+3.
+Propriedades gerais e aplicações.
+B – Sistemas Metálicos
+1.
+Diagramas de equilíbrio binários.
+2.
+Diagrama e equilíbrio Fe-C.
+3.
+Diagramas ITT e CCT em aços
+C – Mecanismos de Endurecimento em Metais
+1.
+Endurecimento por deformação (encruamento)
+2.
+Endurecimento por refino de grão.
+3.
+Endurecimento por solução sólida.
+4.
+Endurecimento por precipitação.
+D – Ligas Ferrosas
+1.
+Noções de siderurgia.
+2.
+Aços: sistemas de classificação, tipos de aços e aplicações.
+3.
+Ferros fundidos: tipos, características e aplicações.
+E - Ligas Não-Ferrosas
+1.
+Ligas de Alumínio: produção, classificação e aplicação.
+2.
+Ligas de Cobre: produção, classificação e aplicação.
+3.
+Ligas de Magnésio
+4.
+Ligas de Ti
+5.
+Super-ligas.
+Metodologia de Ensino Utilizada:
+
+Aulas expositivas; apresentação de conceitos e exemplos de aplicações. Resolução de lista de
+exercícios, discussão de artigos científicos e desenvolvimento de trabalho em grupos/seminários.
+Práticas de laboratório.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia. Laboratório de Metalografia e
+Microscopia Ótica.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Callister W.D. Ciência e Engenharia de Materiais: Uma Introdução. 7ª ed. Rio de Janeiro:LTC –
+Livros Técnicos e Científicos Editora S.A., 2008.
+2. Chiaverini V. Tecnologia Mecânica: Estrutura e Propriedades das Ligas Metálicas, vol. I. 2ª ed.
+São Paulo:Pearson Education do Brasil, 1986.
+3. Padilha A.F. Materiais de Engenharia: Microestrutura e Propriedades. 2ª ed. Hemus, 2007.
+Complementar:
+1. Ashby M.F.; Jones D.R.H., Engenharia de Materiais volume II. 3ª ed. Rio de Janeiro:Elsevier,
+2007.
+2. Askeland D.R.; Phulé, P.P. Ciência e Engenharia dos Materiais. 1ª ed. Cengage Learning, 2008.
+3. Chiaverini V. Tecnologia Mecânica: Materiais de Construção Mecânica, vol. III. 2ª ed. São
+Paulo:Pearson Education do Brasil, 1986.
+4. Santos R.G. Transformações de Fases em Materiais Metálicos, Editora UNICAMP, 2006.
+5. COLLING, David A; VASILOS, Thomas. Industrial materials: metals and alloys. Upper Saddle
+River: Pearson, 1995.
+
+

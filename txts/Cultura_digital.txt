@@ -1,0 +1,56 @@
+Nome do Componente Curricular: Cultura Digital
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Desenvolver reflexão teórica e prática sobre as questões referentes à convergência digital e difusão de
+informação (âmbito de mercado, entretenimento, cultura e política) e suas implicações no mundo
+contemporâneo.
+Específicos:
+Compreender os processos históricos do desenvolvimento das tecnologias de informação e
+comunicação (TIC’s), sua estrutura, dinâmica e diversidade (tanto técnica quanto cultural), incluindo
+neste contexto a internet, as redes sociais, serviços da rede, entretenimento digital, dentre outros.
+Reconhecer aspectos políticos, jurídicos e éticos que dizem respeito às TIC’s na sociedade em geral e
+no Brasil em particular.
+Ementas:
+O curso abordará as relações comportamentais, mercadológicas, culturais e políticas do uso das
+tecnologias de comunicação e informação.
+Conteúdo Programático:
+• Tecnologias de informação e comunicação.
+• Redes digitais.
+• Cibercultura.
+• Modernidade/ Pós-Modernidade.
+• Games e entretenimento.
+• Informação e poder.
+• TIC’s no contexto do Brasil .
+• Computador, ética e sociedade.
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação e discussão dos assuntos e textos, atividades e seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. JENKINS, Henry. Cultura da convergência. São Paulo: Aleph, 2008.
+2. JONHSON, Steven. Cultura da Interface: como o computador transforma nossa maneira de
+criar e comunicar. Rio de Janeiro: Zahar, 2001.
+3. LÉVY, Pierre. Cibercultura. Rio de Janeiro, Ed. 34, 1999.
+
+Complementar:
+1. CASTELLS, Manuel. A Sociedade em Rede. São Paulo: Paz e Terra, 1999.
+2. ERMANN, M. David, SHAUF Michele S. Computer, Ethics and Society. New York: Oxford, 2003.
+3. KERBAUY, Maria T. M.; ANDRADE, Thales H. N de; HAYASHI, Carlos R. M. (orgs.) Ciência,
+Tecnologia e Sociedade no Brasil. Campinas: Alínea, 2012.
+4. LEMOS, André. Cibercultura. Porto Alegre: Sulina, 2002.
+5. MACIEL, Maria L. e ALBAGLI, Sarita (orgs.). Informação, conhecimento e poder: mudança
+tecnológica e inovação social. Rio de Janeiro: Garamond, 2011.
+
+

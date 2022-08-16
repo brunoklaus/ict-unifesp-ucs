@@ -1,0 +1,58 @@
+Nome do Componente Curricular: Termodinâmica Química
+Pré-requisitos: Química Geral; Cálculo em Uma Variável
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Dar uma visão global dos fenômenos envolvendo variação de energia e correlacioná-los com as
+mudanças estruturais da matéria. Focalizar os modelos teóricos e correlacioná-los com os resultados
+experimentais envolvendo energia.
+Específicos:
+1. Utilizar o formalismo da termodinâmica para que o aluno desenvolva a capacidade de abstrair
+conceitos a partir de sistemas termodinâmicos.
+2. Desenvolver no aluno a capacidade de identificar na Termodinâmica Química uma ferramenta
+poderosa para entender fenômenos físico-químicos de diferentes áreas das Ciências Exatas.
+Ementa:
+Introdução a leis da termodinâmica e suas aplicações químicas. Potencial Químico e Equilíbrio de
+soluções.
+Conteúdo Programático:
+1. Introdução á Termodinâmica, gases ideais e reais;
+2. Conceitos de calor, trabalho, primeira Lei da Termodinâmica e processos reversíveis;
+3. Segunda Lei da Termodinâmica;
+4.Terceira Lei da Termodinâmica;
+5. Funções de Estado e Potencial Químico;
+6. Equilibrio de fases;
+7. Equilíbrio Químico;
+8. Soluções.
+Metodologia de Ensino Utilizada:
+Serão ministradas aulas expositivas. Também se buscara fazer com que os e alunos participem da aula,
+que eles desenvolvam os conceitos termodinâmicos e relacionem com os acontecimentos do cotiado.
+Recursos Instrucionais Necessários:
+Quadro negro, datashow.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Atkins P., Paula J. Físico-Química, Trad. de Horácio Macedo, 8a ed., LTC- Livros Técnicos e
+Científicos, 2008.
+2. Castellan G.W. Fundamentos de Físico-Química. Trad. de Cristina M.P. dos Santos, LTC, 1986.
+3. McQuarrie D. A., Simon J. D. Physical Chemistry: A Molecular Approach University Science
+Books, 1997.
+
+Complementar:
+1. McQuarrie, Donald A. Quantum Chemistry. 2ed, California: University Science Books, 2007
+Terron L. R.Termodinâmica - Química Aplicada, Manole, 2009.
+2. Van Wylen, Gordon et al. Fundamentos da termodinâmica clássica. São Paulo, Edgard Blücher
+LTDA, 1995.
+3. Oliveira, Mário José Termodnâmica. São Paulo: Livraria da Física, 2005.
+4. Pilla L., Termodinâmica Química e Equilíbrio Químico, Editora da Universidade Federal do Rio
+Grande do Sul, 2ª ed., 2006.
+5. Halliday, D.; Walker, J.; Resnik, R. Fundamentos de física, 8ed., LTC, 2009, vol. 2
+
+

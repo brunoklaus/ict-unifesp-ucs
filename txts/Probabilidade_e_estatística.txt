@@ -1,0 +1,106 @@
+Nome do componente curricular: Probabilidade e Estatística
+Pré-requisitos: Cálculo em uma variável
+Carga horária total: 72 h
+Carga horária prática: 16 h
+
+Carga horária teórica: 56 h
+
+Objetivos gerais:
+Capacitar o aluno a planejar, realizar e concluir uma pesquisa utilizando os conceitos básicos
+de probabilidade e estatística.
+Objetivos específicos:
+Ao final da unidade curricular o aluno deverá ter condições de planejar e executar pesquisa
+envolvendo: o processo de coleta de amostras; o conhecimento das distribuições de valores
+representativos destas; interpretação e análise de resultados; verificação e adequação do
+conjunto de dados aos modelos estatísticos.
+Ementa:
+Estatística descritiva. Probabilidade: conceito e teoremas fundamentais. Variáveis aleatórias.
+Distribuição de probabilidade. Estimação pontual e intervalar. Teste de hipóteses. Análise de
+variância.
+Conteúdo programático:
+1. INTRODUÇÃO
+·
+Conceitos estatísticos e aplicações
+2. ESTATÍSTICA DESCRITIVA
+·
+Medidas de localização e dispersão;
+·
+Frequências e classes;
+·
+Representação de dados em gráficos;
+·
+Medidas de associação
+3. PROBABILIDADE
+·
+Conceitos clássico e frequentista de probabilidade.
+·
+Probabilidade condicional e eventos independentes.
+·
+Teorema de Bayes
+4. VARIÁVEIS ALEATÓRIAS
+·
+Variáveis aleatórias discretas e contínuas;
+·
+Funções de probabilidade e de distribuição;
+·
+Probabilidades conjunta, condicional e marginal;
+·
+Esperança, variância e covariância;
+·
+Principais distribuições de probabilidade discretas: Poisson, Bernoulli, Binomial,
+Geométrica, Hipergeométrica, Uniforme discrete
+·
+Principais distribuições contínuas: Exponencial, Gama, Normal, Uniforme continua.
+5. INFERENCIA ESTATÍSTICA
+·
+Processos de amostragem;
+·
+Noções sobre o teorema do limite central;
+·
+Estimadores e estimativas pontuais
+·
+Propriedades dos estimadores: viés, consistência e eficiência
+·
+Métodos de estimação: Momentos, Mínimos Quadrados e Máxima verossimilhança.
+·
+Intervalos de confiança
+·
+Testes de Hipóteses
+·
+Erros do tipo I e II;
+·
+Análise de variância
+
+Metodologia de ensino utilizada:
+Aulas expositivas e de exercícios. Listas de exercícios. Aulas em laboratórios de informática e
+experimentais. Trabalhos em grupo. Relatórios.
+Recursos instrucionais necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE, softwares livres e “R”.
+Laboratórios experimentais para uso de balança de alta precisão e equipamentos de medida.
+Critérios de avaliação:
+O sistema de avaliação será definido pelo docente responsável pela Unidade Curricular (UC) e
+divulgados aos alunos no início do período letivo. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido nesse Projeto Pedagógico. A promoção do
+aluno na UC obedecerá aos critérios estabelecidos pela Pró-reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia básica:
+BUSSAB, W. O.; MORETTIN, P. A. Estatística básica. 6ª ed. São Paulo:Saraiva, 2010.
+MAGALHÃES, M. N.; LIMA, A. C. P. Noções de probabilidade e estatística. 7ª ed. São
+Paulo:EDUSP, 2010.
+MONTGOMERY, D. C.; RUNGER, G. C. Estatística aplicada e probabilidade para engenheiros.
+2ª ed. Rio de Janeiro:LTC, 2008.
+
+Bibliografia complementar:
+DEVORE, J. L. Probabilidade e estatística para engenharia e ciências.
+Paulo:Thomson, 2006.
+
+1ª ed. São
+
+FREIRE, C. A. D. Análise de modelos de regressão linear: com aplicações. 2ª ed.
+Campinas:Editora da UNICAMP, 2008.
+MEYER, P. L.. Probabilidade: aplicações à estatística. 2ª ed. Rio de Janeiro:LTC, 2009.
+MORETTIN, P. A.; TOLOI, C. M. C. Análise de séries temporais. 2ª ed. São Paulo:Blücher, 2006.
+ROSS, S. Probabilidade: um curso moderno com aplicações. 8ª ed. Porto Alegre:Bookman,
+2010.
+
+

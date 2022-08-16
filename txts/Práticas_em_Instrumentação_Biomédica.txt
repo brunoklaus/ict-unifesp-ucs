@@ -1,0 +1,102 @@
+Campus: São José dos Campos
+Curso (s): Engenharia Biomédica
+Unidade Curricular (UC): Práticas em Instrumentação Biomédica
+Unidade Curricular (UC): Practices in Biomedical Instrumentation
+Unidade Curricular (UC): [nome da UC em espanhol - opcional]
+Código da UC:
+Docente Responsável/Departamento: Roberson Saraiva Polli
+
+Contato (e-mail): [opcional]
+
+Docente (s) Colaborador/a (es/as)/Departamento (s): Karina Casali, Fábio Aoki, Contato (e-mail): [opcional]
+Mateus Urban
+Ano letivo: 2022
+
+Termo: 9o
+
+Nome do Grupo/Módulo/Eixo da UC (se
+houver):
+
+UC:
+( ) Fixa
+( x ) Eletiva
+( ) Optativa
+
+Turno: Integral
+Idioma predominante em que a UC será
+oferecida:
+( X ) Português
+( ) English
+( ) Español
+( ) Français
+( ) Libras
+( ) Outro:
+
+Oferecida como:
+( X ) Disciplina
+( ) Módulo
+( ) Estágio
+( ) Outro:
+
+Oferta da UC:
+( X ) Semestral
+( ) Anual
+
+Ambiente Virtual de Aprendizagem:
+( ) Moodle
+( X ) Classroom
+( ) Outro:
+( ) Não se aplica
+Pré-Requisito (s) - Indicar Código e Nome (s) da (s) UC: Instrumentos Eletromédicos; Instrumentos Biomédicos; Sistemas
+Embarcados; Biossensores
+Carga horária total (em horas): 72
+Carga horária teórica (em horas): 0
+
+Carga horária prática (em horas): 72 Carga horária de extensão (em horas, se
+houver):
+
+Se houver atividades de extensão, indicar código e nome do projeto ou programa vinculado na Pró-Reitoria de Extensão e
+Cultura (ProEC):
+Ementa:
+Oferecer ao aluno a experiência no Laboratório de Ensino de Instrumentação Biomédica para introdução a práticas ligadas ao
+projeto e à implementação de módulos de instrumentos biomédicos, utilizando conceitos de transdução de grandezas
+biomédicas, biossensores e biomateriais, bem como às metodologias aplicadas para calibração e manutenção de instrumentos
+hospitalares.
+Conteúdo programático:
+● Boas práticas em laboratórios de eletrônica.
+● Principais ferramentas utilizadas para Práticas em Instrumentação Biomédica.
+● Condicionamento analógico de sinais e fontes de erros em instrumentação biomédica.
+● Práticas envolvidas no desenvolvimento de sistemas de medidas biomédicas.
+● Implementação de módulos para medidas biomédicas utilizando diferentes plataformas.
+● Princípios básicos de calibração e manutenção de instrumentos biomédicos de grande e pequeno porte.
+Objetivos:
+Gerais: Aumentar a experiência prática do aluno em sistemas de instrumentação biomédica.
+Específicos: Propiciar ao aluno a experiência prática em laboratório abordando o desenvolvimento e a implementação de
+módulos para sistemas biomédicos, bem como as principais metodologias envolvidas na calibração e na manutenção de
+instrumentos biomédicos.
+
+Metodologia de ensino: A UC será ministrada toda a partir do desenvolvimento de projetos orientados em laboratório didático,
+com aulas expositivas, seminários, material extra e visitas técnicas.
+Avaliação:O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das atividades letivas
+devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema adotado deve contemplar o processo de
+ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do
+semestre. A promoção do aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia:
+Básica:
+1. Dally, J.W.; Riley, W.F.; McConnell, K.G. "Instrumentation for Engineering Measurements", 2nd
+2. ed., John Wiley & Sons, 1993.
+3. NORTHROP, R.B. Introduction to Instrumentation and Measurments. 2ed., Taylor & Francis,
+4. p.743, 2005.
+5. HERMAN, I.P. Physics of the human body. Springer, New York, p.857, 2007.
+6. HARSÁNYI, G. Sensor in Biomedical Apllications: Fundamentals, Technology and Applications.
+7. CRC Press, p.349, 2000.
+Complementar:
+1. Webster, J.G. "Medical Instrumentation: Application and Design", 4th ed., John Wiley & Sons, 2009.
+2. Cobbold, R.S.C. "Transducers for Biomedical Measurements: Principles and Applications", John Wiley & Sons, 1974.
+3. Doebelin, E.O. "System Modeling and Response", John Wiley & Sons, 1980. Enderle, J.; Blanchard, S.M.; Bronzino, J.
+"Introduction to Biomedical Engineering", Academic Press, 1999.
+4. Geddes, L.A.; Baker, L.E. "Principles of Applied Biomedical Instrumentation" John Wiley & Sons, 1968.
+Cronograma: [opcional]
+
+

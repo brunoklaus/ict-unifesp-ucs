@@ -1,0 +1,101 @@
+Nome do Componente Curricular: Geometria Analítica
+Período: 2º semestre
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 8h
+Carga Horária Teórica: 64h
+Objetivos
+Gerais:
+Estudo da geometria analítica no plano e no espaço, bem como a introdução dos
+conceitos básicos de matrizes e vetores, necessários para a continuidade da formação
+do aluno.
+Específicos:
+O aluno será capaz de: entender os sistemas de coordenadas euclidianas e polares,
+representar graficamente pontos e curvas em, entender o conceito de vetor no R2 e no
+R3 e suas propriedades, demonstrar familiarização com a álgebra vetorial, conhecer as
+equações de retas e planos e saber representá-los no espaço euclidiano, identificar e
+representar superfícies esféricas, cilíndricas e de revolução mais simples, parametrizar
+curvas e superfícies compreender diversas aplicações da geometria analítica na ciência
+e tecnologia.
+Ementa:
+Sistemas lineares. Vetores, operações. Dependência e independência linear, bases,
+sistemas de coordenadas. Distância, norma e ângulo. Produtos escalar, vetorial e
+misto. Retas no plano e no espaço. Planos. Posições relativas, interseções, distâncias e
+ângulos. Círculo e esfera. Coordenadas polares, cilíndricas e esféricas. Cônicas e
+quádricas, classificação.
+Conteúdo Programático:
+A – Sistemas lineares:
+A.1. Soma e multiplicação de matrizes.
+A.2. Sistemas equivalentes.
+A.3. Escalonamento.
+A.4. Determinantes.
+B – Álgebra vetorial Euclidiana:
+B.1. Vetores, adição de vetores, e multiplicação de vetores por escalares.
+B.2. Multiplicação de matriz por vetor como combinação linear.
+B.3. Dependência e independência linear.
+B.4. Conceitos básicos para solução de sistemas lineares.
+B.5. Produto escalar, norma, ângulo e distância.
+B.6. Projeção ortogonal e bases ortonormais.
+B.7. Sistema de coordenadas.
+B.8. Produto vetorial e produto misto.
+B.9. Cálculo de áreas de paralelogramos e volumes de paralelepípedos por meio de
+determinantes.
+
+C – Retas e planos em R2 e R3:
+C.1. Equações de planos: vetorial, paramétricas e geral.
+C.2. Posições relativas entre dois planos.
+C.3. Equações de retas: vetorial, paramétricas, simétricas e geral.
+C.4. Posições relativas entre duas retas e entre uma reta e um plano.
+C.5. Ângulos e distâncias entre pontos, retas e planos.
+D – Cônicas e quádricas:
+D.1. Circunferências, esferas e cones.
+D.2. Elipses, hipérboles e parábolas.
+D.3. Classificação, rotação e translação de cônicas.
+D.4. Coordenadas polares, cilíndricas e esféricas.
+D.5. Equação geral das quádricas.
+D.6. Esferas e elipsóides.
+D.7. Parabolóide elíptico, hiperbólico.
+D.8. Hiperbolóide de uma e duas folhas, e cone.
+D.9. Cilindros.
+Metodologia de Ensino Utilizada:
+Aulas expositivas com apresentação de exemplos e resolução de exercícios. Listas de
+exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta
+EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+
+Bibliografia
+Básica:
+1.
+CAMARGO, I.; BOULOS, P. Geometria analítica: um Tratamento Vetorial. 3ª
+ed. São Paulo: Pearson, 2005
+2.
+SANTOS, R. J. Matrizes, vetores e geometria analítica. Belo Horizonte:
+Imprensa Universitária da UFMG, 2012.
+3.
+WINTERLE, P. Vetores e geometria analítica. São Paulo: Pearson, 2000.
+Complementar:
+1.
+CALLIOLI, C. A.; CAROLI, A.; FEITOSA, M. O. Matrizes, vetores e geometria
+analítica: teoria e exercícios. São Paulo: Noel, 1984.
+2.
+LEHMANN, C. H.; Geometria Analítica, Editora Globo, 1995.
+3.
+LIMA, E. L. Álgebra linear. 8ª ed. Rio de Janeiro: SBM-IMPA, 2011.
+4.
+MACHADO, A. S. Álgebra linear e geometria analítica. 2ª ed. São Paulo: Atual,
+1982.
+5.
+SANTOS, R. J. Um curso de geometria analítica e álgebra linear. Belo
+Horizonte: Imprensa Universitária da UFMG, 2010.
+
+

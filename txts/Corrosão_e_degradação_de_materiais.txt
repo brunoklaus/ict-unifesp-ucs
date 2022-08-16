@@ -1,0 +1,70 @@
+Nome do Componente Curricular: Corrosão e Degradação de Materiais
+Pré-requisitos: Ciência e Tecnologia dos Materiais
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Apresentação da durabilidade dos materiais do ponto de vista corrosivo, ou seja, da sua deteriorização
+através da interação química e eletroquímica com o meio ambiente em que operam, ilustrando os
+principais tipos de corrosão com exemplos de falhas em serviço. Discussão de métodos de
+preservação dos materiais através do exame dos principais métodos de proteção anticorrosiva.
+Específicos:
+-Definir a corrosão e os conceitos básicos da deterioração de um material
+-Verificar os problemas causados pelo meio ambiente nas mais variadas atividades
+-Conhecer os tipos de corrosão e exemplos
+-Conhecer os métodos de proteção contra à corrosão.
+Ementas:
+Corrosão e sua importância econômica e social. Corrosão de metais e suas ligas. Degradação em alta
+temperatura. Degradação de polímeros e cerâmicos. Proteção contra a corrosão.
+Conteúdo Programático:
+A - Corrosão
+1. Princípios básicos da corrosão
+2. Importância econômica e social
+B - Corrosão de metais e suas ligas
+1. Métodos experimentais em corrosão
+2. Tipos de corrosão: generalizada, galvânica, por pite e em fresta, microbiológica, intergranular,
+seletiva
+3. Corrosão associada a tensões mecânicas
+4. Degradação em alta temperatura
+C - Degradação de polímeros
+1. Tipos de reações de degradação
+2. Cisão de cadeias e reticulação
+3. Degradação sem cisão de cadeiais
+4. Auto-oxidação
+5. Despolimerização
+6. Copolímeros
+D - Degradação de cerâmicos
+E - Proteção contra a corrosão
+
+1. Revestimentos
+2. Proteção catódica
+3. Inibidores
+4. Seleção de materiais
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades complementares, tais como listas de exercícios e seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Gentil, Vicente. Corrosão. 6 ed. Rio de Janeiro: Gen, 2011.
+2. Ramanathan, Lalgudi V. Corrosão e seu controle. São Paulo: Hemus.
+3. Gemelli, Enori. Corrosão de materiais metálicos e sua caracterização. Rio de Janeiro: LTC Livros Técnicos e Científicos, 2001.
+Complementar:
+1. Jambo, Hermano Cezar Medaber; Fófano, Sócrates. Corrosão: fundamentos, monitoração e
+controle. Rio de Janeiro: Ciência Moderna, 2008.
+2. Batchelor, Andrew William; Lam, Loh Nee; Chandrasekaran, Margam. Materials degradation
+and its control by surface engineering. London: Imperial College, 1999.
+3. Gersten, Joel I.; Smith, Frederick W.. The physics and chemistry of materials. Hoboken (USA):
+John Wiley & Sons, c2001.
+4. SHACKELFORD, James F. Ciência dos materiais. 6.ed. São Paulo: Pearson, 2008.
+5. CALLISTER JR., William D. Ciência e engenharia de materiais: uma introdução. 7.ed. 2008.
+
+

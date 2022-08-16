@@ -1,0 +1,64 @@
+Nome do Componente Curricular: Introdução à Engenharia Biomédica
+Pré-requisitos: Não há
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Desenvolver com os alunos as noções básicas da área de engenharia biomédica.
+Específicos:
+Desenvolver com os alunos os conceitos fundamentais e aplicações típicas da
+engenharia médica, da bioengenharia e da Engenharia Hospitalar.
+Ementa:
+Definição da engenharia biomédica e suas sub-áreas; aplicações típicas da engenharia
+biomédica; avanços na área de engenharia biomédica.
+Conteúdo Programático:
+1Engenharia biomédica no Brasil e no mundo;
+2Engenharia médica: instrumentação e imagens médicas;
+3Bioengenharia: pesquisa básica e pesquisa translacional;
+4Engenharia Clínica: relevância e atualidades;
+5Novas tecnologias na Engenharia Biomédica.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e seminários.
+Recursos Instrucionais Necessários:
+Lousa e equipamentos multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+1. SALTZMAN, Mark. Biomedical Engineering: Bridging Medicine and Technology,
+Cambridge University Press; 1 edition, 2009.
+2. ENDERLE, John D., Susan M. BLANCHARD, and Joseph D. BRONZINO, eds.
+Introduction to Biomedical Engineering. Boston: Elsevier Academic Press, 2005.
+3. BRONZINO, Joseph D. (Ed.). Medical devices and systems. 3.ed. Boca Raton
+(USA): CRC Press, 2006.
+Complementar:
+1. WEBSTER, J. Medical Instrumentation: Application and Design (4th edition),
+
+2.
+3.
+
+4.
+
+5.
+
+ed., John Wiley & Sons, Hoboken, NJ, 2009.
+PLONSEY, R. Bioelectricity: A Quantitative Approach, 2nd edition, Springer,
+2000
+ORÉFICE, Rodrigo Lambert(orgs.); PEREIRA, Marivalda de Magalhães; MANSUR,
+Herman Sander. Biomateriais: fundamentos e aplicações. Rio de Janeiro:
+Cultura Médica, 2006.
+Mehta, Shreefal S.. Commercializing successful biomedical technologies: basic
+principles for the development of drugs, diagnostics and devices. New York:
+Cambridge Univerity Press, 2008.
+HALL, John E; GUYTON, Arthur C. Tratado de fisiologia médica. 11 ed. Rio de
+Janeiro: Elsevier, 2006.
+
+

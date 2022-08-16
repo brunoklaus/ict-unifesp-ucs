@@ -1,0 +1,61 @@
+Nome do Componente Curricular: Tópicos em História da Matemática
+Pré-requisitos: Não há
+Carga horária total: 72h
+Carga Horária Prática: 0
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+O objetivo principal desta unidade curricular é apresentar tópicos da História da Matemática,
+contextualizando a construção e o desenvolvimento de idéias e conceitos.
+Específicos:
+ Apresentar aos alunos a Matemática como uma elaboração mental contextualizada, fruto de
+longas trasnformações e adaptações.
+ Possibilitar o contato com idéias seminais cuja apresentação moderna pode levar a
+interpretações errôneas de que as idéias matemáticas surgem espontaneamente, e por isso,
+são distantes da realidade concreta.
+ Desenvolver o interesse dos alunos no aprofundamento dos estudos, através da apresentação
+de biografias de matemáticos do passado e suas realizações.
+Ementa: O r i g e m e d e s e n v o l v i m e n t o d a Matemática através da vida e obra de grandes
+matemáticos do passado.
+Conteúdo Programático:
+Matemática na Pré-História;
+Matemática no Antigo Egito;
+Matemática da Grécia;
+Arábia e Índia;
+China e Japão.
+Renascimento;
+Os logaritmos;
+Geometria Analítica: Fermat e Descartes;
+A origem do Cálculo: Descartes, Newton e Leibniz;
+O desenvolvimento do Cálculo;
+Os Números Complexos: Argand, Gauss, Euler;
+Os Cauchy, funções e continuidade;
+Números Reais: Cantor e Dedekind;
+Mulheres na Matemática;
+História da Álgebra (séc. XIX-XX);
+Lógica Matemática: Intuicionismo, Logicismo e Formalismo.
+
+Metodologia de Ensino Utilizada:
+Esta unidade curricular consistirá em aulas expositivas, com eventuais debates e dinâmicas de
+grupo.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia, canetas para quadro branco, computador e acesso ao
+Moodle/Google Classroom como ferramenta EAD.
+Critérios de Avaliação:
+Os critérios de avaliação serão definidos no início do semstre pelo Docente.
+
+Bibliografia Básica
+1- Eves, H. – Introdução à História da Matemática – Editora da Unicamp – Campinas, 2004.
+2- Boyer, C. , Merzbach. U. – História da Matemática – Editora Blücher - 2012
+3- Roque,T. , Carvalho, J.B.P. – Tópicos de História da Matemática – Coleção PROFMAT – SBM – Rio
+de Janeiro – 2012
+Bibliografia Complementar
+1- Rooney, A. – A História da Matemática – Editora M.Books – 2012.
+2- Crowe, M. J. – A History of Vector Analysis: The Evolution of the Idea of a Vector System – Dover
+Books - 2011
+3- Cajori, F. - A History of Mathematical Notations, two volumes in one – Cosimo Classics - 2011
+4- Roque,T. – História da Matemática: Uma Visão Crítica, Desfazendo Mitos e Lendas – Editora Zahar
+- 2012
+5- Struik, D.J. – A Concise History of Mathematics: Fourth Revised Edition – Dover Books - 1987
+
+

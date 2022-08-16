@@ -1,0 +1,65 @@
+Nome do Componente Curricular: Otimização Inteira
+Pré-requisitos: Otimização Linear
+Carga Horária Total: 72h
+Carga Horária Prática: 10h
+Carga Horária Teórica: 62h
+Objetivos
+Gerais:
+Capacitar o aluno a identificar, formular e resolver computacionalmente problemas de otimização
+inteira. Durante o curso o aluno deve discutir a solução de problemas práticos formulados e resolvidos
+com a teoria aprendida, compreendendo assim os aspectos interdisciplinares do assunto.
+Específicos:
+Ao final da unidade curricular o aluno deverá ter condições de identificar, formular e resolver
+computacionalmente problemas de otimização inteira; compreender a teoria básica de poliedros
+inteiros; aplicar algoritmos exatos; compreender a formulação de aplicações. Além disso, o aluno deve
+discutir a solução de problemas aplicados em áreas como transporte, meio ambiente, economia, etc.,
+que sejam formulados e resolvidos com a teoria aprendida. O aluno deve compreender os aspectos
+interdisciplinares de Matemática, Computação e as implicações sociais, ambientais e econômicas que
+estão envolvidos no assunto. Mais do que isso, é esperado que o aluno tenha uma visão maior de
+como fazer relações semelhantes com outros temas estudados no curso.
+Ementa:
+Modelagem. Estrutura de Otimização Inteira. Algoritmos Computacionais exatos. Aplicações.
+Discussão de resultados de alguns problemas práticos, reforçando o caráter interdisciplinar do
+assunto.
+Conteúdo Programático:
+ Modelagem. Problema de corte, empacotamento, mistura, transporte, atribuição de tarefas,
+etc...
+ Estrutura de Otimização Inteira: teoria poliedral, formulações e complexidade, otimalidade,
+relaxações e limitantes. Problemas bem resolvidos.
+ Algoritmos Computacionais exatos: enumeração implicita, branch and bound, plano de corte
+(branch and cut), relaxação lagrangiana, desigualdades válidas fortes.
+ Aplicações e heurísticas computacionais.
+ Discussão sobre algumas das implicações sociais, ambientais e econômicas que estão
+envolvidos no assunto.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios. Seminários e trabalhos envolvendo a interdisciplinaridade do tema.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Laboratório de Informática. Acesso ao MOODLE como
+ferramenta de EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. ARENALES, M. N.; ARMENTANO, V.; MORABITO, R.; YANASSE, H. Pesquisa operacional. Rio de
+Janeiro: Campus, 2006.
+
+2. NEMHAUSER, G. L.; WOLSEY, L. A. Integer and combinatorial optimization. New York: John
+Wiley & Sons, 1998.
+3. WOLSEY, L. A. Integer programming. New York: John Wiley & Sons, 1998.
+Complementar:
+1. BERTSIMAS, D.; TSITSIKLIS, J. N. Introduction to linear optimization. Belmont, Massachusetts:
+Athena Scientific, 1997.
+2. GOLDBARG, M.C.; LUNA, H.P.L. Otimização combinatória e programação linear - modelos e
+algoritmos. 2ª ed. Rio de Janeiro: Campus, 2005.
+3. TAHA, H. A. Pesquisa operacional. 8ª ed. São Paulo: Pearson, 2008.
+4. SCHRIJVER, A. Theory of linear and integer programming. Chichester: John Wiley & Sons,
+1986.
+5. VANDERBEI, R. J. Linear programming: foundations and extensions. 3ª ed. New Jersey:
+Springer, 2008.
+
+

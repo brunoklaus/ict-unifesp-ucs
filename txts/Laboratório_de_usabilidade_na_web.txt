@@ -1,0 +1,58 @@
+Nome do Componente Curricular: Laboratório de Usabilidade na Web
+Pré-requisitos: Programação Orientada a Objetos
+Carga horária total: 72h
+Carga Horária Prática: 48h
+Carga Horária Teórica: 24h
+Objetivos
+Geral: Apresentar aos alunos os conceitos básicos e principais aplicações do conceito de Usabilidade
+na Web.
+Específicos: Permitir que o aluno seja capaz de aplicar as técnicas de projeto e avaliação de
+usabilidade em problemas Web reais.
+Ementa: Definição de Usabilidade; Usabilidade na Web; Projeto de interação e interface Web;
+Avaliação de Usabilidade na Web.
+Conteúdo Programático:
+1. A experiência do usuários na Web.
+2. Priorização de problemas de usabilidade.
+3. Busca.
+4. Navegação e Arquitetura de Informação.
+5. Tipografia.
+6. Redação para a Web.
+7. Apresentação dos elementos da página.
+8. Equilíbrio entre tecnologia com as necessidades das pessoas.
+Metodologia de Ensino Utilizada:
+Para que os objetivos dessa disciplina possam ser atendidos e, consequentemente contribua com os
+objetivos do curso, as seguintes estratégias de ensino-aprendizagem serão utilizadas: Aulas
+expositivas com a utilização de quadro branco e projetor multimídia, procurando explicar a
+fundamentação teórica do assunto. Aula prática em laboratório aplicando os conteúdos trabalhados e
+aprendendo novos conteúdos; Prática de exercícios aplicando os conteúdos trabalhados.
+Desenvolvimento de pesquisas extraclasses sobre os assuntos abordados em aula.
+Recursos Instrucionais Necessários:
+Quadro branco, Projetor multimídia, Laboratório de computação.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia Básica:
+1. Nielsen, J., and Loranger, H. (2006). Prioritizing Web Usability, New Riders Press, ISBN 0-32135031-6.;
+2. Nielsen, J. (1999). Designing Web Usability: The Practice of Simplicity. New Riders Publishing,
+Indianapolis, ISBN 1-56205-810-X. Translated into 21 additional languages.;
+3. Nielsen, J., and Tahir, M. (2001). Homepage Usability: 50 Websites Deconstructed. New Riders
+Publishing, Indianapolis, ISBN 0-73571-102-X..
+Complementar:
+1. PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. Design de interação: além da interação
+homem-computador. Porto Alegre, RS: Bookman, 2005. 548 p p. ISBN 978-85-363-0494-6.
+Título original: Interaction design: beyond human - computer interaction.;
+2. Barbosa, Simone Diniz Junqueira; Silva, Bruno Santana. Interação humano-computador. Rio de
+Janeiro: Campus, 2010. 384 p. (Séries SBS, Sociedade Brasileira de Computação). ISBN 978-85352-3418-3.;
+
+3. Benyon, David. Interação humano-computador. 2 ed. Pearson Prentice Hall, 2011. 442 p. ISBN
+978-85-7936-109-8.;
+4. Dix, Alan et al. Human-computer interaction. 3 ed. Harlow: Pearson Prentice Hall, 2004. 834 p.
+ISBN 978-0-13-046109-4.;
+5. SHNEIDERMAN, Ben; PLAISANT, Catherine. Designing the user interface: strategies for effective
+human-computer interaction. 5.ed. San Francisco: Addison-Wesley, 2009. 606 p. ISBN 978-0321-53735-5..
+
+

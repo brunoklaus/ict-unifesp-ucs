@@ -1,0 +1,97 @@
+Nome do Componente Curricular: Seleção de Materiais
+Pré-requisitos: Ciência e Tecnologia dos Materiais
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Apresentar os conceitos fundamentais e os critérios empregados na seleção de materiais . Apresentar
+metodologias para seleção em projetos, com base em múltiplos critérios. Utilização de bancos de
+dados e gráficos de propriedades dos materiais.
+Específicos:
+O aluno será capaz de:
+- Sugerir materiais de engenharia para as mais variadas aplicações por meio da pesquisa em bancos
+de dados;
+- Aplicar metodologias para a seleção de materiais em projetos com base em múltiplos critérios;
+- Analisar de maneira crítica os casos práticos apresentados entendendo a seleção de materiais e o
+projeto em engenharia como processos iterativos, os prejuízos e a responsabilidade civil frente às
+falhas dos materiais em serviço.
+Ementa:
+Critérios para a seleção de materiais. Aspectos econômicos. Gráficos de propriedades dos materiais.
+Seleção de materiais de acordo com a resistência mecânica, ao desgaste, à fadiga, à corrosão, à
+fluência e ao impacto. Seleção para aplicações elétricas e térmicas. Aspectos da manufatura na
+seleção de materiais. Metodologia para a seleção com base em múltiplos critérios. Banco de dados de
+materiais de engenharia. Estudo de casos.
+Conteúdo Programático:
+A – Introdução
+1.
+Critérios para a seleção de materiais;
+2.
+Aspectos econômicos na seleção de materiais;
+3.
+Gráfico de propriedades dos materiais;
+4.
+Qual a importância da seleção de materiais: exemplos.
+B – Seleção de Materiais de acordo com:
+1.
+Resistência mecânica;
+2.
+Resistência ao desgaste;
+3.
+Resistência à fadiga;
+4.
+Resistência a condições ambientais;
+5.
+Resistência à fluência e refratariedade;
+6.
+Tenacidade à fratura;
+7.
+Aplicações elétricas;
+8.
+Custos;
+9.
+Processos de fabricação;
+10.
+Classificação.
+C – Seleção de Materiais em Projetos
+11.
+Bancos de dados de materiais de engenharia;
+12.
+Informática na elaboração e manutenção de bancos de dados;
+13.
+Metodologias para a seleção de materiais;
+14.
+Demandas por novos materiais.
+
+D – Estudo de Casos
+E – Trabalho prático
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e discussão de aplicações. Resolução de lista de
+exercícios e desenvolvimento de trabalho prático.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Ferrante, M. Seleção de Materiais, Editora da UFSCar, São Carlos, SP, 2002.
+2. Ashby, Michael F. Materials and the environment: eco-informed material choice. Burlington,
+MA: Elsevier, 2009.
+3. Ashby, M. F.; Jones, D. R. H. Engenharia de Materiais vol. I, 3a ed., Editora Campus, Rio de
+Janeiro, 2007.
+Complementar:
+1. Ashby, Michael F.; Jones, David R.H.. Engenharia de materiais: uma introdução a propriedades,
+aplicações e projeto. Elsevier, 2007.
+2. ASHBY, Michael F. Engineering materials 2: an introduction to microstructures, processing and
+design. 3 ed. 2006.
+3. Silva, André Luiz V. da Costa e; Mei, Paulo Roberto. Aços e ligas especiais. 2 ed. Säo Paulo:
+Edgard Blücher, 2006.
+4. CHIAVERINI, Vicente. Tecnologia mecânica: estrutura e propriedades das ligas metálicas volume 1. 2.ed. São Paulo: Pearson, 1986.
+5. SHACKELFORD, James F. Ciência dos materiais. 6.ed. São Paulo: Pearson, 2008.
+
+

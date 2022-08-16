@@ -1,0 +1,55 @@
+Nome do Componente Curricular: Aspectos de Implementação de Banco de Dados
+Pré-requisitos: Banco de Dados
+Carga Horária Total: 72h
+Carga Horária Prática: 40h
+Carga Horária Teórica: 32h
+Objetivos
+Gerais:
+Esta disciplina visa o estudo de conceitos avançados de bancos de dados incluindo aspectos
+operacionais em sistemas de bancos de dados, técnicas para armazenamento e distribuição de dados.
+Específicos:
+• Familiarizar-se com a sistemática de processamento de consultas em SGBDs,
+• compreendendo as etapas de otimização algébrica e definição de plano de
+• execução;
+• Compreender o conceito de transação: seus estados e suas propriedades;
+• Conhecer as técnicas para execução concorrente de transações em um SGBD;
+• Conhecer os tipos de falhas que podem ocorrer em um SGBD e as técnicas de
+• recuperação das transações do BD na ocorrência de falhas;
+• Familiarizar-se com os conceitos e noções de projeto de Banco de Dados Distribuídos.
+Ementa:
+Processamento de consultas; Transações. Controle de Concorrência. Recuperação de Falhas. Banco de
+Dados Distribuídos.
+Conteúdo Programático:
+1. Introdução a transações, Definição, propriedades e estados de uma transação.
+2. Controle de concorrência, Protocolos de bloqueio, timestamp, grafo.
+3. Recuperação de falhas, Tipos de falhas, Gerência de buffer., Técnicas de recuperação
+4. Introdução a Bancos de Dados Distribuídos
+5. Introdução ao processamento de consultas
+6. Tipos de dados avançados e novas aplicações
+Metodologia de Ensino Utilizada:
+Aulas expositivas e listas de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula equipada com quadro branco, computador e projetor. Laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Elmasri, R.; Navathe, S. B. Sistemas de Banco de Dados, 5ª Ed, 2007.
+2. Silberchatz, A.; Korth, H. F.; Sudarshan, S. Database Systems Concepts, 2005.
+3. Heuser, C.A. Projeto de Banco de Dados. 5a edição. Série Livros Didáticos. Instituto de
+Informática da UFRGS, número 4. Editora Sagra-Luzzatto, 2004.
+Complementar:
+1. Ramakrishnan, R.; Gehrke, J. Database Management Systems. 2003.
+2. G-Molina, H.; Ullman, J. D.; Widom, J. Database Systems: The Complete Book. 1ª Ed 2001 ou 2ª
+Ed 2008.
+
+3. Date, C. J. Introdução a Sistemas de Bancos de Dados. 8a edição. Editora Campus, 2004.
+4. Özsu, M.; Valduriez, P. Principles of Distributed Database Systems. 2a ed. Prentice Hall, 1999.
+1. BEIGHLEY, L. Use a Cabeça: SQL. Rio de Janeiro: Alta Books, 2010.
+
+

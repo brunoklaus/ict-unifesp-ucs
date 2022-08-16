@@ -1,0 +1,77 @@
+Nome do Componente Curricular: Fenômenos Eletromagnéticos Experimental
+Pré-requisitos: Não há
+Carga Horária Total: 36h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Aprofundar a compreensão do caráter experimental dos conceitos físicos relacionados ao
+eletromagnetismo.
+Específicos:
+ Projetar e executar experimentos de forma crítica, utilizando metodologia cientifica, visando
+descrever quantitativamente e qualitativamente problemas práticos;
+ Verificar experimentalmente leis da Física e fazer uma apresentação do caráter experimental
+do eletromagnetismo;
+ Assimilar o significado teórico das Leis de Maxwell estabelecendo sua importância para a
+propagação da radiação eletromagnética;
+ Relacionar os conceitos fundamentais do eletromagnetismo com aplicações em áreas
+adjacentes, em especial química, engenharias e biologia;
+ Conhecer os princípios de funcionamento e dominar a utilização de instrumentos de medidas
+elétricas, como: osciloscópio, voltímetro, amperímetro e ohmímetro.
+Ementa:
+Medidas elétricas. Circuitos de corrente contínua. Indução eletromagnética. Resistência. Capacitância
+e indutância. Circuitos de corrente alternada. Dispositivos e instrumentos. Propriedades elétricas e
+magnéticas da matéria. Ondas eletromagnéticas.
+Conteúdo Programático:
+I - Eletrostático
+ - Gerador de Vander Graf
+ - Mapeamento de campo elétrico
+ - Gaiola de Faraday
+ - Cargas elétricas (balança de torção)
+II - Eletrodinâmica
+ - Associação de resistores (Série e Paralelo)
+ - Comportamento Ôhmico
+ - Capacitores
+ - Associação de Capacitores (Série e Paralelo)
+ - Indutores/transformadores
+Metodologia de Ensino Utilizada:
+Dividir os alunos em equipes de preferencialmente quatro membros, apresentar uma introdução
+teórica do assunto e acompanhar o andamento da experiência, tirando dúvidas e sugerindo
+procedimentos. Os alunos deverão: projetar e realizar a experiência coletando os dados dos
+parâmetros físicos envolvidos; tratar os dados, obtendo os resultados das grandezas físicas
+procuradas; apresentar um pré-relatório simplificado, por grupo, para cada experiência, ao final da
+mesma e; elaborar em grupo um relatório completo.
+Recursos Instrucionais Necessários:
+Sala, quadro branco ou negro, projetor multimídia, equipamentos constantes do laboratório, como:
+
+multímetros, osciloscópios, fontes, geradores de função, bobinas, bobinas de Helmholtz, elementos
+diversos (capacitores, resistores, indutores, diodos, varistores, elementos PTCR e NTCR, LEDs),
+suportes, fios, bússolas, Laser de He-Ne, laminas com fenda e orifícios, detector de luz, computadores
+com interfaces para aquisição de dados, interferômetro de Michelson, câmara transparente, bomba
+de vácuo, lentes e espelhos diversos, polarizadores com medidor de ângulo e transferidores.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Tipler, P. A. Física para cientistas e engenheiros, v.2, 6ª ed., Livros Técnicos e Científicos Editora,
+2008.
+2. Halliday, D., Resnick. R. e Walker, J., Fundamentos de Física, v.3, 8ª ed., Livros Técnicos e
+Científicos Editora, 2009.
+3. Nussenzveig, M., Curso de Física Básica: v.3, 4ª ed., Editora Edgard Blücher, 2002.
+Complementar:
+1. Alonso, M. e Finn, E., Física Um Curso Universitário, v.2, Editora Edgard Blücher, 1972.
+2. Serway, R.A. e Jewett Jr., W. Principios de Física, v.3, Editora Thonsom, 2004.
+3. Feynman, Richard P.; Leighton, Robert B.; Sands, Matthew. Feynman Lições de física: mecânica
+quântica. [The Feynman lectures on physics]. Tradução de: Antônio José roque da Silva, Sylvio
+Roberto Accioly Canuto, Consultoria, supervisão e revisão técnica de: Adalberto Fazzio. Porto
+Alegre: Bookman, 2008. v.2.
+4. PRESTON, D. W. Experiments in physics: laboratory manual for scientists and engineers.
+Chichester (GBR): John Wiley & Sons, c1985.
+5. Young, H.D. e Freedman, R.A. Física III: eletromagnetismo. v.3, 12.ed. São Paulo: Pearson, 2009.
+
+

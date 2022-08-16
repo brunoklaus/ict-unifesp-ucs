@@ -1,0 +1,51 @@
+Nome do Componente Curricular: Bioquímica II
+Pré-requisitos: Bioquímica I
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Tópicos avançados da bioquímica.
+Específicos:
+Introdução a tópicos avançados da bioquímica do metabolismo.
+Ementa:
+Metabolismo dos Lipídeos. Metabolismo dos Aminoácidos. Metabolismo dos Ácidos Nucleicos.
+Mecanismos de Regulação do Metabolismo. Integração do Metabolismo. Introdução ao Metabolismo
+Secundário. Tipos de metabolismos energéticos microbiano. Metabolismo de E. coli. Diversidade
+metabólica de organismos heterótrofos aeróbicos. Catabolismo de heterótrofos aeróbicos.
+Organismos quimiolitotróficos e fototróficos. Fixação de N2.
+Conteúdo Programático:
+• Lipídeos.
+• Aminoácidos.
+• Ácidos Nucleicos.
+• Regulação.
+• Metabolismo Secundário.
+• Metabolismos energéticos microbiano.
+• Heterótrofos aeróbicos. Quimiolitotróficos e fototróficos.
+• Fixação de N2.
+Metodologia de Ensino Utilizada:
+Aulas expositivas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. STRYER, L. Bioquímica. Ed. Guanabara-Koogan, 2007.
+2. NELSON, D.L.; COX, M.M. Lehninger princípios de bioquímica. 5 a ed. Porto Alegre: Artmed,
+2011.
+3. ALBERTS, B. et al. Fundamentos da biologia celular. 2a ed. Porto Alegre: ARTMED, 2006.
+Complementar:
+1. GOTTSCHALK, G. Bacterial Metabolism (Springer Series in Microbiology)
+2. VOET, VOET, Bioquímica, 4a ed. SARAIVA, 2013.
+3. HARVEY LODISH ET AL. Biologia Celular e Molecular. Ed. Artmed, 2007.
+
+4. MARZZOCO, Anita; TORRES, Bayardo Baptista. Bioquímica básica. 3 ed. Rio de Janeiro: Guanabara Koogan, 2007.
+5. CAMPBELL, M. K. Bioquímica, 3ª edição, Artmed, 2000.
+
+

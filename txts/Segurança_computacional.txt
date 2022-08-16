@@ -1,0 +1,68 @@
+Nome do Componente Curricular: Segurança Computacional
+Pré-requisitos: Sistemas Operacionais
+Carga horária total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Geral:
+Apresentar os principais conceitos e técnicas relacionadas á segurança computacional e suas
+aplicações em redes de computadores e internet.
+Específicos:
+Ao final do curso o aluno deverá estar familiarizado com as principais ameaças de seguranças e
+técnicas de prevenção de fraudes, incluindo algoritmos de criptografia simétrica, algoritmos de
+criptografia assimétrica, modelos de controle de acesso o e ferramentas de avaliação de segurança.
+Ementa:
+Introdução a segurança computacional; ataques e ameaças de segurança; políticas de segurança;
+mecanismos de segurança, criptografia, autorização e controle de acesso, autenticação; segurança em
+sistemas operacionais e software; aplicações de segurança em redes e Internet; técnicas e
+ferramentas para testes de penetração;
+Conteúdo Programático:
+Introdução a Segurança Computacional. Ameaças de Segurança Ataques e Vulnerabilidades.
+Ferramentas para Teste de Penetração. Políticas de Segurança. Criptografia. Criptografia Simétrica.
+Cifra de Bloco. DES. AES. criptografia de chave Pública. RSA. Funções Hash. Autenticação. Protocolos e
+Mecanismos de Autenticação. Autorização e Controle de Acesso. Modelos de Controle de Acesso.
+Mecanismos de controle de Acesso. Segurança em Sistemas Operacionais. Segurança no Windows.
+Segurança no Linux/Unix. Aplicações de segurança em Redes e Internet. Aplicações de Autenticação.
+IPSec. Segurança na Web. Firewalls.
+Metodologia de Ensino Utilizada:
+O curso será baseado em aulas expositivas com auxílio do quadro e projetor multimídia. A
+participação dos alunos em sala de aula será estimulada através de perguntas e sessões de exercícios.
+Para fixação dos tópicos estudados, os alunos receberão, ao longo do curso, listas de exercícios para
+entrega em sala de aula. Por fim, destacamos as aulas práticas nos laboratórios de informática para
+implementação de protótipos.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. STALLINGS, William. Criptografia e seguranças de redes: princípios e práticas. 4 ed. Säo Paulo:
+Person Prentice-Hall, 2008. 492 p p. ISBN 978-85-7605-119-0. Título original: Criptography and
+networking security 4/E.
+2. Cole, Eric; Krutz, Ronald; Conley, James W.. Network security bible. 2nd ed. Indianapolis: Wiley,
+2009. 891 p. ISBN 978-0-470-50249-5.
+3. Charles P. Pfleeger, Shari Lawrence Pfleeger. Security in Computing, 4th ed. Prentice Hall, 2007.
+Complementar:
+1. Kaufman, Charlie. Network security: private communication in a public world. 2.ed. Upper
+
+2.
+3.
+4.
+5.
+
+Saddle River (EUA): Prentice-Hall, c2002. 713 p. ISBN 9780130460196.
+Panko, Raymond R.. Corporate computer and network security. 2. ed. Upper Saddle River, NJ:
+Prentice Hall, 2010. 502 p. ISBN 978-0-13-185475-8.
+Stallings, William. Cryptography and network security: principles and practice. 5.ed. Upper
+Saddle River, NJ: Prentice Hall, 2011. 719 p.
+KUROSE, James F.; Ross, Keith W.. Redes de computadores e a internet: uma abordagem topdown. 5.ed. São Paulo: Addison-Wesley, 2010. 614 p. ISBN 9788588639973.
+Tanenbaum, Andrew S; Wetherall, David. Redes de computadores. [Computer networks 5th
+edition]. Tradução Daniel Vieira, Revisão técnica: Prof.Dr. Isaias Lima. 5 ed. Rio de Janeiro:
+Elsevier, 2011. 582 p. ISBN 978-85-7605-924-0.
+
+

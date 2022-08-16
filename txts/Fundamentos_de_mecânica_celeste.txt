@@ -1,0 +1,62 @@
+Nome do Componente Curricular: Fundamentos de Mecânica Celeste
+Pré-requisitos: Fenômenos Mecânicos; Séries e Equações Diferenciais Ordinárias
+Carga Horária Total: 72h
+Carga Horária Prática: 10h
+Carga Horária Teórica: 62h
+Objetivos
+Gerais:
+Introduzir conceitos básicos de Matemática e Física necessários para o estudo do movimento de
+corpos celestes naturais e artificiais. Ressaltar a interdisciplinaridade do assunto.
+Específicos:
+Ao final da unidade curricular o aluno deverá ter condições de analisar o comportamento dos
+elementos orbitais de corpos celestes naturais e artificiais considerando algumas perturbações
+específicas. O aluno deve compreender os aspectos interdisciplinares de Matemática e Física
+envolvidos no assunto e ter uma visão maior de como fazer relações semelhantes com outros temas
+estudados no curso.
+Ementa:
+Força central. Leis de Kepler e de Newton. Problema de dois corpos. Geometria orbital. Cálculo de
+efemérides. Problema restrito dos três corpos. Noções de teoria das perturbações. Equações de
+Lagrange.
+Conteúdo Programático:
+ Força central. Integrais primeiras. Descrição qualitativa das órbitas.
+ Leis de Kepler. Lei da gravitação universal.
+ Problema de dois corpos: equacionamento e solução.
+ Geometria orbital.
+ Órbitas elípticas, parabólicas e hiperbólicas.
+ Expansões no movimento elítico.
+ Introdução à determinação de órbitas e cálculo de efemérides.
+ Problema restrito de três corpos: equacionamento, pontos Lagrangianos.
+ Teoria de perturbações: método da variação dos parâmetros.
+ Equações planetárias de Lagrange.
+ Análise preliminar do comportamento de órbitas de satélites artificiais sujeitas a perturbações
+devidas ao geopotencial e à atração por um terceiro corpo.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios. Seminários e trabalhos envolvendo a interdisciplinaridade do tema.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. BATE, R. R.; MUELLER, D. D.; WHITE, J. E. Fundamentals of astrodynamics. 2ª ed. New York:
+Dover, 1972.
+2. BROUWER, D.; CLEMENCE, G. Methods of celestial mechanics. 3ª ed. New York: Academic
+
+Press, 1961.
+3. CHOBOTOV, V. A. Orbital mechanics. 3a. ed. Virginia: AIAA Educational Series, 2002.
+Complementar:
+1. BEUTLER, G.; MERVART, L.; VERDUN, A. Methods of celestial mechanics: theory, applications
+and computer programs. V. 1. Berlim: Springer, 2005.
+2. PRADO, A. F. B. A.; KUGA, H. H. Fundamentos de tecnologia espacial. São José dos Campos:
+INPE, 2001.
+3. VILHENA DE MORAES, R. Trajetória de veículos espaciais. São José dos Campos: ITA,
+(Publicação Interna) 1978.
+4. VOLCHAN, S. B. Uma introdução à mecânica celeste. 26º. CBM, Rio de Janeiro: IMPA, 2007.
+5. WALTER, U. Astronautics: the physics of space flight, Weinmach: Wiley/VCH, 2008.
+
+

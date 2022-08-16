@@ -1,0 +1,82 @@
+Nome do Componente Curricular: Engenharia Médica Aplicada
+Pré-requisitos: Fisiologia Humana; Imagens Biomédicas; Transdução de Grandezas Biomédicas
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Proporcionar ao aluno uma noção geral do tipo de informação que é relevante para a prática clínica nas
+principais especialidades médicas e apresentar as técnicas de engenharia biomédica que são empregadas
+no apoio ao diagnóstico médico, monitoramento de pacientes e intervenção clínica.
+Específicos:
+Fornecer conhecimentos sobre os princípios para avaliação da intervenção médica, incluindo noções
+gerais das técnicas de engenharia envolvidas em práticas clínicas para o monitoramento e intervenção
+hospitalar. Apresentar ao aluno as principais técnicas que são utilizadas na extração da informação,
+reconhecimento de padrões e classificação empregadas no desenvolvimento de sistemas automatizados
+para apoio ao diagnóstico médico. Trabalhar em exemplos práticos associados às principais patologias do
+sistema nervoso central e periférico, sistema cardiovascular, sistema respiratório e digestório,
+desenvolvendo a capacidade do aluno de interagir com a terminologia médica nestas áreas, de identificar a
+informação de relevância em tais cenários clínicos e de implementar possíveis soluções através de projetos
+simples de classificadores aplicados ao diagnóstico médico.
+Ementa:
+Introdução à Engenharia Médica. Introdução ao Monitoramento Clínico Hospitalar e à Intervenção
+Clínica. Desenvolvimento de Sistemas de Apoio ao Diagnóstico Médico.
+Conteúdo Programático:
+· Introdução à Engenharia Médica: conceito de Engenharia Médica; exemplos de tecnologia
+aplicada ao diagnóstico médico, monitoramento clínico-hospitalar e intervenção clínica; a pesquisa
+em Engenharia Médica; a atuação do engenheiro biomédico no apoio ao diagnóstico médico.
+· Introdução ao Monitoramento Clínico-Hospitalar e à Intervenção Clínica: a Unidade de Terapia
+Intensiva, o Centro Cirúrgico e os principais monitores de parâmetros vitais; Estudos de
+Intervenção na Medicina; Introdução à classificação epidemiológica de estudos clínicos; Análise
+dos principais tipos de Ensaios Clínicos; Noções de sistemas de navegação e telemetria na
+medicina.
+· Desenvolvimento de Sistemas de Apoio ao Diagnóstico Médico. Etapas no projeto de um
+classificador para otimização e automação parcial do diagnóstico médico. Extração de
+Características: principais características estatísticas, espectrais, bivariadas (correlação, coerência,
+fase) e características de Teoria da Informação (informação mútua e medidas entrópicas) aplicadas
+no apoio ao diagnóstico. Pré-processamento de características (detecção de outliers, normalização,
+testes estatísticos e curva ROC). Seleção de Características: Scatter Matrices, Seleção Escalar e o
+Critério de Fisher, Principal Component Analysis, Independent Component Analysis, Singular
+Value Decomposition. Classificação em Engenharia Médica: Classificadores Bayesianos, Métodos
+para estima de densidades de probabilidades (Maximum Likelihood), Classificadores Lineares
+(Linear Discriminant Functions), Support Vector Machines. Implementação e aplicação das
+técnicas estudadas em exemplos práticos extraídos das principais especialidades médicas.
+Realização de um projeto simples para um Computer-Aided Diagnosis System.
+Metodologia de Ensino Utilizada:
+Aulas expositivas, aulas práticas no laboratório de informática e atividades extraclasses semanais em
+
+forma de lista de exercícios e trabalhos.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia, laboratório de informática. Acesso ao MOODLE.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos discentes. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico,
+com o objetivo de favorecer o progresso do discente ao longo do semestre. A promoção do discente na
+unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1.
+BRONZINO, J. “Medical Devices and Systems”. CRC Press, 3ª edição, 2006.
+2.
+HALL, J., GUYTON, A. “Tratado de fisiologia médica”. 12 ed. Rio de Janeiro: Elsevier, 2011.
+3.
+THEODORIDIS, S. e KOUTROUMBAS, K., “Pattern recognition”, quarta edição, Elsevier, 2009.
+Complementar:
+1.
+NORTHROP, R. “Noninvasive Instrumentation and Measurement in Medical Diagnosis”, CRC
+Press, 2002.
+2.
+SEIFTER, J., RATNER, A., SLOANE, D., “Concepts in medical physiology”. Lippincott Willians
+& Wilkins, 2005.
+3.
+DUDA, R. O, HART, P. E., STORK, D. G., “Pattern classification” 2 ed. New York: John Wiley
+& Sons, 2000.
+4.
+BISHOP, C. M. “Pattern recognition and machine learning”. New York: Springer, 2006.
+5.
+DOUGHERTY, G. “Digital image processing for medical applications”. Cambridge: Cambridge
+University Press, 2009.
+
+

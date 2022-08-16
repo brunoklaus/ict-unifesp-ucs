@@ -1,0 +1,104 @@
+Nome do Componente Curricular: Fenômenos do Contínuo
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Aprofundar a compreensão de conceitos físicos relacionados à ondulatória, hidrodinâmica,
+termodinâmica. Introduzir elementos de mecânica estatística através de discussões de aspectos
+quantitativos e qualitativos. Apresentar e analisar as diversas aplicações em Física e em ramos
+adjacentes.
+Específicos:
+ Descrever quantitativamente problemas práticos relacionados ao movimento harmônico
+simples e à ondulatória;
+ Empregar os princípios básicos de hidrodinâmicas na solução de problemas práticos, tanto em
+física como em áreas relacionadas;
+ Compreender, discutir e empregar os postulados da termodinâmica e mecânica estatística;
+ Reconhecer as propriedades distintivas entre sistemas macroscópicos e microscópicos
+estabelecendo o elo entre a termodinâmica e a mecânica estatística.
+Ementa:
+Oscilações e Ondas. Hidrodinâmica. Termodinâmica. Mecânica Estatística.
+Conteúdo Programático:
+ Oscilações
+o Movimento oscilatório
+o Cinemática do movimento harmônico simples (MHS)
+o Força e energia no MHS
+o Equação do MHS
+o Pendulo simples
+o Princípio da superposição
+o Oscilações amortecidas e forçadas
+ Ondulatória
+o Ondas
+o Descrição do movimento ondulatório
+o Equação geral da onda
+o Propagação da onda
+o Velocidade de grupo
+o Efeito Doppler
+ Hidrostática e hidrodinâmica
+o Estados da matéria
+o Deformação de sólidos
+o Densidade e pressão
+o Pressão hidrostática
+o Empuxo e princípio de Arquimedes
+o Fluido em movimento: Equação de Bernoulli
+o Viscosidade, capilaridade e tensão superficial
+
+o Fenômenos de transporte
+o Difusão
+o Condução térmica
+o Viscosidade
+o Livre caminho médio
+ Termodinâmica
+o Teoria cinética dos Gases
+ Temperatura
+ Gás ideal
+ Gases reais
+o Calorimetria
+ Primeira lei da Termodinâmica: Energia interna, trabalho e calor
+ Capacidade térmica
+ Processos reversíveis e irreversíveis
+ Entropia e calor
+ Eficiência e ciclos termodinâmicos
+ Segunda lei da termodinâmica: A lei da entropia
+ Mecânica estatística
+o Equilíbrio estático
+o Distribuição de Maxwell-Boltzmann
+o Definição estatística de temperatura
+o Distribuição de energias e velocidades num gás ideal
+o Equilíbrio térmico
+o Entropia
+o Lei do aumento da entropia
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação e discussão de situações-problema, listas de exercícios e seminários.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Paul A. Tipler, Física para cientistas e engenheiros, vol.1, 6ª ed., Livros Técnicos e Científicos
+Editora.
+2. Raymond A. Serway e John W. Jewett, Jr., Principios de Física, v.2, Editora Thonsom.
+3. Halliday, Resnick, Walker, Fundamentos de Física, v.2, 8ª ed., Livros Técnicos e Científicos
+Editora.
+Complementar:
+
+1.
+2.
+3.
+4.
+5.
+
+Marcelo Alonso e Edward Finn, Fundamental University Physics, v.3, Editora Addison Wesley.
+Richard Feynman, Lectures on Physics, v.1, Addison Wesley.
+Indias, M. A. C, Curso de Física II, McGraw-Hill, Lisboa, 1994.
+Moisés Nussenzweig, Curso de Física Básica: v.2, 4ª ed., Editora Edgard Blücher.
+Dias de Deus, J., et al., Introdução à Física, 2ª Ed., McGraw-Hill, Lisboa, 2000.
+
+

@@ -1,0 +1,67 @@
+Nome do Componente Curricular: Espaços Métricos
+Período: 7º semestre
+Pré-requisitos: Cálculo em Várias Variáveis
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Familiarizar os alunos com os conceitos pertinentes à Topologia por meio do estudo dos
+espaços métricos.
+Específicos:
+Ao final do curso os alunos devem estar capazes de inferir resultados em estruturas e
+modelos que sejam conhecidamente espaços métricos; saber usar os conceitos de
+métrica, funções contínuas e sequências convergentes em espaços métricos. É desejado
+que durante o curso o aluno tome conhecimento de conceitos que podem ser
+generalizados para espaços topológicos, bem como caracterizar alguns espaços métricos
+particulares tais como espaços compactos, espaços completos e espaços conexos.
+Ementa:
+Espaços métricos. Topologia de espaços métricos. Sequências, convergência. Espaços
+métricos completos. Funções contínuas. Conexidade e compacidade.
+Conteúdo Programático:
+1. Métricas: definição, propriedades, métricas induzidas por normas.
+ Sequências, convergência.
+ Espaços Métricos Completos. Completamento.
+ Topologia de espaços métricos: abertos, fechados, vizinhanças, fronteira, pontos de
+acumulação.
+ Continuidade.
+ Compacidade, compacidade sequencial, espaços totalmente limitados.
+ Conexidade, conexidade por caminhos, conexos da reta real.
+
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta
+EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+
+Bibliografia
+Básica:
+1.
+LIMA, E. L. Espaços métricos. 4ª ed. Rio de Janeiro:SBM-IMPA, 2011.
+2.
+LIMA, E. L. Elementos de topologia geral. Rio de Janeiro:SBM-IMPA, 2009.
+3.
+KREYSZIG, E. Introductory functional analysis with applications. New
+Jersey:John Wiley & Sons, 1989.
+Complementar:
+1.
+COPSON, E. T. Metric spaces. Londres:Cambridge University Press, 1968.
+2.
+HOCKING, J. G.; YOUNG, G. S. Topology. New York:Dover Publications, 1988.
+3.
+KAPLANSKY, Irving. Set theory and metric spaces, Rhode Island: AMS, 1977.
+4.
+SEARCOID, M. O. Metric spaces. New York:Springer, 2007.
+5.
+SUTHERLAND, W. A. Introduction to metric and topological spaces. 2ª ed.
+Oxford:Oxford University Press, 2009.
+
+

@@ -1,0 +1,67 @@
+Nome do Componente Curricular: Interação Humano-Computador
+Pré-requisitos: Programação Orientada a Objetos
+Carga Horária Total: 72h
+Carga Horária Prática: 18h
+Carga Horária Teórica: 54h
+Objetivos
+Gerais:
+Apresentar os conceitos e técnicas de interação humano-computador.
+Específicos:
+Ao final do curso o aluno deve estar familiarizado com os conceitos básicos, técnicas e ferramentas
+destinadas ao desenvolvimento de softwares que facilitem interatividade do homem com a máquina.
+Ementa:
+Introdução a Interfaces Homem Computador (IHC). Aspectos humanos. Design de sistemas
+interativos. Técnicas de design. Contextos e fundamentos do design. Ferramentas de suporte.
+Avaliação.
+Conteúdo Programático:
+Percepção e representação. Percepção visual. Representações gráficas na interface Atenção e
+memória. Focando atenção. Restrições da memória. Conhecimento e modelos mentais.
+Representação de conhecimento e organização. Modelos mentais. A utilidade de modelos mentais em
+IHC. Metáforas e modelos conceituais. Metáforas verbais. Metáforas virtuais. Classificação de
+metáforas de interface para aplicações Modelos conceituais. Aspectos tecnológicos. Entrada. Saída.
+Estilos de interação. Design de sistemas de janelas. Informação on-line de suporte ao usuário. Design
+para trabalho cooperativo e ambientes virtuais. Design da interação: métodos e técnicas. Princípios e
+métodos do design centrado no usuário. Levantamento de requisitos. Análise da tarefa. Design
+estruturado. Ferramentas de suporte ao design. Guidelines. Padrões e métricas. IBIS. Prototipação.
+Software de suporte. Avaliação. O papel da avaliação. Métodos de avaliação. Avaliação interpretativa
+e preditiva. Comparação de métodos de avaliação.
+Metodologia de Ensino Utilizada:
+O curso será baseado em aulas expositivas com auxílio do quadro e projetor multimídia. Para fixação
+dos tópicos estudados, os alunos receberão, ao longo do curso, listas de exercícios para entrega em
+sala de aula. Serão realizadas algumas aulas práticas e o desenvolvimento de projetos individuais e em
+grupos para fixação dos conteúdos. Por fim, destaca-se o estudo do estado da arte através da análise e
+apresentação de artigos indicados pelo professor.
+Recursos Instrucionais Necessários:
+Sala de aula com quadro; Projeto multimídia e Ambiente de apoio à aprendizagem colaborativa à
+distância.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. Design de interação: além da interação
+
+homem-computador. Porto Alegre, RS: Bookman, 2005. 548 p. ISBN 978-85-363-0494-6. Título
+original: Interaction design: beyond human - computer interaction.
+2. Barbosa, Simone Diniz Junqueira; Silva, Bruno Santana. Interação humano-computador. Rio de
+Janeiro: Campus, 2010. 384 p. (Séries SBS, Sociedade Brasileira de Computação). ISBN 978-85352-3418-3.
+3. Benyon, David. Interação humano-computador. 2 ed. Pearson Prentice Hall, 2011. 442 p. ISBN
+978-85-7936-109-8.
+4. Dix, Alan et al. Human-computer interaction. 3 ed. Harlow: Pearson Prentice Hall, 2004. 834 p.
+ISBN 978-0-13-046109-4.
+Complementar:
+1. ROCHA, Heloisa Vieira e BARANAUSKAS, M. Cecília. Design e Avaliação de Interfaces HumanoComputador. São Paulo: Escola de Computação da USP, 2000.
+2. Sutcliffe, Alistair. Multimedia and virtual reality: designing multisensory user interfaces.
+Mahwah, NJ: LAWRENCE ERLBAUM ASSOCIATES, PUBRISHERS, 2002. 333 p. ISBN 978-0-80583950-0.
+3. BOWMAN, Doug A et al. 3D user interfaces: theory and practice. [s.l.]: [s.n.], 2004. 478 p. ISBN
+978-0-201-75867-2.
+4. SHNEIDERMAN, Ben; PLAISANT, Catherine. Designing the user interface: strategies for effective
+human-computer interaction. 5.ed. San Francisco: Addison-Wesley, 2009. 606 p. ISBN 978-0321-53735-5.
+5. NILSEN, Jacob. Projetando websites. São Paulo: Editora Campus, 2000.
+6. TIDWELL, Jenifer. Designing interfaces. Sebastopol: O'Reilly, 2006. 331 p. ISBN 978-0-59600803-1.
+
+

@@ -1,0 +1,69 @@
+Nome do Componente Curricular: Modelos Animais
+Pré-requisitos: Biotecnologia Animal
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introdução à teoria e prática de trabalho com modelos animais.
+Específicos:
+Introdução ao trabalho experimental com diversos modelos animais incluindo
+transgênicos.
+Ementa:
+Introdução de modelos experimentais em ciências biomédicas. Ética em
+experimentação animal. Roedores. Primatas e outros mamíferos. C. elegans. D.
+melanogaster. Zebra fish. OGMs: Transgenia, Nocauteamento gênico, RNA de
+interferência, Cre-lox e CRISPR-CAS9.
+Conteúdo Programático:
+
+D.melanogaster.
+
+E. elegans.
+
+Zebrafish.
+
+Transgênicos.
+
+Knock downs e knock outs.
+
+RNAi.
+Metodologia de Ensino Utilizada:
+Aulas expositivas.
+Recursos Instrucionais Necessários:
+Sala com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+
+COLLARES, T. Animais transgênicos - princípios & métodos. Sociedade brasileira
+de genética, 2005.
+
+GONÇALVES, P.B.D.; FIGUEIREDO, J.R.; FREITAS, V.J.F. Biotécnicas Aplicadas à
+Reprodução Animal. Roca, 2008.
+
+
+CASTILHO, L.R.; AUGUSTO, E.F.P.; MORAES, A. Tecnologia de Cultivo de Células
+Animais - de Biofármacos à Terapia Gênica. Roca, 2008.
+Complementar:
+
+LODISH, H. et al. Biologia Celular e Molecular. 2005. 5a ed., Ed. Artmed;
+
+LEHNINGER, A.L.; NELSON, D.I.; COX, M.M. Princípios de Bioquímica. 2007. 4a
+ed. Ed. Sarvier.
+
+R Rennerberg. Biotechnology for beginners. China: Academic Press, 2008.
+
+JE Smith. Biotechnology. 5ed. Cambridge 2009.
+
+ALBERTS, A.; BRAY, D., JOHNSON, A, LEWIS, J., RAFF, M., ROBERTS, K.; WALTER,
+P. Fundamentos da Biologia Celular. 1999. Editora Artmed – Porto Alegre – RS;
+
+

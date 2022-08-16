@@ -1,0 +1,75 @@
+Nome do Componente Curricular: Otimização Não Linear
+Período: 7º semestre
+Pré-requisitos: Cálculo em Várias Variáveis; Cálculo Numérico
+Carga Horária Total: 72h
+Carga Horária Prática: 14h
+Carga Horária Teórica: 58h
+Objetivos
+Gerais:
+Capacitar o aluno a identificar, formular e resolver problemas de otimização não linear.
+Específicos:
+Ao final da unidade curricular o aluno deverá ter condições de identificar problemas de
+otimização não-linear, irrestritos e restritos; compreender a teoria básica das condições
+de otimalidade; compreender os métodos de otimização não linear, tanto para
+problemas irrestritos como
+para problemas restritos, os algoritmos e suas condições de convergência; analisar a
+sensibilidade das soluções obtidas.
+Ementa:
+Otimização irrestrita: condições de otimalidade e métodos para otimização sem
+restrições. Otimização com restrições: condições de otimalidade e métodos primais e
+duais.
+Conteúdo Programático:
+1. Conceitos básicos de otimização não linear.
+ Condições de otimalidade para problemas irrestritos e convexidade.
+ Métodos para otimização irrestrita: métodos de descida, busca linear, teorema de
+convergência global, método de Newton, método das direções conjugadas, métodos
+Quasi-Newton.
+ Condições de otimalidade para problemas com restrições: restrições em formato
+geral, restrições de igualdade, restrições de desigualdade, restrições mistas.
+ Métodos primais: restrições ativas, gradiente projetado, gradiente reduzido,
+gradiente reduzido generalizado. Métodos de barreira e penalidade.
+ Métodos duais: lagrangiano aumentado e programação quadrática sequencial.
+Dualidade e análise de sensibilidade.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios. Aulas de Laboratório.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Laboratório de Informática. Acesso ao
+MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela PróReitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+1.
+BAZARAA, M. S.; SHERALI, H. D.; SHETTY, C. M. Nonlinear Programming:
+theory and algorithms. 3ª ed. Hoboken: John Wiley & Sons, 2006
+2.
+BERTSEKAS, D. P. Nonlinear programming. 2ª ed. Belmont: Athena Scientific,
+1999.
+3.
+LUENBERGER, D. G.; YE, Y. Linear and nonlinear programming. 3ª ed. Nova York:
+Springer, 2008.
+Complementar:
+1.
+AVRIEL, M. Nonlinear programming: analysis and methods. Mineola: Dover
+Publications, 2003.
+2.
+BONNANS, J. F.; GILBERT, J. C.; LEMARECHAL, C.; SAGASTIZABAL, C. A., Numerical
+optimization, 2 ed., 2006.
+3.
+FLETCHER, R. Practical methods of optimization. Chichester: John Wiley & Sons,
+2000.
+4.
+GILL, Philip E; MURRAY, Walter; WRIGHT, Margareth H. Practical
+optmization. Reino Unido: Emerald Group Publishing Limited, 2007.
+5.
+NOCEDAL, J.; WRIGHT, S. J. Numerical optimization, 2ª ed. New York: Springer,
+2006.
+
+

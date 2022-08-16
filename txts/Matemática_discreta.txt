@@ -1,0 +1,67 @@
+Nome do Componente Curricular: Matemática Discreta
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Introduzir o aluno ao pensamento matemático. Em particular, o aluno aprenderá algumas das técnicas
+mais importantes da Matemática: definir rigorosamente, fazer demonstrações e encontrar contraexemplos. Familiarizar o aluno com as principais técnicas de contagem.
+Específicos:
+Ao final da unidade curricular o aluno deverá estar apto a definir conceitos matemáticos
+rigorosamente, compreender e elaborar demonstrações simples, formular contra-exemplos e
+compreender conceitos básicos de conjuntos e funções. Propiciar ao aluno o conhecimento das
+principais ferramentas de contagem de modo a torná-lo apto a aplicar essas técnicas onde problemas
+de Combinatória aparecem, especialmente aqueles envolvendo enumeração.
+Ementa:
+Técnicas de demonstração. Demonstrações com inteiros. Demonstrações com conjuntos. Princípios de
+contagem. Aplicações.
+Conteúdo Programático:
+ Números inteiros: definições, teoremas e contra-exemplos. Técnicas de demonstração:
+demonstração direta, contrapositiva, contradição. Tabela verdade. Quantificadores. Princípio da
+indução finita e recursividade.
+ Demonstrações com conjuntos: definições e notações, operações entre conjuntos, conjunto das
+partes.
+ Princípios aditivo e multiplicativo. Aplicações: permutações, arranjos e combinações.
+ Equações com coeficientes unitários. Combinação, arranjo e permutação com repetições.
+ Princípio da inclusão e exclusão. Aplicações.
+ Funções geradoras. Cálculo de coeficientes de funções geradoras.
+ Relações de recorrência lineares homogêneas. Relações de recorrência lineares não homogêneas.
+Resolução baseada em funções geradoras.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios. Listas de exercícios extraclasse.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. ALENCAR FILHO, E. Iniciação a lógica matemática. 21ª ed. São Paulo: Nobel, 2008.
+2. ROSEN, K. H. Matemática discreta e suas aplicações. 6ª ed. São Paulo: McGraw-Hill, 2009.
+3. SCHEINERMAN, E. R. Matemática discreta: uma introdução. São Paulo: Cengage Learning,
+2011.
+4. SANTOS, J. P. O.; MELLO, M. P.; MURARI, I. T. C. Introdução à Análise Combinatória. 4ª ed. Rio
+
+de Janeiro: Editora Ciência Moderna, 2007.
+Complementar:
+1. LOVÁZ, L.; PELIKÁN, J.; VESZTERGOMBI, K. Matemática discreta: elementar e além. Rio de
+Janeiro: SBM, 2003.
+2. GERSTING, J. Fundamentos matemáticos para a ciência da computação: um tratamento
+moderno de matemática discreta. 5ª ed. Rio de Janeiro: LTC, 2008.
+3. LIPSCHUTZ, S.; LIPSON, M. Teoria e problemas de matemática discreta. 2ª ed. Porto Alegre:
+Bookman, 2006.
+4. MENEZES, P. B. Matemática discreta para computação e informática. 2ª ed. Porto Alegre:
+Bookman, 2005.
+5. MENEZES, P. B.; TOSCANI, L.; LÓPEZ, J. G. Aprendendo matemática discreta com exercícios.
+Porto Alegre: Bookman, 2009.
+6. VELLEMAN, D. J. How to prove it: a structured approach. 2ª ed. New York : Cambridge
+University Press, 2006.
+7. GRAHAM, R. L.; KNUTH, D. E.; PATASHNIKk, O. Matemática concreta: fundamentos para
+ciência da computação. 2.ed. Rio de Janeiro: LTC, 1995.
+
+

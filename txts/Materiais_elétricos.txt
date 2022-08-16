@@ -1,0 +1,71 @@
+Nome do Componente Curricular: Materiais Elétricos
+Pré-requisitos: Fenômenos Eletromagnéticos
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Fornecer ao aluno uma introdução conceitual das propriedades e fenômenos de interesse
+apresentados pelos materiais empregados em engenharia. Estudar as propriedades dos materiais
+Condutores, Supercondutores, Semicondutores e Isolantes.
+Específicos:
+Exemplificar a aplicação destes materiais em dispositivos e componentes de circuitos elétricos e teoria
+correlata.
+Ementa:
+Propriedades Físicas e Eletrônicas de Materiais e Dispositivos Semicondutores. Estudo dos materiais e
+dispositivos isolantes e magnéticos. Noções de física do estado sólido. Dispositivos Eletrônicos
+Básicos. Tecnologias de Fabricação de Circuitos Eletrônicos. Aplicações.
+Conteúdo Programático:
+1. Materiais Condutores:
+ Estrutura Físico-atômica dos Materiais
+ Propriedades dos Condutores
+ Propriedades e Aplicações das Ligas Metálicas - Condutores de Energia
+ Propriedades e Aplicações das Ligas Metálicas Resistivas - Resistências Elétricas
+ Ligas a base de Carbono e suas aplicações
+ Estudo dos supercondutores e suas características
+1. Materiais Semicondutores:
+ Estrutura Físico-atômica
+ Semicondutores Intrínsecos - difusão e deriva Semicondutores Extrínsecos - dopagem e
+tipo N e P
+ Tecnologias de fabricação de semicondutores
+ Propriedades, Condutividade e variação com a temperatura
+ Leis das massas, portadores majoritários e minoritários
+ Dispositivos semicondutores Diodos, Transistores, Curvas de polarização (direta e
+reversa) e equação característica
+ Tempo de recuperação reversa, Diodo Shottky, Varicaps, Transistor FET e Aplicações
+1. Materiais Isolantes
+ Propriedades Fisico-Atômicas dos Isolantes
+ Polarização, condutividade do isolante, resistividade transversal
+ Constante dielétrica, Capacitância, Carga e Campo Elétrico no modelo do isolante
+ Rigidez Dielétrica e propriedades gerais associadas ao tipo de isolante, efeito da
+temperatura e da frequência, efeito da densidade do material na isolação, porosidade
+ Fator de perdas e resistência de fuga do isolante conforme seu modelo elétrico
+Metodologia de Ensino Utilizada:
+
+Aulas expositivas; apresentação de conceitos e exemplos de aplicações. Resolução de lista de
+exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Rezende, S. M. – Materiais e Dispositivos Eletrônicos – 2a Edição, Editora da Física, 2004.
+2. Sedra, A. S. e Smith, K. C. – Microeletrônica – 5a Edição, Pearson Prentice Hall, 2007.
+3. Boylestad, R. e Nashelsky – Dispositivos Eletrônicos e Teoria de Circuitos – 8a Edição, Prentice
+Hall do Brasil, 2002.
+Complementar:
+1. Dieter, K. S. – Semiconductor Material and Device Characterization – Wiley-IEEE Press; 3th
+Edition, 2006.
+2. Rolf, E. H. - Electronic Properties of Materials – 4th Edition, Springer, 2011.
+3. Sze, S.M. - Physics of Semiconductor Devices – 3th Edition - John Wiley & Sons, 2006.
+4. Richard, S. M. e Theodore, I. K. - Device Electronics for Integrated Circuits - Addison-Wesley,
+2002.
+5. Callister, Jr. e William, D. - Ciência e Engenharia de Materiais: Uma Introdução – 7a Ed. 2008.
+
+

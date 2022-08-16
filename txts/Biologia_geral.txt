@@ -1,0 +1,43 @@
+Nome do Componente Curricular: Biologia Geral
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introdução à Biologia Geral.
+Específicos:
+Introdução à diversas áreas da taxonomia, sistemática, morfologia e fisiologia vegetal e animal.
+Ementa:
+Evolução. Taxonomia e sistemática dos seres vivos. Fisiologia e morfologia animal. Fisiologia e morfologia vegetal.
+Conteúdo Programático:
+• Evolução e Diversidade.
+• Introdução à Taxonomia e sistemática dos seres vivos.
+• O reino animal.
+• Fisiologia e morfologia dos principais grupos animais.
+• O reino vegetal.
+• Fisiologia e morfologia dos principais grupos vegetal.
+Metodologia de Ensino Utilizada:
+Aulas expositivas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. CAMPBELL, N.A.; REECE, J.B. Biology. 9 ed. Pearson 2011.
+2. PURVES, W.K.; SADAVA, D.; ORIANS, G.H.; HELLER, H.C. Vida: A ciência da Biologia. Vol II: Evolução, diversidade e ecologia. Porto Alegre: Artmed, 2005.
+3. MAYR, E. This Is Biology: The Science of the Living World. BELKNAP 1998.
+Complementar:
+1. RAVEN PH, EVERT RF, EICHHORN S. Biology of Plants. 8th Ed. Freeman 2012.
+2. KERBAUY, G.B. Fisiologia vegetal. 2 ed. Rio de Janeiro: Guanabara Koogan, 2008.
+3. ORR, R.T., Biologia dos Vertebrados, 5ª Ed. Roca, 1986.
+4. Vários Autores. Princípios Integrados de Zoologia. 15ª Ed. Guanabara, 2013.
+5. MILLER, HARLEY. Zoology. 9ed. McGraw-Hill, 2012.
+
+

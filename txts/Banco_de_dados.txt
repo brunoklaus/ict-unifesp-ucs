@@ -1,0 +1,57 @@
+Nome do Componente Curricular: Banco de Dados
+Pré-requisitos: Algoritmos e Estruturas de Dados I
+Carga Horária Total: 72h
+Carga Horária Prática: 36h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Introduzir os fundamentos que permitam ao aluno adquirir o domínio básico da tecnologia de banco
+de dados.
+Específicos:
+Capacitar o aluno a projetar BDs relacionais para aplicações e compreender os princípios de
+organização dos dados. Habilitar o aluno a criar fisicamente esses BDs sobre SGBDs relacionais e
+acessa-los de maneira adequada via linguagem SQL.
+Ementa:
+Conceitos básicos de banco de dados. Modelos de dados e linguagens. Projeto de bancos de dados.
+Novas tecnologias e aplicações de banco de dados.
+Conteúdo Programático:
+Introdução. Conceitos básicos: banco de dados, sistema de banco de dados, sistema de gerência de
+banco de dados. Características da abordagem de banco de dados. Modelos de dados, esquemas e
+instâncias. Arquitetura de um sistema de banco de dados. Componentes de um sistema de gerência
+de banco de dados. Modelos de Dados e Linguagens. Modelo entidade-relacionamento (ER):
+conceitos básicos, restrições de integridade, notação gráfica, conceitos adicionais. Modelagem usando
+UML. Modelo relacional: conceitos básicos, restrições de integridade, álgebra relacional, operações de
+atualização. A linguagem SQL. Projeto de Bancos de Dados. Visão geral do processo de projeto de
+bancos de dados. Projeto lógico de bancos de dados relacionais: mapeamentos ER/relacional,
+definição de esquemas em SQL. Normalização..
+Metodologia de Ensino Utilizada:
+Aulas expositivas com discussão e participação dos alunos. Aulas práticas em laboratório sobre
+utilização de ferramentas de modelagem de bancos de dados e sistemas de gerenciamento de bancos
+de dados para geração e manipulação de bancos de dados via SQL. Resolução de listas de exercícios.
+Recursos Instrucionais Necessários:
+Quadro branco, projetor multimídia e laboratório de informática.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Korth, H. F.; Sudarshan, S; Silberschatz, A. Sistema de Banco de Dados. 5 A edição. Editora
+Campus, 2006.
+2. Heuser, C.A. Projeto de Banco de Dados. 5a edição. Série Livros Didáticos. Instituto de
+Informática da UFRGS, número 4. Editora Sagra-Luzzatto, 2004.
+3. Elmasri, R.; Navathe S. B. Sistemas de Banco de Dados. 4a edição. Editora Addison- Wesley.
+2005.
+
+Complementar:
+1. Ramakrishnan, R., Gehrke, J. Database Management Systems. 3th ed. McGraw Hill. 2003.
+2. Date, C. J. Introdução a Sistemas de Bancos de Dados. 8a edição. Editora Campus, 2004.
+3. ULMANN, J. A First course in databases systems. Prentice Hall. 1997.
+4. BEIGHLEY, L. Use a Cabeça: SQL. Rio de Janeiro: Alta Books, 2010.
+5. GARCIA-MOLINA H., ULMANN. J, WIDOM, J. Database Systems: The Complete Book : Pearson,
+2009.
+
+

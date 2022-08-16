@@ -1,0 +1,71 @@
+Nome do Componente Curricular: Introdução à Eletrotécnica
+Pré-requisitos: Circuitos Elétricos II
+Carga Horária Total: 36h
+Carga Horária Teórica: 36 h
+Carga Horária Prática: 0 h
+Objetivos
+Gerais:
+Fornecer aos alunos uma visão prática e abrangente dos princípios de eletrotécnica envolvendo
+conceitos de geração, transmissão e distribuição de energia.
+Específicos:
+Desenvolver com os alunos:
+·
+Os conceitos práticos dos sistemas de alta potência;
+·
+Aplicações dos principais conceitos de eletrotécnica na elaboração de projetos de alta
+potência.
+Ementa:
+Geração, Transmissão e Distribuição de Energia Elétrica. Projetos de instalações elétricas de alta
+potência. Segurança em eletricidade.
+Conteúdo Programático:
+1.
+Geração, Transmissão e Distribuição de Energia Elétrica. Gerador-turbina e linhas de
+transmissão. Estações elevadora e abaixadora de tensão; Linhas de distribuição aérea e
+subterrânea; Gerador elementar de corrente alternada senoidal;
+2.
+Equipamentos de controle, proteção e cálculo de potência em instalação elétrica,
+residencial, predial e industrial.
+3.
+Segurança em eletricidade.
+Metodologia de Ensino Utilizada:
+Aulas expositivas (lousa e projeção).
+Recursos Instrucionais Necessários:
+Giz, lousa, apagador, projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o processo de
+ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. Para isto, as avaliações deverão ser ponderadas de
+maneira crescente ou, ainda, propiciar alternativas de recuperação, como provas substitutivas ou
+aplicação de trabalhos adicionais. A promoção do aluno na unidade curricular obedecerá aos
+critérios estabelecidos pela Pró-Reitoria de Graduação, tal como discutido no Projeto Pedagógico
+do Curso.
+Bibliografia
+Básica:
+1.
+Gussow, Milton. Eletricidade básica. Tradução: José Lucimar do Nascimento, Consultoria,
+supervisão e revisão técnica desta edição: Antonio Pertence Junior. 2 ed. at. amp.. Porto Alegre:
+
+Bookman, 2009.
+2.
+Orsini, L.Q; Consonni, Denise. Curso de circuitos elétricos. 2.ed. São Paulo: Blucher, 2002.
+v.1. 286.
+3.
+IRWIN, J.David. Análise básica de circuitos para engenharia. 7.ed. Rio de Janeiro: LTC, c2003.
+Complementar:
+1.
+Boylestad, R. L.Introdução `Análise de Circuitos. Prentice Hall do Brasil, 8a. Edição, 1977.
+2.
+Albuquerque, R. Oliveira. Circuitos em corrente alternada. Editora Érica – São Paulo, 1ª
+edição. 1997.
+3.
+Creder, Hélio. Instalações Elétricas. LTC. Livros técnicos e Científicos – São Paulo, 14ª Edição,
+2002.
+4.
+Magaldi, Miguel. Noções de Eletrotécnica. Editora Guanabara Koogan S. A. – Rio de Janeiro,
+5ª Edição, 1981.
+5.
+Castro Jr., Carlos A., Tanaka, Marcia. Circuitos de Corrente Alternada. Editora da UNICAMP,
+1995.
+
+

@@ -1,0 +1,51 @@
+Nome do Componente Curricular: Introdução à Pesquisa Operacional
+Pré-requisitos: Álgebra Linear
+Carga horária total: 72 h
+Carga Horária Prática: 8 h
+Carga Horária Teórica: 64 h
+Objetivos
+Geral:
+Muitos problemas de tomada de decisão têm estruturas matemáticas bem definidas. Nesta disciplina
+pretende-se estudar alguns modelos matemáticos de otimização, alguns métodos de solução e
+aplicações.
+Específicos:
+Ao final desta disciplina, espera-se que o aluno compreenda todas as etapas da modelagem de um
+problema de otimização e conheça alguns métodos clássicos de solução.
+Ementa: Modelagem de problemas e classificação de modelos matemáticos; Otimização linear;
+Otimização discreta; Otimização em grafos; Modelos de controle de estoque; Problema da mochila.
+Conteúdo Programático:
+Alguns modelos matemáticos de programação linear. Introdução à Otimização Linear: resolução
+gráfica, o método simplex, aplicações. Programação linear inteira: aplicações ilustrativas e algoritmos
+de solução (branch-and-bound). O problema da mochila e de transportes: modelagem, aplicações,
+heurísticas, meta-heurísticas. Introdução à Otimização em Grafos: O problema de caminho mínimo, o
+problema de fluxo máximo. Modelos de Controle de Estoque: Modelos estáticos, dinâmicos e
+probabilístico.
+Metodologia de Ensino Utilizada:
+Aulas expositivas, resolução de exercícios, projetos computacionais e seminários.
+Recursos Instrucionais Necessários:
+Projetor multimídia, lousa e o laboratório de computação para algumas aulas.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. ARENALES, M. N. ; ARMENTANO, V. ; MORABITO, R. ; YANASSE, H. Pesquisa Operacional,
+Editora Campus, 2006.
+2. TAHA, H., Pesquisa Operacional, Prentice Hall, 2008.
+3. GOLDBARG, M.C.; LUNA, H.P.L., Otimização Combinatória e Programação Linear – Modelos e
+Algoritmos – Editora CAMPUS, 2005.
+Complementar:
+1. NAHMIAS, E., Production and Operations Analysis, Irwin, 1989.
+2. BERTSIMAS, D.; TSITSIKLIS, J.N., Introduction to Linear Optimization, Athena Scientific, 1997.
+3. BAZARAA, M.S.; JARVIS, J.J.; SHERALI, H.D., Linear Programming and Network Flows, John
+Wiley, 1990.
+4. AHUJA, R. K.; MAGNANTI, T. L.; ORLIN, J. B., Network Flows: Theory, Algorithms ans
+Applications, Prentice Hall, 1993.
+5. VANDERBEI, R. J. Linear programming: foundations and extensions. 3ª ed. New Jersey:
+Springer, 2008.
+
+

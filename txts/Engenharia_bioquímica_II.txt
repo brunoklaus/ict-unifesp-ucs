@@ -1,0 +1,63 @@
+Nome do Componente Curricular: Engenharia Bioquímica II
+Pré-requisitos: Engenharia Bioquímica I
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introduzir os princípios da engenharia de bioprocessos para alunos de graduação na área de
+Biotecnologia.
+Específicos:
+Apresentar os conceitos básicos necessários ao desenvolvimento, à otimização e à operação de
+processos bioquímicos.
+Ementa:
+Apresentação dos conceitos teóricos envolvidos na pesquisa e no desenvolvimento de processos
+biotecnológicos de interesse industrial. As ferramentas apresentadas nesta disciplina - ampliação de
+escala de bioprocessos, monitoramento e controle de bioprocessos, separação e purificação de
+bioproduto, avaliação econômica - em conjunto com aqueles vistos anteriormente na disciplina
+Engenharia Bioquímica I (pré-requisito), devem possibilitar uma compreensão total dos fenômenos
+biológicos e técnicas de controle das reações bioquímicas envolvidas nesse tipo de bioprocesso. Esses
+conhecimentos são fundamentais na definição e otimização das várias operações unitárias, tanto da
+fase de síntese do bioproduto ("upstream"), como de sua separação e purificação.
+Conteúdo Programático:
+1. Monitoramento e controle de bioprocessos. 2. Ampliação de escala de bioprocesso; 3. Separação de
+bioprodutos (rompimento celular; clarificação; concentração);
+4. Purificação de produtos
+biotecnológicos (membranas, extração líquido-líquido, adsorção por troca iônica, afinidade, e
+hidrofobicidade: precipitação; cristalização) 5. Avaliação econômica.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e atividades práticas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. PESSOA Jr, A, KILIKIAN B. Purificação de processos biotecnológicos. Manole, 2005, 444p.
+2. SHULER, M.L.; KARGI, F. Bioprocess engineering: basic concepts. BioprocessEngineering: Basic
+Concepts, 2ndEdition, Prentice Hall,2001, 576p.
+3. SCHMIDELL, W.; LIMA, U.A.; AQUARONE, E.; BORZANI, W. Biotecnologia industrial. vol 2:
+Engenharia Bioquímica, Edgard Blucher, 2000.
+Complementar:
+1. Blanch HW; Clark DS. Biochemical engineering. Boca Raton: CRC/Taylor & Francis, 1997. 702 p.
+
+2.
+3.
+4.
+5.
+
+ISBN 9780824700997
+Nielsen J, Villadsen J, Lidén, G. Bioreaction Engineering Principles. Springer 2011 (3a Ed). 591p.
+ISBN 978-1441996879.
+RATLEDGE, C.; KRISTIANSEN, B. Basic Biotechnology. Cambridge University Press; 3rd edition,
+2006
+Fonseca MM; Teixeira JA. Reatores biológicos: fundamentos e aplicações. Lisboa: Lidel Edições
+Técnicas, 2007, 483p. (Colecão Biotec) ISBN 9727573665
+DORAN, P.M. Bioprocess engineering principles. USA: Academic Press, 2012..
+
+

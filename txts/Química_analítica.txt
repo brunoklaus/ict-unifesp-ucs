@@ -1,0 +1,54 @@
+Nome do Componente Curricular: Química Analítica
+Pré-requisitos: Química Geral; Química Geral Experimental
+Carga Horária Total: 72h
+Carga Horária Prática: 48h
+Carga Horária Teórica: 24h
+Objetivos
+Gerais:
+Capacitar o aluno para entender os fundamentos dos métodos clássicos de análises químicas.
+Específicos:
+Discutir os fundamentos e aplicações dos métodos qualitativos e quantitativos da química analítica
+clássica.
+Ementa:
+Introdução aos métodos clássicos de análise química; tipos de reações utilizadas na análise
+qualitativa, fatores termodinâmicos que governam o equilíbrio químico em soluções aquosas;
+conceito e tratamento sistemático de equilíbrios ácido-base, de precipitação e de oxi-redução.
+Introdução aos conceitos basicos da química analítica quantitativa, volumetrias de neutralização,
+precipitação, óxido-redução e complexométricas.
+Conteúdo Programático:
+1. Introdução á Química Analítica;
+2. Ferramentas utilizadas em Química Analítica;
+3. Equilíbrios Químicos;
+4. Métodos Clássicos de Análise;
+5. Experimentos (Analise Qualitativa);
+6. Experimentos (Analise Quantitativa);
+Metodologia de Ensino Utilizada:
+Serão ministradas aulas expositivas. Também se buscara fazer com que os e alunos participem da
+aula, que eles desenvolvam os conceitos da química analítica e relacionem com os experimentos
+realizados no laboratório.
+Recursos Instrucionais Necessários:
+Quadro negro, datashow, laboratório de química
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Skoog D. A., West D. M., Holler F. F., Crouch S. R. Fundamentos da Química Analítica, 8a ed,
+Cengage Learing, 2006.
+2. Vogel A. I. Química Analítica Qualitativa, 5a ed., Editora Mestre Jau, 1992.
+3. Valcárcel, Miguel. Princípios de química analítica. , Fap Unifeso, 2012.
+Complementar:
+1. Simões, J.A.M. et al. Guia do laboratório de química e bioquímica. Lidel, 2000.
+2. Barros Neto, Benício de; Scarminio, Ieda Spacinio; Bruns, Roy Edward. Como fazer
+
+experimentos: pesquisa e desenvolvimento na ciência e na indústria. 4.ed. Bookman, 2010.
+3. Baird, C.; Cann, M. Environmental chemistry. 4 ed. Freeman, 2008. 776.
+4. Baccan, N.; Andrade, J. C.; Godinho, O. E. S.; Barone, J. S. Química Analítica Quantitativa
+Elementar. 3ª ed, Edgard Blucher , 2003.
+5. Mendham, J et al. Vogel Análise química quantitaiva. 6.ed. LTC, 2002.
+
+

@@ -1,0 +1,50 @@
+Nome do Componente Curricular: Fundamentos de Biologia Moderna
+Pré-requisitos: Não há
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Introdução às bases bioquímicas, moleculares e fisiológicas da biologia moderna.
+Específicos:
+Conceitos fundamentais da bioquímica, biologia molecular e fisiologia humana; estrutura e função das
+principais biomoléculas; conceitos fundamentais de metabolismo e dos principais processos celulares
+envolvidos na fisiologia do organismo.
+Ementa:
+Introdução à Ciência da Biologia. Tópicos Introdutórios em Evolução, Diversidade e Bioética. Bases
+químicas. Estrutura e função das principais biomoléculas. Fundamentos do metabolismo energético.
+Replicação. Tradução e transcrição.
+Conteúdo Programático:
+1) Introdução à Biologia. 2) Bases químicas. 3) Introdução à bioquímica. 4)Estrutura e função das
+principais moléculas biológicas. 5) Metabolismo. 6) Estrutura da célula procariota e eucariota. 7)
+Processo de replicação do DNA. 8) Processo de transcrição do RNA. 9) Processo de tradução de
+proteínas.
+Metodologia de Ensino Utilizada:
+Aulas teóricas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico,
+com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do aluno na
+unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. ALBERTS, Bruce et al. Fundamentos da biologia celular. 2.ed. Porto Alegre: ARTMED, 2006.
+2. NELSON, David L; COX, Michael M. Lehninger. Princípios de bioquímica. 5.ed. Porto Alegre:
+Artmed, 2011.
+Silverthorn, Dee Unglaub. - Fisiologia Humana – Uma Abordagem Integrada. 5a ed., Ed. Artmed 2010.
+Complementar:
+1. LODISH, Harvey; KAISER, Chris A; BERK, Arnold; KRIEGER, Monty; MATSUDAIRA, Paul; SCOTT,
+Matthew P. Biologia celular e molecular. 5.ed. Porto Alegre: Artmed, 2005.
+2. ALBERTS, Bruce; JOHNSON, Alexander; LEWIS, Julian; RAFF, Martin; ROBERTS, Keith; WALTER,
+Peter. Biologia molecular da célula. 5.ed. Porto Alegre: Artmed, 2010.
+3. COOPER, Geoffrey M.; HAUSMAN, Robert E. A célula: uma abordagem molecular. 3.ed. Porto
+Alegre: Artmed, 2007.
+
+4. Stryer, L., Tymoczko, J. L., Berg, J. M. Bioquímica. 5a ed., Ed. Guanabara-Koogan 2004.
+5. CAMPBELL, Mary K.; FARRELL, Shawn O. Bioquímica. São Paulo: Heinle Cengage Learning, 2011.
+
+

@@ -1,0 +1,64 @@
+Nome do Componente Curricular: Biologia do Desenvolvimento
+Período: 3o semestre
+Pré-requisitos: Biologia Molecular do Gene
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+Facilitação do aprendizado independente, crítico e contextualizado acerca da Biologia
+do Desenvolvimento de vertebrados.
+Específicos:
+Utilizar a história da biologia do desenvolvimento e suas bases científicas para
+estimular o raciocínio científico voltado a inovação e desenvolvimento biotecnológico.
+Ementa:
+Aspectos históricos da biologia do desenvolvimento; Princípios da Biologia do
+Desenvolvimento: tradição anatômica, ciclo de vida, princípios da experimentação,
+genética, expressão gênica e comunicação celular. Desenvolvimento embrionário
+inicial: gametogênese e fertilização em diferentes espécies; desenvolvimento de eixos.
+Desenvolvimento embrionário tardio: gastrulação, neurulação, determinação sexual.
+Metamorfose, regeneração e envelhecimento: contribuições da biologia do
+desenvolvimento para a ciência moderna.
+Conteúdo Programático:
+1. História da ciência; história da biologia do desenvolvimento;
+2. Princípios da Biologia do Desenvolvimento: tradição anatômica, ciclo de vida,
+princípios da experimentação, genética, expressão gênica e comunicação celular.
+2. Desenvolvimento embrionário inicial: gametogênese e fertilização em diferentes
+espécies; desenvolvimento de eixos.
+3. Desenvolvimento embrionário tardio: gastrulação, neurulação, determinação
+sexual.
+4. Metamorfose, regeneração e envelhecimento: contribuições da biologia do
+desenvolvimento para a ciência moderna.
+5. Visualização de embriões de ave in ovo e ex ovo.
+Metodologia de Ensino Utilizada:
+Oferecer aos alunos do ICT a oportunidade de aprendizado sobre a biologia do
+desenvolvimento através de palestras, seminários, problemas e aula prática no
+laboratório de biologia.
+Recursos Instrucionais Necessários:
+Lupas, retroprojetor, lousa, computadores, tablets.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+ Gilbert, S. Developmental Biology. Ed. Sounders, 8a. edição. 2006
+ Moore & Persaud. Embriologia Básica. Ed. Elsevier, 8ª. ed. 2013
+ Kent M. Van De Graaff. Anatomia Humana. Editora Manole, 6ª edição. 2003.
+Complementar:
+ Dee Unglaub Silverthorn. Fisiologia Humana, Uma abordagem integrada.
+Editora Artmed, 5ª Edição. 2010.
+ Richard L. Drake, et al.Gray’s Anatomia para estudantes. Editora Elsevier, 2ª
+Edição. 2010.
+ Michael H. Ross & Wojciech Pawlina. Histologia Texto e Atlas. Editora
+Guanabara-Koogan, 5ª Edição. 2008.
+ Alberts, A.; Bray, D., Johnson, A, Lewis, J., Raff, M., Roberts, K & Walter, P.
+Fundamentos da Biologia Celular. Editora Artmed 1999.
+ Lodish, H. e cols. Biologia Celular e Molecular. 5a ed., Ed. Artmed 2005.
+
+

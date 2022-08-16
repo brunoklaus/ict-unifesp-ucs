@@ -1,0 +1,88 @@
+Nome do Componente Curricular: Microbiologia Aplicada e Industrial
+Período: 3º semestre
+Pré-requisitos: Microbiologia Geral
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Estudo Introdutório aos Fundamentos da Microbiologia Aplicada e Industrial.
+Específicos:
+Estudo do metabolismo dos microrganismos e aplicações para processos e produtos
+biotecnológicos.
+Ementa:
+Histórico e novas tendências em bioprocessos/microbiologia industrial; Morfologia e
+Bioquímica de procariotos e eucariotos; Fases de um processo microbiológico
+genérico; Características de microrganismos de interesse industrial; Principais
+substratos industriais, Rotas metabólicas de interesse industrial e ambiental;
+Processos Fermentativos; Aminoácidos; Antibióticos; Biotransformações; Pigmentos,
+Biotecnologia Alimentícia.
+Conteúdo Programático:
+•
+Metabolismo energético
+•
+Cultivo e crescimento microbiano fases de um processo microbiológico
+genérico
+•
+Microrganismos de interesse industrial e ambiental
+•
+Substratos industriais
+•
+Rotas metabólicas de interesse industrial e ambiental
+•
+Fermentações
+•
+Aminoácidos
+•
+Antibióticos
+•
+Biotransformações
+•
+Biotecnologia Alimentícia.
+Metodologia de Ensino Utilizada:
+Aulas expositivas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela UC no início das
+atividades letivas e divulgado aos alunos. O sistema adotado deve contemplar o
+processo de ensino e aprendizagem estabelecido neste Projeto Pedagógico, com o
+objetivo de favorecer o progresso do aluno ao longo do semestre. Para isto, as
+avaliações deverão ser ponderadas de maneira crescente ou, ainda, propiciar
+
+alternativas de recuperação, como provas substitutivas e/ou aplicação de trabalhos
+adicionais. A promoção do aluno na UC obedecerá aos critérios estabelecidos pela
+Pró-Reitoria de Graduação, tal como discutido no projeto pedagógico do curso.
+Bibliografia
+Básica:
+
+SCHMIDELL, Willibaldo; LIMA, Urgel de Almeida; AQUARONE, Eugênio;
+BORZANI, Walter (Coord.). Biotecnologia industrial: engenharia química. São Paulo:
+Edgard Blucher, 2001. 541 p.
+
+TORTORA, Gerard J.; FUNKE, Berdell R.; CASE, Christine L. Microbiologia. 12.
+ed. Porto Alegre: Artmed, 2017.
+
+LIMA, Urgel de Almeida; AQUARONE, Eugênio; BORZANI, Walter; SCHMIDELL,
+Willibaldo (Coord.). Biotecnologia industrial: processos fermentativos e
+enzimáticos.São Paulo: Edgard Blücher, 2001. 593 p.
+Complementar:
+
+BIOQUÍMICA de alimentos. 3. ed. ISBN 9788535283624
+
+MICROBIOLOGIA de Brock. 14. Porto Alegre ArtMed 2016 1 recurso online ISBN
+9788582712986.
+
+PRODUÇÃO agroindustrial: noções de processos, tecnologias de fabricação de
+alimentos de origem animal e vegetal e gestão industrial. São Paulo Erica 2015 1
+recurso online ISBN 9788536521701.
+
+KOBLITZ, Maria Gabriela Bello. Matérias-primas alimentícias : composição e
+controle de qualidade. Rio de Janeiro Guanabara Koogan 2011 1 recurso online ISBN
+978-85-277-2331-2.
+
+PROCESSAMENTO de produtos lácteos: queijos, leites fermentados, bebidas
+lácteas, sorvete, manteiga, creme de leite, doce de leite, soro em pó e lácteos
+funcionais. v.3 ISBN 9788535280869.
+
+

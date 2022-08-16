@@ -1,0 +1,58 @@
+Nome do Componente Curricular: Análise Real II
+Pré-requisitos: Análise Real I
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 72h
+Objetivos
+Gerais:
+Formalizar os conceitos de integração e convergência de funções.
+Específicos:
+Apresentar os conceitos de Integral de Riemann de forma precisa e demonstrar suas principais
+propriedades. Familiarizar os alunos com séries e sequências de funções e introduzir os conceitos de
+convergência no espaço de funções.
+Ementa:
+Integral de Riemann. Teorema Fundamental do Cálculo. Sequências e séries de funções. Teorema de
+aproximação de Stone-Weierstrass. Teorema de Arzelà-Ascoli.
+Conteúdo Programático:
+• Somas inferiores e superiores.
+• Integral de Riemann: definições e propriedades básicas.
+• Condições de integrabilidade.
+• Integral de Riemann-Stieltjes.
+• Integral imprópria.
+• Função Logarítmica como uma integral.
+• Teorema Fundamental do Cálculo.
+• Sequências e séries de funções.
+• Convergências pontual e uniforme.
+• Série de potências.
+• Série de Taylor.
+• Funções Analíticas.
+• Teorema de aproximação de Stone-Weierstrass.
+• Teorema de Arzelà-Ascoli.
+• Aplicações: alguns resultados em espaços de funções.
+Metodologia de Ensino Utilizada:
+Aulas expositivas e de exercícios.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE como ferramenta EAD.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. FIGUEIREDO, D. G. Análise I. 2ª ed. Rio de Janeiro: LTC, 2008.
+2. LIMA, E. L. Análise real. V. 1. Rio de Janeiro: IMPA, 2009.
+3. LIMA, E. L. Curso de análise. V. 1. Rio de Janeiro: IMPA, 2009.
+Complementar:
+
+1. BARTLE, R. G. Introduction to real analysis. 4ª ed. New York: John Wiley & Sons, 2011.
+2. BRESSOUD, D. M. A radical approach to real analysis. 2ª ed. Mathematical Association of
+America, 2006.
+3. LAY, S. R. Analysis with an introduction to proof. 4ª ed. New Jersey: Prentice Hall, 2005.
+4. LIMA, E. L. Análise real. V. 2. Rio de Janeiro: IMPA, 2010.
+5. ROYDEN, H. L. Real analysis. 2ª ed. New Jersey: Pearson,1988.
+6. RUDIN, W. Principles of mathematical analysis. 3ª ed. New York: McGraw-Hill, 1979.
+
+

@@ -1,0 +1,52 @@
+Nome do Componente Curricular: Laboratório de Bioquímica
+Pré-requisitos: Bioquímica I; Biologia Molecular do Gene
+Carga Horária Total: 72h
+Carga Horária Prática: 72h
+Carga Horária Teórica: 0h
+Objetivos
+Gerais:
+Proporcionar um curso prático de bioquímica e biologia molecular aos alunos do BCT para familiarizar
+estes às técnicas básicas da tecnologia de DNA recombinante e da produção de proteínas
+recombinantes.
+Específicos:
+Introduzir estudantes a metodos experimentais, incluíndo consideracoes de seguranca biologica.
+Aplicação de técnicas básicas em um laboratório de bioquímica e biotecnologia molecular: Clonagem,
+expressao, purificacao e análsie de proteínas recombinantes.
+Ementa:
+1. Seguranca Biológica e Química. 2. Metodos para o trabalho com microorganismos. 3. Metodos e
+técnicas da tecnologia de DNA recombinante. 4. Metodos de producao de proteínas recombinantes. 5.
+Metodos analíticos da bioquimica de proteínas.
+Conteúdo Programático:
+• Preparação de tampoes, meios e soluções
+• PCR, Purficacao de DNA, Tecnologia de DNA recombinante
+• Transformação de E.coli
+• Expressão de proteínas em E.coli
+• Extração e purificacao de proteínas
+Metodologia de Ensino Utilizada:
+Seminários preparatórios e prática de bancada.
+Recursos Instrucionais Necessários:
+Laboratório Nível de Segurança Biológica 1 equipado, Monitores estudiantis, em torno de R$ 50 por
+aluno para gastos materiais.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. LEHNINGER. Princípios de Bioquímica Ed. Sarvier, 2007.
+2. LUBERT STRYER. Bioquímica Ed. Guanabara Koogan, 2007.
+3. Alberts, A.; Bray, D., Johnson, A, Lewis, J., Raff, M., Roberts, K & Walter, P. Fundamentos da
+Biologia Celular. Editora Artmed 1999.
+Complementar:
+1. HARVEY LODISH ET AL. Biologia Celular e Molecular. Ed. Artmed, 2007.
+2. DONALD VOET & JUDITH G. VOET. Bioquímica Ed. Artmed, 2007.
+3. SIMÕES, Jose A.Martinho et al. Guia do laboratório de química e bioquímica. Lidel, 2000.
+
+4. Brown, T.A. Gene Cloning and DNA Analysis. 6a Ed. Willey, 2010.
+5. Barker K. At the Bench: A Laboratory Navigator, Updated Edition. 2a Ed Cold Spring Harbor
+Laboratory Press 2005.
+
+

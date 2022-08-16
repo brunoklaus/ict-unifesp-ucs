@@ -1,0 +1,59 @@
+Nome do Componente Curricular: Microeconomia
+Pré-requisitos: Não há
+Carga Horária Total: 36h
+Carga Horária Prática: 0h
+Carga Horária Teórica: 36h
+Objetivos
+Gerais:
+A filosofia do curso é oferecer uma abordagem analítica de como a economia explica os agentes e
+suas interações no contexto social. Esse curso é importante para compreensão da economia de
+empresa e também fundamenta a base teórica para os demais cursos relacionados a economia.
+Específicos:
+ Aprofundar teoricamente a teoria do consumidor;
+ Aprofundar teoricamente a teoria da firma;
+ Preparação para estudos de mercados, bem estar social e comportamento estratégico.
+Ementa:
+Introdução. Preferências e Curvas de Demanda Individual. Preferências e Curvas de Demanda do
+Mercado. Teoria da Demanda e Análise do Bem Estar. Demanda Linear e Curvas de Oferta. Teoria da
+Produção. Monopólio. Organização Industrial e Oligopólio. Equilíbrio Geral e Economia do Bem Estar.
+Conteúdo Programático:
+ Introdução;
+ Preferências e Curvas de Demanda Individual;
+ Preferências e Curvas de Demanda do Mercado;
+ Teoria da Demanda e Análise do Bem Estar;
+ Demanda Linear e Curvas de Oferta;
+ Teoria da Produção;
+ Competição Perfeita e Bem Estar;
+ Monopólio;
+ Oligopólios.
+Metodologia de Ensino Utilizada:
+Aulas expositivas, leituras e listas de exercícios. Essa disciplina utiliza mais de um livro para formar
+uma visão abrangente dos temas abordados e também notas de aula, portanto, a carga de leitura é
+relativamente alta.
+Recursos Instrucionais Necessários:
+Sala de aula com microcomputador e projetor multimídia; laboratório de informática; acesso à
+plataforma Moodle.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. Varian, Hal R. Microeconomia, 7.ed, Campus. 2010.
+2. Pindyck, Robert S. & Rubinfeld, Daniel L. Microeconomia, 7. ed. Pearson, 2010.
+
+3. Mankiw, N.G. Introdução a Economia, CENGAGE, 2010.
+Complementar:
+1. SIMON, Carl P.; BLUME, Lawrence. Matemática para economistas. São Paulo: Bookman, 2004.
+2. Jehle, Geoffrey Alexander; Reny, Philip J. Advanced microeconomic theory. 3rd ed. Harlow:
+Prentice-Hall, 2011.
+3. Mas-Colell, Andreu; Whinston, Michael Dennis; Green, Jerry R. Microeconomic theory. New
+York: Oxford University Press, 1995.
+4. Chiang, Alpha C.; Wainwright, Kevin. Matemática para economistas. [Fundamental methods of
+mathematical economics]. Rio de Janeiro: Elsevier, 2006.
+5. Besanko, D.; Braeutigam R. Microeconomia, LTC. 2004.
+
+

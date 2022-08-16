@@ -1,0 +1,68 @@
+Nome do Componente Curricular: Introdução à Ótica Biomédica
+Pré-requisitos: Fenômenos do Contínuo
+Carga Horária Total: 72h
+Carga Horária Prática: 0h
+
+Carga Horária Teórica: 72h
+
+Objetivos:
+Gerais
+ Proporcionar aos alunos uma visão teórica e abrangente a cerca dos conceitos básicos das
+interações entre radiações não ionizantes e material biológico.
+Especificos
+ O curso de Introdução à Ótica Biomédica visa formar discentes capazes de compreender as
+principais aplicações do laser de alta e baixa potencia em terapias aplicadas nas áreas da
+saúde assim como as principais aplicações das técnicas de espectroscopia no diagnostico
+Médico.
+Ementa:
+ Introdução à estrutura vibracional e eletrônica da matéria.
+ Introdução às radiações não ionizantes. Grandezas físicas empregadas em Ciências da Vida.
+ Propriedades ópticas dos tecidos biológicos – reflexão; espalhamento; transmissão;
+absorção;
+ Propriedades da luz: lasers, LEDs e diodos.
+ Espectro eletromagnético; aplicações das radiações ultravioleta, visível, infravermelha (IR
+próximo, médio e distante) nas ciências da vida;
+ Introdução à fototerapia: interação laser-tecido biológico;
+ Principais lasers médicos; normas técnicas de proteção no uso dos lasers.
+ Lasers de alta intensidade: princípios de funcionamento; interações com tecidos biológicos;
+dosimetria; aplicações em medicina e odontologia.
+ Lasers de baixa intensidade: princípios de funcionamento; interações com tecidos biológicos;
+dosimetria; aplicações em medicina, odontologia e fisioterapia.
+ Terapia fotodinâmica: princípios e principais aplicações médicas.
+ Foto-bioestimulação: princípios e principais aplicações médicas.
+ Termoterapias: princípios e principais aplicações médicas
+ Conceitos básicos e aplicações de espectroscopia de absorção, fluorescência, espectroscopia
+vibracional (FTIR e Raman) e suas aplicações em diagnóstico
+Metodologia de Ensino Utilizada:
+Aulas expositivas; apresentação de conceitos e exemplos de aplicações. Resolução de lista de
+exercícios
+Recursos Instrucionais Necessários:
+
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início
+das atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O
+sistema adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste
+Projeto Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A
+promoção do aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria
+de Graduação, tal como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. NIEMZ, M. H.; Laser-Tissue interaction. Fundamentals and Applications.1. ed., New
+York:Springer-Verlag, 1996.
+2. CHAVANTES, M. C.; (Ed.). Laser em Biomedicina – Princípios e Prática, São Paulo:
+Atheneu, 1ª. Ed., 2008.
+3. BAGNATO, V. S.; Laser e suas aplicações em ciência e tecnologia. Editora Livraria da
+Física, 2008
+Complementar:
+1. KISHEN, A.; ASUNDI, A.; Fundamentals and applications of Biophotonics in Dentistry.
+Series on Biomaterials and Bioengeneering; vol. 4. Imperial College Press, 2007.
+2. MISERENDINO, L. J.; Pick, R. M.; Lasers in Dentistry. Chicago: Quintessence, 1995.
+3. KARU, T.; The science of low-power laser therapy. Amsterdam-Holanda, Gordon and
+Breach Science Publishers, 1998. 299p.
+4. GOLDMAN, L.; The Biomedical Lasers: technology and clinical applications. New
+York:Springer Verlag, 1981.
+5. GRAHAM-SMITH, Francis; KING, Terry A.; WILKINS, Dan; Optics and photonics: an
+introduction. 2 ed. Chichester, England: John Wiley & Sons, 2007. x, 506 p.
+
+

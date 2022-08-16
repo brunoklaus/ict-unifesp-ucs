@@ -1,0 +1,78 @@
+Nome do Componente Curricular: Introdução à Engenharia de Materiais
+Pré-requisitos: Não há
+Carga Horária Total: 36 h
+Carga Horária Prática: 0 h
+Carga Horária Teórica: 36 h
+Objetivos
+Gerais:
+Esta disciplina tem como objetivo a familiarização do aluno com o ambiente de Engenharia, e mais
+especificamente com a Engenharia de Materiais, apresentando alguns aspectos históricos da
+Engenharia e a atuação do Engenheiro de Materiais, suas atribuições e responsabilidades.
+Específicos:
+Apresentar fatos históricos para a compreensão da atividade de engenharia atual e sua evolução
+numa sociedade tecnológica altamente dependente dos materiais de engenharia, culminando com a
+criação dos cursos de Engenharia de Materiais. Apresentar a história da Engenharia de Materiais no
+Brasil, seus campos de atuação e a regulamentação profissional. Apresentar aspectos da atuação
+científica e tecnológica do Engenheiro de Materiais. Apresentar a grade curricular do curso e sua
+inserção no contexto da atuação e da regulamentação profissional. Apresentar aspectos ligados à
+ética, responsabilidade civil e o papel social da Engenharia de Materiais.
+Ementa:
+Introdução à engenharia, A Engenharia de Materiais, Aspectos da atuação profissional do Engenheiro
+de Materiais, Aspectos da atuação humana do Engenheiro de Materiais.
+Conteúdo Programático:
+1- Introdução à Engenharia:
+1.1- História da Engenharia,
+1.2- Os materiais e a sociedade tecnológica,
+1.3- Engenharia e projeto.
+2- A Engenharia de Materiais:
+2.1- A história da Engenharia de Materiais,
+2.2- A Engenharia de Materiais no Brasil,
+2.3- Campos de atuação do Engenheiro de Materiais
+3- Aspectos da atuação profissional do Engenheiro de Materiais:
+3.1- A regulamentação profissional,
+3.2- A grade curricular do curso de Engenharia de Materiais,
+3.3- Atividades científicas e tecnológicas do Engenheiro de Materiais,
+
+4- Aspectos da atuação humana do Engenheiro de Materiais:
+4.1- Ética e responsabilidade civil do Engenheiro de Materiais,
+4.2- O papel social da Engenharia de Materiais.
+Metodologia de Ensino Utilizada:
+Aulas expositivas: apresentação de conceitos e discussão de aplicações. De desenvolvimento de
+trabalhos práticos e palestras.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa, microcomputador e projetor multimídia.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular no início das
+atividades letivas devendo ser aprovado pela Comissão de Curso e divulgado aos alunos. O sistema
+adotado deve contemplar o processo de ensino e aprendizagem estabelecido neste Projeto
+Pedagógico, com o objetivo de favorecer o progresso do aluno ao longo do semestre. A promoção do
+aluno na unidade curricular obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal
+como discutido no Projeto Pedagógico do Curso.
+Bibliografia
+Básica:
+1. BAZZO, Walter Antonio. Ciência, tecnologia e sociedade: e o contexto da educação
+tecnológica. 2 ed. rev. [s.l.]: [s.n.], 2010. 287 p. ISBN 978-85-328-0475-4. 10.
+2. CALLISTER JR., William D. Ciência e engenharia de materiais: uma introdução. 7.ed. [s.l.]: [s.n.],
+2008. 705 p. ISBN 978-85-216-1595-8.
+3. Ashby, Michael F.; Jones, David R.H.. Engenharia de materiais: uma introdução a propriedades,
+aplicações e projeto. [Enginnering materials 2nd ed]. Tradução: Arlete Simille Marques,
+Consultoria e revisão técnica: Tomaz Toshimi Ishikawa. Rio de Janeiro: Elsevier, 2007. 1. 371 p.
+ISBN 978-85-352-2362-0.
+Complementar:
+1. Brockman, J. B. Introdução à Engenharia – Modelagem e Solução de Problemas (2010). Editora
+LTC.
+2. ASKELAND, Donald R et al. Ciência e engenharia dos materiais. Säo Paulo: Cengage Learning,
+2008. 594 p. ISBN 9788522105984. tradução de "Essentials of materials science and
+engineering".
+3. Dym, Clive L.; Little, Patrick. Introdução à engenharia: uma abordagem baseada em projeto..
+Tortello, João (Trad.). 3.ed. Porto Alegre: Bookman, 2009. 346 p. ISBN 9788532804556.
+4. Rodrigues, José de Anchieta (Org.); Leiva, Daniel Rodrigo (Org.). Engenharia de materiais para
+todos. São Carlos, SP: EdUFSCar, 2010. 167 p. ISBN 9788576001799.
+
+5. HUMMEL, Rolf E. Understanding materials science: history, properties, applications. 2.ed. [s.l.]:
+[s.n.], c2004. 440 p. ISBN 978-0-387-20939-5.
+6. Holtzapple, M. T.; Reece, W. Dan. Introdução à engenharia. [Concepts in engineering].
+Tradução J.R. Souza, Revisão técnica Fernando Ribeiro da Silva. Rio de Janeiro: LTC, 2006. 220
+p. ISBN 978-85-216-1511-8.
+
+

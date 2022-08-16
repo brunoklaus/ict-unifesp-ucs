@@ -1,0 +1,67 @@
+Nome do Componente Curricular: Bioengenharia
+Período: 9o semestre
+Pré-requisitos: Fisiologia Humana I
+Carga Horária Total: 72h
+Carga Horária Prática: 0
+Carga Horária Teórica: 72h
+Objetivos
+Gerais: O aluno será apresentado aos principais conceitos e técnicas em
+Bioengenharia. O objetivo deste curso é fazer uma ponte entre a Engenharia
+Biomolecular e a Engenharia Imunológica e suas aplicações na descrição do
+funcionamento e correlações de sistemas vivos.
+Específicos: O aluno será apresentado ao conhecimento de mapas de sinalização
+celular e alvos celulares, técnicas de biologia molecular e imunologia, cultura celular
+e tecidos artificias, e terapia imunológica.
+Ementa:
+Engenharia Biomolecular e Engenharia Imunológica
+Conteúdo Programático:
+Engenharia Biomolecular: Metabolismo energético (carboidratos, lipídeos e
+proteínas); Proliferação, apoptose, reparo, regeneração e morte celular; Células tronco;
+Mecanismo de ação de drogas; Noções de nanobiotecnologia e drug-delivering;
+Tecidos artificiais
+Engenharia Imunológica: Mapas de sinalização celular; Modelos experimentais;
+Imunoterapia; Principais técnicas de biologia molecular (ELISA, PCR, Western Blot,
+Imunohistoquímica,
+Imunofluorescência, Citometria
+de
+fluxo);
+Vacinas;
+Biocompatibilidade.
+Metodologia de Ensino Utilizada:
+Aulas expositivas, palestras, seminários e visitas técnicas.
+Recursos Instrucionais Necessários:
+Sala de aula com lousa e projetor multimídia. Acesso ao MOODLE.
+Critérios de Avaliação:
+O sistema de avaliação será definido pelo docente responsável pela unidade curricular
+no início das atividades letivas devendo ser aprovado pela Comissão de Curso e
+divulgado aos alunos. O sistema adotado deve contemplar o processo de ensino e
+aprendizagem estabelecido neste Projeto Pedagógico, com o objetivo de favorecer o
+progresso do aluno ao longo do semestre. A promoção do aluno na unidade curricular
+obedecerá aos critérios estabelecidos pela Pró-Reitoria de Graduação, tal como
+discutido no Projeto Pedagógico do Curso.
+Bibliografia
+
+Básica:
+1. Nelson, David L.; Cox, Michael M. Princípios de Bioquímica de Lehninger. 5ª
+Edição. Sarvier
+(2011).
+2. Molecular Biology of the Cell, Bruce Alberts, James Watson, Dennis Bray, Julian Lewis,
+Publisher: Garland Science
+3. H.P. Rang & M.M. Dale. Farmacologia, 7a edição, Elsevier (2011).
+4. Abbas, Abul K, Imunologia Celular e Molecular. Editora Elsevier (2015).
+5. Joseph D. Bronzino, Donald R. Peterson. Tissue Engineering and Artificial Organs (The
+Biomedical Engineering Handbook Series). 3rd Edition. CRC Press (2006).
+Complementar:
+1. Naidoo, Kevin J. Brady, John Field, Martin J. Gao, Jiali Hann, Michael
+(2006). Modelling Molecular Structure and Reactivity in Biological Systems. Royal
+Society of Chemistry.
+2. J. David Logan, William Wolesensky. Mathematical Methods in Biology. Willey
+(2009).
+3. Mark A. Chaplain. Mathematical Modeling of Tumor Growth
+(Interdisciplinary Applied Mathematics). Springer. 1st Edition (2007).
+4. Lanza, Robert. Essentials of Stem Cell Biology. Academic Press. 2 nd Edition
+(2009).
+5. Pozrikidis, C. Modeling and Simulation of Capsules and Biological Cells.
+Chapman & Hall. 1a Edition. (2003).
+
+
