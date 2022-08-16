@@ -1,1 +1,19 @@
-# ict-unifesp-ucs
+# Grafo de Dependências entre Unidades Curriculares no ICT-Unifesp
+
+Este é um simples projeto contendo CSVs representando grafos direcionados de dependência entre Unidades Curriculares (UCs), tanto gerais quanto para cursos específicos.  Favor conferir o site da Unifesp para verificar coerência desses dados antes de tomar decisões.
+
+
+O arquivo principal é ``UC.csv``. Ele possui informações básicas de cada UC. Este CSV foi inicialmente criado com os Notebooks 1 e 2. Entretanto, devido a problemas em alguns PDFs, algumas correções manuais foram necessárias. 
+
+O Notebook 3 pode ser usado para ler a coluna de 'Pré Requisitos' do  ``UC.csv`` e gerar CSVs representado os grafos. Crucialmente, podemos selecionar ``TRAJECTORY_FNAME`` para especificar um curso específico. Por exemplo, ``TRAJECTORY_FNAME = None`` gera grafo com UCs de todos os cursos, enquanto ``TRAJECTORY_FNAME = 'engbio.txt'`` lê o arquivo correspondente na pasta ``/matrizes``.
+
+Cada grafo gerado é separado em 2 CSVs do tipo ``xxxxxx_nodes.csv``e ``xxxxxx_edges.csv``, tamb na pasta `/matrizes`.
+
+## Visualização web interativa dos Grafos
+https://public.flourish.studio/story/1657213/
+
+## Dependências
+``conda install -c conda-forge notebook selenium pandas networkx``
+
+
+
