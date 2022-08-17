@@ -1,5 +1,6 @@
 # Grafo de Dependências entre Unidades Curriculares no ICT-Unifesp
-
+[![Visualização](https://github.com/brunoklaus/ict-unifesp-ucs/blob/aa5ce25b4b33d5dd4846819205149e8b83a3ef88/cover.png)](
+https://public.flourish.studio/story/1657213/)
 Este é um simples projeto contendo CSVs representando grafos direcionados de dependência entre Unidades Curriculares (UCs), tanto gerais quanto para cursos específicos.  Favor conferir o site da Unifesp para verificar coerência desses dados antes de tomar decisões.
 
 
