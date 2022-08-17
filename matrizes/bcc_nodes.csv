@@ -1,0 +1,32 @@
+"ucname_file","error_flag","nome","Pré-Requisitos","Carga Horária Total","Carga Horária Prática","Carga Horária Teórica","Carga Horária Extensão","id","group","topgen","size"
+"algoritmos e estruturas de dados i",False,"algoritmos e estruturas de dados i","lógica de programação",72.0,36.0,36.0,0.0,0,"004","1",4.0
+"algoritmos e estruturas de dados ii",False,"algoritmos e estruturas de dados ii","algoritmos e estruturas de dados i",72.0,26.0,46.0,0.0,1,"003","2",3.0
+"arquitetura e organização de computadores",False,"arquitetura e organização de computadores","circuitos digitais",72.0,20.0,52.0,0.0,2,"004","1",1.0
+"banco de dados",False,"banco de dados","algoritmos e estruturas de dados i",72.0,36.0,36.0,0.0,3,"003","2",1.0
+"circuitos digitais",False,"circuitos digitais","não há",72.0,20.0,52.0,0.0,4,"005","0",2.0
+"ciência, tecnologia e sociedade",False,"ciência, tecnologia e sociedade","não há",36.0,0.0,36.0,0.0,5,"000","",""
+"ciência, tecnologia, sociedade e ambiente",False,"ciência, tecnologia, sociedade e ambiente","não há",36.0,0.0,36.0,0.0,6,"000","",""
+"compiladores",False,"compiladores","linguagens formais e autômatos",72.0,36.0,36.0,0.0,7,"003","2",1.0
+"computação gráfica",False,"computação gráfica","algoritmos e estruturas de dados i",72.0,36.0,36.0,0.0,8,"003","2",1.0
+"cálculo em uma variável",False,"cálculo em uma variável","não há",108.0,36.0,72.0,0.0,9,"005","0",2.0
+"cálculo em várias variáveis",False,"cálculo em várias variáveis","cálculo em uma variável; geometria analítica",72.0,10.0,62.0,0.0,10,"004","1",1.0
+"cálculo numérico",False,"cálculo numérico","cálculo em uma variável; geometria analítica",72.0,14.0,58.0,0.0,11,"004","1",1.0
+"engenharia de software",False,"engenharia de software","programação orientada a objetos",72.0,36.0,36.0,0.0,12,"002","3",1.0
+"fenômenos mecânicos",False,"fenômenos mecânicos","não há",72.0,0.0,72.0,0.0,13,"000","",""
+"fundamentos de biologia moderna",False,"fundamentos da biologia moderna","não há",72.0,0.0,72.0,0.0,14,"000","",""
+"geometria analítica",False,"geometria analítica","não há",72.0,8.0,64.0,0.0,15,"005","0",2.0
+"inteligência artificial",False,"inteligência artificial","algoritmos e estruturas de dados i",72.0,24.0,48.0,0.0,16,"003","2",1.0
+"linguagens formais e autômatos",False,"linguagens formais e autômatos","matemática discreta; lógica de programação",72.0,0.0,72.0,0.0,17,"004","1",2.0
+"lógica de programação",False,"lógica de programação","não há",72.0,30.0,42.0,0.0,18,"005","0",5.0
+"matemática discreta",False,"matemática discreta","não há",72.0,36.0,36.0,0.0,19,"005","0",3.0
+"probabilidade e estatística",False,"probabilidade e estatística","cálculo em uma variável",72.0,16.0,56.0,0.0,20,"004","1",1.0
+"programação concorrente e distribuída",False,"programação concorrente e distribuída","sistemas operacionais",72.0,30.0,42.0,0.0,21,"002","3",1.0
+"programação orientada a objetos",False,"programação orientada a objetos","algoritmos e estruturas de dados i",72.0,36.0,36.0,0.0,22,"003","2",2.0
+"projeto e análise de algoritmos",False,"projeto e análise de algoritmos","matemática discreta; algoritmos e estruturas de dados ii",72.0,20.0,52.0,0.0,23,"002","3",2.0
+"projeto orientado a objetos",False,"projeto orientado a objetos","programação orientada a objetos",72.0,36.0,36.0,0.0,24,"002","3",1.0
+"química geral",False,"química geral","não há",72.0,0.0,72.0,0.0,25,"000","",""
+"redes de computadores",False,"redes de computadores","programação orientada a objetos",72.0,20.0,52.0,0.0,26,"002","3",1.0
+"sistemas operacionais",False,"sistemas operacionais","algoritmos e estruturas de dados i",72.0,18.0,54.0,0.0,27,"003","2",2.0
+"séries e equações diferenciais ordinárias",False,"séries e equações diferenciais ordinárias","cálculo em uma variável",72.0,10.0,62.0,0.0,28,"004","1",1.0
+"teoria dos grafos",False,"teoria dos grafos","projeto e análise de algoritmos",72.0,10.0,62.0,0.0,29,"001","4",1.0
+"álgebra linear",False,"álgebra linear","geometria analítica",72.0,10.0,62.0,0.0,30,"004","1",1.0

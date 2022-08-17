@@ -1,0 +1,36 @@
+"ucname_file","error_flag","nome","Pré-Requisitos","Carga Horária Total","Carga Horária Prática","Carga Horária Teórica","Carga Horária Extensão","id","group","topgen","size"
+"biologia do desenvolvimento",False,"biologia do desenvolvimento","biologia molecular do gene",36.0,0.0,36.0,0.0,0,"003","2",1.0
+"biologia geral",False,"biologia geral","não há",72.0,0.0,72.0,0.0,1,"000","",""
+"biologia molecular da célula",False,"biologia molecular da célula","fundamentos da biologia moderna",72.0,0.0,72.0,0.0,2,"004","1",2.0
+"biologia molecular do gene",False,"biologia molecular do gene","fundamentos da biologia moderna",72.0,0.0,72.0,0.0,3,"004","1",2.0
+"bioquímica analítica",False,"bioquímica analítica","bioquímica i",72.0,0.0,72.0,0.0,4,"003","2",2.0
+"bioquímica i",False,"bioquímica i","fundamentos de biologia moderna",72.0,0.0,72.0,0.0,5,"004","1",3.0
+"bioquímica ii",False,"bioquímica ii","bioquímica i",72.0,0.0,72.0,0.0,6,"003","2",1.0
+"bioética e biossegurança",False,"bioética e biossegurança","não há",36.0,0.0,36.0,0.0,7,"000","",""
+"ciência, tecnologia e sociedade",False,"ciência, tecnologia e sociedade","não há",36.0,0.0,36.0,0.0,8,"000","",""
+"ciência, tecnologia, sociedade e ambiente",False,"ciência, tecnologia, sociedade e ambiente","não há",36.0,0.0,36.0,0.0,9,"000","",""
+"cálculo em uma variável",False,"cálculo em uma variável","não há",108.0,36.0,72.0,0.0,10,"005","0",5.0
+"empreendedorismo em biotecnologia",False,"empreendedorismo em biotecnologia","não há",36.0,0.0,36.0,0.0,11,"000","",""
+"engenharia bioquímica i",False,"engenharia bioquímica i","fundamentos de engenharia bioquímica; microbiologia geral",72.0,0.0,72.0,0.0,12,"002","3",2.0
+"engenharia bioquímica ii",False,"engenharia bioquímica ii","engenharia bioquímica i",72.0,0.0,72.0,0.0,13,"001","4",1.0
+"fenômenos mecânicos",False,"fenômenos mecânicos","não há",72.0,0.0,72.0,0.0,14,"005","0",5.0
+"fundamentos de biologia moderna",False,"fundamentos da biologia moderna","não há",72.0,0.0,72.0,0.0,15,"005","0",4.0
+"fundamentos de engenharia bioquímica",False,"fundamentos da engenharia bioquímica","matemática geral; física geral",72.0,0.0,72.0,0.0,16,"003","2",3.0
+"física geral",False,"física geral","fenômenos mecânicos",72.0,0.0,72.0,0.0,17,"004","1",4.0
+"introdução à bioinformática",False,"introdução à bioinformática","biologia molecular da célula ; lógica de programação",72.0,36.0,36.0,0.0,18,"003","2",1.0
+"introdução à biologia de sistemas",False,"introdução à biologia de sistemas","biologia molecular da célula",72.0,36.0,36.0,0.0,19,"003","2",1.0
+"introdução à biotecnologia",False,"introdução à biotecnologia","não há",36.0,0.0,36.0,0.0,20,"000","",""
+"introdução à ecologia",False,"introdução à ecologia","não há",72.0,0.0,72.0,0.0,21,"000","",""
+"laboratório de biologia molecular e celular",False,"laboratório de biologia molecular e celular","biologia molecular da célula",36.0,36.0,0.0,0.0,22,"003","2",1.0
+"laboratório de bioquímica",False,"laboratório de bioquímica","bioquímica i; biologia molecular do gene",72.0,72.0,0.0,0.0,23,"003","2",1.0
+"laboratório de bioquímica analítica",False,"laboratório de bioquímica analítica","bioquímica analítica",36.0,36.0,0.0,0.0,24,"002","3",1.0
+"laboratório de engenharia bioquímica",False,"laboratório de engenharia bioquímica","engenharia bioquímica i",36.0,36.0,0.0,0.0,25,"001","4",1.0
+"laboratório de microbiologia",False,"laboratório de microbiologia","microbiologia geral",36.0,36.0,0.0,0.0,26,"004","1",1.0
+"lógica de programação",False,"lógica de programação","não há",72.0,30.0,42.0,0.0,27,"005","0",2.0
+"matemática geral",False,"matemática geral","cálculo em uma variável",72.0,0.0,72.0,0.0,28,"004","1",4.0
+"microbiologia aplicada e industrial",False,"microbiologia aplicada e industrial","microbiologia geral",72.0,0.0,72.0,0.0,29,"004","1",1.0
+"microbiologia geral",False,"microbiologia geral","não há",72.0,0.0,72.0,0.0,30,"005","0",3.0
+"química geral",False,"química geral","não há",72.0,0.0,72.0,0.0,31,"005","0",2.0
+"química orgânica",False,"química orgânica","química geral",72.0,0.0,72.0,0.0,32,"004","1",1.0
+"termodinâmica química",False,"termodinâmica química","química geral; cálculo em uma variável",72.0,0.0,72.0,0.0,33,"004","1",1.0
+"fisiologia experimental",False,"fisiologia experimental","fisiologia humana",72.0,72.0,0.0,0.0,34,"000","",""

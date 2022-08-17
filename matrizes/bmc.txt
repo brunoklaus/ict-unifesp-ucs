@@ -1,0 +1,42 @@
+Cálculo em Uma Variável
+Química Geral
+Lógica de Programação
+Fundamentos de Biologia Moderna
+Ciência, Tecnologia e Sociedade
+
+Séries e Equações Diferenciais Ordinárias
+Geometria Analítica
+Algoritmos e Estruturas de Dados I
+Matemática Discreta
+Fenômenos Mecânicos
+Ciência, Tecnologia, Sociedade e Ambiente
+
+Cálculo em Várias Variáveis
+Álgebra Linear
+Algoritmos e Estruturas de Dados II
+Probabilidade e Estatística
+Fenômenos do Contínuo 
+
+Funções Analíticas
+Álgebra Linear II
+Projeto e Análise de Algoritmos
+Probabilidade
+Cálculo Numérico
+
+Análise Real I
+Teoria dos Números e Criptografia
+Otimização Linear
+Álgebra Linear Computacional
+
+Análise Real II
+Elementos de Álgebra
+Equações Diferenciais Ordinárias
+Inferência e Análise de Regressão
+
+Equações Diferenciais Parciais
+Espaços Métricos
+Otimização Não Linear
+
+Introdução à Geometria Diferencial
+Métodos Numéricos para Equações Diferenciais
+Otimização Inteira

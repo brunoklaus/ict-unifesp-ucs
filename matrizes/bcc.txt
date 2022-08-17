@@ -1,0 +1,36 @@
+Cálculo em Uma Variável
+Química Geral
+Lógica de Programação
+Fundamentos de Biologia Moderna
+Ciência, Tecnologia e Sociedade
+
+Fenômenos Mecânicos
+Ciência, Tecnologia, Sociedade e Ambiente
+Séries e Equações Diferenciais Ordinárias
+Matemática Discreta
+Algoritmos e Estruturas de Dados I
+Geometria Analítica
+
+Probabilidade e Estatística
+Cálculo em Várias Variáveis
+Circuitos Digitais
+Algoritmos e Estruturas de Dados II
+Álgebra Linear
+
+Banco de Dados
+Programação Orientada a Objetos
+Arquitetura e Organização de Computadores
+Projeto e Análise de Algoritmos
+Cálculo Numérico
+
+Inteligência Artificial
+Projeto Orientado a Objetos
+Linguagens Formais e Autômatos
+Teoria dos Grafos
+Sistemas Operacionais
+
+Redes de Computadores
+Engenharia de Software
+Computação Gráfica
+Compiladores
+Programação Concorrente e Distribuída
