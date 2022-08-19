@@ -1,7 +1,7 @@
-# Grafo de Dependências entre Unidades Curriculares no ICT-Unifesp
+# Grafo de Dependências entre Unidades Curriculares no ICT-Unifesp - 2º semestre 2022
 [![Visualização](https://github.com/brunoklaus/ict-unifesp-ucs/blob/aa5ce25b4b33d5dd4846819205149e8b83a3ef88/cover.png)](
 https://public.flourish.studio/story/1657213/)
-Este é um simples projeto contendo CSVs representando grafos direcionados de dependência entre Unidades Curriculares (UCs), tanto gerais quanto para cursos específicos.  Favor conferir o site da Unifesp para verificar coerência desses dados antes de tomar decisões.
+Este é um simples projeto contendo CSVs representando grafos direcionados de dependência entre Unidades Curriculares (UCs), tanto gerais quanto para cursos específicos.  Ainda não inclui mudanças previstas para 2023. Favor conferir o site da Unifesp para verificar coerência desses dados antes de tomar decisões.
 
 
 O arquivo principal é ``UC.csv``. Ele possui informações básicas de cada UC. Este CSV foi inicialmente criado com os Notebooks 1 e 2. Entretanto, devido a problemas em alguns PDFs, algumas correções manuais foram necessárias. 
